@@ -1,7 +1,7 @@
 # Status: calibration-01
 
-- **Current stage:** 1, Ideate
-- **Next action:** dispatch the 9 author lenses
+- **Current stage:** 2, Audit
+- **Next action:** Cartographer audit of 18 cards
 - **Mode:** autonomous overnight run. The orchestrator stands in at every
   gate, and the human reviews in the morning.
 
