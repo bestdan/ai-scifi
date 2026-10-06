@@ -77,8 +77,36 @@ cluster.
 
 ## Stage 3 critique
 
-(Panel notes are summarized here once the critiques are in.)
+Full notes are in `03-critique/`.
+
+| Lens | Ranking | Key note |
+|---|---|---|
+| Vinge | B, A, D, C | B is the only premise where minds beyond us stay writeable: the polities appear only through a clause, and the viewpoint is the slow human |
+| Chiang | A, B, C, D | In A the physics is the feeling. B risks becoming a solved puzzle in which the cost is stated rather than paid |
+| Banks | B, A, C, D | B forces a morally uncomfortable act out of its own novum, and its wit is structural. Cut hard: there are two nova |
+| Cartographer | A ≈ B > D > C (N4, N4, N3, N3) | C and D sit deep in the attractor clusters. B's nearest neighbours are the Swordholder and the Dworkin/Dresser precedent-autonomy debate |
 
 ## Decision
 
-(Recorded once the panel has reported.)
+**B, The Keeper's Successor**, revised to answer the panel's two warnings:
+
+- **Two nova** (Banks, Chiang). The turn, the rebase, is made *ordinary and
+  involuntary*: a biological season every adult goes through, so it costs the
+  reader no more than puberty would. The polities appear only through the
+  treaty text and the escrow clerk.
+- **A solved puzzle with a stated cost** (Chiang). The solution turns the
+  premise over. The polities foresaw the turn: the treaty's oddly exact date was
+  set to fall just after it. A judge known for twenty-two years can be gamed,
+  and an unknown judge can't, so the only way to be found faithful by her is
+  to have been faithful. Her successor was the mechanism all along. The cost
+  is paid on stage. Every margin note she has written in twenty-two years of
+  reports is an argument, and the clause forbids passing arguments on. She
+  erases them.
+
+**Declined:**
+- Vinge's drift in the meaning of "persuasion". It's a third layer that 2,500
+  words can't carry.
+- Chiang's documentary form. Prose scenes give the erasure its physical weight.
+
+**Seed stock:** A, The Unthinking (Chiang's first choice, novelty N4) is the
+strongest runner-up and a natural core for calibration-02.
