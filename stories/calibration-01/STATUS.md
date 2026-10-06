@@ -1,7 +1,7 @@
 # Status: calibration-01
 
-- **Current stage:** 6, Draft
-- **Next action:** a single opus drafter writes draft-1
+- **Current stage:** 7, Review (draft 1)
+- **Next action:** six-lens review of draft-1
 - **Mode:** autonomous overnight run. The orchestrator stands in at every
   gate, and the human reviews in the morning.
 

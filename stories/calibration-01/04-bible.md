@@ -56,12 +56,12 @@ There are two, and only one of them gets explained.
 - **The paper town:** keepers live in Sallow Reach, a town with no feeds,
   where every input arrives on paper through the escrow office. That way,
   nothing can reach a keeper sideways.
-- **The term:** twenty-two years, four months and nine days. Its tail is odd,
+- **The term:** twenty-two years, seven months and nine days. Its tail is odd,
   and Oyelaran noticed it at signing and let it go. **This is the fair-play
   clue.** Her second turn came about thirty-two months before the signing (Bisi
   mentions this in one line: "you'd been you less than three years when
   they came"). Turns run about twenty-five years apart, with a known
-  spread. The polities set the date nine days after the late edge of that
+  spread. The term ends exactly nine days past the late edge of that
   spread. That the forecast lands where it does is evidence, not proof.
 - **Why the polities did it** (this is the game theory, and it has to hold):
   a judge whose conscience is known for decades can be gamed. A polity can
@@ -201,7 +201,7 @@ this bible, the amendment wins. Notes are tagged with their lens:
 
 ### Logic (Egan, Watts, Lem)
 
-1. **The date** is fixed as above (Egan must-fix 1). The reader should be
+1. **The date** is fixed as above (Egan must-fix 1). **The outline's Calendar section is the final authority on the arithmetic.** The reader should be
    able to do the arithmetic alongside her: quote the term, show the
    doctor's forecast, and give Bisi's thirty-two-months line.
 2. **Memory versus paper** (Watts must-fix 1, Egan must-fix 2). Mr. Pell
