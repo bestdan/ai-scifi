@@ -58,9 +58,11 @@ There are two, and only one of them gets explained.
   nothing can reach a keeper sideways.
 - **The term:** twenty-two years, four months and nine days. Its tail is odd,
   and Oyelaran noticed it at signing and let it go. **This is the fair-play
-  clue.** Her second turn came eighteen months before the signing. Turns run
-  at an interval of about twenty-five years with a known spread, so the
-  forecast for her third turn put it nine days before the date.
+  clue.** Her second turn came about thirty-two months before the signing (Bisi
+  mentions this in one line: "you'd been you less than three years when
+  they came"). Turns run about twenty-five years apart, with a known
+  spread. The polities set the date nine days after the late edge of that
+  spread. That the forecast lands where it does is evidence, not proof.
 - **Why the polities did it** (this is the game theory, and it has to hold):
   a judge whose conscience is known for decades can be gamed. A polity can
   shape its conduct to look faithful *to her* without being faithful. A
@@ -134,7 +136,7 @@ naming is mixed, its families having come from many places. Hers is Yoruba.
 - **Loves, outside the plot:** her pencils, kept sharp with a knife. Herons.
   Bisi's terrible jokes.
 
-**Adebisi "Bisi" Okafor-Lind.** About seventy-six, her husband. He was a
+**Adebisi "Bisi" Lind.** About seventy-six, her husband. He was a
 boat-builder and is now the town's best cook. He married the woman she was
 before her second turn, and courted her successor, who is the woman she is
 now, from scratch over a year, and won.
@@ -146,7 +148,7 @@ now, from scratch over a year, and won.
   time and court a stranger for the second time. He treats it as weather.
 - **Loves:** the lake, and feeding people.
 
-**Mr. Teodor Halloran-Ise**, clerk of the escrow office.
+**Mr. Pell**, clerk of the escrow office.
 - **Wants:** to do the job perfectly. He loves the treaty's prose.
 - **Function:** comic precision, and the person who confirms the trap. He
   may not discuss the Determination, and he's very good at not discussing it.
@@ -190,6 +192,101 @@ taboo turned into kindness.
   explains § 9 to a keeper who already knows it. The comedy is that he
   explains it anyway, and that she needs to hear it said aloud.
 
-## Stress-test log
 
-(Filled in after the stage 4 panel reports.)
+## Amendments from the stress test
+
+These amendments are binding. Where one conflicts with anything earlier in
+this bible, the amendment wins. Notes are tagged with their lens:
+`04-critique/<lens>.md`.
+
+### Logic (Egan, Watts, Lem)
+
+1. **The date** is fixed as above (Egan must-fix 1). The reader should be
+   able to do the arithmetic alongside her: quote the term, show the
+   doctor's forecast, and give Bisi's thirty-two-months line.
+2. **Memory versus paper** (Watts must-fix 1, Egan must-fix 2). Mr. Pell
+   rules, in his fussiest manner, that marginalia are "the Keeper's own
+   apparatus" while she holds the seat, and become *argument presented by a
+   person* once the archive passes to the Keeper on the date. Memory is not
+   presented. So the erasure isn't about secrecy: her successor will
+   remember the conclusions, but remember them the way you remember an
+   opinion from a novel. What gets removed is her *reasons*, in her
+   handwriting, carrying her authority. The successor inherits the evidence
+   (twenty-two years of accounts she has read and remembers), not the
+   advocacy. **This also answers the question of why a human, and why not
+   a random draw** (Egan should). A stranger would have to be briefed, and
+   briefing is argument under § 9. A successor who has the memories has the
+   evidence without the brief.
+3. **Hedging, not gaming** (Egan must-fix 3). Oyelaran's conclusion is that
+   the polities can't game the judge, only hedge against her, and hedging
+   across everyone she might become is close enough to keeping faith. Bisi
+   provides the evidence of divergence: "You came back from the last one
+   liking eels."
+4. **It stays a hypothesis** (Lem must-fix 2). Mr. Pell neither confirms nor
+   denies. A rival reading is voiced, by Hanne: the polities simply missed
+   the turn, being too large to notice a woman's tongue going flat. She
+   erases under uncertainty.
+5. **One unexplained posthuman fact** (Lem must-fix 1, Egan could). § 14 is
+   quoted: *"Each Party warrants that the self that executes this
+   instrument has been retained unedited, sealed, to be consulted solely in
+   the event of the Party's dispute with itself."* Every account also opens
+   with a single unexplained integer, and the integers fall over the years.
+   She has never known what they count, and the story never says.
+6. **"Keeper" is defined in the schedule** (Lem should) as *"the person
+   occupying the seat on the date of Determination"*. She has read this line
+   a hundred times, and Mr. Pell reads it aloud. It's the second half of the
+   fair-play clue.
+
+### People and town (Le Guin, Watts)
+
+7. **Bisi has a flaw he acts on** (Le Guin must-fix 2, Watts should). He
+   doesn't want her to turn, though he has never said so. When the clause
+   stops the letter, he offers to do the arguing himself: *"I'll tell her.
+   Every night, while I court her. That's courting, not arguing."* That
+   would breach § 9, and he knows it. She refuses him, and the refusal hurts
+   them both. He also breaks the taboo once and asks what she thinks.
+8. **A child and a second elder** (Le Guin must-fix 1). Mina, the baker's
+   daughter, about eight, asks the forbidden question at the counter:
+   *"Auntie, what do you think about the stars?"* **Hanne Oduya** is in her
+   eighties, a retired keeper whose treaty ended long ago and who has turned
+   four times. She's dry and unsentimental, and she's the one who voices the
+   rival reading.
+9. **The erasing night has friction** (Le Guin must-fix 3). Only three
+   people help: Bisi, Hanne, and Mina's mother, Ros, the baker. They turn
+   pages face-down so nobody reads them. Ros hesitates, because she doesn't
+   want to know, and doesn't want to have been in the room. In the margin of
+   the 2041 third-quarter account there's a heron sketch, and they argue
+   over whether it counts as argument. (Bisi wants to keep it. Oyelaran
+   says, "It says *look at herons*," and erases it.) The grooves remain
+   visible in raking light.
+10. **Lucidity** (Watts must-fix 2). She does not introspect on her values
+    changing. She feels her certainty as fact. The change surfaces only as
+    small failures: an old note of hers reads cold to her, a reason she
+    would have dismissed in March suddenly seems obvious, and she finds one
+    of Bisi's terrible jokes funny for the first time. The prodrome is messy:
+    broken sleep, waking hungry at three in the morning, crying at the
+    lake's smell for no reason.
+11. **What the turn is for** (Watts should) gets one line: it was engineered
+    so that long lives don't set like plaster. Hanne: "Otherwise we'd all be
+    our grandparents forever."
+12. **Coinages for the turn** (Le Guin should): *your next* is the successor
+    self ("your next will like the bakery"), and *the one before* is the
+    previous self. The town's word for a spouse who has stayed through two
+    turns, *twice-met*, is unchanged.
+13. **Names** (Le Guin could): Bisi Lind, Mr. Pell, Hanne Oduya, Ros, Mina.
+
+### Ending (Lem must-fix 3, Watts could, Egan should)
+
+14. The story **stops before the Determination**. We never learn the
+    verdict, what her notes said, or whether the Settled Question was
+    faithless. The last image is the grooves. Perfect erasure would make
+    her successor more predictable, closer to the average of everyone she
+    could become, and the story doesn't resolve that. Erasing is not
+    rewarded.
+
+### Declined
+
+- Lem's suggestion to open on an account fragment, in full. A one-line integer
+  from an account may open the story, but the outline decides.
+- Watts's reconsolidation drift, beyond note 10. It's already carried by
+  "an old note reads cold".
