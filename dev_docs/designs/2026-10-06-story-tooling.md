@@ -5,180 +5,204 @@ status: proposed
 
 # Story-run tooling: prose lint, a branch per story, and role-based agents
 
-This design covers retro findings 1–3 from the calibration-01 session.
-
-A story run currently depends on the orchestrator getting three things right
-by hand, every time:
+A story run currently relies on the orchestrator doing three things by hand,
+every time:
 
 - checking prose against the style guide's banned list;
-- committing past a global hook that blocks commits on `main`;
-- writing every subagent prompt from scratch, model choice included.
+- committing past a global hook that blocks `main`;
+- writing every subagent prompt, model choice included.
 
-This design replaces each of those with something on disk:
+This design replaces each of them with something on disk:
 
-1. **A prose linter**, `scripts/lint_prose.py`, which reads its rules from a
-   data file and is wired into `just check` and a repo-local pre-commit hook.
-2. **A branch per story.** Each story is written on `bestdan/<slug>` in its own
-   worktree, so the global hook passes and the local lint hook actually runs.
-   The branch is fast-forwarded into `main` when the story is signed off.
-3. **Role-based agent definitions** in `.claude/agents/`, with the model fixed
-   in each definition's frontmatter, and **stage files** in `process/stages/`
-   that hold each stage's task text. A dispatch becomes a role, a lens and a
-   stage file.
+1. **A prose linter** (`scripts/lint_prose.py`). It reads its rules from a data
+   file, honours per-story waivers, and is wired into `just check` and a
+   repo-local pre-commit hook.
+2. **A branch per story.** Each story is written on `bestdan/story-<slug>` in
+   its own worktree, so the global hook passes and the local lint hook runs. A
+   finished story lands on `main` by fast-forward.
+3. **Agent definitions by role** in `.claude/agents/`, with the model fixed in
+   frontmatter, plus **stage files** in `process/stages/` that hold each stage's
+   task text. A dispatch is then a role, a lens, and a pointer to a stage file.
+
+This covers findings 1–3 of the mechanical `/retro` run on 2026-10-06 against
+the calibration-01 session. That retro was given in conversation and isn't
+saved to a file. Its numbering differs from the process retro in
+`stories/calibration-01/MORNING.md`.
 
 ## What is true today
 
-| # | Observation | Cost |
+| Retro finding | Observation | Cost |
 |---|---|---|
-| 1 | The drafter reported 3 short "zinger" paragraph closers in draft 2; the Cartographer counted about 8. "the way" was reported fixed and still appeared about 7 times. | Two reviewer lenses spent part of every review grepping by hand, and the self-report could not be trusted. |
-| 1 | The repo has no check command, no pre-commit hook and no CI. `dli check` finds nothing to run. | No guardrail at all. |
-| 2 | The global hook `~/src/dotfiles/git/hooks/pre-commit` exits on `main` *before* it delegates to a repo-local hook. All 15 story commits used `--no-verify`. | Any local hook added for finding 1 would be skipped on every commit. |
-| 3 | There were 36 hand-written subagent prompts. Each repeated the persona path, the reading list, the impersonation disclaimer, the output path and the reply format, at roughly 250–400 output tokens apiece. | Orchestrator output tokens, and drift between prompts. |
-| 3 | "Be frugal with sub-agent models, generous with creative ones" lived only in the orchestrator's head, as a `model:` argument on each call. | The policy is unenforced, and a new session doesn't know it. |
+| 1 | The drafter reported 3 "zinger" paragraph closers in draft 2. The Cartographer listed about 8 (`stories/calibration-01/reviews/draft-2/cartographer.md`). The drafter reported "the way" as fixed, but it still appeared 7 times. | Reviewer lenses grepped by hand in both rounds, and the self-report couldn't be trusted. |
+| 1 | The repo has no check command, no pre-commit hook and no CI, so `dli check` finds nothing to run. | No guardrail at all. |
+| 2 | `~/src/dotfiles/git/hooks/pre-commit` exits on `main` before delegating to a repo-local hook. All 15 story commits used `--no-verify`. | A local hook would be skipped on every commit. |
+| 3 | There were 36 hand-written subagent prompts. Each repeated the persona path, the reading list, the impersonation disclaimer, the output path and the reply format, at about 250–400 output tokens apiece. | Orchestrator tokens, and drift between prompts. |
+| 3 | The model policy ("frugal with subagents, generous with creative work") existed only as a `model:` argument the orchestrator chose on each call. | Unenforced, and invisible to a new session. |
+
+Against the proposed rules, as estimated by the design review,
+`stories/calibration-01/final.md` currently has:
+
+- 0 em-dashes;
+- 3 "the way" similes, plus one literal use ("On the way to the surgery");
+- 1 real contrast shape ("That's not argument. That's a heron.");
+- 0 banned phrases, names or ships.
 
 ## Proposal
 
 ### 1. The prose linter
 
-**Rules as data.** The banned list moves out of `process/style-guide.md` into
-`process/prose-rules.toml`, which becomes the single source of truth. The style
-guide keeps the positive rules and the tone charter, and points to the TOML for
-the mechanical list. Python 3.12's `tomllib` reads it, so the linter has no
-dependencies.
+**Rules as data.** The *regexable* entries in the style guide's banned list
+move into `process/prose-rules.toml`. That file becomes their single source of
+truth, and the style guide links to it. These entries are fixed phrases,
+banned names, banned ship names, and the counted patterns listed below. The
+rest stays as prose in the style guide, because no regex can judge it: reflex
+triplets, sense lists, and the Characters and Plots sections. Python 3.12's
+`tomllib` reads the TOML, so the linter has no dependencies.
 
-Every rule carries a **severity**:
+**Rules** each have an id, a pattern, and a severity:
 
-- **error:** a hit fails the lint. Examples are banned phrases ("a testament
-  to", "the silence was deafening"), banned default names (Elara, Kael, Voss,
-  …) and banned ship names.
-- **warn:** a hit is reported but doesn't fail on its own. Rules at this level
-  are counted against a budget, and they fail only when the count goes over
-  it. That covers:
-  - em-dashes (at most 2 per 300 words);
-  - "the way …" similes (at most 3 per story);
-  - the "It wasn't X. It was Y." and "not X. Y." contrast shapes (at most 1
-    per story);
-  - short closing paragraphs (at most 3 per story; see below).
-
-A **short closing paragraph** is a paragraph of 8 or fewer words that ends a
-run of narration: it follows a narration paragraph and isn't dialogue. Those
-thresholds are a heuristic, and the TOML sets them. The linter reports every
-hit with `file:line`, so a human can judge each one.
-
-**Input.** The linter takes Markdown story files. It ignores headings, the
-centered scene-break line, and anything after a `## Drafter's notes` heading,
-so draft files that still carry their notes lint correctly.
-
-**Output.** One line per hit, in the form
-`path:line: [error|warn] rule-id: "matched text"`, followed by a per-rule budget
-summary. It exits 0 when it's clean and 1 when it finds any error or any budget
-overrun. `--warn-only` reports everything and always exits 0.
-
-**Which files get linted:**
-
-| Where | Files | Mode |
+| Rule | Severity | Definition |
 |---|---|---|
-| `just check` | every `stories/*/final.md`, plus the linter's own tests and an EPUB smoke test | strict |
-| `just lint <file>` | any file you name | strict |
-| pre-commit hook | staged `stories/*/final.md` strict; staged `stories/*/drafts/*.md` with `--warn-only` | mixed |
-| the drafter, before hand-back | its own draft | strict, so overruns get fixed before review |
+| banned phrase | error | Case-insensitive phrase match ("a testament to", …). |
+| banned name or ship | error | A whole-word, case-sensitive match, so "Nova" doesn't fire inside "Novak". |
+| em-dash pileup | budget | No more than 2 em-dashes in any sliding 300-word window. |
+| "the way" simile | budget, 3 per story | Excludes literal uses: "on/by/all the way", "the way to", "the way back/home". |
+| contrast shape | budget, 1 per story | Matches "It wasn't/wasn't/isn't/was not X. It was Y." and "That's not X. That's Y." Two adjacent sentences, where the second repeats the first's subject and verb without the negation. "had not done the sum. She had wanted the seat." is a negative fixture: it must not match. |
+| zinger closer | budget, tuned | The last sentence or clause of a narration paragraph is short (at most N words, set in the TOML) *and* closes a paragraph of at least 2 sentences. Dialogue paragraphs are skipped. |
 
-Drafts aren't blocked at commit time, on purpose. A draft that breaks the
-rules is a legitimate artifact in the history: draft 1 is what the reviewers
-reviewed. Only `final.md` is held to the rules.
+A budget rule reports every hit as a warning, and fails only when the count
+goes over its budget.
 
-**Tests.** `tests/test_lint_prose.py`, using stdlib `unittest`, has one fixture
-per rule plus the notes-section and heading exclusions. `just check` runs it.
+**Tuning the zinger rule.** Two fixtures fix N and the budget:
 
-**Existing story.** `stories/calibration-01/final.md` must pass strict mode as
-it stands, or with fixes that the implementation commits alongside the
-linter. Any rule that would fail this already-reviewed story is either a
-genuine miss, and gets fixed, or a mis-tuned threshold, and gets retuned. The
-implementation commit records which.
+- **Recall:** the Cartographer's draft-2 closer list. The linter must flag at
+  least 6 of those 8 lines in `drafts/draft-2.md`.
+- **Precision:** `final.md`, which reviewers accepted. It must pass within the
+  budget.
 
-### 2. Branch per story
+If no value of N satisfies both, the rule ships at warn severity with no
+budget, and the commit says so.
 
-- **Starting a story.** The orchestrator calls `EnterWorktree` with
-  `name: story-<slug>`. That gives a worktree at
-  `$HOME/src/worktrees/ai-scifi/story-<slug>` on the branch
-  `bestdan/story-<slug>`, started from local `main`.
-- **Commits.** Commits within a story are plain `git commit`. The global hook
-  passes because the branch isn't `main`, and the repo-local
-  `.git/hooks/pre-commit` runs the lint. **`--no-verify` is no longer part of
-  the process.**
-- **Installing the hook.** A hook file under `.git/hooks/` isn't versioned, so
-  the repo carries `scripts/hooks/pre-commit`, and a `just install-hooks` recipe
-  symlinks it into place. The global `pre-commit` and `_delegate` scripts
-  resolve local hooks through `git rev-parse --git-common-dir`, so a single
-  install covers every worktree.
-- **Landing a story.** At sign-off, run `git merge --ff-only bestdan/story-<slug>`
-  from the main checkout. A fast-forward creates no commit, so no hook blocks
-  it. The repo has no remote, so there are no PRs. This step happens only once
-  the human has signed off.
-- **Tearing down.** Use `ExitWorktree`. The plugin's teardown gates branch
-  deletion on PR evidence, and there are no PRs here, so it will keep the
-  branch. That's acceptable: a landed story branch is a fully merged ref, so
-  keeping it costs nothing. Whether the teardown works cleanly in a repo with
-  no remote needs to be verified (see Risks).
-- **Tooling and process changes** (like this one) use their own
-  `bestdan/<name>` branches in the same way.
+**What the linter skips:**
 
-`AGENTS.md` changes to say this in two lines. The current text says nothing
-about branches, and the calibration-01 session committed to `main` only
-because the human authorized it.
+- Markdown headings.
+- The literal scene-break line `<p align="center">·</p>`.
+- Everything after a `## Drafter's notes` heading.
+
+**Waivers.** The style guide allows any rule to be broken on purpose. A story
+records a deliberate break in `stories/<slug>/lint-waivers.toml`, which lists
+rule ids, each with a reason. The linter reads the file and reports waived
+hits as `waived`. The bible's "Rules deliberately broken" section points to
+the waiver file rather than restating it. Waivers also stop an old story from
+failing forever when a new rule is added.
+
+**Output.** One line per finding:
+`path:line: [error|warn|waived] rule-id: "matched text"`. Then a summary of
+each budget's use. The linter exits 1 on any error or any budget overrun. The
+`--warn-only` flag always exits 0.
+
+**Where it runs:**
+
+| Where | What | Mode |
+|---|---|---|
+| `just check` | every `stories/*/final.md`, plus `tests/test_lint_prose.py` | strict |
+| `just lint <file>` | any file | strict |
+| pre-commit hook | staged `stories/*/final.md` only | strict |
+| the drafter, before hand-back | its own draft | strict, and it fixes overruns before review |
+
+Drafts aren't linted at commit time. A draft that breaks the rules is a
+legitimate artifact in the story's history, and linting it would only add
+noise.
+
+**Tests.** `tests/test_lint_prose.py` uses stdlib `unittest`. It has a
+positive and a negative fixture for each rule, the recall and precision
+fixtures above, and tests for the waiver and skip behaviour.
+
+### 2. A branch per story
+
+The worktree mechanics follow the global `CLAUDE_ONLY.md` rules (`EnterWorktree`
+with `name`, worktrees under `$HOME/src/worktrees/<repo>/`), and this design
+doesn't restate them. What's specific to this repo:
+
+- **Start.** `EnterWorktree` with `name: story-<slug>`. That creates the branch
+  `bestdan/story-<slug>` from local `main`.
+- **Commit.** Plain `git commit`. The global hook passes because the branch
+  isn't `main`. `--no-verify` is no longer part of the process.
+- **Hook install.** `just install-hooks` writes a small **shim** to
+  `.git/hooks/pre-commit`. It's a copied file, not a symlink, because a symlink
+  into a worktree dangles once that worktree is torn down, and the global
+  `_delegate` would then skip the hook silently. The shim resolves
+  `"$(git rev-parse --show-toplevel)/scripts/hooks/pre-commit"` at run time,
+  calls `python3` explicitly (no aliases), and prints a one-line warning if the
+  script is missing. Global hooks resolve local hooks through
+  `--git-common-dir`, so one install covers every worktree.
+- **Resume across sessions.** At the end of each session, commit everything,
+  then `ExitWorktree`. That removes the worktree and keeps the branch, because
+  with no remote the PR lookup fails and `branch-remove.sh` keeps the branch.
+  The next session's `EnterWorktree` with the same `name` re-attaches the
+  existing branch, with no path prompt. `STATUS.md` on the branch carries the
+  story's state between sessions.
+- **Land, after the human signs off.**
+  1. `ExitWorktree`, because a worktree-isolated session can't run git
+     against the main checkout.
+  2. From the main checkout, run `git merge --ff-only bestdan/story-<slug>`.
+     A fast-forward creates no commit, so neither pre-commit nor
+     pre-merge-commit fires. The `post-merge` and `reference-transaction`
+     delegates do fire, but they find no local hook and can't block anyway.
+  3. If `main` has moved, because a tooling branch or another story landed
+     first, the fast-forward is refused. Re-enter the story worktree, run
+     `git rebase main`, exit, and fast-forward again.
+- **Tooling changes**, such as this one, follow the same flow on their own
+  `bestdan/<name>` branches.
 
 ### 3. Agent definitions and stage files
 
-**Roles, not lenses.** Model policy follows the *role* an agent plays, not the
-lens it wears. In calibration-01 the Watts lens ran on opus for ideation and on
-sonnet for critique. One definition per lens would need two models per lens.
-So the definitions are per role, and each one takes the lens as an argument.
+Agent definitions are **per role**. The lens is named in the prompt's first
+line (`Lens: watts`). That's prompt text, not a harness argument mechanism,
+and the definition's body tells the agent to read the persona file it names.
 
-| Agent definition | Model | Used for |
-|---|---|---|
-| `lens-ideator` | opus | stage 1 idea cards |
-| `lens-critic` | sonnet | stages 3, 4 and 5 critiques; stage 7 reviews; stage 9 spot-checks |
-| `cartographer` | opus | stage 2 audit (needs broad prior-art recall and web search) |
-| `drafter` | opus | stage 6 drafts and stage 8 revisions |
-| `line-editor` | opus | stage 9 polish |
-| `first-reader` | sonnet | stage 7 |
+| Definition | Model | Tools | Used for |
+|---|---|---|---|
+| `lens-ideator` | opus | Read, Write, Glob, Grep | stage 1 |
+| `lens-critic` | sonnet | Read, Write, Glob, Grep, WebSearch | stages 3, 4, 5, 7 and 9, and Cartographer critiques |
+| `cartographer` | opus | Read, Write, Glob, Grep, WebSearch, WebFetch | stage 2 audit |
+| `drafter` | opus | Read, Write, Edit, Glob, Grep, Bash | stages 6 and 8. It needs Bash for `just lint` and `wc` |
+| `line-editor` | opus | Read, Write, Edit, Glob, Grep, Bash | stage 9 |
+| `first-reader` | sonnet | Read, Write | stage 7 |
 
-The Cartographer critiquing at stages 3 and 7 runs as `lens-critic` with
-`lens: cartographer`, because that work is critique, not audit.
+Each definition's body states the standing rules once:
 
-**Each definition's body holds the standing rules,** written once:
+- read the persona file;
+- read `process/style-guide.md`, except for `first-reader`, whose persona
+  rules out craft vocabulary and which must not see the banned list;
+- never claim to be, quote, or imitate the author;
+- write only to the output path the stage file names;
+- reply in the stage file's format.
 
-- read `personas/<lens>.md` (for the lens roles) or the role's own persona
-  file;
-- read `process/style-guide.md`;
-- never claim to be the author, quote the author, or imitate the author's
-  voice;
-- write output only to the path the stage file names;
-- reply with the short summary the stage file asks for.
+The impersonation disclaimer then moves out of the 9 persona files and into
+these definitions. One line in `AGENTS.md` covers agents that run outside the
+definitions.
 
-The impersonation disclaimer leaves the 8 persona files and lives only here,
-plus one line in `AGENTS.md` for agents that run outside these definitions.
+`personas/` stays the content. The definitions are thin pointers to it, so a
+harness without `.claude/agents` support (Codex) can still use the personas.
 
-**Persona files stay in `personas/`.** They are the content, and harnesses
-without `.claude/agents` support (Codex) can still read them. The definitions
-are thin wrappers that point at them.
+**Stage files.** `process/stages/NN-<name>.md` holds each dispatching stage
+(1–9). Each file gives:
 
-**Stage files** go in `process/stages/NN-<name>.md`, one per stage that
-dispatches agents: 1, 2, 3, 4, 5, 6, 7, 8 and 9. Each one holds:
-
-- the role to dispatch, and the lenses (default panel, overridable by the
-  brief);
-- the inputs to read;
-- the task text, including the stage-specific questions now written out in
-  each prompt;
+- the role and the default lenses;
+- the inputs;
+- the task text;
 - the output path and template;
 - the reply format.
 
-`PROCESS.md` keeps the overview (who, output and gate for each stage) and
-links to each stage file. The task text moves out of `PROCESS.md`'s stage
-sections into the stage files, so each meaning lives in one place.
+`PROCESS.md` keeps the overview and the gates and links to each stage file.
+The task text moves out of `PROCESS.md`, so it exists in one place.
+`PROCESS.md`'s story layout gains the paths calibration-01 invented mid-run
+(`0N-critique/`, `reviews/polish-*.md`, `MORNING.md`, `*.epub`,
+`lint-waivers.toml`). The stage files refer to that layout instead of
+restating it.
 
-**A dispatch then looks like:**
+A dispatch then looks like this:
 
 ```
 Agent(subagent_type: "lens-critic",
@@ -186,102 +210,60 @@ Agent(subagent_type: "lens-critic",
                Story: stories/calibration-02. Round: draft-2.")
 ```
 
-The orchestrator passes no `model:`. The definition sets it. The stage files
-say this explicitly, so a passed `model:` stands out as a deviation.
-
-**Story directory layout.** The layout in `PROCESS.md` gains the paths that
-calibration-01 invented mid-run: `03-critique/`, `04-critique/`,
-`05-critique/`, `reviews/polish-*.md`, `MORNING.md` and `*.epub`. The stage
-files refer to it rather than restating paths. (Strictly this is finding 5,
-but the stage files can't name output paths without it.)
+The call passes no `model:`. The stage files say this explicitly, so any
+`model:` that does appear reads as a deliberate deviation.
 
 ## Decisions
 
 ### A branch per story, not a main-branch opt-out
 
-Each story runs on `bestdan/story-<slug>` in its own worktree, and lands by
-fast-forward. **Rejected:** a per-repo opt-out in the global hook
-(`hooks.allowMainCommits`). It needs a dotfiles change, and it keeps stories
-on `main`, so concurrent story runs have no isolation from each other. The
-branch-per-story approach matches the existing worktree convention, and it is
-the only option under which the local lint hook runs.
+Each story runs on `bestdan/story-<slug>` in its own worktree and lands by
+fast-forward.
 
-### Agent definitions per role, not per lens
+**Rejected:** adding a per-repo opt-out to the global hook
+(`hooks.allowMainCommits`). That would also let the local hook run, but it
+needs a dotfiles change, and it leaves stories on `main` with no isolation
+between concurrent runs. A branch per story matches the existing worktree
+convention and needs no change outside this repo.
 
-Model policy attaches to the role (ideator, critic, drafter, and so on), and
-the lens is an argument. **Rejected:** one definition per lens (`watts.md`,
-and so on). Every lens needs two models, opus for ideation and sonnet for
-critique, which means either duplicate definitions or a `model:` override on
-every call. The override is exactly the in-head policy this design removes.
+### Agent definitions per role, with the lens in the prompt
 
-### Persona content stays in `personas/`
+**Rejected:** one definition per lens. Every lens needs two models (opus to
+ideate, sonnet to critique), so that would mean either duplicate definitions or
+a `model:` override on every call. The override is the in-head policy this
+design removes.
 
-The definitions are thin wrappers that point at the persona files.
-**Rejected:** moving persona content into `.claude/agents/`. That would remove
-one indirection, but it would lock the personas to Claude Code. A Codex run
-could no longer read them, and each lens would be split across a
-harness-specific file.
-
-### The banned list becomes data
-
-`process/prose-rules.toml` is the single source of truth, and both the linter
-and the style guide refer to it. **Rejected:** keeping the list in the style
-guide's prose and hard-coding the same patterns in the linter. That puts one
-meaning in two places, and they would drift.
-
-### Strict lint on `final.md` only
-
-Commits lint `final.md` strictly and drafts at warn level. **Rejected:**
-linting drafts strictly at commit. That would block committing a reviewable
-draft, and the review loop exists precisely to fix such drafts. A rule-breaking
-draft 1 is a legitimate artifact in the history.
+**Also rejected:** moving persona content into the definitions. That would
+lock the personas to one harness.
 
 ## Not decided here
 
-Four retro findings are **out of scope**:
-
-- 4, the story-facts ledger;
-- 6, separate drafter's-notes files;
-- 7, `scripts/status.py`;
-- 8, keeping the banned list away from the drafter.
-
-Finding 8 is partly addressed as a side effect, because the banned list moves
-into the TOML. Whether the drafter should still read it is left for a
-follow-up.
-
-These risks are open, and each gets verified during implementation:
-
-1. **When agent definitions load.** Claude Code may only read `.claude/agents/`
-   at session start. If so, the definitions can't be used in the session that
-   creates them. **Verify during implementation;** if it's true, test the
-   definitions with a `claude -p` run.
-2. **Whether `.claude/agents/` can be written from a sandboxed session.**
-   Writes inside the repo's `.claude/` directory are a known sandbox-denied
-   path for repos that version their agent config (see the `sandbox-escapes`
-   skill). The worktree is inside the sandbox's write allowlist, but
-   `.claude/**` may be denied anyway. **Verify; if it's denied, the escape is
-   needed only for this one commit.**
-3. **ExitWorktree in a repo with no remote.** The teardown's PR-evidence gate
-   has nothing to look up. It should keep the branch and remove the worktree,
-   but this needs to be verified on this branch's teardown.
-4. **The short-closer heuristic.** It will have false positives, such as a
-   short line of dialogue or a deliberate one-line beat. That's acceptable at
-   warn severity with a budget, because the budget allows 3. Retune it against
-   calibration-01's two drafts.
-5. **Model aliases.** `opus` and `sonnet` in frontmatter resolve to whatever
-   the harness maps them to. That's the behaviour we want, but the
-   definitions' models should be checked when the harness changes.
+- **Out of scope** from the same retro:
+  - the story-facts ledger;
+  - separate drafter's-notes files;
+  - `scripts/status.py`;
+  - keeping the banned list away from the drafter. Moving rules into the TOML
+    makes that possible, but this design doesn't decide it.
+- **Open risks, each verified during implementation:**
+  1. **Do project agent definitions load mid-session?** If they don't, the
+     definitions can't be exercised in the session that creates them. Test
+     them with a `claude -p` run instead.
+  2. **Are writes under the repo's `.claude/` sandbox-denied?** (See the
+     `sandbox-escapes` skill.) If so, escape only for writing those files.
+  3. **The zinger rule may not reach both fixtures at any N.** That case has
+     a fallback, described in the proposal.
+  4. **Model aliases.** `opus` and `sonnet` resolve to the harness's current
+     mapping. That's intended, but recheck it when the harness changes.
 
 ## Graduation
 
-- **Decision records, under `dev_docs/decisions/`:**
-  - a branch per story;
-  - agent definitions per role;
-  - prose rules as data.
+- **Decision records** under `dev_docs/decisions/`: one for the branch per
+  story, one for role-based agents.
 - **Conventions:**
-  - `AGENTS.md`: two lines on the branch-per-story workflow, plus a pointer
-    to `.claude/agents/` and `process/stages/`;
-  - `process/PROCESS.md`: the story layout and links to the stage files;
-  - `process/style-guide.md`: a pointer to `prose-rules.toml`.
-- **Delete this design** in the commit that lands the change on `main`. The
-  repo has no remote, so there's no PR.
+  - `AGENTS.md`: the branch-per-story flow in two lines, plus pointers to
+    `.claude/agents/` and `process/stages/`.
+  - `process/PROCESS.md`: the story layout, plus links to the stage files.
+  - `process/style-guide.md`: a link to `prose-rules.toml` and the waiver file.
+- **Delete this design** as the last commit on `bestdan/story-tooling`, before
+  it lands. A fast-forward makes no commit on `main`, so the deletion can't
+  happen there.
