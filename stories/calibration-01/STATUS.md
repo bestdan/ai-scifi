@@ -1,7 +1,7 @@
 # Status: calibration-01
 
-- **Current stage:** 8, Revise (draft 1 → 2)
-- **Next action:** drafter writes draft-2 from 06-revision-plan.md
+- **Current stage:** 7, Review (draft 2)
+- **Next action:** round-2 review panel (Cartographer, Chiang, Asimov, Watts, fresh First Reader)
 - **Mode:** autonomous overnight run. The orchestrator stands in at every
   gate, and the human reviews in the morning.
 
