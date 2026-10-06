@@ -249,7 +249,7 @@ this bible, the amendment wins. Notes are tagged with their lens:
    daughter, about eight, asks the forbidden question at the counter:
    *"Auntie, what do you think about the stars?"* **Hanne Oduya** is in her
    eighties, a retired keeper whose treaty ended long ago and who has turned
-   four times. She's dry and unsentimental, and she's the one who voices the
+   three times (corrected at stage 7: a 25-year cycle gives three by eighty). She's dry and unsentimental, and she's the one who voices the
    rival reading.
 9. **The erasing night has friction** (Le Guin must-fix 3). Only three
    people help: Bisi, Hanne, and Mina's mother, Ros, the baker. They turn

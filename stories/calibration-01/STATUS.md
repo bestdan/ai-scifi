@@ -1,7 +1,7 @@
 # Status: calibration-01
 
-- **Current stage:** 9, Polish
-- **Next action:** Line Editor writes final.md, then Asimov and Rajaniemi spot-check it
+- **Current stage:** Done, awaiting the human's sign-off
+- **Next action:** the human reads final.md and MORNING.md
 - **Mode:** autonomous overnight run. The orchestrator stands in at every
   gate, and the human reviews in the morning.
 
@@ -15,6 +15,7 @@
 | 5 Structure | 2026-10-05 | Outline approved after revision: scenes 4 and 5 swapped, calendar fixed, scene 6 rebuilt around the laugh | Orchestrator acting as proxy. Every must-fix from all three lenses adopted. The swap had consensus (Chiang must-fix, Banks should) |
 | 7–8 Review round 1 | 2026-10-05 | Mean score about 3.7, so a second round. Revision plan approved | Orchestrator acting as proxy. Consensus fixes adopted. Ending conflict resolved to keep the grooves, reworked through § 14. Cartographer's surviving-heron suggestion declined |
 | 7 Review round 2 | 2026-10-05 | Draft 2 judged structurally done, so it goes to polish | Orchestrator acting as proxy. Lens means: Asimov 4.0, Chiang 4.0, Watts 4.0, Cartographer 3.5, overall about 3.9. Only the Cartographer saw a structural problem (could the grooves count as argument?), with no consensus. Converted to a line-level fix: make the grooves illegible. The fresh First Reader now picks up the treaty |
+| 9 Polish | 2026-10-05 | final.md at 2,511 words | Line Editor pass, then 2 Asimov fixes and 2 Rajaniemi fixes applied. Declined: Rajaniemi's "four turns" (the bible was stale) and Asimov's change of "possibly be" (deliberate) |
 
 ## Seed stock
 
