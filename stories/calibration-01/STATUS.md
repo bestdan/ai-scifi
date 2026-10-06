@@ -1,7 +1,7 @@
 # Status: calibration-01
 
-- **Current stage:** 7, Review (draft 1)
-- **Next action:** six-lens review of draft-1
+- **Current stage:** 8, Revise (draft 1 → 2)
+- **Next action:** drafter writes draft-2 from 06-revision-plan.md
 - **Mode:** autonomous overnight run. The orchestrator stands in at every
   gate, and the human reviews in the morning.
 
@@ -13,6 +13,7 @@
 | 3 Synthesize | 2026-10-05 | Premise B, The Keeper's Successor, revised: the polities foresaw the turn, and she erases her margin notes | Orchestrator acting as proxy. Banks and Vinge ranked B first, Chiang ranked A first, and the Cartographer had A and B level at N4. B has the human viewpoint (better for calibration) and a puzzle that grows out of its novum. The revision answers both panel warnings (two nova; cost stated rather than paid) |
 | 4 Build | 2026-10-05 | Bible approved with 14 binding amendments | Orchestrator acting as proxy. All must-fix notes accepted. The memory-versus-paper ruling and the date arithmetic were the two logic holes. One could-note declined |
 | 5 Structure | 2026-10-05 | Outline approved after revision: scenes 4 and 5 swapped, calendar fixed, scene 6 rebuilt around the laugh | Orchestrator acting as proxy. Every must-fix from all three lenses adopted. The swap had consensus (Chiang must-fix, Banks should) |
+| 7–8 Review round 1 | 2026-10-05 | Mean score about 3.7, so a second round. Revision plan approved | Orchestrator acting as proxy. Consensus fixes adopted. Ending conflict resolved to keep the grooves, reworked through § 14. Cartographer's surviving-heron suggestion declined |
 
 ## Seed stock
 
