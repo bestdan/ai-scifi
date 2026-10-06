@@ -1,7 +1,7 @@
 # Status: calibration-01
 
-- **Current stage:** 7, Review (draft 2)
-- **Next action:** round-2 review panel (Cartographer, Chiang, Asimov, Watts, fresh First Reader)
+- **Current stage:** 9, Polish
+- **Next action:** Line Editor writes final.md, then Asimov and Rajaniemi spot-check it
 - **Mode:** autonomous overnight run. The orchestrator stands in at every
   gate, and the human reviews in the morning.
 
@@ -14,6 +14,7 @@
 | 4 Build | 2026-10-05 | Bible approved with 14 binding amendments | Orchestrator acting as proxy. All must-fix notes accepted. The memory-versus-paper ruling and the date arithmetic were the two logic holes. One could-note declined |
 | 5 Structure | 2026-10-05 | Outline approved after revision: scenes 4 and 5 swapped, calendar fixed, scene 6 rebuilt around the laugh | Orchestrator acting as proxy. Every must-fix from all three lenses adopted. The swap had consensus (Chiang must-fix, Banks should) |
 | 7–8 Review round 1 | 2026-10-05 | Mean score about 3.7, so a second round. Revision plan approved | Orchestrator acting as proxy. Consensus fixes adopted. Ending conflict resolved to keep the grooves, reworked through § 14. Cartographer's surviving-heron suggestion declined |
+| 7 Review round 2 | 2026-10-05 | Draft 2 judged structurally done, so it goes to polish | Orchestrator acting as proxy. Lens means: Asimov 4.0, Chiang 4.0, Watts 4.0, Cartographer 3.5, overall about 3.9. Only the Cartographer saw a structural problem (could the grooves count as argument?), with no consensus. Converted to a line-level fix: make the grooves illegible. The fresh First Reader now picks up the treaty |
 
 ## Seed stock
 
