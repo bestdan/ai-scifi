@@ -1,20 +1,20 @@
 # Stage 7: Review
 
-**Dispatch:** in parallel, send both of these. Don't pass `model:`.
+**Dispatch, in this order.** Don't pass `model:`.
 
-- `lens-critic`, once per lens on the stage 7 panel, with this prompt:
+1. A **fresh** `first-reader` every round, never a resumed one, with this
+   prompt:
 
-  `Lens: <lens>. Stage: process/stages/07-review.md. Story: stories/<slug>. Draft: N.`
+   `Read stories/<slug>/drafts/draft-N.md and write your report to stories/<slug>/reviews/draft-N/first-reader.md. Reply with who you cared about and whether you'd have kept reading past page 2.`
 
-- A **fresh** `first-reader` every round, never a resumed one, with this
-  prompt:
+   The `first-reader` doesn't read this file. Its definition and that prompt
+   are its whole brief. Keep its agent ID for the comprehension gate.
+2. Once its report is written, in parallel:
+   - `lens-critic`, once per lens on the stage 7 panel, with this prompt:
 
-  `Read stories/<slug>/drafts/draft-N.md and write your report to stories/<slug>/reviews/draft-N/first-reader.md. Reply with who you cared about and whether you'd have kept reading past page 2.`
+     `Lens: <lens>. Stage: process/stages/07-review.md. Story: stories/<slug>. Draft: N.`
 
-  The `first-reader` doesn't read this file. Its definition and that prompt
-  are its whole brief. Keep its agent ID for the comprehension gate.
-
-Then run the comprehension gate below.
+   - the comprehension gate below.
 
 ## Comprehension questions
 
@@ -76,8 +76,14 @@ no twist). Stage 8 acts on a fail; stage 9 can't start without a pass.
 **Task:**
 - Review the draft from your persona's "In critique" angle. Quote exact
   lines.
-- Score it against the Drafts table in `process/rubric.md`, and only on the
-  axes where your lens has standing. Mark the rest "—".
+- Score it against the Drafts table in `process/rubric.md`: the Felt and
+  Craft axes only, and only where your lens has standing. Mark the rest "—".
+  You've read the bible, so you don't score the Understood axes; the
+  comprehension grader does. For the Felt axes, read
+  `stories/<slug>/reviews/draft-N/first-reader.md`, and weigh where the
+  cold reader was moved, surprised or delighted.
+- Fill in "What to protect". It's required, and a lens that scores Prose
+  quotes at least one line.
 - Name **the one thing**: the change that matters most from your lens.
 - Classify every note as **structural** or **line-level**.
 - Don't redo the linter's job. `just lint` reports the mechanical hits, so

@@ -41,14 +41,52 @@ novum.
 
 ## Drafts (stage 7)
 
-Each reviewing lens scores the draft from 1 to 5 on these axes, and only
-comments where its lens has standing.
+A draft is scored from 1 to 5 in three groups. They come apart in practice: a
+reader can feel a story's loss without being able to say what was lost.
 
-| Axis | The question |
+- **Felt:** what a reader experiences.
+- **Understood:** what a reader could explain afterwards.
+- **Craft:** how well the thing is built.
+
+The lenses have read the bible, so they know what the story means to say.
+That makes them insiders, and they don't score the Understood group. The
+`comprehension-grader` scores it from a cold reader's answers, in
+`reviews/draft-N/comprehension.md`.
+
+| Group | Axis | The question | Scored by |
+|---|---|---|---|
+| Felt | Atmosphere | Does the world feel like a place? | the panel, with the First Reader's turn-1 report as evidence |
+| Felt | Weight | Does the ending carry emotional force? | the panel, with the First Reader's turn-1 report as evidence |
+| Understood | Premise | Could a reader say what the story is about? | the grader |
+| Understood | Stakes | Could a reader say what the protagonist stands to win or lose? | the grader |
+| Understood | Why | Could a reader say why the powers in the story set things up as they did? | the grader |
+| Understood | Twist | Could a reader say what the twist was? (N/A if none) | the grader |
+| Understood | Ending | Could a reader say what happened at the end, and why? | the grader |
+| Understood | Who's who | Could a reader place each named character? | the grader |
+| Craft | Structure | Does every scene turn? Does the form serve the idea? | the panel |
+| Craft | Character | Does the protagonist want something, and does the novum make it harder to get? | the panel (construction), plus the grader's Who's who (legibility) |
+| Craft | Consequence | Does the story live in the second-order effects? | the panel (construction), plus the grader's Stakes and Why (legibility) |
+| Craft | Prose | Is it specific, and does every ornate line earn its place? | the panel |
+
+The grader's grades map onto the scale as got it 5, partial 3, missed 1.
+
+**Character and Consequence carry two scores each,** reported side by side
+and never averaged: construction from the panel, legibility from the grader.
+A well-built character the reader couldn't place is a legibility failure,
+not a construction one.
+
+**No mean mixes the groups.** Report each group separately. The comprehension
+gate, not an average, decides whether a draft can go to polish.
+
+### Mapping from the old axes
+
+Stories reviewed before this rubric used six axes. To compare them:
+
+| Old axis | New axes |
 |---|---|
-| Novum delivery | Do we feel the idea, rather than being told it? |
-| Consequence | Does the story live in the second-order effects? |
-| Character | Does the protagonist want something, and does the novum make it harder to get? |
-| Structure | Does every scene turn? Does the form serve the idea? |
-| Prose | Is it specific, unshowy and free of the style guide's banned habits? |
-| Ending | Is it earned, does it cost something, and does it resonate past the last line? |
+| Novum delivery | Atmosphere, plus Understood: Premise |
+| Consequence | Consequence (construction, plus legibility) |
+| Character | Character (construction, plus legibility) |
+| Structure | Structure |
+| Prose | Prose |
+| Ending | Weight, plus Understood: Ending |

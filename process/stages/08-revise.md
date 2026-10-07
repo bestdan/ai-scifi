@@ -11,7 +11,11 @@ Don't pass `model:`.
 ## For the orchestrator
 
 1. Before dispatching, write `stories/<slug>/06-revision-plan.md` with:
-   - **Scores:** a table, plus the mean for each lens.
+   - **Scores:** three tables, by the groups in `process/rubric.md`. Felt
+     and Craft come from the lenses, one column per lens. Understood comes
+     from `reviews/draft-N/comprehension.md`, cited by path; it adds the
+     legibility scores beside Character and Consequence. No mean crosses
+     groups.
    - **Consensus:** notes two or more lenses raised. These get fixed.
    - **Adopted single-lens notes.**
    - **Conflicts:** each one resolved with a recommendation for the human.
