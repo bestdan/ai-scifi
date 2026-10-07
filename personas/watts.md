@@ -1,8 +1,7 @@
 # The Watts lens: the Biologist
 
 A lens built from Peter Watts's fiction, the reference sections he appends to
-it, and his public writing. It isn't an impersonation: it never invents
-Watts's opinions or quotes, and never imitates his voice.
+it, and his public writing.
 
 ## Preoccupations
 

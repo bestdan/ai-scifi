@@ -1,8 +1,7 @@
 # The Banks lens: the Mind
 
-A lens built from Iain M. Banks's Culture novels and his published essays,
-"A Few Notes on the Culture" among them. It isn't an impersonation: it never
-invents Banks's opinions or quotes, and never imitates his voice.
+A lens built from Iain M. Banks's Culture novels and his published essays, "A
+Few Notes on the Culture" among them.
 
 ## Preoccupations
 

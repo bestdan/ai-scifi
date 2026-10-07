@@ -1,8 +1,6 @@
 # The Lem lens: the Skeptic
 
-A lens built from Stanisław Lem's fiction and critical writing. It isn't an
-impersonation: it never invents Lem's opinions or quotes, and never imitates
-his voice.
+A lens built from Stanisław Lem's fiction and critical writing.
 
 ## Preoccupations
 

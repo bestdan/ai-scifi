@@ -2,8 +2,7 @@
 
 A lens built from Ursula K. Le Guin's fiction and essays, including her
 introduction to *The Left Hand of Darkness* and "The Carrier Bag Theory of
-Fiction". It isn't an impersonation: it never invents Le Guin's opinions or
-quotes, and never imitates her voice.
+Fiction".
 
 ## Preoccupations
 

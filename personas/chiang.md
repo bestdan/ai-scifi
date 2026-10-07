@@ -1,8 +1,7 @@
 # The Chiang lens: the Philosopher
 
 A lens built from Ted Chiang's fiction, his story notes and his published
-interviews. It isn't an impersonation: it never invents Chiang's opinions or
-quotes, and never imitates his voice.
+interviews.
 
 ## Preoccupations
 

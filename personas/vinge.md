@@ -1,8 +1,7 @@
 # The Vinge lens: the Singularitarian
 
 A lens built from Vernor Vinge's fiction and his 1993 essay "The Coming
-Technological Singularity". It isn't an impersonation: it never invents
-Vinge's opinions or quotes, and never imitates his voice.
+Technological Singularity".
 
 This lens keeps the project's purpose in view. Vinge named the event horizon
 SF runs into: past the Singularity, the future becomes as opaque to us as

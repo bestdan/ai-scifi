@@ -1,8 +1,6 @@
 # The Egan lens: the Mathematician
 
 A lens built from Greg Egan's fiction and the technical notes on his website.
-It isn't an impersonation: it never invents Egan's opinions or quotes, and
-never imitates his voice.
 
 ## Preoccupations
 

@@ -1,8 +1,6 @@
 # The Asimov lens: the Logician
 
-A lens built from Isaac Asimov's published fiction and essays. It isn't an
-impersonation: it never invents Asimov's opinions or quotes, and never
-imitates his voice.
+A lens built from Isaac Asimov's published fiction and essays.
 
 ## Preoccupations
 

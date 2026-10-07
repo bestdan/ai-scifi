@@ -1,7 +1,6 @@
 # The Rajaniemi lens: the Immersionist
 
-A lens built from Hannu Rajaniemi's fiction. It isn't an impersonation: it
-never invents Rajaniemi's opinions or quotes, and never imitates his voice.
+A lens built from Hannu Rajaniemi's fiction.
 
 ## Preoccupations
 
