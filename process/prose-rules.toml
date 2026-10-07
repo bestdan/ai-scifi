@@ -1,0 +1,102 @@
+# Mechanical prose rules: the single source of truth for every banned-list
+# entry a regex can judge. `scripts/lint_prose.py` reads this file, and
+# `process/style-guide.md` links here for the list. Rules that need judgement
+# (reflex triplets, sense lists, characters, plots) stay as prose in the
+# style guide.
+#
+# A story breaks a rule on purpose by naming it in stories/<slug>/lint-waivers.toml:
+#
+#   [[waiver]]
+#   rule = "zinger-closer"
+#   reason = "why this story breaks it"
+#
+# Severities:
+#   error   any hit fails the lint
+#   budget  hits are warnings; more than `budget` of them fails the lint
+#   warn    hits are reported and never fail
+#
+# Patterns are Python regular expressions, matched against each paragraph
+# with its line breaks folded to spaces.
+
+[[rule]]
+id = "banned-phrase"
+severity = "error"
+case_sensitive = false
+patterns = [
+  'a testament to',
+  '\btapestry\b',
+  '\bsymphony of\b',
+  '\bdance of\b',
+  'in the grand scheme of things',
+  '\bthe weight of (?:the |his |her |their |its |our )?(?:world|past|history|grief|loss|everything|it all|years|decision|memory|memories|responsibility|silence|expectation|expectations|guilt|sorrow|the moment)\b',
+  'the silence was deafening',
+  "breath (?:she|he|they|I) didn'?t know (?:she|he|they|I)'?d been holding",
+  '\bsomething shifted\b',
+  '\bsomething in (?:her|him|them|me) (?:broke|shifted|snapped)\b',
+  '\ba flicker of\b',
+  '\bthe hum of\b',
+  '\bI hear you\b',
+  "\\bthat'?s valid\\b",
+  '\bI need you to understand\b',
+]
+
+[[rule]]
+id = "banned-name"
+severity = "error"
+case_sensitive = true
+patterns = [
+  '\b(?:Elara|Kael|Lyra|Seraphina|Zara|Nova|Orion|Aria|Kai|Thorne|Voss|Vance)\b',
+  '\bDr\.? (?:Anya|Chen)\b',
+]
+
+[[rule]]
+id = "banned-ship"
+severity = "error"
+case_sensitive = true
+patterns = [
+  '(?:\*|\bthe )(?:Odyssey|Horizon|Endeavou?r|Prometheus)\b',
+]
+
+[[rule]]
+id = "em-dash-pileup"
+severity = "budget"
+# At most `max_in_window` em-dashes in any run of `window_words` words.
+window_words = 300
+max_in_window = 2
+budget = 0
+
+[[rule]]
+id = "the-way-simile"
+severity = "budget"
+budget = 3
+case_sensitive = false
+patterns = ['\bthe way\b']
+# Literal uses, which aren't similes.
+exclude_before = ['\b(?:on|by|all|out of|in|under) $']
+exclude_after = ['^ (?:to|back|home|out|through|there|down|up|in|into|forward|across)\b']
+
+[[rule]]
+id = "contrast-shape"
+severity = "budget"
+budget = 1
+case_sensitive = false
+patterns = [
+  "\\b(?:it|that|this|he|she|they) (?:wasn'?t|was not|isn'?t|is not)\\b[^.!?]*[.!?]\\s+(?:it|that|this|he|she|they) (?:was|is)\\b",
+  "\\b(?:it|that|this)(?:'s| is) not\\b[^.!?]*[.!?]\\s+(?:it|that|this)(?:'s| is)\\b",
+]
+
+[[rule]]
+id = "zinger-closer"
+# A narration paragraph of at least `min_sentences` sentences whose final
+# clause is at most `max_words` words. Dialogue paragraphs (starting with a
+# quotation mark) are skipped.
+#
+# Tuned against stories/calibration-01. max_words = 9 flags 7 of the
+# Cartographer's 8 draft-2 closers (N = 8 flags 6). At N = 9 the counts are
+# 19 in the accepted final.md, 23 in draft 2 and 27 in draft 1. That is
+# 7.6, 8.9 and 9.6 per 1,000 words, which is within noise, so no budget
+# separates good prose from bad and the rule is warn-only. The summary line
+# reports the density, for a reviewer to judge.
+severity = "warn"
+max_words = 9
+min_sentences = 2

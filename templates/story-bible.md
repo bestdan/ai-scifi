@@ -46,8 +46,9 @@ For each character:
 |---|---|---|
 
 ## Rules deliberately broken
-<any item from the style guide's banned list this story breaks on purpose,
-and why>
+<any judgement rule from the style guide this story breaks on purpose, and
+why. Waivers for linted rules go in this story's `lint-waivers.toml`, not
+here. Point to that file if it exists.>
 
 ## Stress-test log
 <a summary of the stage 4 lens notes and how each was resolved>

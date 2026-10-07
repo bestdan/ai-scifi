@@ -47,27 +47,30 @@ default tone for every stage, from ideation on.
 
 ## The banned list
 
-### Phrases and tics
+The mechanical half of the list is data in
+[`prose-rules.toml`](prose-rules.toml), and `just lint <file>` checks a story
+against it. It covers:
 
-- "a testament to", "tapestry", "symphony of", "dance of", "in the grand
-  scheme of things"
-- "the weight of [abstraction]", "the silence was deafening", "let out a
-  breath she didn't know she'd been holding"
-- "something shifted", "something in her broke", "a flicker of [emotion]"
-- "the hum of [machinery]" as the go-to sci-fi texture
-- "It wasn't X. It was Y." Allowed once per story at most.
+- stock phrases ("a testament to", "the silence was deafening", "a flicker
+  of", …), including therapy-speak in dialogue;
+- default "speculative" names (Elara, Kael, Voss, …) and stock ship names;
+- counted habits:
+  - em-dash pileups;
+  - "the way…" similes;
+  - "It wasn't X. It was Y." contrasts;
+  - short paragraph-closing clauses ("zingers").
+
+The file is the source of truth for the exact patterns and budgets.
+
+What no regex can judge stays here:
+
+### Tics
+
 - Adjectives or clauses in threes as a reflex
-- Paragraphs ending on a one-line zinger, again and again
-- Em-dash pileups. Two per page at most.
 - Senses listed one after another ("the smell of ozone, the taste of metal,
   the sound of…")
-
-### Names
-
-Default "speculative" names are banned unless the world's culture produces
-them: Elara, Kael, Lyra, Seraphina, Zara, Nova, Orion, Aria, Kai, Thorne,
-Voss, Vance, Chen as the default scientist, Dr. Anya [anything]. The same goes
-for ships called *Odyssey*, *Horizon*, *Endeavour* or *Prometheus*.
+- Names that don't come from the world's culture, even when they aren't on
+  the list
 
 ### Characters
 
@@ -92,8 +95,10 @@ for ships called *Odyssey*, *Horizon*, *Endeavour* or *Prometheus*.
 - Misery as the ending by reflex: the bleak twist, everyone dead, the
   pointless loss
 
-Any of these can be broken on purpose. The bible or the outline has to name
-the rule being broken and say why.
+Any of these can be broken on purpose. Name the rule being broken in the
+bible or the outline, and say why. For a rule the linter checks, the waiver
+goes in `stories/<slug>/lint-waivers.toml` as a `[[waiver]]` entry with
+`rule` and `reason`, and the bible points to that file.
 
 ## Invented terms
 
