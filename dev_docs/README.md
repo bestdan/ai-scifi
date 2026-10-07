@@ -5,7 +5,10 @@ plugin. This file lists only what this repo has.
 
 | Path | This repo keeps here |
 |---|---|
-| `designs/` | proposals for changes to the story-writing process and its tooling, deleted once they land |
-| `tasks/` | `/plan-with-docs` scaffolding for implementing a design |
+| `designs/` | proposals for changes to the story process or its tooling. Each is deleted once its change lands |
+| `decisions/` | why the process and tooling are shaped as they are, one record per choice |
+
+There's no `tasks/` directory right now. `/plan-with-docs` scaffolding lives
+there while a plan is in flight, and is deleted when the plan lands.
 
 Stories aren't dev docs. They live under `stories/`.
