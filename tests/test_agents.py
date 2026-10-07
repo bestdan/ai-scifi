@@ -15,7 +15,20 @@ EXPECTED_MODELS = {
     "drafter": "opus",
     "line-editor": "opus",
     "first-reader": "sonnet",
+    "comprehension-grader": "sonnet",
 }
+
+# The comprehension gate's questions. They live in stage 7 only, so they reach
+# the First Reader in its second turn and can't prime its read.
+COMPREHENSION_QUESTIONS = [
+    "What is this story about, in two sentences?",
+    "What does the protagonist stand to gain or lose, and what happens if they fail?",
+    "Why did the people or powers who set this situation up do it that way?",
+    "What did you learn late that changed how you saw the earlier part, if anything?",
+    "What happened at the end, and why?",
+    "Who is each named character, in one line each?",
+    "What are you still unsure about?",
+]
 
 
 def frontmatter(path: Path) -> dict:
@@ -38,6 +51,22 @@ class AgentDefinitions(unittest.TestCase):
     def test_first_reader_never_reads_the_style_guide(self):
         body = (AGENTS / "first-reader.md").read_text()
         self.assertNotIn("Read `process/style-guide.md`", body)
+
+    def test_comprehension_grader_has_no_bash(self):
+        tools = frontmatter(AGENTS / "comprehension-grader.md")["tools"]
+        self.assertNotIn("Bash", tools)
+
+    def test_comprehension_questions_live_in_stage_7_only(self):
+        stage = (REPO / "process" / "stages" / "07-review.md").read_text()
+        section = stage.split("## Comprehension questions", 1)[1].split("\n## ", 1)[0]
+        reader_files = [
+            (REPO / "personas" / "first-reader.md").read_text(),
+            (AGENTS / "first-reader.md").read_text(),
+        ]
+        for question in COMPREHENSION_QUESTIONS:
+            self.assertIn(question, section)
+            for text in reader_files:
+                self.assertNotIn(question, text)
 
     def test_persona_files_named_by_lens_roles_exist(self):
         for name in ("cartographer", "first-reader", "line-editor"):

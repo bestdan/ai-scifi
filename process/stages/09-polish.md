@@ -16,12 +16,22 @@ Don't pass `model:`.
 
 ## For the orchestrator
 
-1. **Required items.** Before dispatching the line editor, collect the
+1. **Before polish.** The stage 7 comprehension gate must have passed on
+   draft N: every graded row "got it", in
+   `reviews/draft-N/comprehension.md`. The one exception is a failure the
+   stage 8 loop cap let through, logged under "Gate failures" in
+   `STATUS.md`. Otherwise go back to stage 8.
+2. **Required items.** Before dispatching the line editor, collect the
    line-level notes from the last review round into a numbered list, and add
    it to the line editor's prompt as "Required items".
-2. **Spot-check suggestions.** Apply or decline each one. Log each decline,
+3. **Spot-check suggestions.** Apply or decline each one. Log each decline,
    with its reason, in `STATUS.md`. Then run `dli check`.
-3. **Optional EPUB.** For reading on a device, run
+4. **After polish, the gate again.** Run the stage 7 comprehension gate on
+   `final.md`, with a fresh `first-reader` and a fresh
+   `comprehension-grader`, and write every file to `reviews/final/` instead
+   of `reviews/draft-N/`. A missed or partial row sends the story back to
+   stage 8.
+5. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
 
 **Gate:** the human signs off. After that, the story branch can land (see

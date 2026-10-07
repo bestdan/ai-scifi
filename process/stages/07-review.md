@@ -9,16 +9,57 @@
 - A **fresh** `first-reader` every round, never a resumed one, with this
   prompt:
 
-  `Read stories/<slug>/drafts/draft-N.md and write your report to stories/<slug>/reviews/draft-N/first-reader.md. Reply with your two-sentence "what I think the story is about" and whether you'd have kept reading past page 2.`
+  `Read stories/<slug>/drafts/draft-N.md and write your report to stories/<slug>/reviews/draft-N/first-reader.md. Reply with who you cared about and whether you'd have kept reading past page 2.`
 
   The `first-reader` doesn't read this file. Its definition and that prompt
-  are its whole brief.
+  are its whole brief. Keep its agent ID for the comprehension gate.
+
+Then run the comprehension gate below.
+
+## Comprehension questions
+
+1. What is this story about, in two sentences?
+2. What does the protagonist stand to gain or lose, and what happens if they fail?
+3. Why did the people or powers who set this situation up do it that way?
+4. What did you learn late that changed how you saw the earlier part, if anything?
+5. What happened at the end, and why?
+6. Who is each named character, in one line each?
+7. What are you still unsure about?
+
+These questions appear nowhere else the reader can see. Asked before the
+read, they would steer it.
+
+## The comprehension gate
+
+All of its files go in `stories/<slug>/reviews/draft-N/`.
+
+1. **Turn 2.** Once `first-reader.md` is written, resume the same
+   `first-reader` with SendMessage:
+
+   `Answer these from memory, without rereading. Write your answers, numbered, to stories/<slug>/reviews/draft-N/comprehension-answers.md.`
+
+   followed by the seven questions above, word for word.
+2. **The grader's inputs.** Write two files from `04-bible.md`:
+   - `ledger-rows.md`: only the Row and The fact columns of the payoff
+     ledger's five graded rows. No scenes, no explicit lines.
+   - `names.md`: each named character and invented term, with its role in
+     one line, from the bible's Characters and Glossary sections.
+3. **Grading.** Dispatch a fresh `comprehension-grader` with this prompt:
+
+   `Ledger: stories/<slug>/reviews/draft-N/ledger-rows.md. Names: stories/<slug>/reviews/draft-N/names.md. Answers: stories/<slug>/reviews/draft-N/comprehension-answers.md. Write: stories/<slug>/reviews/draft-N/comprehension.md.`
+
+The gate passes when every graded row is "got it" (or N/A for a story with
+no twist). Stage 8 acts on a fail; stage 9 can't start without a pass.
 
 ## For the orchestrator
 
 - **Round 1** uses the full default panel.
 - **Later rounds** can run leaner: the lenses that scored lowest or raised
-  structural notes, plus a fresh First Reader.
+  structural notes, plus a fresh First Reader and the comprehension gate.
+  The gate runs every round.
+- **You don't grade comprehension.** You wrote the ledger, so you read the
+  answers as an insider would. You may lower one of the grader's grades, with
+  a reason, but never raise one.
 
 ## For the agent (`lens-critic`)
 

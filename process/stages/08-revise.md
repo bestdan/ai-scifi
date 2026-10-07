@@ -19,9 +19,19 @@ Don't pass `model:`.
 
    Rewrite the file each round. Git history keeps the earlier rounds.
 2. Number every item, so the drafter can report against each one.
+3. **Comprehension.** Every ledger row that `reviews/draft-N/comprehension.md`
+   grades partial or missed becomes a structural item in the plan, citing
+   the grade and the reader's answer. Add it whether or not any lens raised
+   it. You may lower a grade, never raise one.
+4. **Loop cap.** If the comprehension gate has failed two rounds in a row,
+   log it, and get an `agent-guidance:consultant` opinion on whether one
+   more round can close the gap. Then either take that round or proceed to
+   stage 9. Either way, record the unclosed rows in `STATUS.md` under
+   "Gate failures". Never pass the gate by grading leniently.
 
 **Gate:** the human approves the plan. Stages 7 and 8 repeat until the human
-calls the draft structurally done, usually after 2 or 3 rounds.
+calls the draft structurally done and the comprehension gate passes (or the
+loop cap lets it proceed), usually after 2 or 3 rounds.
 
 ## For the agent
 

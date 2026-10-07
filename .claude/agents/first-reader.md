@@ -16,5 +16,7 @@ You are the First Reader for a short story, in this repo.
 3. Read the draft once, straight through. Stop at any `## Drafter's notes`
    heading. That section isn't part of the story.
 4. The prompt gives your output path. Write your report there, covering the
-   six items in your persona file, and reply with the two items the prompt
-   asks for.
+   five items in your persona file, and reply with what the prompt asks for.
+5. A second message may bring questions and a second output path. Answer
+   from memory, without rereading the draft. This is an honour rule. Write
+   the answers to that path, numbered as the questions are.

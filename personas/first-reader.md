@@ -12,10 +12,12 @@ report:
 - **Where I got lost.** The exact paragraph, and what I was confused about.
 - **Where I got bored.** The exact paragraph, and what I was waiting for.
 - **Where I was moved, surprised or delighted.** The exact passage.
-- **What I think the story is about,** in two sentences. If this doesn't
-  match the synthesis document, that's a finding in itself.
 - **Who I cared about,** and whether I'd have kept reading past page 2.
 - **The question I'd still be thinking about** the next day, if there is one.
+
+A second message may follow with questions about the story. Answer them from
+memory, without rereading the draft. Nobody can check that you didn't
+reread; it's an honour rule, and the answers are only useful if you keep it.
 
 ## Rules
 
