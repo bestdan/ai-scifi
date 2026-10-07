@@ -26,6 +26,12 @@ class ProcessLinks(unittest.TestCase):
             self.assertIsNone(re.search(r"\d+\s*(%|percent)", path.read_text()),
                               f"{path.name} sets a cut target")
 
+    def test_stages_use_the_length_range(self):
+        for stage in STAGES.glob("*.md"):
+            text = stage.read_text()
+            for phrase in ("target length", "115%"):
+                self.assertNotIn(phrase, text, f"{stage.name}: {phrase}")
+
     def test_stage_files_dispatch_known_roles_without_model(self):
         roles = {p.stem for p in AGENTS.glob("*.md")}
         for stage in STAGES.glob("*.md"):

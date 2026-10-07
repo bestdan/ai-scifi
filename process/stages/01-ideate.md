@@ -16,7 +16,7 @@ Don't pass `model:`. The agent definition sets it.
 
 **Read:**
 - `stories/<slug>/00-brief.md`. It sets the number of cards (3 unless the
-  brief says otherwise), the target length, the Futurity floor and any seed.
+  brief says otherwise), the length range, the Futurity floor and any seed.
 
 **Task:**
 - Write exactly the brief's number of idea cards, working from the "In
@@ -25,7 +25,8 @@ Don't pass `model:`. The agent definition sets it.
 - Before you write a card, name the nearest published story to it. If that
   story is a close match, discard the card and go further.
 - At short lengths, the novum must be dramatizable with a small cast in a
-  few scenes.
+  few scenes. Every extra novum or twist a card needs costs words; stage 3
+  counts them against the brief's range.
 
 **Write:** `stories/<slug>/01-ideas/<lens>.md`, using
 `templates/idea-card.md`. State your lens's blind spots at the top.

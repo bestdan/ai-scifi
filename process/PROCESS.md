@@ -63,7 +63,8 @@ stories/<slug>/
 
 **Stage 0** has no stage file. The brief sets:
 
-- the target length;
+- the length range, with a waiver line if it starts below the floor in the
+  Lengths table;
 - the Futurity floor (see `rubric.md`);
 - the tone;
 - anything off-limits;
@@ -96,3 +97,7 @@ novum by itself.
 | Short story | 3,000 – 7,500 |
 | Novelette | 7,500 – 17,500 |
 | Novella | 17,500 – 40,000 |
+
+The brief gives a range within its form's row. The bottom of each row is a
+floor: a brief that goes below it says why in a waiver line. Stage 3 checks
+each premise's load against the range's top.

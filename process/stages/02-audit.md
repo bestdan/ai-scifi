@@ -27,7 +27,7 @@ format:
 - one push past the map.
 
 Use WebSearch for any attribution you aren't highly confident about. Judge
-Yield at the brief's target length.
+Yield at the midpoint of the brief's length range.
 
 Then add three sections:
 

@@ -1,6 +1,11 @@
 # Brief: <working title or slug>
 
-- **Form and length:** short story, about ____ words
+- **Form and length range:** short story, ____ to ____ words. The range's
+  top is the drafter's hard ceiling, so leave room for what the premise
+  turns out to carry.
+- **Below-floor waiver (only if the range starts under the floor in
+  `process/PROCESS.md`'s Lengths table):** <why this story needs fewer
+  words, or delete this line>
 - **Futurity floor:** F3 (see `process/rubric.md`)
 - **Tone:** <e.g. cold and wondering; darkly funny; elegiac>. The tone
   charter in `process/style-guide.md` always applies.

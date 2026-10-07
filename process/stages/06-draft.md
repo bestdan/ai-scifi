@@ -22,8 +22,8 @@ with SendMessage, so the voice holds across drafts.
 4. `stories/<slug>/05-outline.md`. Its scenes table is the plan.
 
 **Task:** write the whole story as draft 1.
-- **Length.** Aim at the brief's target. The hard ceiling is the brief's, or
-  115% of the target if the brief doesn't give one.
+- **Length.** Stay within the brief's length range; its top is the hard
+  ceiling. Within it, take the words the payoff ledger needs.
 - **Title.** Choose your own; a working title is only a placeholder.
 - **Voice and form.** Use the voice the bible sets, and any headings or
   formal device the outline specifies.

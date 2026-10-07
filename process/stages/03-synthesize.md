@@ -14,11 +14,20 @@ Don't pass `model:`.
    is one paragraph covering the novum, who it happens to and what they are
    forced to choose. Fold in the Cartographer's push past the map, and list
    one line each of **Strengths** and **Risks**.
+
+   Each premise also gets two lines:
+   - **Load:** each novum it carries, and its twist if it has one.
+   - **Estimated minimum:** 3,000 words, plus about 1,500 for each novum or
+     twist after the first. A premise with two nova and a twist needs about
+     6,000. This is a heuristic resting on one story, calibration-01; check
+     it against each story's outcome.
 2. After the critiques are in, add a summary table and a **Decision** to
    `03-synthesis.md`. The Decision names the chosen premise, says how it
    answers the panel's warnings, and lists what was declined.
 
-**Gate:** one premise. Record the runners-up in `STATUS.md` as seed stock.
+**Gate:** one premise. Reject a premise whose estimated minimum is above the
+top of the brief's length range, or narrow it until it fits. Record the
+runners-up in `STATUS.md` as seed stock.
 
 ## For the agent
 
