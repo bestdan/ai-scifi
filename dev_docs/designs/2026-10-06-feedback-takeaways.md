@@ -3,174 +3,229 @@ created: 2026-10-06
 status: proposed
 ---
 
-# Make stories legible to a blind reader: payoffs, a comprehension gate, a proxy for every gate
+# Make stories legible to a blind reader: payoffs, an outsider-graded comprehension gate, proxy gates
 
 Calibration-01 ended with a story whose prose the human scored 5/5 and
 whose point the human couldn't state. Asked what the story was about, what
-was at stake and what the twist was, the human had "no real idea". Every
-answer was in the story bible. The process had put those answers there and
-then kept them off the page on purpose. The lens panel, having read the
-bible, scored the draft as if the answers had landed. The human also wants
-to read the next story blind, without knowing the premise, so the
-orchestrator must decide every gate from stage 2 onward.
+was at stake and what the twist was, the human had "no real idea." Every
+answer was in the story bible, which the process wrote and then kept off the
+page on purpose. The cold readers did signal trouble. The draft-1 First
+Reader said the twist's key line "lost me", and the draft-2 reader asked
+"Did the Parties choose the term on purpose…? Pell wouldn't say, and neither
+would the story." But the orchestrator, who wrote the bible, read those
+reports as passes. The lens panel had read the bible too, and it scored the
+draft as though the answers had landed. The human also wants to read the next
+story blind.
 
-This design makes four changes:
+This design makes five changes:
 
-1. **The process enforces payoffs.** Anything withheld is stated on the page
-   by the end.
-2. **A gate is added before polish.** A reader who sees only the manuscript
-   must be able to explain the story.
-3. **The rubric is split.** Feeling it, understanding it and craft are scored
-   separately, and the understanding scores come from the outsider, not the
-   panel.
-4. **A proxy-gate mode is written down,** so the human can read blind.
+1. **Every inference pays off explicitly.** The process carries this through
+   a payoff ledger.
+2. **Polish needs a comprehension gate.** A cold reader answers fixed
+   questions in a second turn, and a separate grader who sees only the ledger
+   and the answers grades each one.
+3. **The rubric splits into felt, understood and craft.** The outsider
+   scores everything that depends on understanding.
+4. **Polish protects lines as well as cutting them.**
+5. **A proxy gate mode lets the human read blind.** The human keeps the brief
+   and the decision to land the story.
 
 It covers the eight takeaways in section 5 of
-`stories/calibration-01/human-feedback.md`, which hold the evidence:
-
-| # | Takeaway |
-|---|---|
-| 1 | Every inference pays off explicitly |
-| 2 | Length follows ambition |
-| 3 | Fewer names, introduced slowly, each with an anchor |
-| 4 | Comprehension check before polish |
-| 5 | The panel over-scores comprehension and under-scores prose |
-| 6 | Polish protects lyricism as well as cutting it |
-| 7 | Feeling isn't understanding |
-| 8 | The human reads blind, with the orchestrator as proxy |
+`stories/calibration-01/human-feedback.md`. That file holds the evidence.
 
 ## What is true today
 
-**The evidence**, from `stories/calibration-01/human-feedback.md`:
+**What the human reported** (`human-feedback.md`):
 
-- **Takeaway 1.** All four of the human's "why" questions have answers in
+- **Takeaway 1.** All four of the human's "why" questions are answered in
   `04-bible.md`:
   - why the agreement exists;
   - what is at stake;
   - where the metamorphosis comes from;
-  - how integral it is to the plot.
+  - how integral it is.
 
-  The bible itself marked those answers as "never explained" and "explained
-  only through the treaty text and the clerk". Given the answers, the human
-  found the premise "definitely a lot better and more interesting."
-- **Takeaways 5 and 7.** The human's scores were 2 for Consequence and 2 for
-  Character, against the panel's 4s; 5 for Prose, against 3–4; and 4.5 for
-  Novum delivery, despite being unable to explain the novum. On the ending:
-  "Didn't understand it, but felt the loss."
-- **Takeaway 4.** Two fresh First Readers missed the reveal. Neither was asked
-  to state it, and nobody compared what they understood against the bible.
+  The bible marks those answers "never explained" and "explained only through
+  the treaty text and the clerk". Given the answers, the human found the
+  premise "definitely a lot better and more interesting."
+- **The human's rule** is that inference is fine, "but it definitely needs to
+  pay off. … safest if the author always makes it explicit eventually."
+- **Takeaways 5 and 7.** The human scored Consequence 2 and Character 2,
+  against the panel's 4s; Prose 5, against 3–4; and Novum delivery 4.5,
+  despite being unable to explain the novum. On the ending: "Didn't
+  understand it, but felt the loss." The round-2 lens prompts told the lenses
+  to read the bible "for context".
 - **Takeaway 2.** The brief set 2,500 words, below `PROCESS.md`'s 3,000-word
-  floor. The story carried two nova (the turn and the posthuman escrow), two
-  polities and a twist. The human: "Twenty five hundred words was just too
-  short for such an ambitious set of ideas."
-- **Takeaway 3.** The opening scene introduces Pell, Mrs. Okonjo, Oyelaran,
-  Bisi, the Standing Revision, the Disputed Volume and § 14, and the next
-  scene adds the Mbathas and Dr. Ferreira.
-- **Takeaway 6.** Every line the human protected is a concrete physical image
-  or a moment between people. Two of them are "the way…" similes.
-- **Takeaway 8.** Decided by the human: the orchestrator acts as proxy at the
+  floor. The story carried two nova (the turn, and the posthuman escrow), two
+  polities and a twist.
+- **Takeaway 3.** The opening scene, "Nine", is 503 words and introduces
+  Pell, Mrs. Okonjo, Oyelaran, Bisi, the Standing Revision, the Disputed
+  Volume, the Parties, the Keeper and § 14. The first "Eight" adds about six
+  more names in 296 words. The novum's own terms, "the turn", "keeper" and
+  "seat", are lowercase.
+- **Takeaway 6.** Every line the human protected is a concrete physical
+  image or a moment between people. Two of them are "the way…" similes. The
+  one line the human couldn't follow is an abstract, stacked construction.
+- **Takeaway 8.** The human decided: the orchestrator acts as proxy at the
   gates, and the human reads only the finished story.
 
-**Where the process encodes the problem today:**
+**What the cold readers reported** (`reviews/draft-*/first-reader.md`):
 
-| File | What it says now |
+- **The premise.** Both readers already state it, and `personas/first-reader.md`
+  counts a mismatch with the synthesis as a finding. Their premises were
+  passable.
+- **The twist.** On draft 1, the reader said of "They had built the term
+  around the latest she could possibly be": "lost me … I didn't see why that
+  mattered." On draft 2, the reader raised the twist only as an open
+  question.
+- **How it was read.** `MORNING.md` reported "neither reader mentioned the
+  reveal". That's a misreading by the orchestrator, the same insider-grading
+  failure the human's scores show in the panel.
+
+**The rules that encode the problem today:**
+
+| File | Rule |
 |---|---|
-| `process/style-guide.md` rules 2 and 3 | "Live the novum, don't explain it." "Leave invented terms undefined when context carries them." Both are right as far as they go, but neither requires a payoff. |
-| `templates/story-bible.md` | No place to say when a withheld fact becomes explicit. |
-| `templates/outline.md` | The information plan has "Where it surfaces" and "How". It has no "made explicit by". |
-| `process/stages/07-review.md` | Lenses read "whatever context your lens needs: the bible…", then score every axis, including the ones that depend on understanding. |
-| `process/rubric.md` | Draft axes mix feeling and understanding: Novum delivery, Consequence, Ending. |
-| `.claude/agents/first-reader.md` | Reports where it got lost, bored or moved. It is never asked to state the premise, the stakes or the twist. |
-| `personas/line-editor.md`, `process/stages/09-polish.md` | "Cut 5 to 10 percent" and "Cut 3% to 6%" are quotas. Nothing protects a line. |
-| `AGENTS.md`, `process/PROCESS.md` | "The human decides at every gate … Don't advance a story past a gate on your own." |
-| `process/PROCESS.md` | The lengths table has a 3,000-word floor, which the brief can silently override. |
+| `process/style-guide.md`, rules 2–3 | "Live the novum, don't explain it"; exposition only "where a character in the scene has a reason to explain"; "leave invented terms undefined when context carries them". |
+| `process/style-guide.md`, Invented terms | "never next to a gloss in apposition". |
+| `templates/story-bible.md` | No place to record when a withheld fact becomes explicit. |
+| `templates/outline.md` | The information plan has no "made explicit by" column. |
+| `process/stages/07-review.md` | Lenses read the bible, then score every axis, including the ones that depend on understanding. |
+| `process/rubric.md` | The draft axes mix feeling and understanding (Novum delivery, Consequence, Ending). |
+| `personas/line-editor.md`, `process/stages/09-polish.md` | "Cut 5 to 10 percent … Shortness is a feature" and "Cut 3% to 6%". Nothing protects a line. |
+| `process/stages/09-polish.md`, Rajaniemi spot-check | "Is anything still explained that context would carry?" |
+| `process/stages/02-audit.md`, `06-draft.md` | Both assume a single target length: "Yield at the brief's target length", and a 115% ceiling. |
+| `AGENTS.md`, `PROCESS.md` | "The human decides at every gate. … Don't advance a story past a gate on your own." |
+
+`process/stages/06-draft.md` already says to "withhold only … until the
+payoff point the outline gives". There is nothing yet to define that payoff
+point.
 
 ## Proposal
 
 ### 1. The payoff ledger (takeaway 1)
 
-**The rule.** The style guide gains a positive rule that sits beside "trust
-the reader":
+**The rule.** This one goes in the style guide, in the human's own terms:
 
-> **Inference pays off.** The reader may be asked to work something out, and
-> working it out is part of the pleasure. But by the end, every load-bearing
-> fact (the novum's mechanism, the stakes, the twist, and why the people in
-> power did what they did) is stated plainly on the page, so the reader who
-> didn't work it out still gets the payoff.
+> **Inference pays off.** The reader may be asked to work things out, and
+> working them out is part of the pleasure. But every load-bearing fact
+> (the novum's mechanism, the stakes, the twist, and why the people with
+> power did what they did) is made explicit on the page eventually, so a
+> reader who didn't work it out still gets the payoff.
 
-**The bible.** `templates/story-bible.md` gains a **Payoff ledger** table.
+**The bible.** `templates/story-bible.md` gains a **Payoff ledger** table:
 
-| Withheld | Why it's withheld | Hinted at | Made explicit in (scene) | How (line or event) |
+| Row | The fact | Hinted at (scene) | Made explicit in (scene) | The explicit line or event |
 |---|---|---|---|---|
 
-The table needs one row for each of:
+The ledger's **graded rows** are fixed. Every story has them:
 
-- the premise;
-- the stakes;
-- the twist, if there is one;
-- each mechanism the plot turns on;
-- each "why" a reader would ask.
+- **Premise:** what the story is about.
+- **Stakes:** what the protagonist can win or lose.
+- **Why:** why the people or powers who set things up did it.
+- **Twist:** if the story has one.
+- **Ending:** what happens, and why.
 
-"Never explained" isn't a valid entry. A fact can be withheld until a
-particular scene, and no later than the final one. The bible template's
-headings that invite "never explained" are reworded.
+Further rows, one per mechanism the plot turns on, are **traced** rows. They
+aren't graded, but they must have an explicit line.
 
-**The outline.** The information plan in `templates/outline.md` gains a
-**Made explicit by** column, keyed to the ledger. Then:
+"Never explained" is not a valid ledger entry. Every row is made explicit by
+the final scene.
 
-- Stage 5's Asimov question becomes: *is every ledger row made explicit
-  before the end?*
-- Stage 6 requires the drafter to put each ledger row on the page.
-- The drafter's notes quote the line that does it.
+**Stakes before the climax.** The **Stakes** row is made explicit *before
+the climax*, not just by the end. This is an inference from the human's
+scores, not something the human said: Consequence 2, and an ending whose loss
+was felt but not understood. The human should confirm it.
 
-### 2. A comprehension gate before polish (takeaways 4, 5 and 7)
+**The outline** gains a **Made explicit by** column in its information plan,
+keyed to the ledger rows. The drafter's notes quote the explicit line for
+every row.
 
-**What the First Reader answers.** After its single cold read, the First
-Reader answers these questions in its report, without rereading:
+### 2. The comprehension gate (takeaways 4, 5 and 7)
 
-- **Premise:** what is this story about, in two sentences?
-- **Stakes:** what does the protagonist stand to gain or lose, and what
-  happens if they fail?
-- **Turn or twist:** what did you learn late that changed how you saw the
-  earlier part, if anything?
-- **The ending:** what happened at the end, and why?
-- **Who's who:** one line for each named character, with their role.
+**The cold read takes two turns.** That way the questions can't prime it.
 
-**Why this doesn't need a new role.** One cold read can serve both purposes:
-the reader reports its experience first, then answers. The persona's rule
-against rereading keeps the answers honest.
+1. **Turn 1.** A fresh `first-reader` reads the draft once and writes its
+   experience report, as now.
+2. **Turn 2.** The orchestrator then resumes the same agent with SendMessage,
+   carrying the **comprehension questions**:
+   - What is this story about, in two sentences?
+   - What does the protagonist stand to gain or lose, and what happens if
+     they fail?
+   - Why did the people or powers who set this situation up do it that way?
+   - What did you learn late that changed how you saw the earlier part, if
+     anything?
+   - What happened at the end, and why?
+   - Who is each named character, in one line each?
+   - What are you still unsure about?
 
-**The orchestrator compares** the answers against the payoff ledger and grades
-each row **got it** (5), **partial** (3) or **missed** (1). The grades go into
-`06-revision-plan.md` as the **Understood** scores.
+   It answers in a separate file, from memory.
 
-**The gate.** Polish (stage 9) may start only when every ledger row is graded
-*got it* by a fresh reader on the latest draft. A *missed* or *partial* row
-is a structural note for stage 8, automatically. Polish can blur a line that
-carried a payoff, so the gate runs again on `final.md` after polish, with
-another fresh reader. A miss there sends the story back to stage 8.
+The `first-reader` definition's line asking it to state the premise moves
+out of its persona and into this second turn. Whether it rereads the draft
+can't be enforced, because the agent has the Read tool. The no-reread rule is
+an honour rule, and the design says so.
 
-**The panel stops scoring understanding.** In stage 7, lenses still read the
-bible for logic checks (Egan, Asimov), but they no longer score the
-Understood axes. Those come only from the outsider. That fixes takeaway 5's
-mechanism: the insiders were scoring what they knew was meant.
+**A separate `comprehension-grader` grades the answers.** It is a new role,
+on sonnet. It sees **only** the ledger's graded rows and the reader's answer
+file. It never sees the bible, the outline or the draft.
 
-### 3. A three-part rubric (takeaways 5 and 7)
+- **Grades.** For each graded row, it gives **got it** (5), **partial** (3)
+  or **missed** (1), with a quote from the answers and one sentence of reason.
+- **The standard for "got it".** The reader states the causal link in its own
+  words. Naming the terms isn't enough. The human's failure was having the
+  terms "not put together".
+- **The "unsure" answer** is reported verbatim as a finding.
+- **The orchestrator** may lower a grade but never raise one.
 
-`process/rubric.md`'s Drafts section splits into three groups:
+**The gate.**
+- **Before polish.** Stage 9 starts only when every graded row is *got it* on
+  the latest draft. Any *partial* or *missed* row becomes an automatic
+  structural note for stage 8.
+- **After polish.** The gate runs again on `final.md`, with a fresh reader and
+  grader, and writes to `reviews/final/`. A miss there sends the story back to
+  stage 8.
+- **Loop cap.** After two consecutive failed rounds, the orchestrator logs
+  the failure, gets an `agent-guidance:consultant` opinion, and either takes
+  one more round or proceeds. Either way it flags the gap at the top of the
+  debrief appendix. A lenient grade must never be the way out.
 
-| Group | Axes | Scored by |
+**Where the grades go.** They are written to
+`reviews/draft-N/comprehension.md`, or `reviews/final/comprehension.md` after
+polish. The revision plan cites them.
+
+### 3. The three-part rubric (takeaways 5 and 7)
+
+`process/rubric.md`'s Drafts section becomes:
+
+| Group | Axis | Scored by |
 |---|---|---|
-| **Felt** | Atmosphere and texture; emotional weight of the ending | the panel and the First Reader's "moved" notes |
-| **Understood** | Premise, Stakes, Twist, Ending (one per ledger row) | the orchestrator, from the First Reader's answers against the ledger |
-| **Craft** | Structure, Character, Prose, Consequence | the panel |
+| **Felt** | Atmosphere: does the world feel like a place? | panel lenses, plus the First Reader's turn-1 report |
+| **Felt** | Weight: does the ending carry emotional force? | panel lenses, plus the First Reader's turn-1 report |
+| **Understood** | Premise, Stakes, Why, Twist, Ending | the grader, one per graded row |
+| **Understood** | Who's who | the grader, from the who's-who answers |
+| **Craft** | Structure | the panel |
+| **Craft** | Character | the panel (construction), plus the grader's who's-who score (legibility) |
+| **Craft** | Consequence | the panel (construction), plus the grader's Stakes and Why scores (legibility) |
+| **Craft** | Prose | the panel |
 
-Character and Consequence count as Craft here because the panel judges how
-they're built. Whether a reader *grasps* them is measured in the Understood
-group.
+Character and Consequence each carry **two scores**. The panel's score covers
+how well they're built. The outsider's score covers whether a reader grasped
+them. Calibration-01's gap (panel 4, human 2) was in the second.
 
-Prose criticism gets a counterweight (takeaway 5). Every lens reviewing
-prose names at least one line it would protect, and the template's "What to
+**Mapping old axes to new,** so calibration-02's scores can be compared with
+calibration-01's:
+
+| Old axis | New axis |
+|---|---|
+| Novum delivery | Atmosphere, plus Understood: Premise |
+| Consequence | Consequence (construction, plus legibility) |
+| Character | Character (construction, plus legibility) |
+| Structure | Structure |
+| Prose | Prose |
+| Ending | Weight, plus Understood: Ending |
+
+**A counterweight in prose reviews** (takeaway 5). Every lens reviewing prose
+names at least one line to protect. The critique template's "What to
 protect" section becomes required.
 
 ### 4. Polish protects (takeaway 6)
@@ -178,157 +233,158 @@ protect" section becomes required.
 - **The protect list.** `09-polish.md` builds one before the Line Editor
   runs. It's the union of three sources:
   - every review's "What to protect" lines;
-  - the First Reader's "moved, surprised or delighted" passages;
-  - every line that carries a payoff-ledger row.
+  - the First Reader's moved, surprised or delighted passages;
+  - every line quoted as a payoff-ledger line.
 
-  The Line Editor may not cut or reword a protected line without logging why.
-- **No cut quota.** The quota goes from both the persona and the stage file.
-  The Line Editor cuts slack. The change log reports the word delta, but no
-  target is set.
-- **Lyricism has a positive rule.** The style guide gains a short rule saying
-  an ornate line earns its place when it is a concrete physical image or a
-  moment between people. The human's protected lines are the examples. The
-  abstract, stacked construction the human couldn't follow is the
-  counter-example ("Twenty-two years of reading things that wanted a reaction
-  from her…").
+  The Line Editor doesn't cut or reword a protected line without logging why.
+- **No cut quota.** "Cut 5 to 10 percent", "Shortness is a feature" and "Cut
+  3% to 6%" go. The Line Editor cuts slack, and the change log reports the
+  word delta.
+- **Earned lyricism.** The style guide gains a rule that an ornate line
+  earns its place when it's a concrete physical image or a moment between
+  people.
+  - The human's protected lines are the examples.
+  - The abstract, stacked construction is the counter-example: "Twenty-two
+    years of reading things that wanted a reaction from her…"
+- **The Rajaniemi spot-check** changes from "is anything still explained that
+  context would carry?" to "**is any explanation clumsy, as opposed to
+  present?**" The spot-check stops removing payoffs.
 
 ### 5. Names arrive slowly (takeaway 3)
 
-**The judgement rule.** The style guide and the outline template gain an
-**introductions** rule:
-
-- every named character and invented term arrives with its role attached,
-  within the same sentence or the next;
-- the opening scene introduces few of them.
-
-The outline's scene table gains an **Introduces** column, so the load per
-scene is visible at stage 5.
-
-**The mechanical check.** A new warn-only lint rule, `name-load`, counts the
-distinct capitalised names and terms in each scene (from heading to heading)
-and warns above a threshold set in the TOML. It's tuned against
-calibration-01's opening scene, the "Nine" scene, which the human named as
-too dense, used as the positive fixture. It is warn-only because
-capitalisation is a rough proxy for "a new thing to remember".
+- **The introductions rule.** The style guide and the outline template gain
+  it: every named character and invented term arrives with its role
+  attached, and the opening scene introduces few of them.
+- **The Invented terms rule is reworded.** It currently bans a gloss in
+  apposition. The new wording allows the role in the same sentence and bans
+  only a dictionary-style gloss.
+- **The outline's scene table** gains an **Introduces** column, so stage 5
+  can see the load in each scene.
+- **The check** is the grader's **Who's who** score. A lint rule was
+  considered and dropped. Capitalisation misses the novum's lowercase terms,
+  and sentence-initial words swamp the count.
 
 ### 6. Length follows load (takeaway 2)
 
-- **A range, not a point.** `templates/brief.md` asks for a **length range**
-  (for example 4,000–7,000), not a single figure. A brief below
-  `PROCESS.md`'s floor must say why, in a waiver line.
-- **The load estimate.** Each premise in `03-synthesis.md` gains a **Load**
-  line, which counts:
-  - its nova;
-  - its factions or institutions the reader must understand;
-  - its twist;
-  - its viewpoint characters.
+- **The brief** gives a **length range**. A brief below `PROCESS.md`'s
+  3,000-word floor must name the reason in a waiver line.
+- **Each premise** in `03-synthesis.md` gains a **Load** line: its nova plus
+  its twist. Its **estimated minimum** is 3,000 words plus about 1,500 for
+  each novum or twist after the first. That gives 6,000 for calibration-01.
+  This is a heuristic with a single data point behind it, and calibration-02
+  re-tests it.
+- **The stage 3 gate** rejects or narrows any premise whose minimum is above
+  the top of the range.
+- **Range-aware stage files.** Stage 2 judges Yield at the range's midpoint.
+  Stage 6's ceiling becomes the range's top.
 
-  From the load, the orchestrator estimates the minimum words the premise
-  needs. As a starting heuristic, recorded as a heuristic and not a rule:
-  3,000 words, plus about 1,500 for each novum or twist after the first.
-- **The gate check.** The stage 3 gate rejects a premise whose estimated
-  minimum is above the brief's range, or else narrows the premise first.
-  Calibration-01's premise carried two nova and a twist, so the heuristic
-  gives about 6,000 words, against a brief of 2,500.
+### 7. The proxy gate mode (takeaway 8)
 
-### 7. A gate mode in the brief (takeaway 8)
-
-`templates/brief.md` gains a **Gates** field: `human` or `proxy`. It defaults
-to `proxy` from now on, because the human has asked to read blind.
+`templates/brief.md` gains a **Gates** field, which is either `human` or
+`proxy`. The default is `proxy`, because the human has asked to read blind.
 
 **In `proxy` mode:**
 
-- **The brief is the human's only gate.** The human sets the brief (stage 0)
-  and reads the finished story.
-- **The orchestrator decides every later gate.** It writes each decision, its
-  reasons and the runner-up to `STATUS.md`, as it did for calibration-01.
-- **A second opinion before the premise.** At the stage 3 gate, the
-  orchestrator gets an independent opinion before choosing, using the
-  `agent-guidance:consultant` agent with the audit and the critiques.
-  Choosing the premise is the gate where the proxy's own bias costs the most.
-- **No spoilers.** Every message to the human during the run is
-  premise-free. Progress reports give stage names, counts and scores only:
-  no titles, no nova, no character names. `STATUS.md` and the artifacts hold
-  the premise, so the human is told not to open them until they've read the
+- **The run is unattended.** It's started from the brief and runs overnight
+  or detached. The no-spoiler rule is only keepable if nobody watches the
+  terminal.
+- **The human's part.** The human writes the brief (stage 0) and decides
+  whether the story **lands**, after the debrief. The proxy never lands a
   story.
-- **Reading order.** When the run ends, the orchestrator tells the human that
-  `final.md` (or the EPUB) is ready, and nothing more. The debrief comes
-  after the human has read it.
+- **The proxy's part.** The orchestrator decides every gate from stage 2
+  through stage 9 and logs each decision, with its reasons and runner-up, in
+  `STATUS.md`.
+- **The stage 3 gate** gets an `agent-guidance:consultant` second opinion
+  before the premise is chosen.
+- **No spoilers** in anything the human sees before reading:
+  - The slug and branch are chosen at stage 0, from the brief: for example
+    `calibration-02`. They are never renamed after the premise.
+  - Commit messages name the stage, not the premise.
+  - The end-of-run message says only that the story is ready, and where.
 
-**The debrief becomes stage 10,** with a stage file and a template drawn from
-the structure of `human-feedback.md`:
+**The debrief becomes stage 10,** with a stage file and a
+`templates/debrief.md` modelled on `human-feedback.md`. Its order is fixed:
 
-1. the unprimed interview first;
-2. then rubric scores, using the three-part rubric;
-3. then the questions for the human;
-4. then the lines to protect;
-5. then the process takeaways.
+1. **An unprimed interview,** which opens with the First Reader's turn-2
+   questions word for word. That makes the human's answers comparable with
+   the reader's, which is the test of whether the gate predicts the human.
+   It asks no question that reveals a detail, such as "what had to happen
+   when the nine days ran out".
+2. **Rubric scores,** on the three-part rubric.
+3. **The run's own open questions.**
+4. **Lines to protect.**
+5. **Process takeaways.**
 
-`MORNING.md` merges into the debrief as its "what the run decided" appendix.
-It is shown only after the interview's unprimed questions.
+**`MORNING.md`** stays a separate file. It's written at the end of the run,
+but the human is told not to open it until after the interview's first
+section.
 
-`AGENTS.md`'s gate rule becomes: "**The brief's gate mode decides who decides.**
-In `human` mode the human decides at every gate. In `proxy` mode the
-orchestrator decides every gate after the brief, logs each decision with its
-runner-up, and never spoils the premise to the human."
+**The gate rule in `AGENTS.md`** becomes: "**The brief's gate mode decides
+who decides.** In `human` mode the human decides every gate. In `proxy` mode
+the orchestrator decides every gate after the brief, logs each one, never
+spoils the premise to the human, and never lands a story: landing waits for
+the human, after the debrief."
 
 ## Decisions
 
-### The First Reader answers the comprehension questions; no separate role
+### The cold read takes two turns, and grading uses a separate agent
 
-**Rejected:** a separate `comprehension-reader` agent. A second cold reader
-costs a second read for no gain, because the questions come after the read
-and the no-reread rule already keeps the answers unprimed. One role keeps
-"experience" and "understanding" from the same reading, which is what the
-human gave.
+**Rejected:** questions in the reader's first prompt. They prime the read,
+because the persona and prompt are read before the draft.
 
-### The First Reader stays on sonnet
+**Rejected:** orchestrator grading. The orchestrator wrote the ledger, and in
+calibration-01 it read a confused reader's report as a pass.
 
-**Rejected:** moving the reader to opus. A stronger reader infers more from
-subtle cues, which makes it a worse stand-in for a human reading at leisure
-on a Kindle. The calibration-01 readers didn't fail by being too weak to
-infer the twist. They failed because nobody asked them. A reader that misses
-an under-stated payoff is the signal this gate needs.
+**Rejected:** a separate cold reader for comprehension. That costs a second
+read. With two turns, one reader gives both the experience report and the
+answers.
 
-### Understanding is scored only by the outsider
+### The First Reader stays on sonnet, and the grading gets strict
 
-**Rejected:** having lenses do a cold read before opening the bible. A lens
-that knows it will read the bible later still reads as an insider, and the
-human's scores showed insider grading as the failure.
+The draft-2 sonnet reader stated a passable premise and raised the twist,
+and the human managed neither. So sonnet already reads more strongly than
+this human reads a story, and a pass is weak evidence on its own. Moving to
+opus would make the gap worse. **Chosen:** keep sonnet, and require a causal
+link in the reader's own words for "got it".
 
-### The proxy is the default gate mode, and `human` remains available
+### Understanding is scored only by an outsider
 
-**Rejected:** gates that hide the premise. The human declined them. Also
-rejected: dropping human gates entirely. A future story may want them.
+**Rejected:** lenses doing a cold read before opening the bible. A lens that
+knows the bible is coming still reads as an insider.
+
+### Proxy is the default; landing stays human
+
+**Rejected:** gates that hide the premise. The human declined them.
+
+**Rejected:** a proxy that also lands. Landing is cheap to hold, and the
+debrief is where the human finds out whether the run worked.
 
 ## Not decided here
 
-- **Revising Raking Light** to apply the takeaways. That's a story change, not
-  a process change. Calibration-02 tests the process instead.
-- **The exact length heuristic and the `name-load` threshold.** Both get
-  tuned in implementation against calibration-01, and the numbers are
-  recorded as heuristics that calibration-02 will re-test.
-- **Whether a passed comprehension gate predicts the human's
-  understanding.** The debrief of calibration-02 is the test. If the reader
-  gets it and the human doesn't, the reader is too strong a proxy, and the
-  model decision above reopens.
-- **Retro findings deferred earlier:** the story-facts ledger, separate
-  drafter's-notes files and `status.py`. The payoff ledger overlaps with the
-  facts ledger, and implementation may fold them together.
+- **Revising Raking Light.** That's a story change. Calibration-02 tests the
+  process instead.
+- **Whether a passed gate predicts the human.** The test is calibration-02's
+  debrief, using the same questions. If the reader and grader pass and the
+  human misses, the reader-model and grading-standard decisions reopen.
+- **The length heuristic.** It's re-tested on calibration-02.
+- **Retro findings deferred earlier:** the story-facts ledger, drafter's-notes
+  files and `status.py`. The payoff ledger may absorb the facts ledger, and
+  implementation decides that.
 
 ## Graduation
 
 - **Decision records** under `dev_docs/decisions/`:
-  - the First Reader as the comprehension gate (covering both the
-    single-role and the sonnet choices);
-  - understanding scored only by the outsider;
-  - proxy gates as the default mode.
+  - the two-turn read with outsider grading;
+  - the First Reader staying on sonnet with strict grading;
+  - proxy gates with human landing.
 - **Conventions:**
-  - `AGENTS.md`: the gate-mode rule and the no-spoilers rule.
+  - `AGENTS.md`: the gate-mode rule.
   - `process/PROCESS.md`: the comprehension gate, stage 10, and gate modes.
-  - `process/style-guide.md`: the payoff, lyricism and introductions rules.
-  - `process/rubric.md`: the three-part draft rubric.
-  - The templates (brief, story bible, outline, critique, and a new debrief
-    template), the stage files, the First Reader and Line Editor personas and
-    definitions, and `prose-rules.toml`.
+  - `process/style-guide.md`: the payoff, earned-lyricism and introductions
+    rules, plus reworded rules 2–3 and the Invented terms rule.
+  - `process/rubric.md`: the three-part draft rubric and the axis mapping.
+  - Templates: brief, story bible, outline, critique, and a new debrief.
+  - Stage files 02, 03, 06, 07, 08 and 09, plus a new 10.
+  - The First Reader and Line Editor personas and definitions, and a new
+    `comprehension-grader` definition.
 - **Delete this design** as the branch's last commit before it lands.
