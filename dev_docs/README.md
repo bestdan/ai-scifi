@@ -7,6 +7,7 @@ plugin. This file lists only what this repo has.
 |---|---|
 | `designs/` | proposals for changes to the story process or its tooling. Each is deleted once its change lands |
 | `decisions/` | why the process and tooling are shaped as they are, one record per choice |
+| `.handoffs/` | session-to-session notes, gitignored. Only its `README.md` is tracked |
 
 There's no `tasks/` directory right now. `/plan-with-docs` scaffolding lives
 there while a plan is in flight, and is deleted when the plan lands.
