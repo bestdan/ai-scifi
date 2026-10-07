@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Lint story prose against process/prose-rules.toml.
 
-Usage: python3 scripts/lint_prose.py [--warn-only] [--rules PATH] FILE...
+Usage: python3 scripts/lint_prose.py [--warn-only] [--quiet] [--rules PATH] FILE...
 
 Prints one line per finding, `path:line: [error|warn|waived] rule-id: "text"`,
 then a summary of each budget's use. Exits 1 on any error or budget overrun
-(unless --warn-only), else 0.
+(unless --warn-only), else 0. --quiet prints only what makes the lint fail.
 
 Skipped: Markdown headings, the scene-break line `<p align="center">·</p>`,
 and everything after a `## Drafter's notes` heading. A story's deliberate rule
@@ -193,16 +193,21 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("files", nargs="+", type=Path)
     ap.add_argument("--warn-only", action="store_true")
+    ap.add_argument("--quiet", action="store_true",
+                    help="print only errors and budget overruns")
     ap.add_argument("--rules", type=Path, default=DEFAULT_RULES)
     args = ap.parse_args(argv)
     rules = load_rules(args.rules)
     any_failed = False
     for path in args.files:
         findings, failed, summary = lint(path, rules)
+        over = {line.split("budget ")[1].split(":")[0] for line in summary if "OVER" in line}
         for f in sorted(findings, key=lambda f: f.line):
-            print(f)
-        for s in summary:
-            print(s)
+            if not args.quiet or f.severity == "error" or f.rule in over:
+                print(f)
+        for line in summary:
+            if not args.quiet or "OVER" in line:
+                print(line)
         any_failed |= failed
     return 0 if args.warn_only or not any_failed else 1
 

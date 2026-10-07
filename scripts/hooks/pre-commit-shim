@@ -1,0 +1,11 @@
+#!/bin/sh
+# Installed into the shared .git/hooks/pre-commit by `just install-hooks`.
+# It is a copy rather than a symlink: a symlink into a worktree dangles once
+# that worktree is torn down, and the global delegate then skips the hook
+# without a word. Resolving the script at run time, per worktree, avoids that.
+hook="$(git rev-parse --show-toplevel)/scripts/hooks/pre-commit"
+if [ -f "$hook" ]; then
+  exec sh "$hook" "$@"
+fi
+echo "pre-commit: $hook not found in this checkout; prose lint skipped." >&2
+exit 0

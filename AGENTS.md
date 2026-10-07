@@ -9,6 +9,17 @@ You are running a fiction-writing pipeline, not a codebase. The process in
   current stage, every gate decision and why it went that way, and any open
   questions. Read it first when you resume a story, and update it at every
   gate. Don't rely on conversation memory carrying across sessions.
+- **A story is written on its own branch.** Use `EnterWorktree` with
+  `name: story-<slug>`, which gives the branch `bestdan/story-<slug>`. The
+  global worktree rules cover the rest. Commit normally: the repo's
+  pre-commit hook lints any staged `final.md`. `ExitWorktree` at the end of
+  each session. Once `.claude/agents/` is tracked this needs an unsandboxed
+  run, and the next session's `EnterWorktree` with the same name re-attaches.
+- **A story lands only after the human signs off.** From the main checkout,
+  run `git merge --ff-only bestdan/story-<slug>`. If `main` has moved, rebase
+  the story branch first. `dli check` runs the tests, the prose lint on every
+  `final.md`, and the dev_docs layout check. `just lint <file>` lints one
+  draft.
 - **The human decides at every gate.** Lay out the options and give your
   recommendation, then stop. Don't advance a story past a gate on your own.
 - **A persona is a lens, not an impersonation.** When you dispatch a persona

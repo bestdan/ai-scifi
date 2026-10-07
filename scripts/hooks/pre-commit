@@ -1,0 +1,24 @@
+#!/bin/sh
+# Repo pre-commit hook: lint every staged stories/*/final.md strictly.
+# It lints the staged (index) version, not the working file, so what is
+# checked is what gets committed. Drafts are deliberately not linted here.
+# Installed via the shim that `just install-hooks` writes.
+set -eu
+top="$(git rev-parse --show-toplevel)"
+status=0
+tmp="$(mktemp -d)"
+trap 'rm -rf "$tmp"' EXIT
+for path in $(git diff --cached --name-only --diff-filter=ACM -- 'stories/*/final.md'); do
+  # Recreate the story dir so the linter finds the story's lint-waivers.toml.
+  dir="$tmp/$(dirname "$path")"
+  mkdir -p "$dir"
+  git show ":$path" > "$dir/final.md"
+  if git cat-file -e ":$(dirname "$path")/lint-waivers.toml" 2>/dev/null; then
+    git show ":$(dirname "$path")/lint-waivers.toml" > "$dir/lint-waivers.toml"
+  fi
+  if ! python3 "$top/scripts/lint_prose.py" --quiet "$dir/final.md"; then
+    echo "pre-commit: $path fails the prose lint (see above)." >&2
+    status=1
+  fi
+done
+exit $status
