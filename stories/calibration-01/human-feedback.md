@@ -127,8 +127,10 @@ left it blank. The human read `final.md`, which came after draft 2.
 
 - **The panel was too generous where understanding was needed.** Consequence
   and Character each came in 2 points below the panel. Both depend on
-  grasping the stakes. Whether the review lenses were given `04-bible.md` is
-unverified. None of the draft-2 reviews cites it.
+  grasping the stakes. The round-2 review prompts told the lenses to read
+  `04-bible.md` "for context." (This comes from the process agent; none of
+  the draft-2 reviews cites the bible.) So the lenses likely scored what
+  they knew was meant, not what was on the page.
 - **The panel was too harsh on prose.** The human scored it 5 and wants more
   room for lyricism when it earns its place. The panel pushed the other way:
   the Cartographer's "Zingers cut but not cured" and the polish stage's
@@ -222,7 +224,9 @@ are not changes anyone has made yet.
    and the orchestrator compares that with the bible. A gap blocks polish.
 5. **The panel over-scores comprehension and under-scores prose.** [process:
    stage 7, rubric] The human scored Consequence and Character 2 against the
-   panel's 4, and Prose 5 against the panel's 3–4.
+   panel's 4, and Prose 5 against the panel's 3–4. The lenses had read the
+   bible, so they were insiders scoring intent. Any comprehension check
+   (takeaway 4) should go to a reader who sees only the manuscript.
 6. **Polish protects lyricism as well as cutting it.** [process: stage 9 and
    the style guide] The human wants more flowery, poetic lines when they
    earn their place. The banned-list pass and the "zinger" cuts push the
@@ -236,6 +240,10 @@ are not changes anyone has made yet.
 8. **The human reads blind.** [process: gates] The human wants to read the
    next story without knowing its idea in advance. That conflicts with "the
    human decides at every gate" (`AGENTS.md`, `PROCESS.md`), since the gates
-   at stages 2 and 3 show the premise. Some arrangement has to be chosen:
-   the orchestrator acting as proxy at the idea gates, as it did for
-   calibration-01, or gates that hide the premise.
+   at stages 2 and 3 show the premise. **The human's decision:** the
+   orchestrator acts as proxy at the gates, as it did for calibration-01,
+   and the human reads only the finished story. Gates that hide the premise
+   were offered and declined. Every gate from stage 2 on shows the premise
+   (the bible at stage 4 and the outline at stage 5 included), so the human
+   can set the brief at stage 0 at most. The rest of the gates need a
+   proxy.
