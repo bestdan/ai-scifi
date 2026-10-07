@@ -15,7 +15,10 @@ Don't pass `model:`.
      form of "Story of Your Life" is tied to its idea.
    - **The scenes.** Each with its purpose, its turn, and what it reveals.
    - **The information plan.** Facts surface as dramatized discovery, and
-     late rather than early when in doubt.
+     late rather than early when in doubt. Every payoff-ledger row gets a
+     "Made explicit by" scene, and Stakes comes before the climax.
+   - **Introductions.** The scene table's Introduces column lists each new
+     name and term. Keep the opening scene's list short.
    - **The ending.** Its final image, and what it costs.
 2. If the story hinges on a fair-play clue, add a calendar or arithmetic
    section that plants every input before the payoff scene.
@@ -35,8 +38,8 @@ Don't pass `model:`.
 
 | Lens | Questions |
 |---|---|
-| Asimov | Can a reader state the rules by the midpoint? Is every clue planted early and fairly, and could an attentive reader beat the protagonist to it? Is anyone required to be stupid? Does any scene fail to turn? Is the information plan in the right order? Is the length realistic for the scene count? |
-| Chiang | Does the climax grow out of the idea? Which scene is unnecessary? Is the cost paid on the page rather than stated? Does the ending deepen the question rather than answer it? Is there a light formal device that would make the form enact the idea? |
+| Asimov | Can a reader state the rules by the midpoint? Is every clue planted early and fairly, and could an attentive reader beat the protagonist to it? Is anyone required to be stupid? Does any scene fail to turn? Is the information plan in the right order? Is the length realistic for the scene count? Is every payoff-ledger row made explicit, with Stakes before the climax? |
+| Chiang | Does the climax grow out of the idea? Which scene is unnecessary? Is the cost paid on the page rather than stated? Does the ending deepen the question rather than answer it? Is there a light formal device that would make the form enact the idea? Does any scene introduce more names than it anchors? |
 | Banks | Is the scale felt at least once, concretely? Where does the wit live, and is there enough of it? Would reordering the scenes hit harder? Is it enjoyable to inhabit? Who is missing from the view? |
 | other | Your persona's "In critique" questions. |
 

@@ -30,7 +30,11 @@ with SendMessage, so the voice holds across drafts.
 - **Planting.** Plant every fact the ending depends on before the ending
   needs it, and make sure any arithmetic is actually correct.
 - **Withholding.** Withhold only what the outline says to withhold, and
-  only until the payoff point the outline gives for it.
+  only until the payoff point the outline gives for it. Every payoff-ledger
+  row in the bible is made explicit on the page, and Stakes comes before the
+  climax.
+- **Introductions.** Bring in each name and invented term with its role
+  attached, at the pace the outline's Introduces column sets.
 - **Specificity.** Make every sentence specific: things, weather, food,
   materials.
 - **Lint.** Run `just lint stories/<slug>/drafts/draft-1.md`. Fix every error
@@ -39,6 +43,7 @@ with SendMessage, so the voice holds across drafts.
 
 After the story, add a `## Drafter's notes` section with:
 - the word count of the story text alone;
+- for each payoff-ledger row, the line that makes it explicit, quoted;
 - each departure from the outline, and why;
 - each rule broken on purpose, and why.
 

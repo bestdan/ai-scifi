@@ -5,7 +5,8 @@
 
 ## The novum
 - **What it is:**
-- **How it works:** <mechanism, at the depth the story needs and no further>
+- **How it works:** <mechanism, at the depth the story needs and no further.
+  Whatever the plot turns on gets a row in the payoff ledger.>
 - **What it costs:**
 - **Its rules and their edge cases:**
 
@@ -44,6 +45,33 @@ For each character:
 ## Glossary
 | Term | Meaning | Where the term comes from |
 |---|---|---|
+
+## Payoff ledger
+Every load-bearing fact the reader may infer, and the place on the page where
+it stops being an inference. The style guide's "Inference pays off" rule is
+the reason this table exists.
+
+| Row | The fact | Hinted at (scene) | Made explicit in (scene) | The explicit line or event |
+|---|---|---|---|---|
+| Premise | <what the story is about> | | | |
+| Stakes | <what the protagonist can win or lose, and what happens if they fail> | | | |
+| Why | <why the people or powers who set things up did it that way> | | | |
+| Twist | <the twist, or "none"> | | | |
+| Ending | <what happens at the end, and why> | | | |
+| <mechanism> | <one traced row per mechanism the plot turns on> | | | |
+
+- **Graded rows.** Premise, Stakes, Why, Twist and Ending are fixed. Every
+  story has them, and the stage 7 comprehension gate grades a cold reader
+  against them. A story with no twist writes "none" in that row.
+- **Traced rows.** Add one for each mechanism the plot turns on, including
+  any number or date whose arithmetic the ending depends on (give the
+  arithmetic in the fact column). They aren't graded, but each needs an
+  explicit line.
+- **Stakes come before the climax.** The Stakes row is made explicit in a
+  scene before the climax, not only by the end.
+- **"Never explained" is not a valid ledger entry.** Every row is made
+  explicit by the final scene. A fact may be withheld, but only until the
+  scene this table names.
 
 ## Rules deliberately broken
 <any judgement rule from the style guide this story breaks on purpose, and

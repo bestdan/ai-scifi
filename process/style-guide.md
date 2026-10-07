@@ -30,12 +30,14 @@ default tone for every stage, from ideation on.
 
 1. **Specific over general.** Not "advanced technology" but the one device,
    what it's made of, and what it smells like when it overheats.
-2. **Live the novum, don't explain it.** Characters who've lived with a thing
+2. **Live the novum, don't lecture it.** Characters who've lived with a thing
    all their lives don't explain it to each other. The reader infers it from
-   what people take for granted. Exposition is allowed only where a character
-   in the scene has a reason to explain.
-3. **Trust the reader.** Leave invented terms undefined when context carries
-   them. Cut the sentence that explains the subtext.
+   what people take for granted. Exposition comes where a character in the
+   scene has a reason to explain, or from the narration at the payoff point
+   the bible's payoff ledger names.
+3. **Trust the reader, then pay them.** Leave invented terms undefined while
+   context carries them. Subtext may stay subtext, as long as every fact in
+   the payoff ledger is explicit on the page.
 4. **Dialogue has friction.** People talk past each other, dodge, lie, and
    mean less than they say or more. Nobody delivers the theme out loud.
 5. **Consequences surface sideways.** The big change shows itself through a
@@ -44,6 +46,29 @@ default tone for every stage, from ideation on.
    can open a question instead of closing one.
 7. **Names come from the world.** Derive them from the culture, language and
    history the story has built.
+8. **Inference pays off.** The reader may be asked to work things out, and
+   working them out is part of the pleasure. But every load-bearing fact
+   (the novum's mechanism, the stakes, the twist, and why the people with
+   power did what they did) is made explicit on the page eventually, so a
+   reader who didn't work it out still gets the payoff.
+9. **Names arrive slowly.** Every named character and invented term arrives
+   with its role attached, and the opening scene introduces few of them. A
+   reader keeps track of people in scenes with few people in them.
+10. **Lyricism earns its place.** An ornate line stays when it is a concrete
+    physical image or a moment between people. These are lines the human
+    protected in calibration-01:
+    - "...with the oilskin satchel held level in front of him, the way other
+      men carry a full bowl."
+    - "It tasted of nothing, the way a word goes to nothing when you have
+      said it forty times."
+    - "She laughed. It came up out of her like a hiccup, too loud for the
+      kitchen, and then it kept coming, and she had to hold the edge of the
+      table."
+
+    An abstract, stacked construction doesn't earn it. The human couldn't
+    follow this one: "Twenty-two years of reading things that wanted a
+    reaction from her had left her face with almost nothing to do on its
+    own."
 
 ## The banned list
 
@@ -108,8 +133,9 @@ goes in `stories/<slug>/lint-waivers.toml` as a `[[waiver]]` entry with
 
 - Keep a glossary in `04-bible.md`. Use each term with the same meaning every
   time.
-- Introduce a term where the meaning can be inferred, never next to a gloss in
-  apposition (", a device that…").
+- Introduce a term with its role attached. Saying in the same sentence what
+  the thing does, or who the person is to the scene, is fine. A
+  dictionary-style gloss in apposition (", a device that…") is not.
 - Coin terms the way a culture would: by compounding, clipping, borrowing
   from other languages, slang, or a brand name gone generic. Avoid Latinate
   techno-jargon.

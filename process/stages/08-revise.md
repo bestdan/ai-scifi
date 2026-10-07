@@ -27,6 +27,7 @@ calls the draft structurally done, usually after 2 or 3 rounds.
 
 **Read:**
 - `stories/<slug>/06-revision-plan.md`. It is binding.
+- the payoff ledger in `stories/<slug>/04-bible.md`
 - the reviews in `stories/<slug>/reviews/draft-N/` that the plan cites
 - `stories/<slug>/drafts/draft-N.md`
 
@@ -39,6 +40,7 @@ calls the draft structurally done, usually after 2 or 3 rounds.
 
 After the story, add a `## Drafter's notes` section with:
 - the word count of the story text alone;
+- for each payoff-ledger row, the line that makes it explicit, quoted;
 - one line per numbered plan item, saying how it was handled;
 - anything declined, and why.
 
