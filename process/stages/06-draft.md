@@ -1,0 +1,48 @@
+# Stage 6: Draft
+
+**Dispatch:** one `drafter`, with this prompt:
+
+`Stage: process/stages/06-draft.md. Story: stories/<slug>.`
+
+Don't pass `model:`. Keep the agent's ID. Stage 8 resumes this same agent
+with SendMessage, so the voice holds across drafts.
+
+## For the orchestrator
+
+- Read the draft yourself before review starts.
+- Commit it.
+
+## For the agent
+
+**Read, in this order:**
+1. `stories/<slug>/00-brief.md`
+2. the Decision section of `stories/<slug>/03-synthesis.md`
+3. `stories/<slug>/04-bible.md`, all of it. Its amendments and stress-test
+   resolutions are binding.
+4. `stories/<slug>/05-outline.md`. Its scenes table is the plan.
+
+**Task:** write the whole story as draft 1.
+- **Length.** Aim at the brief's target. The hard ceiling is the brief's, or
+  115% of the target if the brief doesn't give one.
+- **Title.** Choose your own; a working title is only a placeholder.
+- **Voice and form.** Use the voice the bible sets, and any headings or
+  formal device the outline specifies.
+- **Planting.** Plant every fact the ending depends on before the ending
+  needs it, and make sure any arithmetic is actually correct.
+- **Withholding.** Withhold only what the outline says to withhold, and
+  only until the payoff point the outline gives for it.
+- **Specificity.** Make every sentence specific: things, weather, food,
+  materials.
+- **Lint.** Run `just lint stories/<slug>/drafts/draft-1.md`. Fix every error
+  and every budget overrun. If you break a linted rule on purpose, add a
+  waiver to `stories/<slug>/lint-waivers.toml` with the reason.
+
+After the story, add a `## Drafter's notes` section with:
+- the word count of the story text alone;
+- each departure from the outline, and why;
+- each rule broken on purpose, and why.
+
+**Write:** `stories/<slug>/drafts/draft-1.md`
+
+**Reply:** the title, the word count, and one sentence on the biggest risk you
+see in the draft.

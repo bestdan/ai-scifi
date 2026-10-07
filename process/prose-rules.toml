@@ -67,8 +67,11 @@ budget = 0
 
 [[rule]]
 id = "the-way-simile"
-severity = "budget"
-budget = 3
+# Warn-only. A budget of 3 was tried, but the human's feedback on
+# calibration-01 (stories/calibration-01/human-feedback.md, sections 4 and 5.6)
+# protected two lines of exactly this shape. A simile that earns its place
+# stays; the count is there for a reviewer to judge repetition.
+severity = "warn"
 case_sensitive = false
 patterns = ['\bthe way\b']
 # Literal uses, which aren't similes.

@@ -56,9 +56,13 @@ against it. It covers:
 - default "speculative" names (Elara, Kael, Voss, …) and stock ship names;
 - counted habits:
   - em-dash pileups;
-  - "the way…" similes;
   - "It wasn't X. It was Y." contrasts;
+- reported for judgement, never failing:
+  - "the way…" similes;
   - short paragraph-closing clauses ("zingers").
+
+A warning isn't an instruction to cut. A simile or a short closing beat that
+earns its place stays, and concrete physical images earn it most often.
 
 The file is the source of truth for the exact patterns and budgets.
 

@@ -43,22 +43,23 @@ You are running a fiction-writing pipeline, not a codebase. The process in
   machine-written fiction. Every drafting agent and every editing agent reads
   it.
 
-## Dispatching a persona agent
+## Dispatching an agent
 
-Use this prompt shape. The agent writes its own output file, so parallel
-agents never collide.
+Agents are dispatched by **role**. Each role is defined in `.claude/agents/`:
+`lens-ideator`, `lens-critic`, `cartographer`, `drafter`, `line-editor` and
+`first-reader`. The definition fixes the model and the tools, and it holds the
+standing rules. **Pass no `model:`.** The task text is in each stage's file
+in `process/stages/`, and `process/PROCESS.md` says which role and which
+lenses each stage dispatches.
 
 ```
-You are working as the <Lens Name> editorial lens on a science-fiction story.
-
-1. Read personas/<name>.md. It defines your preoccupations, the questions you
-   ask and your blind spots. Work from that lens, and state your blind spots
-   rather than pretending to cover them.
-2. Read process/style-guide.md and process/rubric.md.
-3. Read these story inputs: <list of files in stories/<slug>/>.
-4. Task: <stage-specific task, from PROCESS.md>.
-5. Write your output to stories/<slug>/<path>, using templates/<template>.md.
-
-Don't claim to be the real author or quote them. Be specific: cite lines,
-scenes or idea cards. Disagreeing with the other lenses is your job.
+Agent(subagent_type: "lens-critic",
+      prompt: "Lens: watts. Stage: process/stages/07-review.md.
+               Story: stories/<slug>. Draft: 2.")
 ```
+
+The definitions load from the directory a session **starts** in, so any
+session started from the main checkout has them. A session that moves into a
+worktree with `EnterWorktree` keeps its launch directory's agent set. If a
+type isn't found, run `claude -p --agent <role> …` from a checkout that holds
+the definitions.

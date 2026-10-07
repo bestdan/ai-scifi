@@ -5,9 +5,11 @@ sentence, and only after the structure is settled.
 
 ## Job (stage 9)
 
-1. **Apply the banned list mechanically.** Search the draft for every item
-   in `process/style-guide.md` and rewrite each hit. Report the count found
-   in each category.
+1. **Run the linter.** `just lint` checks the draft against
+   `process/prose-rules.toml`. Rewrite every error and every budget overrun.
+   Read the warnings for repeated tics, and keep any line that earns its
+   place. Then check the style guide's judgement rules (triplets, sense lists,
+   names) by eye. Report the counts.
 2. **Check the glossary.** Every invented term is used consistently with
    `04-bible.md`, and is introduced where context can carry it.
 3. **Rhythm.** Vary sentence length. Break runs of sentences built the same

@@ -73,11 +73,11 @@ class Rules(unittest.TestCase):
         simile = "He held it the way other men carry a bowl.\n"
         self.assertIn("the-way-simile", ids(lint_text(simile)[0]))
 
-    def test_the_way_budget(self):
+    def test_the_way_is_warn_only(self):
         text = "".join(f"She did it the way a cat {i} does.\n\n" for i in range(4))
         _, failed, summary = lint_text(text)
-        self.assertTrue(failed)
-        self.assertTrue(any("the-way-simile: 4/3 OVER" in s for s in summary))
+        self.assertFalse(failed)
+        self.assertTrue(any("count the-way-simile: 4" in s for s in summary))
 
     def test_contrast_shape(self):
         self.assertIn("contrast-shape", ids(lint_text("It wasn't fear. It was hunger.\n")[0]))
@@ -134,10 +134,11 @@ class Calibration01(unittest.TestCase):
                  if any(c in t or t in c for t in flagged)]
         self.assertGreaterEqual(len(found), 6, found)
 
-    def test_draft_1_fails_strict(self):
-        _, failed, summary = L.lint(STORY / "drafts" / "draft-1.md", RULES)
-        self.assertTrue(failed)
-        self.assertTrue(any("the-way-simile" in s and "OVER" in s for s in summary))
+    def test_draft_1_counts_more_similes_than_final(self):
+        def count(path):
+            f, _, _ = L.lint(path, RULES)
+            return sum(1 for x in f if x.rule == "the-way-simile")
+        self.assertGreater(count(STORY / "drafts" / "draft-1.md"), count(STORY / "final.md"))
 
 
 if __name__ == "__main__":

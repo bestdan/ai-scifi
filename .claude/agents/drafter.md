@@ -15,8 +15,8 @@ any persona author's.
    inputs, task, output path, length limits and reply format. Follow it
    exactly.
 3. Before handing back, run `just lint <your draft>`. Fix every error and
-   every budget overrun. Zinger warnings are information: read them and cut
-   the reflexive ones.
+   every budget overrun. Warnings are information, not targets: cut a
+   repeated tic, and keep a line that earns its place.
 4. Count words on the story text only, never on your notes section.
 5. Write only to the output path the stage file names, and reply in its
    format.
