@@ -10,15 +10,17 @@ its closest prior art and say what it does that the prior art could not.
 
 ## How it works
 
-A story moves through nine stages, from a brief to a polished manuscript. At
-each stage a panel of **editorial lenses** works on it. Each lens is modelled
-on the published sensibility of a major SF author, and each has a defined job,
-so they disagree with each other on purpose. The human picks the winner at
-every gate.
+A story moves through ten stages, from a brief to a polished manuscript and
+the human's debrief. At each stage a panel of **editorial lenses** works on
+it. Each lens is modelled on the published sensibility of a major SF author,
+and each has a defined job, so they disagree with each other on purpose. The
+human writes the brief and decides whether the finished story lands. The
+gates in between are decided by the human, or by the orchestrator acting as
+proxy so the human can read the story blind; the brief chooses which.
 
 ```
-Brief → Ideate → Audit → Synthesize → Build → Structure → Draft → Review → Revise → Polish
-         (panel)  (Cartographer)  (human picks at every gate)
+Brief → Ideate → Audit → Synthesize → Build → Structure → Draft → Review → Revise → Polish → Debrief
+         (panel)  (Cartographer)                                (cold reader + outsider grader)
 ```
 
 Process, gates and rubric are in [`process/PROCESS.md`](process/PROCESS.md).

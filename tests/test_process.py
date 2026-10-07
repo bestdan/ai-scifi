@@ -4,6 +4,8 @@ import re
 import unittest
 from pathlib import Path
 
+from test_agents import COMPREHENSION_QUESTIONS
+
 REPO = Path(__file__).resolve().parent.parent
 PROCESS = REPO / "process" / "PROCESS.md"
 STAGES = REPO / "process" / "stages"
@@ -13,7 +15,7 @@ AGENTS = REPO / ".claude" / "agents"
 class ProcessLinks(unittest.TestCase):
     def test_process_links(self):
         links = re.findall(r"\]\((stages/[^)]+\.md)\)", PROCESS.read_text())
-        self.assertEqual(len(links), 9, links)
+        self.assertEqual(len(links), 10, links)
         for link in links:
             self.assertTrue((REPO / "process" / link).exists(), link)
 
@@ -42,12 +44,21 @@ class ProcessLinks(unittest.TestCase):
 
     def test_stage_files_dispatch_known_roles_without_model(self):
         roles = {p.stem for p in AGENTS.glob("*.md")}
+        # The debrief is an interview with the human; it dispatches no agent.
         for stage in STAGES.glob("*.md"):
+            if stage.name == "10-debrief.md":
+                continue
             text = stage.read_text()
             named = set(re.findall(r"`([a-z-]+)`", text)) & roles
             self.assertTrue(named, f"{stage.name} names no role")
             self.assertIn("pass `model:`", text.replace("Don't pass", "pass"),
                           f"{stage.name} lacks the no-model line")
+
+    def test_debrief_asks_the_comprehension_questions(self):
+        for path in (REPO / "templates" / "debrief.md", STAGES / "10-debrief.md"):
+            text = path.read_text()
+            for question in COMPREHENSION_QUESTIONS:
+                self.assertIn(question, text, f"{path.name}: {question}")
 
 
 if __name__ == "__main__":

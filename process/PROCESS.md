@@ -1,11 +1,16 @@
 # The process
 
-Nine stages take a story from brief to final manuscript. Each stage produces
-one artifact on disk in `stories/<slug>/` and ends at a **gate**, where the
-human chooses what goes forward. The orchestrator (the main agent session)
-runs the stages, dispatches the agents and keeps `STATUS.md` current.
+Ten stages take a story from brief to final manuscript and the human's
+debrief. Each stage produces one artifact on disk in `stories/<slug>/` and
+ends at a **gate**, where someone chooses what goes forward. The brief's
+gate mode says who. In `human` mode the human decides every gate. In
+`proxy` mode (the default) the orchestrator decides every gate after the
+brief and logs each one, so the human can read the story blind. Either way,
+only the human lands a story. `AGENTS.md` has the full rule. The
+orchestrator (the main agent session) runs the stages, dispatches the agents
+and keeps `STATUS.md` current.
 
-Each stage that dispatches agents has a **stage file** in `stages/`. A stage
+Each stage with agent or orchestrator work has a **stage file** in `stages/`. A stage
 file holds the agent's task text and the orchestrator's part of that stage.
 This page is the overview: who works at each stage, what it produces, and its
 gate. Agents are dispatched by role. Each role is defined in
@@ -37,10 +42,17 @@ stories/<slug>/
   05-critique/<lens>.md      stage 5 critiques
   drafts/draft-N.md          full drafts, each ending in "## Drafter's notes"
   reviews/draft-N/<lens>.md  critiques of draft N, plus first-reader.md
+  reviews/draft-N/comprehension-answers.md   the First Reader's turn-2 answers
+  reviews/draft-N/ledger-rows.md   the graded ledger rows, for the grader
+  reviews/draft-N/names.md   names and roles, for the grader
+  reviews/draft-N/comprehension.md   the grader's grades and gate result
   06-revision-plan.md        the latest round's triaged notes
+  reviews/protect-list.md    lines the Line Editor must not cut unlogged
   reviews/polish-changelog.md   the Line Editor's log
   reviews/polish-<lens>.md   stage 9 spot-checks
+  reviews/final/             the comprehension gate rerun on final.md
   final.md                   the polished manuscript: title and story only
+  debrief.md                 stage 10: the human's interview and scores
   lint-waivers.toml          optional: linted rules broken on purpose
   MORNING.md                 optional: a report for the human after an unattended run
   <title>.epub               optional: scripts/make_epub.py output
@@ -50,16 +62,19 @@ stories/<slug>/
 
 | # | Stage | Who | Output | Gate |
 |---|---|---|---|---|
-| 0 | Brief | the human and the orchestrator | `00-brief.md` (`templates/brief.md`) | the human approves the brief |
+| 0 | Brief | the human and the orchestrator | `00-brief.md` (`templates/brief.md`) | the human approves the brief, in either mode |
 | 1 | [Ideate](stages/01-ideate.md) | `lens-ideator` × every author lens, blind to each other | `01-ideas/<lens>.md` | none; the cards go to audit |
 | 2 | [Audit](stages/02-audit.md) | `cartographer` | `02-audit.md` | a shortlist of 3–5 cards or collisions |
 | 3 | [Synthesize](stages/03-synthesize.md) | the orchestrator writes premises; `lens-critic` × the panel | `03-synthesis.md` | one premise; the runners-up become seed stock |
-| 4 | [Build](stages/04-build.md) | the orchestrator writes the bible; `lens-critic` × the panel stress-tests it | `04-bible.md` | the bible is approved |
+| 4 | [Build](stages/04-build.md) | the orchestrator writes the bible and its payoff ledger; `lens-critic` × the panel stress-tests it | `04-bible.md` | the bible is approved |
 | 5 | [Structure](stages/05-structure.md) | the orchestrator writes the outline; `lens-critic` × the panel | `05-outline.md` | the outline is approved |
 | 6 | [Draft](stages/06-draft.md) | one `drafter` | `drafts/draft-1.md` | none; the draft goes to review |
-| 7 | [Review](stages/07-review.md) | `lens-critic` × the panel, plus a fresh `first-reader` | `reviews/draft-N/` | none; the critiques go to revision |
-| 8 | [Revise](stages/08-revise.md) | the orchestrator triages; the same `drafter` revises | `06-revision-plan.md`, `drafts/draft-N+1.md` | the human approves the plan. Stages 7–8 repeat until the human calls the draft structurally done |
-| 9 | [Polish](stages/09-polish.md) | `line-editor`, then `lens-critic` spot-checks | `final.md` | the human signs off; the branch can land |
+| 7 | [Review](stages/07-review.md) | a fresh `first-reader` (two turns), then `lens-critic` × the panel and a `comprehension-grader` | `reviews/draft-N/` | none; the critiques and the comprehension result go to revision |
+| 8 | [Revise](stages/08-revise.md) | the orchestrator triages; the same `drafter` revises | `06-revision-plan.md`, `drafts/draft-N+1.md` | the plan is approved. Stages 7–8 repeat until the draft is structurally done and the comprehension gate passes |
+| 9 | [Polish](stages/09-polish.md) | `line-editor`, then `lens-critic` spot-checks, then the comprehension gate again | `final.md` | the story is ready |
+| 10 | [Debrief](stages/10-debrief.md) | the orchestrator interviews the human | `debrief.md` | the human decides whether the story lands, in either mode |
+
+Gates 2 to 9 are decided by whoever the brief's gate mode names.
 
 **Stage 0** has no stage file. The brief sets:
 
@@ -76,7 +91,14 @@ stories/<slug>/
 is marked **charted**. It can still feed a collision, but it can't be the core
 novum by itself.
 
-**A structural problem found at stage 9** sends the story back to stage 8.
+**The comprehension gate stands between stage 7 and stage 9.** A cold
+reader answers fixed questions, and the `comprehension-grader`, who sees
+only the bible's payoff-ledger rows and those answers, grades them. Polish
+starts only when every graded row is "got it", and the gate runs again on
+`final.md`. The orchestrator never grades comprehension itself.
+
+**A structural problem found at stage 9,** or a comprehension miss on
+`final.md`, sends the story back to stage 8.
 
 ## Default panels
 
@@ -87,7 +109,7 @@ novum by itself.
 | 3 Synthesize | Vinge, Chiang, Banks, Cartographer |
 | 4 Build | Watts, Egan, Le Guin, Lem |
 | 5 Structure | Asimov, Chiang, Banks |
-| 7 Review | Asimov, Watts, Le Guin, Chiang, Cartographer, plus the First Reader |
+| 7 Review | Asimov, Watts, Le Guin, Chiang, Cartographer, plus the First Reader (report, then comprehension answers) and the comprehension grader |
 | 9 Polish | Line Editor, then Asimov and Rajaniemi spot-checks |
 
 ## Lengths
