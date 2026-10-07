@@ -132,9 +132,9 @@ aren't graded, but they must have an explicit line.
 the final scene.
 
 **Stakes before the climax.** The **Stakes** row is made explicit *before
-the climax*, not just by the end. This is an inference from the human's
-scores, not something the human said: Consequence 2, and an ending whose loss
-was felt but not understood. The human should confirm it.
+the climax*, not just by the end. The human confirmed this on 2026-10-06. It
+follows from the human's scores: Consequence 2, and an ending whose loss was
+felt but not understood.
 
 **The outline** gains a **Made explicit by** column in its information plan,
 keyed to the ledger rows. The drafter's notes quote the explicit line for
