@@ -40,8 +40,10 @@ Don't pass `model:`.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
 
-**Gate:** the human signs off. After that, the story branch can land (see
-`AGENTS.md`).
+**Gate:** sign-off. In `human` mode, the human signs off. In `proxy` mode,
+the orchestrator marks the story ready, logs it in `STATUS.md`, and tells
+the human only that the story is ready and where. In both modes the branch
+lands only on the human's word, after the debrief (see `AGENTS.md`).
 
 ## For the agent (`line-editor`)
 

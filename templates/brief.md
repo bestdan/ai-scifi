@@ -6,6 +6,9 @@
 - **Below-floor waiver (only if the range starts under the floor in
   `process/PROCESS.md`'s Lengths table):** <why this story needs fewer
   words, or delete this line>
+- **Gates:** proxy. <`proxy` (the default): the orchestrator decides every
+  gate after this brief and the human reads the story blind. `human`: the
+  human decides every gate. See `AGENTS.md`.>
 - **Futurity floor:** F3 (see `process/rubric.md`)
 - **Tone:** <e.g. cold and wondering; darkly funny; elegiac>. The tone
   charter in `process/style-guide.md` always applies.

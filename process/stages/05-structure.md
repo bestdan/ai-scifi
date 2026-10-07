@@ -25,7 +25,9 @@ Don't pass `model:`.
 3. Resolve every must-fix note into the outline, and log how each was
    resolved in its "Stage 5 lens notes" section.
 
-**Gate:** the outline is approved.
+**Gate:** the outline is approved. In `human` mode, the human approves it.
+In `proxy` mode, the orchestrator approves it and logs the decision and its
+reasons in `STATUS.md`.
 
 ## For the agent
 

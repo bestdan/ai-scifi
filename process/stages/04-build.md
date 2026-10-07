@@ -23,7 +23,9 @@ Don't pass `model:`.
    each note in the bible's stress-test log, with what was done about it or
    why it was declined.
 
-**Gate:** the bible is approved.
+**Gate:** the bible is approved. In `human` mode, the human approves it. In
+`proxy` mode, the orchestrator approves it and logs the decision and its
+reasons in `STATUS.md`.
 
 ## For the agent
 

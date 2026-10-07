@@ -33,9 +33,12 @@ Don't pass `model:`.
    stage 9. Either way, record the unclosed rows in `STATUS.md` under
    "Gate failures". Never pass the gate by grading leniently.
 
-**Gate:** the human approves the plan. Stages 7 and 8 repeat until the human
-calls the draft structurally done and the comprehension gate passes (or the
-loop cap lets it proceed), usually after 2 or 3 rounds.
+**Gate:** the plan is approved, and later the draft is called structurally
+done. In `human` mode, the human approves each plan and calls the draft
+done. In `proxy` mode, the orchestrator does both and logs each decision in
+`STATUS.md`. Stages 7 and 8 repeat until the draft is called structurally
+done and the comprehension gate passes (or the loop cap lets it proceed),
+usually after 2 or 3 rounds.
 
 ## For the agent
 

@@ -32,6 +32,14 @@ class ProcessLinks(unittest.TestCase):
             for phrase in ("target length", "115%"):
                 self.assertNotIn(phrase, text, f"{stage.name}: {phrase}")
 
+    def test_every_gate_names_both_modes(self):
+        for stage in STAGES.glob("*.md"):
+            for gate in re.findall(r"^\*\*Gate:\*\*.*?(?=\n\n|\Z)",
+                                   stage.read_text(), re.MULTILINE | re.DOTALL):
+                gate = " ".join(gate.split())
+                for mode in ("`human` mode", "`proxy` mode"):
+                    self.assertIn(mode, gate, f"{stage.name} gate lacks {mode}")
+
     def test_stage_files_dispatch_known_roles_without_model(self):
         roles = {p.stem for p in AGENTS.glob("*.md")}
         for stage in STAGES.glob("*.md"):

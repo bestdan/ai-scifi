@@ -10,7 +10,9 @@ Don't pass `model:`. The agent definition sets it.
 
 **Gate:** shortlist 3 to 5 cards or collisions for stage 3. Prefer options
 with distinct cores: skip a Top-5 entry that reuses a card you've already
-shortlisted. Record the decision, and the reason for it, in `STATUS.md`.
+shortlisted. In `human` mode, recommend a shortlist and the human picks it.
+In `proxy` mode, the orchestrator picks it. Either way, record the decision,
+its reasons and the runner-up in `STATUS.md`.
 
 ## For the agent
 

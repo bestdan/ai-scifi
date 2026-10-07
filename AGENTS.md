@@ -20,8 +20,25 @@ You are running a fiction-writing pipeline, not a codebase. The process in
   the story branch first. `dli check` runs the tests, the prose lint on every
   `final.md`, and the dev_docs layout check. `just lint <file>` lints one
   draft.
-- **The human decides at every gate.** Lay out the options and give your
-  recommendation, then stop. Don't advance a story past a gate on your own.
+- **The brief's gate mode decides who decides.** The brief's **Gates** field
+  is `human` or `proxy`, and `proxy` is the default.
+  - **In `human` mode,** the human decides every gate. Lay out the options
+    and give your recommendation, then stop. Don't advance a story past a
+    gate on your own.
+  - **In `proxy` mode,** the orchestrator decides every gate after the
+    brief, and logs each decision in `STATUS.md` with its reasons and its
+    runner-up. The human writes the brief and reads only the finished
+    story.
+  - **In either mode, a story lands only on the human's word,** after the
+    stage 10 debrief. The proxy never lands a story.
+- **In proxy mode, never spoil the premise.** The human reads the story
+  blind, so nothing the human sees before reading may reveal it.
+  - **The run is unattended:** started from the brief, and run overnight or
+    detached, so nobody watches the terminal.
+  - **The slug and branch** are chosen at stage 0 from the brief (for
+    example `calibration-02`), and never renamed after the premise.
+  - **Commit messages** name the stage, not the premise.
+  - **The end-of-run message** says only that the story is ready, and where.
 - **A persona is a lens, not an impersonation.** When you dispatch a persona
   agent, it reads its `personas/<name>.md` file and works in that role. It
   never claims to be the author, never invents quotes, and never imitates the
@@ -46,8 +63,8 @@ You are running a fiction-writing pipeline, not a codebase. The process in
 ## Dispatching an agent
 
 Agents are dispatched by **role**. Each role is defined in `.claude/agents/`:
-`lens-ideator`, `lens-critic`, `cartographer`, `drafter`, `line-editor` and
-`first-reader`. The definition fixes the model and the tools, and it holds the
+`lens-ideator`, `lens-critic`, `cartographer`, `drafter`, `line-editor`,
+`first-reader` and `comprehension-grader`. The definition fixes the model and the tools, and it holds the
 standing rules. **Pass no `model:`.** The task text is in each stage's file
 in `process/stages/`, and `process/PROCESS.md` says which role and which
 lenses each stage dispatches.
