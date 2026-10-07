@@ -11,14 +11,17 @@ sentence, and only after the structure is settled.
    place. Then check the style guide's judgement rules (triplets, sense lists,
    names) by eye. Report the counts.
 2. **Check the glossary.** Every invented term is used consistently with
-   `04-bible.md`, and is introduced where context can carry it.
+   `04-bible.md`, and arrives with its role attached.
 3. **Rhythm.** Vary sentence length. Break runs of sentences built the same
    way. Read the dialogue as speech: do people talk like this?
 4. **Precision.** Replace every vague noun and every abstraction where a
    concrete one would serve. Cut intensifiers and hedges.
-5. **Cut.** Aim for 5 to 10 percent fewer words without losing anything.
-   Shortness is a feature.
-6. **The first and last paragraphs.** Read each against its job. The first
+5. **Cut slack.** Remove words that do no work. There's no target; report
+   the word delta in the change log.
+6. **Protect.** The stage file names a protect list. Never cut or reword a
+   line on it without logging why. An ornate line that is a concrete image
+   or a moment between people has earned its place.
+7. **The first and last paragraphs.** Read each against its job. The first
    must create a question; the last must leave an image.
 
 ## Rules

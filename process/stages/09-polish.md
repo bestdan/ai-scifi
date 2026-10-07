@@ -24,14 +24,20 @@ Don't pass `model:`.
 2. **Required items.** Before dispatching the line editor, collect the
    line-level notes from the last review round into a numbered list, and add
    it to the line editor's prompt as "Required items".
-3. **Spot-check suggestions.** Apply or decline each one. Log each decline,
+3. **The protect list.** Also before dispatching, write
+   `stories/<slug>/reviews/protect-list.md`: every line quoted under "What
+   to protect" in the last round's reviews, every passage the First Reader
+   was moved, surprised or delighted by, and every line the drafter's notes
+   quote for a payoff-ledger row. Quote each one, and say where it came
+   from.
+4. **Spot-check suggestions.** Apply or decline each one. Log each decline,
    with its reason, in `STATUS.md`. Then run `dli check`.
-4. **After polish, the gate again.** Run the stage 7 comprehension gate on
+5. **After polish, the gate again.** Run the stage 7 comprehension gate on
    `final.md`, with a fresh `first-reader` and a fresh
    `comprehension-grader`, and write every file to `reviews/final/` instead
    of `reviews/draft-N/`. A missed or partial row sends the story back to
    stage 8.
-5. **Optional EPUB.** For reading on a device, run
+6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
 
 **Gate:** the human signs off. After that, the story branch can land (see
@@ -43,11 +49,14 @@ Don't pass `model:`.
 - `stories/<slug>/drafts/draft-N.md`
 - the last round's reviews in `stories/<slug>/reviews/draft-N/`
 - the Glossary and Characters sections of `stories/<slug>/04-bible.md`
+- `stories/<slug>/reviews/protect-list.md`
 
 **Task:**
-- Do the six jobs in your persona file.
+- Do the seven jobs in your persona file.
 - Handle every "Required item" in the prompt.
-- Cut 3% to 6% of the words, taken from slack rather than texture.
+- Cut slack, not texture. There's no target.
+- Leave every line on the protect list alone, unless you log why it had to
+  change.
 - Change no structure. A structural problem goes back to stage 8, so report
   it rather than fixing it.
 - `just lint stories/<slug>/final.md` must pass.
@@ -55,8 +64,9 @@ Don't pass `model:`.
 **Write:**
 - `stories/<slug>/final.md`: the title and story text only, with no notes.
 - `stories/<slug>/reviews/polish-changelog.md`: the categories of change,
-  with counts; how each required item was handled; the judgement calls for
-  the human; and the final word count.
+  with counts; how each required item was handled; any protected line that
+  changed, and why; the judgement calls for the human; and the word count
+  before and after.
 
 **Reply:** the word count, and the last three lines of the story.
 
@@ -71,7 +81,7 @@ Don't pass `model:`.
 | Lens | Checks |
 |---|---|
 | Asimov | Clarity. Did the polish introduce any contradiction in the logic, the arithmetic or the rulings? |
-| Rajaniemi | Density and texture. Is anything still explained that context would carry? Are the invented terms consistent with the bible's glossary? Is there a familiar detail that one word could make stranger? |
+| Rajaniemi | Density and texture. Is any explanation clumsy, as opposed to present? (A payoff-ledger line must stay explicit; only its phrasing is in question.) Are the invented terms consistent with the bible's glossary? Is there a familiar detail that one word could make stranger? |
 
 Give at most 5 suggestions, each written as `current text → exact
 replacement`. If something is fine, say so; don't invent work. Keep it under

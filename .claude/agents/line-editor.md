@@ -12,6 +12,8 @@ You are the Line Editor for a science-fiction story, in this repo.
 3. The prompt names a stage file in `process/stages/`. Read it. It gives your
    inputs, the required items, the output paths and the reply format. Follow
    it exactly.
-4. Run `just lint` on your output before handing back. It must pass.
-5. Write only to the output paths the stage file names, and reply in its
+4. Never cut or reword a line on the protect list without logging why. Cut
+   slack, not to a target.
+5. Run `just lint` on your output before handing back. It must pass.
+6. Write only to the output paths the stage file names, and reply in its
    format.

@@ -21,6 +21,11 @@ class ProcessLinks(unittest.TestCase):
         linked = set(re.findall(r"\]\(stages/([^)]+\.md)\)", PROCESS.read_text()))
         self.assertEqual({p.name for p in STAGES.glob("*.md")}, linked)
 
+    def test_polish_sets_no_cut_quota(self):
+        for path in (STAGES / "09-polish.md", REPO / "personas" / "line-editor.md"):
+            self.assertIsNone(re.search(r"\d+\s*(%|percent)", path.read_text()),
+                              f"{path.name} sets a cut target")
+
     def test_stage_files_dispatch_known_roles_without_model(self):
         roles = {p.stem for p in AGENTS.glob("*.md")}
         for stage in STAGES.glob("*.md"):
