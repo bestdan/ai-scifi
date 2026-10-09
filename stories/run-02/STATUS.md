@@ -1,8 +1,8 @@
 # Status: run-02
 
 - **Gate mode:** proxy
-- **Current stage:** 9, Polish
-- **Next action:** line editor polishes draft 3 into final.md; then spot-checks and the gate on final.md
+- **Current stage:** Done, awaiting the human's read and the stage 10 debrief
+- **Next action:** the human reads final.md (or Strike Note.epub), then MORNING.md, then the debrief
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -19,8 +19,13 @@
 | 7–8 Review round 1 | 2026-10-08 | orchestrator (proxy) | Comprehension gate failed (Premise, Stakes, Ending partial); revision plan approved, 18 items | Consensus: narration must audibly drift then fix; cut the notebook paragraph that explains the choice. Asimov's bell-code logic and timeline fixes adopted. Conflict on Rafaela's 'I chose whatever he'd said last' resolved to keep | — |
 | 7–8 Review round 2 | 2026-10-08 | orchestrator (proxy), consultant concurred (70%) | Gate failed on Premise only (second fail in a row, loop cap). One more round taken; stop rule: if round 3 fails Premise again, proceed to stage 9 and log it | Premise miss traced to the round 2 fix giving both branches one picture ('at the board, beside her'); fix separates the branches and puts agarrada in the premise statement. Lens means about 4.0; Asimov's bell-code rule and Asimov/Watts hands arithmetic folded in | Proceed to polish now and log the gap |
 | 7–8 Review round 3 | 2026-10-08 | orchestrator (proxy), per the logged stop rule | Draft 3 called structurally done; gate failed on Premise and Stakes (partial); proceed to stage 9 under the loop cap | Ending now passes. Asimov finds no large structural problem (Consequence 5). Separating the branches by 'no tablets' let the reader miss the delay branch's gain (a year of child's-speed learning); that is a phrasing gap, handed to the line editor as a required item | Round 4 (ruled out by the stop rule) |
+| 9 Polish | 2026-10-08 | orchestrator (proxy) | final.md at about 5,900 words; marked ready for the human's read and debrief | Line editor handled 8 required items. Spot-checks applied: Rajaniemi 1–3 (curing week, board for strickle, 'tasted of the paper cup'), Asimov 1 as 'Since I was eleven' (law of 2052, Davi born 2041); also 'Max.' changed to 'Tops.' after the final reader read it as a name. Declined: Rajaniemi 4 (streetlamps), optional and no gain. The gate on final.md failed (Premise, Stakes, Ending partial); not sent back to stage 8 because the loop cap's stop rule ruled out a round 4, and the partial rows have moved between rounds with each fresh reader | Round 4 |
 
 ## Gate failures
+
+The debrief reports these first.
+
+- **Gate on final.md** (fresh reader and grader, `reviews/final/comprehension.md`): Premise partial (missed the rite-day deadline and the town shaming his mother), Stakes partial (read the hands as a gain of setting), Ending partial (missed that he can't tell whether he chose, and her hand slowing his). Why and Who's who got it. Across four rounds each graded row except Why has been both partial and got it, depending on the reader.
 
 - **Premise** (partial in rounds 1, 2 and 3). Last answer: "whether to take a drug that permanently fixes his brain so he can inherit his mother's foundry licence, or stay 'open' for another year". Missing: that staying open means learning her trade at a child's speed while the town shames her.
 - **Stakes** (partial in rounds 1 and 3, got it in round 2). Last answer has the set branch and the agarrada cost, but not the delay branch's gain (about eight bells at a child's speed) or the Belo Horizonte drift.

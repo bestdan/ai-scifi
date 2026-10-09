@@ -8,7 +8,7 @@ His mother didn't look round. Ceiça had been at the board since before six, as 
 
 Under the loam, in the pit, the core stood waist high, brick and straw baked hard over a basket of coke, and on it she was building the false bell, the clay shape of the bronze to come. It was for the Rosário church, whose big bell, the Virgin, had cracked in July and rung like a frying pan at every Mass since. The brotherhood wanted a new Virgin hung for the feast.
 
-Two millimetres fat, up at the shoulder where the side turned in to the crown. Max. He'd run her drawing at camp in Belo Horizonte, ten days of robotics, one slow afternoon. Model gave every partial of the finished bell to the cent. Strike note, hum, the lot, before any bronze existed. His mother had never once pretended to follow his models. When he'd shown her the partials on the screen she had said that's nice, son, in the voice she kept for the priest's slides at Lent, and gone back to the board, and the bell had come out of the pit right anyway.
+Two millimetres fat, up at the shoulder where the side turned in to the crown. Tops. He'd run her drawing at camp in Belo Horizonte, ten days of robotics, one slow afternoon. Model gave every partial of the finished bell to the cent. Strike note, hum, the lot, before any bronze existed. His mother had never once pretended to follow his models. When he'd shown her the partials on the screen she had said that's nice, son, in the voice she kept for the priest's slides at Lent, and gone back to the board, and the bell had come out of the pit right anyway.
 
 She walked the board round once more. The shoulder came true, and she stopped.
 
@@ -102,13 +102,13 @@ She read it flat, at the speed of a woman reading out a bus timetable.
 
 She turned the page.
 
-"'Two. In the untreated brain a mesh of proteins, hereafter the nets, forms around certain neurons in childhood and fixes the wiring for hearing, accent, movement and the use of the hands. The treatment given in the first week of life prevents the nets from forming. It also keeps the adolescent sensitivity to the people nearby, hereafter the pull, which in the untreated fades in early adulthood. The mechanism of the second effect is less well understood than that of the first.'" She looked up. "That's the honest sentence. They fought about it for a month. 'Three. Firma, three tablets on three consecutive days, forms the nets and ends the pull. The nets harden over the days after the last tablet, hereafter the curing period, and the subject's state during that period is retained. The process is irreversible.'"
+"'Two. In the untreated brain a mesh of proteins, hereafter the nets, forms around certain neurons in childhood and fixes the wiring for hearing, accent, movement and the use of the hands. The treatment given in the first week of life prevents the nets from forming. It also keeps the adolescent sensitivity to the people nearby, hereafter the pull, which in the untreated fades in early adulthood. The mechanism of the second effect is less well understood than that of the first.'" She looked up. "That's the honest sentence. They fought about it for a month. 'Three. Firma, three tablets on three consecutive days, forms the nets and ends the pull. The nets harden over the days after the last tablet, hereafter the curing week, and the subject's state during that week is retained. The process is irreversible.'"
 
 She looked at page two, which was all subclauses, and at the clock, and initialled the bottom of both pages and wrote *read in full* beside her initials.
 
 "You know all that," she said.
 
-"Since I was six."
+"Since I was eleven."
 
 "So. Things not on the sheet." She put the folder down. "I sat in the assembly for my father's pharmacy for five months in 'forty-nine. Open. We tried pledges. You sign on Monday that you'll vote for the reservoir whatever anyone says. Thursday someone talks to you in the bakery, and you sign a paper taking it back. Next week you take back the taking back. We had a folder of them this thick." She showed him with her finger and thumb. "That's why the sheet."
 
@@ -144,7 +144,7 @@ She thought about it, which he hadn't expected.
 
 "I was sixteen and open," she said. "I chose whatever he'd said last." She picked up the folder. "Go home and think. Not in the square. At home."
 
-He sat on the steps of the health post in the sun with the notebook he kept for the bells. Obvious. Brabo obvious. The hands were the trade, and his couldn't strickle a waist. Set now: seat, licence, and hands that learned like Rafaela's, four years and still missing the note. Or no tablets. Stay open a year, and his hands would learn his mother's trade at a child's speed, as hers had learned it at nine: a year of bells, eight of them, with her next to him for every one. And all that year, past his feast, the town would call her agarrada, the mother who wouldn't let go of the licence, and watch her hold on to it in the square. Let it. A year. He wrote in the notebook in pencil, in the one hand that had never been anyone's but his:
+He sat on the steps of the health post in the sun with the notebook he kept for the bells. Obvious. Brabo obvious. The hands were the trade, and his couldn't walk a board round a waist. Set now: seat, licence, and hands that learned like Rafaela's, four years and still missing the note. Or no tablets. Stay open a year, and his hands would learn his mother's trade at a child's speed, as hers had learned it at nine: a year of bells, eight of them, with her next to him for every one. And all that year, past his feast, the town would call her agarrada, the mother who wouldn't let go of the licence, and watch her hold on to it in the square. Let it. A year. He wrote in the notebook in pencil, in the one hand that had never been anyone's but his:
 
 > high • · low • · high • · low • · high • · low •
 
@@ -270,7 +270,7 @@ High and low, turn and turn: the vigil. The doors stay open all night.
 
 He looked at it for a while. It was in his own pencil, in his own hand, and he could remember sitting on the steps and how certain it had been, and it was certain still, eight bells at a child's speed with her next to him every day, it was a good note, there was nothing wrong with it. Only the feast doesn't move, and a bell goes up when it goes up, and the brotherhood paid in March, and they pay for the hand, uai, not the drawing, and it's a good bell, it's a bit low, and you hang what you've got and you ring it, and the loam doesn't care who's on the board, it wants the board slow, and nobody in that square is calling her agarrada, not her, not for a year, not for him. And ten years is ten years, whichever end of it you start from.
 
-He pressed the first tablet out of the strip. It was small and white and chalky on his tongue and tasted of nothing.
+He pressed the first tablet out of the strip. It was small and white and chalky on his tongue and tasted of the paper cup.
 
 "Tomorrow, same time," Rafaela said. "Then the thirtieth. Then about six days." She was looking at him. "Where are you going to cure?"
 
