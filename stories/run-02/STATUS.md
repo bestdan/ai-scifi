@@ -1,8 +1,8 @@
 # Status: run-02
 
 - **Gate mode:** proxy
-- **Current stage:** 8, Revise (round 1)
-- **Next action:** drafter writes draft 2; then round 2 review
+- **Current stage:** 8, Revise (round 3, loop-cap round)
+- **Next action:** drafter writes draft 3; then a fresh reader, the grader and Asimov
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -17,6 +17,7 @@
 | 4 Build | 2026-10-08 | orchestrator (proxy) | Bible approved with all 10 must-fix notes resolved | Dose moved to 28–30 Sep so he is set at the rite; hands limited by pours (8 bells/yr); hand-made-bell licence answers the machine; second mechanism (the pull); open don't feel drift; ending left undecided between choice and drift; family table added; agarrado for segurador; Irmandade at the feast | — |
 | 5 Structure | 2026-10-08 | orchestrator (proxy) | Outline approved after revision: scene 5 staged in three beats, bell code as a typographic device, misreading travels down the valley, yearly-rite rule explicit, countable inputs for the ambiguity | All 6 must-fix notes accepted; Banks's scene swap declined so the rules land by the midpoint | — |
 | 7–8 Review round 1 | 2026-10-08 | orchestrator (proxy) | Comprehension gate failed (Premise, Stakes, Ending partial); revision plan approved, 18 items | Consensus: narration must audibly drift then fix; cut the notebook paragraph that explains the choice. Asimov's bell-code logic and timeline fixes adopted. Conflict on Rafaela's 'I chose whatever he'd said last' resolved to keep | — |
+| 7–8 Review round 2 | 2026-10-08 | orchestrator (proxy), consultant concurred (70%) | Gate failed on Premise only (second fail in a row, loop cap). One more round taken; stop rule: if round 3 fails Premise again, proceed to stage 9 and log it | Premise miss traced to the round 2 fix giving both branches one picture ('at the board, beside her'); fix separates the branches and puts agarrada in the premise statement. Lens means about 4.0; Asimov's bell-code rule and Asimov/Watts hands arithmetic folded in | Proceed to polish now and log the gap |
 
 ## Gate failures
 
