@@ -1,8 +1,8 @@
 # Status: run-02
 
 - **Gate mode:** proxy
-- **Current stage:** 3, Synthesize
-- **Next action:** stage 3 panel critiques the four premises
+- **Current stage:** 4, Build
+- **Next action:** stage 4 panel stress-tests the bible
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -13,9 +13,14 @@
 |---|---|---|---|---|---|
 | 0 Brief | 2026-10-08 | the human | Approved | 4,000–7,000 words, F2 floor, honest-optimistic coming of age, fixed seed, generational handover direction, novelty waived for the seed | — |
 | 2 Audit | 2026-10-08 | orchestrator (proxy) | Shortlisted 4: Collision 1 Stepping-Down × Open Window/Setting (36), Collision 2 Dike-Reeve × Ditch Board × Forty Winters (34), Collision 3 Lagman × Unread Room (34), Collision 4 Minding × Fourth Draft (32) | Top-5 by weighted score with distinct cores; skipped Dike-Reeve alone (33) because Collision 2 contains it. Audit flagged model attractors (water boards, shoreline, orchards, the name Ines, plain-reader institutions); premises steer settings away from them | Collision 5 Owing Year × Explain It Back (31) |
+| 3 Synthesize | 2026-10-08 | orchestrator (proxy), consultant concurred | Premise A, The Setting Day, revised: friend cut, protagonist a boy, light drifting narration, mechanism stated once by a counsellor | Fits the brief's handover direction literally; ranked first by Vinge, Banks and the Cartographer (N4, 34/40), second by Chiang; C's ending repeats the shortlist's reciprocated-secret attractor | C, Wearing Lead (Chiang's first) |
 
 ## Gate failures
 
 ## Seed stock
+
+- **C. Wearing Lead** (Lagman × Unread Room): a treated mother fakes slowness so her treated daughter has one person who can't read her. Needs a fix for the treated father who would see through her.
+- **B. The Regent** (Dike-Reeve × Ditch Board × Forty Winters): strongest rigor; Vinge's push is that the treated heirs' models share one correlated error.
+- **D. Plain Account**: sits in the explainer attractor; reuse only with a strong push.
 
 ## Open questions

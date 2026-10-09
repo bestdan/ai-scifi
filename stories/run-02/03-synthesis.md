@@ -120,3 +120,42 @@ hers were wrong.
 - **Load:** novum 1, the plain-account law. Novum 2, minding. Twist: the
   father's counter-minding.
 - **Estimated minimum:** about 6,000 words.
+
+## Panel summary
+
+| Lens | 1st | 2nd | 3rd | 4th | Note on the winner |
+|---|---|---|---|---|---|
+| Vinge | A | C | B | D | the only real viewpoint trick: narration that drifts until the setting |
+| Chiang | C | A | B | D | the hands carry the idea; cut the friend, the mother's line is the climax |
+| Banks | A | C | B | D | comedy in drifting accents; show a treated crowd once |
+| Cartographer | A (N4, 34) | B (N3) | C (N3) | D (N3) | the friend is the Magi shape; cut him or make it fail |
+
+## Decision
+
+**Premise A, The Setting Day,** revised. An `agent-guidance:consultant`
+second opinion agreed on every point below (confidence 63–82%).
+
+- **Why A.** The brief's direction is the handover, and A's rite is that
+  handover between living people on a named day. Three of four critics rank
+  it first, and the Cartographer finds it the most novel. C's handover is
+  only private and inverted, and its ending repeats the reciprocated-secret
+  shape the Cartographer found in three of the four premises.
+- **The friend is cut.** He was A's one Magi-shaped element. A treated adult
+  who has set (the town's setting counsellor) shows the boy what he would
+  become, with no secret and no sacrifice.
+- **The protagonist is a boy.** The audit found 21 of 27 protagonists were
+  girls or women, and about 8 cards ended on a tell-or-don't choice.
+  Without the friend, A's choice is not about disclosure, and the switch
+  breaks the other half.
+- **The narration drifts, lightly.** Vocabulary, caught accent and what he
+  notices shift with whoever he stands near, and fix after the setting. The
+  fixing is the device's payoff and gets a ledger row.
+- **The mechanism is stated once,** by the counsellor, who must explain it
+  by law before a setting. No number.
+- **Declined:** Vinge's push to make the council's fear of drift the central
+  institution in place of the step-down (the brief asks for the handover);
+  Banks's request for a market crowd is folded into one short town scene.
+
+Load after revision: two nova (open plasticity with the setting dose; the
+step-down rite), no twist. Estimated minimum about 4,500 words, inside the
+4,000–7,000 range.
