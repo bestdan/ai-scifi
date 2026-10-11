@@ -22,6 +22,13 @@ class StoryBible(unittest.TestCase):
     def test_stakes_before_the_climax(self):
         self.assertIn("before the climax", self.text)
 
+    def test_glossary_terms_carry_a_job(self):
+        self.assertIn("| Term | Meaning | Job | Clear at first use by |", self.text)
+
+    def test_world_list_and_stated_and_shown(self):
+        self.assertIn("## What the reader needs about the world", self.text)
+        self.assertIn("Shown in (scene)", self.text)
+
 
 class Critique(unittest.TestCase):
     def setUp(self):
@@ -42,7 +49,7 @@ class Critique(unittest.TestCase):
 class Outline(unittest.TestCase):
     def test_columns(self):
         text = (TEMPLATES / "outline.md").read_text()
-        for column in ("Made explicit by", "Introduces"):
+        for column in ("Made explicit by", "Shown by", "Introduces", "World fact"):
             self.assertIn(column, text, column)
 
 

@@ -26,7 +26,10 @@ Don't pass `model:`.
 3. **Comprehension.** Every ledger row that `reviews/draft-N/comprehension.md`
    grades partial or missed becomes a structural item in the plan, citing
    the grade and the reader's answer. Add it whether or not any lens raised
-   it. You may lower a grade, never raise one.
+   it. So does each term that failed the Terms row (make it clear on the
+   page, or use the plain word), and each lost-list entry, starting with
+   those the grader tied to a graded row. You may lower a grade, never raise
+   one.
 4. **Loop cap.** If the comprehension gate has failed two rounds in a row,
    log it, and get an `agent-guidance:consultant` opinion on whether one
    more round can close the gap. Then either take that round or proceed to

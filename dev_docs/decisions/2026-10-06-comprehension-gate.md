@@ -1,6 +1,7 @@
 ---
 created: 2026-10-06
-status: accepted
+status: superseded
+superseded_by: 2026-10-11-comprehension-gate-counts-confusion.md
 convention: ../../process/stages/07-review.md
 ---
 

@@ -17,8 +17,7 @@ Don't pass `model:`.
 ## For the orchestrator
 
 1. **Before polish.** The stage 7 comprehension gate must have passed on
-   draft N: every graded row "got it", in
-   `reviews/draft-N/comprehension.md`. The one exception is a failure the
+   draft N, in `reviews/draft-N/comprehension.md`. The one exception is a failure the
    stage 8 loop cap let through, logged under "Gate failures" in
    `STATUS.md`. Otherwise go back to stage 8.
 2. **Required items.** Before dispatching the line editor, collect the
@@ -35,8 +34,7 @@ Don't pass `model:`.
 5. **After polish, the gate again.** Run the stage 7 comprehension gate on
    `final.md`, with a fresh `first-reader` and a fresh
    `comprehension-grader`, and write every file to `reviews/final/` instead
-   of `reviews/draft-N/`. A missed or partial row sends the story back to
-   stage 8.
+   of `reviews/draft-N/`. A failed gate sends the story back to stage 8.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
 
