@@ -33,8 +33,15 @@ with SendMessage, so the voice holds across drafts.
   only until the payoff point the outline gives for it. Every payoff-ledger
   row in the bible is made explicit on the page, and Stakes comes before the
   climax.
+- **Stated and shown.** Each graded row is stated once in plain words and
+  shown once as a consequence in a scene. A statement can't be a quoted
+  document of more than about 150 words. Each fact in the bible's world list
+  is on the page in the first third.
 - **Introductions.** Bring in each name and invented term with its role
   attached, at the pace the outline's Introduces column sets.
+- **Terms.** Use no coined, foreign or slang word that isn't in the bible's
+  Glossary. Make each one clear at first use, the way the Glossary says.
+  Where you're unsure a reader would get it, use the plain word.
 - **Specificity.** Make every sentence specific: things, weather, food,
   materials.
 - **Lint.** Run `just lint stories/<slug>/drafts/draft-1.md`. Fix every error
@@ -43,7 +50,8 @@ with SendMessage, so the voice holds across drafts.
 
 After the story, add a `## Drafter's notes` section with:
 - the word count of the story text alone;
-- for each payoff-ledger row, the line that makes it explicit, quoted;
+- for each payoff-ledger row, the line that makes it explicit, quoted, and
+  for each graded row, the scene that shows it;
 - each departure from the outline, and why;
 - each rule broken on purpose, and why.
 

@@ -63,12 +63,15 @@ That makes them insiders, and they don't score the Understood group. The
 | Understood | Twist | Could a reader say what the twist was? (N/A if none) | the grader |
 | Understood | Ending | Could a reader say what happened at the end, and why? | the grader |
 | Understood | Who's who | Could a reader place each named character? | the grader |
+| Understood | Terms | Could a reader get every coined or foreign term from the page itself? | the grader |
 | Craft | Structure | Does every scene turn? Does the form serve the idea? | the panel |
 | Craft | Character | Does the protagonist want something, and does the novum make it harder to get? | the panel (construction), plus the grader's Who's who (legibility) |
 | Craft | Consequence | Does the story live in the second-order effects? | the panel (construction), plus the grader's Stakes and Why (legibility) |
 | Craft | Prose | Is it specific, and does every ornate line earn its place? | the panel |
 
 The grader's grades map onto the scale as got it 5, partial 3, missed 1.
+Terms has no partial: one term the reader got only from outside the story,
+or never got, is a miss.
 
 **Character and Consequence carry two scores each,** reported side by side
 and never averaged: construction from the panel, legibility from the grader.
@@ -76,7 +79,9 @@ A well-built character the reader couldn't place is a legibility failure,
 not a construction one.
 
 **No mean mixes the groups.** Report each group separately. The comprehension
-gate, not an average, decides whether a draft can go to polish.
+gate, not an average, decides whether a draft can go to polish. It reads the
+graded rows, Terms and the First Reader's lost-list; Who's who is a score
+only.
 
 ### Mapping from the old axes
 

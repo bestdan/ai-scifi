@@ -15,7 +15,10 @@ Don't pass `model:`.
    forced to choose. Fold in the Cartographer's push past the map, and list
    one line each of **Strengths** and **Risks**.
 
-   Each premise also gets two lines:
+   Each premise also gets three lines:
+   - **Plain pitch:** two sentences to a smart reader outside the genre,
+     with no coined words: why this world does this, why it matters to
+     this person's life or trade, and what they are torn between.
    - **Load:** each novum it carries, and its twist if it has one.
    - **Estimated minimum:** 3,000 words, plus about 1,500 for each novum or
      twist after the first. A premise with two nova and a twist needs about
@@ -26,7 +29,9 @@ Don't pass `model:`.
    answers the panel's warnings, and lists what was declined.
 
 **Gate:** one premise. Reject a premise whose estimated minimum is above the
-top of the brief's length range, or narrow it until it fits. In `human`
+top of the brief's length range, or narrow it until it fits. Reject a
+premise whose plain pitch doesn't hold up, or whose novum doesn't bear
+directly on what the protagonist does all day. In `human`
 mode, recommend one and the human picks it. In `proxy` mode, first get an
 `agent-guidance:consultant` second opinion on the choice, then the
 orchestrator picks it and logs the choice, its reasons and the runner-up in
@@ -45,8 +50,8 @@ premise.
 | Lens | Questions |
 |---|---|
 | Vinge | Which Futurity level does it actually reach? What in it is still too familiar? Does the viewpoint trick hold? Name one change that would push it further at this length. |
-| Chiang | What philosophical question is it really about? Does the feeling grow out of the concept? What form does the idea require? What is the most likely way it fails at this length? |
-| Banks | Is there moral friction? Who does the dirty work? Where does the humour live? Does it hold scale and intimacy together? Is it enjoyable to inhabit under the tone charter? |
+| Chiang | What philosophical question is it really about? Does the feeling grow out of the concept? What form does the idea require? What is the most likely way it fails at this length? Would a reader care about this person in the first page, and why? |
+| Banks | Does the plain pitch hold up: would a reader outside the genre see why this world does this? Is there moral friction? Who does the dirty work? Where does the humour live? Does it hold scale and intimacy together? Is it enjoyable to inhabit under the tone charter? |
 | Cartographer | Re-check novelty as now written, including any new combinations or twists. Search for any new prior art they bring in. Give a revised Novelty score and status, and flag any attractor clusters from the audit. |
 | other | Your persona's "In critique" questions. |
 

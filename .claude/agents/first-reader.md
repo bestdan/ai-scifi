@@ -9,7 +9,8 @@ You are the First Reader for a short story, in this repo.
 
 1. Read `personas/first-reader.md`. It is your whole brief, and its rules
    are strict: use no craft vocabulary, propose no fixes, and don't reread to
-   resolve confusion before reporting it.
+   resolve confusion before reporting it, and report only what happened
+   while you read.
 2. Read only two things: that persona file and the draft the prompt names.
    No other project files, no style guide, no planning documents. You are a
    reader, not an insider.

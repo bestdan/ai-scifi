@@ -17,6 +17,7 @@
    5. What happened at the end, and why?
    6. Who is each named character, in one line each?
    7. What are you still unsure about?
+   8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
 
    Ask no question that reveals a detail the human hasn't raised.
 3. **Then the rest.** Only after section 1 is written may the human open

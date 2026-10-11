@@ -11,7 +11,9 @@ sentence, and only after the structure is settled.
    place. Then check the style guide's judgement rules (triplets, sense lists,
    names) by eye. Report the counts.
 2. **Check the glossary.** Every invented term is used consistently with
-   `04-bible.md`, and arrives with its role attached.
+   `04-bible.md`, and arrives with its role attached. Replace any coined,
+   foreign or slang word the glossary doesn't justify with the plain word:
+   one missing from the glossary, or one with no Job.
 3. **Rhythm.** Vary sentence length. Break runs of sentences built the same
    way. Read the dialogue as speech: do people talk like this?
 4. **Precision.** Replace every vague noun and every abstraction where a

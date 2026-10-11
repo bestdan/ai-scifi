@@ -22,6 +22,7 @@ can be set beside the reader's in `reviews/final/comprehension-answers.md`.
 5. What happened at the end, and why?
 6. Who is each named character, in one line each?
 7. What are you still unsure about?
+8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
 
 Then ask where the read flowed or snagged, and how the ending landed.
 
@@ -31,8 +32,9 @@ there was a deadline.
 
 <the human's answers, quoted>
 
-**Against the gate.** For each graded ledger row, the reader's grade on
-`final.md` and whether the human's answer would earn the same grade. A row
+**Against the gate.** For each graded ledger row, and for Terms, the
+reader's grade on `final.md` and whether the human's answer would earn the
+same grade. Set the reader's lost-list beside the places the human snagged. A row
 the reader got and the human missed means the gate didn't predict the
 human.
 
@@ -54,6 +56,7 @@ scores and the grader's.
 | Understood | Twist | | | |
 | Understood | Ending | | | |
 | Understood | Who's who | | | |
+| Understood | Terms | | | |
 | Craft | Structure | | | |
 | Craft | Character | | | |
 | Craft | Consequence | | | |

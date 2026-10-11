@@ -25,6 +25,7 @@
 5. What happened at the end, and why?
 6. Who is each named character, in one line each?
 7. What are you still unsure about?
+8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
 
 These questions appear nowhere else the reader can see. Asked before the
 read, they would steer it.
@@ -38,18 +39,31 @@ All of its files go in `stories/<slug>/reviews/draft-N/`.
 
    `Answer these from memory, without rereading. Write your answers, numbered, to stories/<slug>/reviews/draft-N/comprehension-answers.md.`
 
-   followed by the seven questions above, word for word.
-2. **The grader's inputs.** Write two files from `04-bible.md`:
+   followed by the eight questions above, word for word.
+2. **The grader's inputs.** Write three files from `04-bible.md`:
    - `ledger-rows.md`: only the Row and The fact columns of the payoff
      ledger's five graded rows. No scenes, no explicit lines.
-   - `names.md`: each named character and invented term, with its role in
-     one line, from the bible's Characters and Glossary sections.
+   - `names.md`: each named character, with their role in one line, from
+     the bible's Characters section. Characters only: a term's meaning here
+     would tell the grader what the page may not have.
+   - `terms.md`: each term in the bible's Glossary, with its meaning in one
+     line, plus any coined, foreign or slang word the draft uses that the
+     Glossary lacks. The grader uses it only for the Terms row.
 3. **Grading.** Dispatch a fresh `comprehension-grader` with this prompt:
 
-   `Ledger: stories/<slug>/reviews/draft-N/ledger-rows.md. Names: stories/<slug>/reviews/draft-N/names.md. Answers: stories/<slug>/reviews/draft-N/comprehension-answers.md. Write: stories/<slug>/reviews/draft-N/comprehension.md.`
+   `Ledger: stories/<slug>/reviews/draft-N/ledger-rows.md. Names: stories/<slug>/reviews/draft-N/names.md. Terms: stories/<slug>/reviews/draft-N/terms.md. Report: stories/<slug>/reviews/draft-N/first-reader.md. Answers: stories/<slug>/reviews/draft-N/comprehension-answers.md. Write: stories/<slug>/reviews/draft-N/comprehension.md.`
 
-The gate passes when every graded row is "got it" (or N/A for a story with
-no twist). Stage 8 acts on a fail; stage 9 can't start without a pass.
+The gate passes only when all three hold:
+
+- **Recall.** Every graded row is "got it" (or N/A for a story with no
+  twist).
+- **Terms.** The Terms row is "got it": the reader got every term it names
+  from the story itself.
+- **The lost-list.** No entry under "Where I got lost" in `first-reader.md`
+  concerns a graded row's fact, and there are at most three entries in all.
+  Three is a starting threshold, to be tuned from the debriefs.
+
+Stage 8 acts on a fail; stage 9 can't start without a pass.
 
 ## For the orchestrator
 

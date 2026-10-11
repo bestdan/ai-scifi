@@ -44,7 +44,8 @@ stories/<slug>/
   reviews/draft-N/<lens>.md  critiques of draft N, plus first-reader.md
   reviews/draft-N/comprehension-answers.md   the First Reader's turn-2 answers
   reviews/draft-N/ledger-rows.md   the graded ledger rows, for the grader
-  reviews/draft-N/names.md   names and roles, for the grader
+  reviews/draft-N/names.md   characters and their roles, for the grader
+  reviews/draft-N/terms.md   coined and foreign terms, for the grader's Terms row
   reviews/draft-N/comprehension.md   the grader's grades and gate result
   06-revision-plan.md        the latest round's triaged notes
   reviews/protect-list.md    lines the Line Editor must not cut unlogged
@@ -92,10 +93,12 @@ is marked **charted**. It can still feed a collision, but it can't be the core
 novum by itself.
 
 **The comprehension gate stands between stage 7 and stage 9.** A cold
-reader answers fixed questions, and the `comprehension-grader`, who sees
-only the bible's payoff-ledger rows and those answers, grades them. Polish
-starts only when every graded row is "got it", and the gate runs again on
-`final.md`. The orchestrator never grades comprehension itself.
+reader reports where it got lost and answers fixed questions, and the
+`comprehension-grader`, who sees only the bible's payoff-ledger rows, a
+names list, a terms list, the reader's lost-list and its answers, grades
+them. Polish starts only when every graded row and the Terms row are "got
+it" and the lost-list is short and touches no graded row. The gate runs
+again on `final.md`. The orchestrator never grades comprehension itself.
 
 **A structural problem found at stage 9,** or a comprehension miss on
 `final.md`, sends the story back to stage 8.

@@ -28,6 +28,7 @@ COMPREHENSION_QUESTIONS = [
     "What happened at the end, and why?",
     "Who is each named character, in one line each?",
     "What are you still unsure about?",
+    "Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?",
 ]
 
 
@@ -67,6 +68,24 @@ class AgentDefinitions(unittest.TestCase):
             self.assertIn(question, section)
             for text in reader_files:
                 self.assertNotIn(question, text)
+
+    def test_grader_gate_reads_terms_and_the_lost_list(self):
+        body = (AGENTS / "comprehension-grader.md").read_text()
+        gate = body.split("**Gate:**", 1)[1].split("**Still unsure:**", 1)[0]
+        self.assertIn("Terms is got it", gate)
+        self.assertIn("lost-list", gate)
+        self.assertIn("at most three", gate)
+
+    def test_stage_7_splits_names_from_terms(self):
+        stage = (REPO / "process" / "stages" / "07-review.md").read_text()
+        self.assertIn("`names.md`: each named character", stage)
+        self.assertIn("`terms.md`", stage)
+        self.assertIn("Terms: stories/<slug>/reviews/draft-N/terms.md", stage)
+
+    def test_first_reader_claims_no_experience_it_did_not_have(self):
+        persona = (REPO / "personas" / "first-reader.md").read_text()
+        self.assertNotIn("next day", persona)
+        self.assertIn("claim no experience you didn't have", persona)
 
     def test_persona_files_named_by_lens_roles_exist(self):
         for name in ("cartographer", "first-reader", "line-editor"):

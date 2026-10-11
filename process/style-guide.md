@@ -34,10 +34,16 @@ default tone for every stage, from ideation on.
    all their lives don't explain it to each other. The reader infers it from
    what people take for granted. Exposition comes where a character in the
    scene has a reason to explain, or from the narration at the payoff point
-   the bible's payoff ledger names.
-3. **Trust the reader, then pay them.** Leave invented terms undefined while
-   context carries them. Subtext may stay subtext, as long as every fact in
-   the payoff ledger is explicit on the page.
+   the bible's payoff ledger names. Living the novum is not a reason to leave
+   its mechanism unstated: what it does, and why this world needs it, is
+   said plainly on the page.
+3. **Every term earns its place, and the page makes it clear.** A coined or
+   foreign word stays only when it does a job the plain word can't: it names
+   something the reader's world has no word for, or its strangeness is the
+   point. Its meaning is clear from the page at its first use, to a reader
+   who doesn't speak the language. Slang and dialect for local colour alone
+   don't qualify; use the plain word. Subtext may stay subtext, as long as
+   every fact in the payoff ledger is explicit on the page.
 4. **Dialogue has friction.** People talk past each other, dodge, lie, and
    mean less than they say or more. Nobody delivers the theme out loud.
 5. **Consequences surface sideways.** The big change shows itself through a
@@ -65,10 +71,12 @@ default tone for every stage, from ideation on.
       kitchen, and then it kept coming, and she had to hold the edge of the
       table."
 
-    An abstract, stacked construction doesn't earn it. The human couldn't
-    follow this one: "Twenty-two years of reading things that wanted a
-    reaction from her had left her face with almost nothing to do on its
-    own."
+    An abstract, stacked construction doesn't earn it, and neither does
+    slang the reader can't decode. The human couldn't follow these:
+    - "Twenty-two years of reading things that wanted a reaction from her
+      had left her face with almost nothing to do on its own." (calibration-01)
+    - "...two labs answered and one not yet, which would, obviously,
+      ceiling, the whole thing ceiling." (run-02)
 
 ## The banned list
 
@@ -132,10 +140,15 @@ goes in `stories/<slug>/lint-waivers.toml` as a `[[waiver]]` entry with
 ## Invented terms
 
 - Keep a glossary in `04-bible.md`. Use each term with the same meaning every
-  time.
-- Introduce a term with its role attached. Saying in the same sentence what
-  the thing does, or who the person is to the scene, is fine. A
-  dictionary-style gloss in apposition (", a device that…") is not.
-- Coin terms the way a culture would: by compounding, clipping, borrowing
-  from other languages, slang, or a brand name gone generic. Avoid Latinate
-  techno-jargon.
+  time. Each term in it names its **Job**, what the plain word couldn't do,
+  and the line that makes it **clear at first use**. A term with no Job is
+  cut, and the plain word used instead. A coined, foreign or slang word that
+  isn't in the glossary doesn't go in the draft.
+- Introduce a term with its role attached, so its meaning is clear from its
+  use. Saying in the same sentence what the thing does, or who the person is
+  to the scene, is fine. A dictionary-style gloss in apposition (", a device
+  that…") is not.
+- Coin a term that has passed the Job test the way a culture would: by
+  compounding, clipping, borrowing from other languages, slang, or a brand
+  name gone generic. Avoid Latinate techno-jargon. Slang that is there only
+  for local colour gets the plain word.

@@ -8,11 +8,19 @@
 - **What the ending costs the protagonist:**
 
 ## Information plan
-One row per payoff-ledger row in `04-bible.md`, in the order the reader meets
-them. The Stakes row is made explicit before the climax scene.
+First, where each fact in the bible's "What the reader needs about the world"
+list surfaces. Each one is on the page in the first third.
 
-| Ledger row | Where it surfaces | How (scene, inference, artifact) | Made explicit by (scene, and how) |
-|---|---|---|---|
+| World fact | Scene (in the first third) |
+|---|---|
+
+Then one row per payoff-ledger row in `04-bible.md`, in the order the reader
+meets them. The Stakes row is made explicit before the climax scene. Each
+graded row is both stated, in plain words, and shown, as a consequence in a
+scene.
+
+| Ledger row | Where it surfaces | How (scene, inference, artifact) | Made explicit by (scene, and how) | Shown by (scene) |
+|---|---|---|---|---|
 
 ## Scenes
 Introduces lists every named character and invented term the scene brings
