@@ -1,0 +1,15 @@
+# Stage 5 critique: Chiang
+
+Blind spots: I read for idea and form, not momentum. Asimov should check fair-play and pacing, Banks the scale and the wit.
+
+The question is sound: if you can predict a person, can you hold her responsible? The climax grows from it. The judge counts misses as proof of choice, which is a thin but real answer, and Tamsin knows it.
+
+1. **[must-fix] Scene 8 settles the question it should leave open.** "She'll tell me not to look down. Ninety." / "Look down. Go on." That is a plain miss. A sweet, readable surprise is easy to call a choice, so "can't tell if it was a choice or the one time in ten" is a pretence. The scene would be honest if Mum's act were also what the model would give at ten per cent. Fix: make the unscored event ambiguous on the page. For example, Mum says the habitual thing but does it unusually, or Tamsin's own bracket is the thing she can't score. The reader should be unable to score it either.
+
+2. **[must-fix] Scene 2 hides the twist by narrator's sleight.** "Narrates only that she kept the rule" is a retrospective narrator withholding her own entry. She tells the story after the hearing, and after rereading the log. Fix: she admits the withholding ("There is an entry for this evening I'll come back to"). Her shame then becomes visible, and scene 6's quotation is a confession rather than a reveal.
+
+3. **[should] The form should be a light device, not just brackets.** The log is the evidence and the story is her statement. Give each bracket a running tally ("Hit, 7 of 9") that the reader can check. In scene 7 the judge's count of the misses should match what the reader has been keeping. The reader then sees the thin reasoning for themselves, and the one self-scored hit sits visibly where Kyle's lawyer finds it. Do not add a framing document beyond that.
+
+4. **[should] Cut or merge scenes.** Scene 6 carries darts, Gran, the father's card, Kyle's lawyer and the reread: five beats and a new name. Cut Gran and the card, which are texture and not payoff. Keep darts, Kyle and the reread, because those three are the Stakes shown and the Twist. In scene 4, Priya bending a rule to show Tamsin Mum's file duplicates what the narration explains. Cut the file and keep Priya's wrong forecast. Scene 2 also holds Mum, Kofi, Kyle, ties, the colleague's father and the stair plan in 1,000 words. Drop the colleague's father and let Mum's "I'd sooner pay a fine" answer the plain narration in scene 4.
+
+5. **[should] Pay the cost on the page.** "Tamsin's office takes her off checking for a term" is one stated sentence in scene 7. The viaduct is what she loves and has only ever checked on paper. In scene 8, standing on it for the first time should be the cost made concrete. She is off checking, so she has no window to see it from. A model of the structure cannot give her what the brick, the wind and the drop give. That would tie the climb to the idea. Her prediction about Mum fails against the thing itself, not against a person.
