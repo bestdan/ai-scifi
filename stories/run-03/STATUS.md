@@ -1,8 +1,8 @@
 # Status: run-03
 
 - **Gate mode:** proxy
-- **Current stage:** 8, Revise (round 2)
-- **Next action:** the drafter writes draft 3 from `06-revision-plan.md`.
+- **Current stage:** 9, Polish
+- **Next action:** the line editor polishes draft 3 into `final.md`, then spot-checks and the gate on `final.md`.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -18,11 +18,17 @@
 | 5 Structure | 2026-10-11 | orchestrator (proxy) | Outline approved after revision: 8 scenes, about 6,500 words; all 7 must-fix notes resolved | Statement logic planted (nearer seven on what matters); the twist's cost shown in court; the narrator admits the withheld entry; the last beat made undecidable ("Don't—"); handover pictured in scene 1; a joke per scene; word budget rebalanced toward the climax. Kept Gran and the father as one line each against Chiang's cut, for Le Guin's stage 4 must-fix | — |
 | 7–8 Review round 1 | 2026-10-11 | orchestrator (proxy) | Comprehension gate failed (Premise partial; Terms missed on *treated* and the darts terms; lost-list 7 entries, 4 touching graded rows); revision plan approved, 19 items | Recall rows otherwise got it. The new gate caught what run-02's didn't: the draft never says what the treatment is. Consensus: reconcile scene 6's "never thought to ask" with scene 2. Asimov's log-disclosure rule adopted. Kept the withheld-entry admission and the bus-driver lines against Chiang, for the stage 5 and first-third rules | — |
 | 7–8 Review round 2 | 2026-10-11 | orchestrator (proxy), consultant concurred (60%) | Gate failed again (Premise and Why partial; lost-list 6, four touching graded rows), the second fail in a row, so the loop cap fired. One more round taken; stop rule: after round 3, proceed to stage 9 and log any unclosed rows | Terms now passes; every lost entry worked out by the reader. Fixes: drop the held-back-entry announcements (consultant's change), the law's reasoning as plain narration, Mum wanting the blame said plainly, the court's rule for checking a "could" | Proceed to polish now and log the gap |
+| 7–8 Review round 3 | 2026-10-11 | orchestrator (proxy), per the logged stop rule | Draft 3 called structurally done; gate failed (Premise, Stakes, Why partial; Terms missed on the darts; lost-list 5); proceed to stage 9 under the loop cap | Twist, Ending and Who's who held for the second round running; Chiang and Asimov find no structural problem (Chiang Weight 5). The partial rows moved with each fresh reader. The remaining gaps are sentence-level and go to the line editor as required items | Round 4 (ruled out by the stop rule) |
 
 ## Gate failures
-<comprehension-gate rows left unclosed when the stage 8 loop cap let the
-story proceed: the row, its last grade, and the rounds tried. The debrief
-reports these first.>
+
+The debrief reports these first.
+
+- **Premise** (partial in rounds 1, 2 and 3). Last answer named the decision but not the nine-in-ten prediction, that "couldn't" marks Mum as unable to choose, or that Mum wants the blame.
+- **Stakes** (got it in rounds 1 and 2, partial in round 3). Last answer missed that the firm takes the blame.
+- **Why** (got it in round 1, partial in rounds 2 and 3). Last answer missed the law's reasoning: couldn't choose once, so can't be trusted to choose again.
+- **Terms** (missed in rounds 1 and 3, got it in round 2). The darts double and treble, never fully clear from the page.
+- **Lost-list** (7, 6, then 5 entries). Never under three; the round 3 entries were the year, the tally format, the ties, the judge's count and the unscored ending.
 
 ## Seed stock
 
