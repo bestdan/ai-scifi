@@ -1,78 +1,72 @@
-# Revision plan: draft 1 → draft 2
+# Revision plan: draft 2 → draft 3
 
 ## Scores
 
 **Felt** (the lenses, with the First Reader's report as evidence)
 
-| Axis | Asimov | Watts | Le Guin | Chiang | Cartographer |
-|---|---|---|---|---|---|
-| Atmosphere | — | 4 | 4 | 4 | 4 |
-| Weight | — | 4 | 4 | 4 | 4 |
+| Axis | Asimov | Watts | Chiang |
+|---|---|---|---|
+| Atmosphere | — | 4 | 4 |
+| Weight | — | 4 | 4 |
 
 **Craft** (the lenses)
 
-| Axis | Asimov | Watts | Le Guin | Chiang | Cartographer |
-|---|---|---|---|---|---|
-| Structure | 4 | 4 | 4 | 3 | 4 |
-| Character | — | 4 | 4 | 4 | — |
-| Consequence | 3 | 4 | 4 | 4 | 4 |
-| Prose | 4 | — | 4 | 4 | — |
+| Axis | Asimov | Watts | Chiang |
+|---|---|---|---|
+| Structure | 4 | 4 | 4 |
+| Character | — | 4 | 4 |
+| Consequence | 4 | 4 | 4 |
+| Prose | 4 | — | 4 |
 
-**Understood** (`reviews/draft-1/comprehension.md`)
+**Understood** (`reviews/draft-2/comprehension.md`)
 
 | Row | Grade |
 |---|---|
-| Premise | partial (3) |
+| Premise | partial (3): the reader never says Mum wants to be blamed |
 | Stakes | got it (5) |
-| Why | got it (5) |
+| Why | partial (3): the reader missed why the law marks a cleared person as untrustworthy |
 | Twist | got it (5) |
 | Ending | got it (5) |
 | Who's who | got it (5) |
-| Terms | missed (1): *treated*, *double sixteen / treble twenty* |
-| Lost-list | 7 entries; touches Premise, Why, Stakes, Twist |
+| Terms | got it (5) |
+| Lost-list | 6 entries; 2, 3 and 5 touch Twist, 4 touches Stakes and Why |
 
-**Gate:** fail.
+**Gate:** fail, the second in a row. The loop cap applies. A consultant (60%) advised one more round: it will probably close the graded-row failures, and probably not the lost-list count, since no report has yet come under three entries.
+
+**Stop rule:** after round 3, proceed to stage 9 whatever the gate says, and log any unclosed rows under "Gate failures".
+
+Progress since round 1: Terms now passes; Stakes, Twist and Ending hold; the
+lost-list fell from 7 to 6, and the reader worked every entry out by reading
+on. What's left is clustered: the held-back entry, and the law's reasoning.
 
 ## Structural items
 
-From the comprehension gate (required whatever the lenses said):
+From the comprehension gate:
 
-1. **Say what the treatment is, plainly, at first use** (Terms; lost-list 1; Premise, Why). Scene 1, in the sentence that first says "treated": an injection given to pregnant mothers since 2043 that makes the baby far cleverer than its parents and lets it learn several times faster. One or two plain sentences, no gloss in apposition. The reader guessed "kids who can predict and plan"; the page must make the gap, and its cause, unmistakable.
-2. **Make the darts clear from the page** (Terms). In scene 6, one plain line: to finish you have to hit a double, the thin outer ring, and she needed the double of sixteen; treble twenty is the small inner box of the twenty, the hardest high score. Or use plain words for the throws. The reader must not need to know darts.
-3. **Premise: tie clearing to "unable to choose", and show Mum wants the blame** (Premise partial; lost-list 5). In scene 4, the stated line keeps both halves together: clearing her is the same act as recording her as someone who can't choose. In scene 5, Mum's wish to be blamed must be plain, though said her own way, not as a speech: "I'll pay. I did it. Don't you write that I couldn't help it."
-4. **Make plain why being cleared is the bad outcome** (lost-list 5; Stakes, Why). In scene 2 the bus-driver lines say outright that being cleared cost the father his job for good. In scene 4 break the law paragraph into short steps, each a sentence, so the reader isn't holding it all at once.
-5. **Name the entry when the court reads it** (lost-list 6; Twist). At the hearing, "the Tuesday entry, the one at eighty", so there's no doubt which prediction is meant.
-6. **Teach the log's format at its first entry** (lost-list 2 and 3). At the tea entry, say once what the brackets, the number and the running score are: what she predicted, how sure she was, and hits out of everything she's ever logged.
-7. **Name the narrator early** (lost-list 7). Mum says "Tamsin" in scene 2.
+1. **Drop the held-back-entry announcements** (lost-list 2 and 3; Twist). Cut both "I'll come to it" lines, in scenes 1 and 2. In scene 2 keep only a neutral plant: after the washing-up she wrote in the log, as she does. The entry's words and date appear first in the scene 6 reread. From then on call it "the Tuesday entry" every time, never "the Friday entry". (Changed on the consultant's advice: naming the entry's subject in scene 2 would give the twist away in scene 3.)
+2. **Say why one set of ties is dangerous** (lost-list 5; Twist). Scene 2, Mum: two sets a level that high, because of the wind; one set holds it on a still day and not on a windy one.
+3. **Make the law's reasoning a chain of plain sentences** (lost-list 4; Why partial). Replace "the same tick in the same box" with something nobody can misread: clearing her and recording her as limited aren't two things, they're one. Then the reason, once, as plainly as possible: the court reasons that if you couldn't choose this time, you can't be trusted to choose next time, so you can never sign again. Keep this in the narration only; Mum doesn't explain the law to a daughter who already knows it (style-guide rule 2).
+4. **Mum wants the blame, plainly** (Premise partial). Scene 5: Mum says it in words nobody can miss, once: "It was my fault, and I want it to be my fault. Write that." Keep it short. The darts line stays as the sideways echo.
+5. **Spread out the opening's facts** (lost-list 1). Scene 1, paragraph 3: keep the injection and the birth years; move the checkers' duty to report into Priya's mouth later in the scene.
+6. **Why limited doesn't fall on the treated** (the reader's answer 7). One line in scene 4: the treated rarely sign anything before sixteen, and nobody can predict them the way their children can predict their parents.
 
 From the lenses:
 
-8. **Reconcile scene 6 with scene 2** (consensus: Asimov, Watts, Chiang). In scene 2 she does ask "So what will you do?" and gets "Get it done Friday". In scene 6 she doesn't claim she never thought to ask. She remembers that she asked, got her answer, and knew the next question was "Both sets?", and didn't put it, because she already knew the answer and asking would have felt like telling. Keep it short, and not a one-paragraph epiphany: she catches herself in a lie she was telling herself, and moves on to the viaduct.
-9. **Make handing over the log a stated rule** (Asimov). The form in scene 4 says plainly that any statement must come with the witness's whole written record of predictions about the person, if one exists. Then "Either way, the letter wanted the log" follows from what the reader has seen.
-10. **Plant the starred entries** (Asimov, Watts). From scene 2: she stars the entries that matter, and on the starred ones she's right about seven times in ten. The judge's "three times in ten" then matches something the reader already has.
-11. **Plant the checkers' duty to report** (Asimov). Scene 1: a checker must report any safety risk she knows of, on any site, whether or not it's on her desk. Then the term off checking isn't a new rule.
-12. **The log is a sample** (Watts). Scene 2, one line: she only logs what she can score. At the hearing Kyle's lawyer or the judge notes it in one line, and the judge rules anyway.
-13. **The untreated end-desk adults come back once** (Le Guin). In the basement records room in scene 8, her old maths teacher is there too, doing records. One short exchange.
-14. **Trim the drift toward stock in the last quarter** (Cartographer). The judge keeps the count, the ruling and her one aside about her own mother, and drops any line that does the story's thinking aloud. Mum reading the log stays, because it ends the house rule, but without the laughing collapse: she reads it and says "I'm very boring, aren't I", and that's all.
-
-## Adopted single-lens notes (line-level, for the drafter now)
-
-15. Cut "It's both" at the hearing, which states the theme (Chiang). Tamsin gives a plainer, worse answer.
-16. Trim the first page: get from the stairwell to the viaduct faster (Chiang, First Reader bored).
-17. Fix "Pike is his name", which is awkward; one plain line about her father (Le Guin).
-18. One line that Mum was outgrown by Tamsin at about ten (Le Guin), in scene 2.
-19. The log records how likely, not how much harm (Asimov): one line in scene 6 as she rereads.
+7. **Settle what the court does with the child's word** (Asimov). Scene 4: the court accepts a "couldn't" without checking, because it protects the worker. A "could" it checks against the log, because it exposes the worker to blame. Scene 7 then follows the rule: the judge audits Tamsin's "could" against the log.
+8. **Close the "wrote nothing" exit** (Asimov). Scene 5: if she files nothing, the court can order the log anyway, and destroying it would be contempt. So filing anything, or nothing, puts the log in front of the court.
+9. **The observer effect on the Tuesday entry** (Watts). One sentence in the scene 6 reread: Mum saw her doing her weather that night. Maybe she did it because of the prediction, or to spite it, or for no reason to do with Tamsin at all. Tamsin will never know.
+10. **Let the entries argue** (Chiang). Cut the Kofi gloss ("He'd done the thing I do…"), the second "treating her like weather" confession, and everything in the "thin reason" paragraph after "It doesn't prove she chose anything."
+11. **Eighty per cent counts as knowing** (Asimov). Priya, scene 7: the office reports at fifty.
 
 ## Conflicts
 
-- **Withholding the Tuesday entry** (Chiang: place it in order in scene 2 without remark). The stage 5 gate adopted Chiang's own earlier note to have the narrator admit she's holding it back. **Keep the admission**, but keep it to one line in each of scenes 1 and 2, not two.
-- **The bus-driver paragraph** (Chiang: cut, it repeats the law). It is world fact 4, which must be in the first third. **Keep it, short,** and make the law paragraph in scene 4 not repeat it.
-- **Gran and the puffin card** (Chiang: cut). They answer Le Guin's stage 4 must-fix. **Keep each to one line.**
+- **Gran** (Chiang: cut). Kept at one line, as in round 1, for Le Guin's stage 4 must-fix.
+- **The held-back entry** (Chiang: drop the device). Adopted in round 2: both announcements go, on the consultant's advice.
 
 ## Declined
 
-- None beyond the conflicts above.
+- Watts's line notes on Mum's evidence being the least neutral, and on the stairwell physics: true, but adding them costs clarity for little gain.
 
 ## Length
 
-Draft 1 is 5,608 words. These items add perhaps 400 to 600. Stay under 7,000.
+Draft 2 is 5,847 words. Stay under 7,000.

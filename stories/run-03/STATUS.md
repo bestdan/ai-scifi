@@ -1,8 +1,8 @@
 # Status: run-03
 
 - **Gate mode:** proxy
-- **Current stage:** 8, Revise (round 1)
-- **Next action:** the drafter writes draft 2 from `06-revision-plan.md`.
+- **Current stage:** 8, Revise (round 2)
+- **Next action:** the drafter writes draft 3 from `06-revision-plan.md`.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -17,6 +17,7 @@
 | 4 Build | 2026-10-11 | orchestrator (proxy) | Bible approved with all 13 must-fix notes resolved | Set in 2059 with dates and ages checked; Kyle's lawyer, not the firm, wants the statement; Tamsin could have acted without telling a prediction; confidence figures and a court challenge to her self-scored log; misses counted as evidence of choice but the law's logic left unrepaired; Tamsin's raw ability shown beyond prediction; father, Gran, Bev and school added; Kofi gets a scene; names fitted to birth years (Freya, Kyle); last prediction left unscored | — |
 | 5 Structure | 2026-10-11 | orchestrator (proxy) | Outline approved after revision: 8 scenes, about 6,500 words; all 7 must-fix notes resolved | Statement logic planted (nearer seven on what matters); the twist's cost shown in court; the narrator admits the withheld entry; the last beat made undecidable ("Don't—"); handover pictured in scene 1; a joke per scene; word budget rebalanced toward the climax. Kept Gran and the father as one line each against Chiang's cut, for Le Guin's stage 4 must-fix | — |
 | 7–8 Review round 1 | 2026-10-11 | orchestrator (proxy) | Comprehension gate failed (Premise partial; Terms missed on *treated* and the darts terms; lost-list 7 entries, 4 touching graded rows); revision plan approved, 19 items | Recall rows otherwise got it. The new gate caught what run-02's didn't: the draft never says what the treatment is. Consensus: reconcile scene 6's "never thought to ask" with scene 2. Asimov's log-disclosure rule adopted. Kept the withheld-entry admission and the bus-driver lines against Chiang, for the stage 5 and first-third rules | — |
+| 7–8 Review round 2 | 2026-10-11 | orchestrator (proxy), consultant concurred (60%) | Gate failed again (Premise and Why partial; lost-list 6, four touching graded rows), the second fail in a row, so the loop cap fired. One more round taken; stop rule: after round 3, proceed to stage 9 and log any unclosed rows | Terms now passes; every lost entry worked out by the reader. Fixes: drop the held-back-entry announcements (consultant's change), the law's reasoning as plain narration, Mum wanting the blame said plainly, the court's rule for checking a "could" | Proceed to polish now and log the gap |
 
 ## Gate failures
 <comprehension-gate rows left unclosed when the stage 8 loop cap let the
