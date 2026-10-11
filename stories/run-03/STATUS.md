@@ -22,3 +22,8 @@ reports these first.>
 <runner-up ideas and premises worth saving for later stories>
 
 ## Open questions
+
+- **Process takeaway (from the human, 2026-10-11):** run-02's premise didn't
+  hold to the fixed seed, and no gate checked it. For this run the brief
+  carries a seed-adherence line and stage 3 checks it. A standing
+  seed-adherence check at stages 2 and 3 is a candidate process change.

@@ -32,6 +32,13 @@
 - **Notes:** an unattended proxy run. The orchestrator logs each gate
   decision, with its runner-up, in `STATUS.md`. Nothing the human sees
   before reading reveals the angle.
+- **Seed adherence (the human, after run-02):** run-02 drifted from the
+  seed: its treatment came late, and its children didn't surpass their
+  parents. This run keeps the seed as written. The children are treated in
+  utero or at birth, they are far smarter and faster-learning than the
+  untreated adults around them, and the story shows that gap on the page:
+  the children outthink their parents, teachers and bosses. Stage 3 rejects
+  any premise that weakens, delays or inverts this.
 - **Rerun:** this is a second run on run-02's brief and seed, under the
   process as changed after run-02's debrief. Run-02's premise (the
   "Setting Day" bell-founding angle) is charted for this run: the audit
