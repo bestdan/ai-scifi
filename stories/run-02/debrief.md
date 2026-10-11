@@ -51,22 +51,36 @@ fountain paragraph:
 
 ## 2. Rubric scores
 
-The Understood rows are all 1: the interview missed every one.
+The Understood rows are all 1: the interview missed every one. The human
+gave the other axes in words, not numbers. The panel column is the last
+round's panel, which was Asimov alone (`reviews/draft-3/asimov.md`).
 
 | Group | Axis | Human | Panel / grader | Why (the human's words) |
 |---|---|---|---|---|
-| Felt | Atmosphere | _pending_ | | |
-| Felt | Weight | _pending_ | | |
+| Felt | Atmosphere | good, but minimal | — | "Very little contextual world-building to give bones to the vibes." |
+| Felt | Weight | not given | — | |
 | Understood | Premise | 1 | 3 | "the nature of the decision ... was unclear" |
 | Understood | Stakes | 1 | 3 | "I don't know" |
 | Understood | Why | 1 | 5 | "I don't know" |
 | Understood | Twist | N/A | N/A | |
 | Understood | Ending | 1 | 3 | "why the relationship inverts ... is unclear" |
 | Understood | Who's who | 1 | 5 | "I don't know" |
-| Craft | Structure | _pending_ | | |
-| Craft | Character | _pending_ | | |
-| Craft | Consequence | _pending_ | | |
-| Craft | Prose | _pending_ | | |
+| Craft | Structure | good | 4 | "The ending did have good pace/pop, overall arcs were good." |
+| Craft | Character | not given | 4 | From section 3: "I don't care about Davi." |
+| Craft | Consequence | not given | 5 | |
+| Craft | Prose | good, but exclusive | 4 | "Good, but exclusive to the casual reader." |
+
+**Where the human and the panel diverge:**
+
+- **Understanding.** The grader passed Why and Who's who and gave Premise,
+  Stakes and Ending a partial. The human missed all five.
+- **Character.** Asimov scored 4 because Davi's wants are clear and the
+  novum blocks them. The human didn't care about Davi.
+- **Prose.** Asimov scored 4 and noted only that the opening is dense. The
+  human found the prose good but closed to a casual reader, which is the
+  story's target reader.
+- **Where they agree:** structure. Both rate it good, and the human singled
+  out the ending's pace.
 
 ## 3. The run's open questions
 
@@ -128,6 +142,10 @@ Skipped. The run failed, so nothing from it carries forward.
   meaning on the page at first use. Local colour alone doesn't qualify.
   Both the drafter and the line editor need this rule, and the lint could
   count unexplained terms.
+- **[process: stage 4, 6] World-building has to reach the page.** On
+  atmosphere: "very little contextual world-building to give bones to the
+  vibes." The bible's world didn't make it into the draft. What reached the
+  page was mood and texture, without the context underneath it.
 - **[process: stage 4–5] The mechanism comes first.** What the treatment does,
   why the town requires it, and why it matters to this trade must be plain on
   the page early. Atmosphere can't carry it.
