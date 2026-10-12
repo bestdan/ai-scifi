@@ -33,3 +33,19 @@ Its wording may be tightened; its content may not be removed. In particular:
 the scene 4 reasoning chain for Why, the scene 5 statement of both outcomes,
 Mum's "It was my fault, and I want it to be my fault. Write that.", the
 Tuesday entry quoted in scene 6, and the judge's two-sentence ruling.
+
+## Added after the debrief (draft 4)
+
+The human's picks (`debrief.md` section 4), no change in wording:
+
+- "The form took four minutes. The law behind it was three years old." (remembered unprompted)
+- "She scores me back sometimes, and she has never once got it right, and she always gives herself the point."
+- "I didn't see it coming. You'll have to let me have that one."
+- "I'm very boring, aren't I." / "There's no rule in our house now. There's nothing left for it to cover."
+- "Clearing her and recording her as limited wouldn't be two things the court did. They'd be one thing."
+- "It was my fault, and I want it to be my fault. Write that."
+
+Where the draft 4 First Reader was hit hardest:
+
+- "Kyle has pins in his leg because I didn't want a row at dinner."
+- The darts scene, and the ending ("Don't—", the unscored entry).

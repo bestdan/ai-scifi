@@ -1,8 +1,8 @@
 # Status: run-03
 
 - **Gate mode:** proxy
-- **Current stage:** 8, post-debrief revision (draft 4)
-- **Next action:** draft 4 from `final.md` per the debrief, then a cold read, polish, and the human's second read.
+- **Current stage:** 9, polish of draft 4
+- **Next action:** line editor to final.md, spot-checks, then the human's second read.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -21,10 +21,13 @@
 | 7–8 Review round 3 | 2026-10-11 | orchestrator (proxy), per the logged stop rule | Draft 3 called structurally done; gate failed (Premise, Stakes, Why partial; Terms missed on the darts; lost-list 5); proceed to stage 9 under the loop cap | Twist, Ending and Who's who held for the second round running; Chiang and Asimov find no structural problem (Chiang Weight 5). The partial rows moved with each fresh reader. The remaining gaps are sentence-level and go to the line editor as required items | Round 4 (ruled out by the stop rule) |
 | 9 Polish | 2026-10-11 | orchestrator (proxy) | final.md at about 6,050 words; marked ready for the human's read and debrief | Line editor handled all 10 required items. Spot-checks: Rajaniemi 1 and 2 applied (two trims); Rajaniemi 3 declined ("children" for "teenagers" costs clarity); Asimov found no contradiction; Asimov 1 declined ("the whole sentence" weighs down the last bracket, and the next paragraph names the habit-or-choice split); Asimov 2 declined (adds clutter). "Sliding bearing", which failed Terms on final.md, replaced with plain words. The gate on final.md failed (Premise, Why partial; lost-list 8); not sent back to stage 8, because the loop cap's stop rule ruled out a round 4 and the partial rows have moved with each fresh reader | Round 4 |
 | 10 Debrief | 2026-10-11 | the human | Not landed: revise first | "MUCH BETTER. That was good." Twist read as an oddity, not a reveal (why didn't Tamsin stop it?); Tamsin "robotic, not like a kid"; world narrow beyond the legal question. Craft 4s, Prose 3.5. See `debrief.md` | Land as is |
+| 8 Post-debrief revision | 2026-10-11 | orchestrator (the human asked to revise) | Draft 4 written from final.md (6,505 words); cold read and grade on draft 4; proceed to polish | Twist now got it with the reason ("she didn't want a row"), the debrief's main note. Premise and Why partial as in every round, and as for the human; Terms missed on sliding bearing, darts, foreseeability statement (all to the line editor); lost-list 8, which the debrief found doesn't predict the human. Not another round: the human's notes are addressed | Round 5 |
 
 ## Gate failures
 
 The debrief reports these first.
+
+- **Gate on draft 4** (`reviews/draft-4/comprehension.md`): Premise and Why partial; Terms missed (sliding bearing, darts double/treble, foreseeability statement); lost-list 8, touching Why, Twist and Ending. Twist, Stakes, Ending, Who's who got it.
 
 - **Gate on final.md** (fresh reader and grader, `reviews/final/comprehension.md`): Premise partial, Why partial, Terms missed on "sliding bearing" (since replaced with plain words), lost-list 8 entries, three touching Stakes, Why, Twist or Ending. Stakes, Twist, Ending and Who's who got it.
 
