@@ -1,8 +1,8 @@
 # Status: run-03
 
 - **Gate mode:** proxy
-- **Current stage:** 10, Debrief (second read)
-- **Next action:** the human reads the revised `final.md` and decides whether it lands.
+- **Current stage:** landed
+- **Next action:** none.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -23,6 +23,7 @@
 | 10 Debrief | 2026-10-11 | the human | Not landed: revise first | "MUCH BETTER. That was good." Twist read as an oddity, not a reveal (why didn't Tamsin stop it?); Tamsin "robotic, not like a kid"; world narrow beyond the legal question. Craft 4s, Prose 3.5. See `debrief.md` | Land as is |
 | 8 Post-debrief revision | 2026-10-11 | orchestrator (the human asked to revise) | Draft 4 written from final.md (6,505 words); cold read and grade on draft 4; proceed to polish | Twist now got it with the reason ("she didn't want a row"), the debrief's main note. Premise and Why partial as in every round, and as for the human; Terms missed on sliding bearing, darts, foreseeability statement (all to the line editor); lost-list 8, which the debrief found doesn't predict the human. Not another round: the human's notes are addressed | Round 5 |
 | 9 Polish (draft 4) | 2026-10-11 | orchestrator | final.md rewritten from draft 4, about 6,500 words; ready for the human's second read | Line editor made the 6 required items (throat-clearing cut, "spite me", "That Tuesday", sliding bearing / double / treble / foreseeability statement made clear, the treated-exemption line plain). Asimov: no contradiction, score and judge's count agree, every date checked. Rajaniemi: no changes | — |
+| 10 Debrief (second read) | 2026-10-11 | the human | Landed | "the second round is good. merge it" | — |
 
 ## Gate failures
 

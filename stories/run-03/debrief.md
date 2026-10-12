@@ -162,9 +162,12 @@ good."):
 
 ## Landing
 
-Not yet. "Let's revise." A post-debrief revision follows (draft 4 from
-`final.md`), aimed at the twist's motive and Tamsin's age, with the lines
-above protected.
+First read: not yet. "Let's revise." A post-debrief revision followed (draft
+4 from `final.md`), aimed at the twist's motive and Tamsin's age, with the
+lines above protected.
+
+Second read, of the polished draft 4: landed. "the second round is good.
+merge it"
 
 ## Appendix
 
