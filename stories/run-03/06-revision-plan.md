@@ -1,72 +1,146 @@
-# Revision plan: draft 2 → draft 3
+# Revision plan: final.md → draft 4 (post-debrief)
+
+This round comes from the human's debrief (`debrief.md`), not from a review
+round. **The base text is `final.md`**, the polished version, not
+`drafts/draft-3.md`. Write `drafts/draft-4.md`. Keep every polish change
+that `final.md` made.
+
+The human liked the story ("MUCH BETTER. That was good.") and scored the
+craft at 4, Prose at 3.5. This is a targeted pass on three notes, not a
+rewrite. Most of the text should come through unchanged.
 
 ## Scores
 
-**Felt** (the lenses, with the First Reader's report as evidence)
+**Felt** (the human, with the round 3 panel beside)
 
-| Axis | Asimov | Watts | Chiang |
-|---|---|---|---|
-| Atmosphere | — | 4 | 4 |
-| Weight | — | 4 | 4 |
+| Axis | Human | Chiang |
+|---|---|---|
+| Atmosphere | "yeah, but not overly so" | 4 |
+| Weight | yes | 5 |
 
-**Craft** (the lenses)
+**Craft**
 
-| Axis | Asimov | Watts | Chiang |
+| Axis | Human | Asimov | Chiang |
 |---|---|---|---|
 | Structure | 4 | 4 | 4 |
-| Character | — | 4 | 4 |
+| Character | 4 | — | 4 |
 | Consequence | 4 | 4 | 4 |
-| Prose | 4 | — | 4 |
+| Prose | 3.5 | 4 | 4 |
 
-**Understood** (`reviews/draft-2/comprehension.md`)
+**Understood** (the human's interview, graded as the grader grades)
 
 | Row | Grade |
 |---|---|
-| Premise | partial (3): the reader never says Mum wants to be blamed |
-| Stakes | got it (5) |
-| Why | partial (3): the reader missed why the law marks a cleared person as untrustworthy |
-| Twist | got it (5) |
-| Ending | got it (5) |
-| Who's who | got it (5) |
-| Terms | got it (5) |
-| Lost-list | 6 entries; 2, 3 and 5 touch Twist, 4 touches Stakes and Why |
-
-**Gate:** fail, the second in a row. The loop cap applies. A consultant (60%) advised one more round: it will probably close the graded-row failures, and probably not the lost-list count, since no report has yet come under three entries.
-
-**Stop rule:** after round 3, proceed to stage 9 whatever the gate says, and log any unclosed rows under "Gate failures".
-
-Progress since round 1: Terms now passes; Stakes, Twist and Ending hold; the
-lost-list fell from 7 to 6, and the reader worked every entry out by reading
-on. What's left is clustered: the held-back entry, and the law's reasoning.
+| Premise | got it |
+| Stakes | partial |
+| Why | partial |
+| Twist | **missed**: the Tuesday entry read as "just another entry ... an inconsistency or oddity" |
+| Ending | got it |
+| Who's who | partial (read Tamsin as a boy; the human wants that left alone) |
+| Terms | got it |
 
 ## Structural items
 
-From the comprehension gate:
+1. **Make the twist's motive land for a casual reader** (Twist missed). The
+   human's question, after reading the whole story: "So Tamsin predicted
+   her mom making the mistake, but didn't prevent it? Why?" The page's answer
+   is spread across the house rule (scene 2), the drunk-driving entry (end of
+   scene 2) and one sentence in scene 6 ("asking would have felt like
+   telling"). It needs to arrive as one connected chain at the reread in
+   scene 6, said plainly, in Tamsin's voice, with feeling:
+   - She knew, at eighty, that Mum would fix one set of ties.
+   - Why she said nothing: the rule, and what the rule was for. Telling Mum a
+     prediction made Mum do the opposite to prove she could (the Hollis's
+     job), so a warning could backfire. And Mum had just caught her "doing
+     her weather" and snapped at her, so even asking "Both sets?" would have
+     started a row. She was fifteen, she didn't want the row, and she told
+     herself it wasn't her business.
+   - What it cost: Kyle's leg. Say it in one plain sentence that ties the
+     unasked question to the fall.
+   - Keep "The log has a number for how likely a thing is. It has nowhere to
+     put how bad." and "I had asked." as they are.
+   Keep the reveal where it is: the entry's words still appear first in the
+   scene 6 reread. Earlier scenes may carry a light plant, but must not give
+   the entry away.
 
-1. **Drop the held-back-entry announcements** (lost-list 2 and 3; Twist). Cut both "I'll come to it" lines, in scenes 1 and 2. In scene 2 keep only a neutral plant: after the washing-up she wrote in the log, as she does. The entry's words and date appear first in the scene 6 reread. From then on call it "the Tuesday entry" every time, never "the Friday entry". (Changed on the consultant's advice: naming the entry's subject in scene 2 would give the twist away in scene 3.)
-2. **Say why one set of ties is dangerous** (lost-list 5; Twist). Scene 2, Mum: two sets a level that high, because of the wind; one set holds it on a still day and not on a windy one.
-3. **Make the law's reasoning a chain of plain sentences** (lost-list 4; Why partial). Replace "the same tick in the same box" with something nobody can misread: clearing her and recording her as limited aren't two things, they're one. Then the reason, once, as plainly as possible: the court reasons that if you couldn't choose this time, you can't be trusted to choose next time, so you can never sign again. Keep this in the narration only; Mum doesn't explain the law to a daughter who already knows it (style-guide rule 2).
-4. **Mum wants the blame, plainly** (Premise partial). Scene 5: Mum says it in words nobody can miss, once: "It was my fault, and I want it to be my fault. Write that." Keep it short. The darts line stays as the sideways echo.
-5. **Spread out the opening's facts** (lost-list 1). Scene 1, paragraph 3: keep the injection and the birth years; move the checkers' duty to report into Priya's mouth later in the scene.
-6. **Why limited doesn't fall on the treated** (the reader's answer 7). One line in scene 4: the treated rarely sign anything before sixteen, and nobody can predict them the way their children can predict their parents.
+2. **Strengthen the rule where it's set up** (feeds item 1). Scene 2, the
+   Hollis's paragraph: one or two sentences on what the rule cost and why
+   it matters to Tamsin, so that by scene 6 the reader believes she'd keep
+   it even then. For example: since the rule, Mum hasn't once asked her what
+   she thinks Mum will do, and Tamsin likes it that way, because before the
+   rule every prediction turned into an argument.
 
-From the lenses:
+3. **Tamsin is fifteen** (debrief: "Tamsin also seemed robotic, not like a
+   kid dealing with a parent who seems stupid. Mum dealing with Tamsin's
+   prodigy-ness was better."). Give her a fifteen-year-old's feelings about
+   a mother she has outgrown, in a few places, without changing the plot or
+   the dry voice:
+   - **Scene 2, dinner:** while Mum asks slowly about shrinkage, let Tamsin
+     feel both things a teenager feels: impatience, and wanting Mum to be
+     impressed. Show it with one small act, such as drumming the pencil, or
+     explaining the same thing a second time too fast.
+   - **Scene 2, "Don't do that face":** she is stung and sulks a little. This
+     is also where item 1 starts, quietly.
+   - **After filing (scene 7, the day and a half of silence):** show what
+     that silence felt like to a fifteen-year-old: say, eating in her room,
+     or texting Priya about cricket so as not to think about it.
+   - **One petty or childish entry in the log,** written for spite or fun
+     rather than modelling, so the log reads as a kid's habit as well as an
+     instrument.
+   - Somewhere, one plain line of Tamsin's: she knows more than Mum about
+     nearly everything, and she still wants her mum.
+   Don't add more than about four of these. Don't make her cute, and don't
+   explain her feelings in therapy words.
 
-7. **Settle what the court does with the child's word** (Asimov). Scene 4: the court accepts a "couldn't" without checking, because it protects the worker. A "could" it checks against the log, because it exposes the worker to blame. Scene 7 then follows the rule: the judge audits Tamsin's "could" against the log.
-8. **Close the "wrote nothing" exit** (Asimov). Scene 5: if she files nothing, the court can order the log anyway, and destroying it would be contempt. So filing anything, or nothing, puts the log in front of the court.
-9. **The observer effect on the Tuesday entry** (Watts). One sentence in the scene 6 reread: Mum saw her doing her weather that night. Maybe she did it because of the prediction, or to spite it, or for no reason to do with Tamsin at all. Tamsin will never know.
-10. **Let the entries argue** (Chiang). Cut the Kofi gloss ("He'd done the thing I do…"), the second "treating her like weather" confession, and everything in the "thin reason" paragraph after "It doesn't prove she chose anything."
-11. **Eighty per cent counts as knowing** (Asimov). Priya, scene 7: the office reports at fifty.
+4. **The other kids are kids too** (debrief: "the lack of ... childishness
+   of the children. They should still be immature?"). One beat each:
+   - **Kofi (13):** in the settee scene, something a thirteen-year-old does
+     under stress: his voice goes, he kicks at the settee leg, or he asks
+     whether he'll get in trouble. He is clever and he is scared.
+   - **Priya (16):** she already has the cricket. Add one beat of a sixteen-
+     year-old boss out of her depth, for example in the corridor after the
+     hearing.
 
-## Conflicts
+5. **A little more world** (debrief: "There could have been more
+   world-building about other implications. The topic was very narrow
+   (legality etc) but good."; Atmosphere "No meaningful details for or
+   against."). Add two or three concrete details of how the treatment has
+   changed ordinary life beyond the courts, each in a sentence or less,
+   folded into existing scenes rather than added as exposition. The
+   candidates:
+   - at the Fat Cat, untreated adults' pubs and treated kids' places have
+     separated;
+   - parents' evenings run the wrong way round;
+   - the maths teacher's generation is out of work;
+   - what Gran makes of it all.
+   No new coined terms. Every added detail must be clear on first reading
+   (style-guide rule 3).
 
-- **Gran** (Chiang: cut). Kept at one line, as in round 1, for Le Guin's stage 4 must-fix.
-- **The held-back entry** (Chiang: drop the device). Adopted in round 2: both announcements go, on the consultant's advice.
+## Protect
+
+Everything in `reviews/protect-list.md`, plus the lines the human picked in
+the debrief (no change in wording):
+
+- "The form took four minutes. The law behind it was three years old."
+- "She scores me back sometimes, and she has never once got it right, and she always gives herself the point."
+- "I didn't see it coming. You'll have to let me have that one."
+- "I'm very boring, aren't I." and "There's no rule in our house now. There's nothing left for it to cover."
+- "Clearing her and recording her as limited wouldn't be two things the court did. They'd be one thing."
+- "It was my fault, and I want it to be my fault. Write that."
+
+The human also praised the repeated prediction-and-call pattern ("very
+good ... inside their head, how they were constantly seeing the future that
+the parent couldn't"). Keep its rhythm; any new log entry follows the same
+format.
 
 ## Declined
 
-- Watts's line notes on Mum's evidence being the least neutral, and on the stairwell physics: true, but adding them costs clarity for little gain.
+- **Marking Tamsin as a girl earlier.** The human read Tamsin as a boy and
+  wants it left alone: "Androgyny avoids overloading the character with false
+  baggage."
+- **Rewording or moving the law section.** The human singled it out for
+  praise.
 
 ## Length
 
-Draft 2 is 5,847 words. Stay under 7,000.
+`final.md` is about 6,050 words. Stay under 7,000.
