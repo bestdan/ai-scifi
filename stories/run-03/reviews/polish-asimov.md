@@ -1,23 +1,48 @@
-# Polish spot-check: Asimov (clarity, logic, arithmetic, rulings)
+# Polish spot-check: Asimov (draft 4 to final)
 
-**Blind spots:** I check rules and numbers, not texture, interiority or the body. Rajaniemi and Le Guin cover those.
-
-## Checked and fine
-
-- **Score ledger.** Every running tally follows from the one before (4,388 of 4,871, then 4,388 of 4,872 on the miss, and so on to 4,431 of 4,922). The judge's 491 misses equals 4,922 minus 4,431. The 4,431 hits are 90% of 4,922, which matches "nine times in ten". Mum's "four thousand nine hundred and twenty-two" matches the last scored entry, and the unscored viaduct entry is correctly outside the count.
-- **Calendar.** 3 June 2059 is a Tuesday, and 6 June, 9 June, 20 June, 4 July and 27 July all fall on the days the text gives. The filing deadline of 2 July comes before the hearing.
-- **Ages.** The ages, the years "since nine", "predicted her for six", "the rule for the first time in five years", and Kyle at 32 when Mum was 19 all agree.
-- **Rulings.** The three outcomes in scene 5 (cleared and limited; negligent with a fine and six months; or nothing, with the log ordered anyway) match the judge's ruling. The new item 4, 8 and 10 sentences contradict nothing. The darts arithmetic is correct: 32 is a double sixteen, and the treble twenty is 60.
-
-## Suggestions
-
-1. **The final entry's scoring logic is slightly leaky.** The bracket predicts "She'll tell me not to look down", and Mum does say "Don't—". A sharp reader will say it is a hit already. The ambiguity the story wants is whether she meant to finish, so the prediction should name the finish.
-   `[She'll tell me not to look down. Ninety.]` → `[She'll tell me not to look down, the whole sentence. Ninety.]`
-   Then the "habit or chose" paragraph works as written. The protected line "Don't—" and the closing beat are untouched.
-
-2. **Scene 5 says "Couldn't" would rest on the hits, but scene 4 says a "couldn't" is taken without checking.** The form (and scene 5 itself) says the log goes in either way, so this is not a contradiction, but the sentence invites one. Make the reason plain:
-   `"Couldn't" would rest on the hits, and on one entry in particular that I didn't write on the pad.` → `"Couldn't" would rest on the hits, even though nobody would check them, and on one entry in particular that I didn't write on the pad.`
+Blind spots: I check rules, arithmetic and who-knows-what. I don't judge
+interiority, sensory texture or the emotional weight of the ending.
 
 ## Verdict
 
-No contradiction was introduced by the polish. Both suggestions are optional. Suggestion 1 is the one I would apply.
+None. The polish introduced no contradiction in the logic, the arithmetic or
+the rulings.
+
+## Running score against the judge's count
+
+Every figure reconciles.
+- Tea entry: "Hit. 4,388 of 4,871", and the prose "right about her 4,388 times
+  out of 4,871" repeats it. 4,388 / 4,871 is 90.1%, which matches "nine times in ten".
+- The sequence runs forward only: Miss 4,388/4,872, Hit 4,389/4,873, then 4,402/4,888,
+  4,403/4,889, 4,419/4,907, 4,427/4,916, 4,428/4,917, 4,430/4,920, Miss 4,430/4,921,
+  and last Hit 4,431/4,922. The denominator rises by 1 per scored entry and the
+  numerator rises only on a Hit.
+- The offscreen jumps are plausible: 15 entries and 13 hits, then 18 entries and
+  16 hits, then 9 entries and 8 hits, all about 90%.
+- Judge: 4,922 predictions and 491 misses. 4,922 - 4,431 = 491. The last
+  scored entry (4,922) is the total the judge reads, and "Mum read ... all four
+  thousand nine hundred and twenty-two" agrees.
+- The ties entry is unscored until the Monday ("an entry from the week before",
+  4,403/4,889). It sits inside the 4,873 to 4,888 jump, so the denominator is
+  consistent. "Week before" is loose for a Friday and a Monday, but not wrong.
+- Starred "seven in ten" matches the judge's "three in ten" misses.
+
+## Dating
+
+"That Tuesday" is consistent. Scene 1 fixes "Tuesday the third of June" in
+its first line, so the scene 2 opening can't be misread. I checked the calendar
+for June 2059. 3 June is a Tuesday, so the 6th is a Friday, the 9th a Monday
+and the 20th a Friday. 4 July is a Friday and 27 July a Sunday. All match the
+text. "Three days" between the Tuesday entry and the Friday sign-off is right.
+Priya's "three days" is right too. "Predicted her for six" years (log from nine,
+now fifteen) is right. Mum's age (born 2018, 41 in 2059), the 22 years as a
+scaffolder, and the rule made "five years" ago all add up.
+
+## Polish edits
+
+- "a sliding bearing" in scene 1 now sets up the basement exchange fairly.
+- "counts double" and "counts treble" are clear, and the 32 = 16 doubled and
+  60 = 20 trebled arithmetic holds.
+- The shortened "law hardly ever touches the treated" no longer contradicts
+  the boy on Tamsin's floor, because he is the child of an untreated driver, not himself bound.
+- The throat-clearing cut leaves the reasoning chain intact.

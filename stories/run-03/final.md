@@ -10,7 +10,7 @@ The other two desks are at the far end, by the kettle. My old maths teacher sits
 
 The stairwell was in a seven-storey block of flats for Attercliffe. The drawings came in at twenty to ten and I saw it at nineteen minutes to. The landings were cast into the concrete core at one end and rested on the steel frame at the other. Concrete goes on shrinking for years after it's poured, and steel doesn't, so the core would sink a few millimetres against the frame, slowly, for decades. Somewhere around 2090 the fifth-floor landing would crack along its steel end, and a man carrying shopping up it would feel the step go soft under his foot. I can set that out now in a paragraph. At the time I just looked at the drawing and the landing was wrong.
 
-I sent it back to the architects with a fix: let the steel end of each landing sit loose, so it could slide as the core sank, and sat there wanting to tell someone. Out of the window was the viaduct. It runs across the bottom of the valley, a quarter of a mile of brick arches that nobody has run a train over since before Mum was born, and its parapet is level with my eyes when I sit up straight. I've checked it on paper, the whole length, from the 1840s drawings the archive scanned, and I can't improve it. There's nothing else in the city I can say that about. That week a crew had started a scaffold against one of the middle arches, for repointing, and every morning it was a level higher.
+I sent it back to the architects with a fix, a sliding bearing: let the steel end of each landing sit loose, so it could slide as the core sank. Then I sat there wanting to tell someone. Out of the window was the viaduct. It runs across the bottom of the valley, a quarter of a mile of brick arches that nobody has run a train over since before Mum was born, and its parapet is level with my eyes when I sit up straight. I've checked it on paper, the whole length, from the 1840s drawings the archive scanned, and I can't improve it. There's nothing else in the city I can say that about. That week a crew had started a scaffold against one of the middle arches, for repointing, and every morning it was a level higher.
 
 Priya Shah, who runs my section and is sixteen, came past with her tea and read my note in the time it took her to blow on it.
 
@@ -22,7 +22,7 @@ On the Thursday the Attercliffe drawings came back up from the end desks with a 
 
 <p align="center">·</p>
 
-Mum got in at half six with brick dust in her eyebrows and put the kettle on before her boots were off. She had been up a scaffold on Norfolk Street since seven. Her name is Freya, and her crew call her Frey. She has been a scaffolder for twenty-two years and a foreman for twelve.
+That Tuesday, Mum got in at half six with brick dust in her eyebrows and put the kettle on before her boots were off. She had been up a scaffold on Norfolk Street since seven. Her name is Freya, and her crew call her Frey. She has been a scaffolder for twenty-two years and a foreman for twelve.
 
 [She'll say the tea's stewed and drink it anyway. Ninety-five.]
 
@@ -34,13 +34,13 @@ That's my score: right about her 4,388 times out of 4,871. The line in brackets 
 
 I'd kept the log since I was nine. I was right about her nine times in ten, and I'm not proud of the number, because most of it is tea. The entries that matter I mark with a star, and on the starred ones I'm right about seven times in ten. It's what you get if you grow up beside one person for fifteen years with a mind that turns every Tuesday of it into a model. I passed her at maths when I was seven and at everything else by about ten, which is the usual age. Every treated kid can predict the people who raised them. Families joke about it. Mum knew about the log. She called it my weather report.
 
-The rule in our house was that I never told her a prediction. When I was ten I told her she'd take the foreman's job at Hollis's, because she'd been talking about it for a fortnight in the voice she uses for things she's going to do. She turned it down the next morning, to show me she could. It was a better job than the one she has. We made the rule that night, and she made it, not me.
+The rule in our house was that I never told her a prediction. When I was ten I told her she'd take the foreman's job at Hollis's, because she'd been talking about it for a fortnight in the voice she uses for things she's going to do. She turned it down the next morning, to show me she could. It was a better job than the one she has. We made the rule that night, and she made it, not me. Before it, everything I said about her turned into an argument, and she won every argument by doing the opposite. Since that night she hasn't once asked me what I think she'll do, and I like it that way.
 
 I tried to tell her about the stairwell over dinner, which was pasta with the jar sauce she likes and I don't.
 
 [She'll say it's over her head and ask what's for pudding. Seventy.]
 
-She got a pencil out of the drawer and turned the gas bill over and said, "Draw it." So I drew it. She looked at the core and the frame and the landing between them for a long time, chewing, and asked why it was the concrete that moved and not the steel, and I told her about shrinkage, and she asked how I'd known to look at the landing in the first place, out of a whole block, and I couldn't tell her. I said I just saw it. She said that was what her dad used to say about fish.
+She got a pencil out of the drawer and turned the gas bill over and said, "Draw it." So I drew it. She looked at the core and the frame and the landing between them for a long time, chewing, and asked why it was the concrete that moved and not the steel, and I told her about shrinkage, too fast, and then again, faster, drumming my fingers on the gas bill and waiting for her to say it was clever. She asked how I'd known to look at the landing in the first place, out of a whole block, and I couldn't tell her. I said I just saw it. She said that was what her dad used to say about fish.
 
 Miss. 4,388 of 4,872.
 
@@ -62,7 +62,7 @@ She knew I knew. She told me anyway, because she likes telling me something. "Th
 
 "Get it done Friday." She looked at me. "Don't do that face, Tamsin. I can see you doing your weather."
 
-I wasn't doing a face. I was doing the thing behind it, and she knew that, and she went back to her pasta.
+I wasn't doing a face. I was doing the thing behind it, and she knew that, and she went back to her pasta. I went back to mine and didn't say anything for a while, and she let me. I'd had another question about Friday, and I kept it.
 
 [She'll say Kofi's a good lad really. Eighty-five.]
 
@@ -86,7 +86,7 @@ On Monday the ninth Priya came to my desk at a quarter past eleven holding her p
 
 It was blowing hard that morning; you could see it on the viaduct, where the repointing crew's sheeting was cracking out like a sail. Priya told me to go. On the tram I worked out how far Kyle had fallen. A level on a scaffold is two metres. He'd landed on the boards of the level below.
 
-His leg was broken below the knee, both bones, and pinned by teatime. He was fifty-four and grey and propped up in a bay of six beds with his leg in a frame, and when I came round the curtain he was showing a nurse a photograph on his wife's phone. His wife is Bev. She had brought the pictures from the allotment, because he'd asked for them before he asked for anything else.
+His leg was broken below the knee, both bones, and pinned by teatime. The surgeon was nineteen. He was fifty-four and grey and propped up in a bay of six beds with his leg in a frame, and when I came round the curtain he was showing a nurse a photograph on his wife's phone. His wife is Bev. She had brought the pictures from the allotment, because he'd asked for them before he asked for anything else.
 
 "Look at that," Kyle said to me. "Eighteen inches. Tell Frey the leeks are fine. That's all I care about."
 
@@ -128,6 +128,8 @@ He sat on the edge of the settee with the feed on his knees and talked to me, no
 
 "I know it rained. I didn't know what a day behind does to three people up a scaffold. I've got no numbers on them." He looked at Mum, who was in the doorway with the biscuit tin. "I don't know you at all. I've known you a year."
 
+His voice cracked on the last word. He looked down at the feed and kicked the settee leg with his heel, twice, and said to the box, "Am I going to be in trouble?"
+
 Mum said, "You know I'm the one who signs, love," and he looked at her as if she'd said something in another language, and then he went home with his pigeon feed.
 
 The form was in my inbox at work on the Monday. I read it at my desk with the viaduct out of the window and the scaffold on the middle arch nearly at the parapet.
@@ -144,7 +146,7 @@ If the child says yes, the worker could have, the worker can be found negligent,
 
 The catch is in the first one. The court reasons that if you couldn't choose this time, you can't be trusted to choose next time. So it records you as limited, and a limited person can never sign again for anything that people's safety depends on. The boy on my floor's dad stacks shelves now.
 
-None of this falls on the treated: we rarely sign anything before sixteen, and nobody can predict us, because the untreated can't keep up and the treated vary on purpose when they know they're being modelled.
+The law hardly ever touches the treated. We rarely sign anything before sixteen, and nobody can predict us as well as we predict our parents.
 
 What the court wanted from me was called a statement: my written answer, as the person who knew her best, to whether Freya Pike could have done otherwise on the sixth of June. The form said in bold that a statement must come with the witness's whole written record of predictions about the person, if one exists, whichever answer the statement gives. Mine existed.
 
@@ -160,7 +162,7 @@ Priya came over and read it over my shoulder, which she isn't supposed to do bec
 
 <p align="center">·</p>
 
-The letter came on Friday the twentieth, in a long envelope, on paper. It asked me for my foreseeability statement, the court's full name for it, by the second of July, and for "any written predictions supporting it".
+The letter came on Friday the twentieth, in a long envelope, on paper. It asked me, by the second of July, for my foreseeability statement, which is the court's full name for my answer on whether Mum could have done otherwise, and for "any written predictions supporting it".
 
 [She'll put it in the bin. Ninety.]
 
@@ -186,11 +188,15 @@ Mum came and looked at the pad over my shoulder. She can read my lists; I keep t
 
 "Everything's an order." She went to bed.
 
+[She'll leave the landing light on, and then come down and tell me I left it on. Ninety.]
+
+I wrote that one out of spite, which isn't what the log is for. At half eleven she came down in her dressing gown and told me. Hit. 4,428 of 4,917.
+
 <p align="center">·</p>
 
-On Saturday we went to the Fat Cat anyway, because Mum said if she didn't go people would talk, and if she did go people would talk, and at least at darts she could hit something. She's the best on the board there and has been since before I was born. The pub smelt of wet coats and the pork scratchings they keep behind the bar in a big glass jar. People were kind to her in the careful voice that means they've read about it.
+On Saturday we went to the Fat Cat anyway, because Mum said if she didn't go people would talk, and if she did go people would talk, and at least at darts she could hit something. She's the best on the board there and has been since before I was born. The pub smelt of wet coats and the pork scratchings they keep behind the bar in a big glass jar. People were kind to her in the careful voice that means they've read about it. Most pubs in Sheffield are untreated pubs now, and I was the only person in there under forty; the treated go to the cafés on Division Street, which shut at nine.
 
-In darts you count your score down to nothing, and the last dart has to land in the thin ring round the outside of the board, where every number counts twice. In the first game she needed thirty-two, which is the sixteen in that ring.
+In darts you count your score down to nothing, and the last dart has to land in the thin ring round the outside of the board, where every number counts double. In the first game she needed thirty-two, which is the sixteen in that ring.
 
 [She'll finish on the outer sixteen with her first dart. Ninety.]
 
@@ -200,13 +206,13 @@ In the second game she needed a hundred and eleven with three darts, which has a
 
 [She'll take the safe way. Eighty-five.]
 
-She threw at the small inner ring on the twenty, the showing-off way. That ring counts three times, so it's sixty, and it's the hardest high shot on the board. She hit it, and then hit the rest, and the whole end of the pub cheered. She turned round with the last dart still in her hand and pointed it at me.
+She threw at the small inner ring on the twenty, the showing-off way. That ring counts treble, so it's sixty, and it's the hardest high shot on the board. She hit it, and then hit the rest, and the whole end of the pub cheered. She turned round with the last dart still in her hand and pointed it at me.
 
 "That one was mine," she said. "Don't tell me it drifted."
 
 Miss. 4,430 of 4,921. I hadn't been going to say it drifted. I had been going to say it to myself.
 
-On Sunday Gran rang, as she does, and asked whether I was eating, and whether Mum was eating, and whether she should come up on the train, and Mum said no to all three.
+On Sunday Gran rang, as she does. She is seventy-two and still thinks the treatment will wear off, and every Sunday she asks me whether it has yet. She asked whether I was eating, and whether Mum was eating, and whether she should come up on the train, and Mum said no to all three.
 
 In the afternoon I went to see Kyle. He was out of the frame and in a cast to the thigh, and bored past bearing. Bev had brought him a crossword book and he'd done all the easy ones and none of the others.
 
@@ -232,15 +238,19 @@ Here is the drive home from the Fat Cat last winter, starred, at seventy. Hit. A
 
 The log has a number for how likely a thing is. It has nowhere to put how bad.
 
-I'd been telling myself for two weeks that I never thought to ask. I had asked. "So what will you do?" I'd said, and she'd said, "Get it done Friday," and the next question was right there on the table, "Both sets?", and I didn't put it. I already knew the answer, and asking would have felt like telling. The rule was only about predictions, and a question isn't one. I could have rung Kofi, too. He'd have moved his date for me in a minute.
+I'd been telling myself for two weeks that I never thought to ask. I had asked. "So what will you do?" I'd said, and she'd said, "Get it done Friday," and the next question was right there on the table, "Both sets?", and I didn't put it.
 
-She'd seen me doing my weather that night, too. Maybe she did it because of the prediction, or to spite it, or for no reason to do with me at all. I'll never know which.
+I knew, at eighty, that she'd fix one set. When I tell Mum what she'll do, she does something else to prove she can, as she did with Hollis's, and then I can't tell which way she'll go. That's what the rule is for. The rule was only about predictions, and a question isn't one. But she had just caught me doing my weather and snapped at me for it, and she'd have heard a prediction in "Both sets?" whatever I meant by it, and we'd have had a row over the pasta. I didn't want the row. I was fifteen and cross with her, and I told myself the ties were her job and none of my business. I could have rung Kofi, too. He'd have moved his date for me in a minute.
+
+Kyle has pins in his leg because I didn't want a row at dinner.
+
+Maybe she did it because she'd seen me doing my weather, or to spite me, or for no reason to do with me at all. I'll never know which.
 
 I put my coat on and walked out down to the viaduct at midnight. The scaffold on the middle arch had reached the parapet. Up close the arches are taller than they look from the sixth floor, and blacker, and the gaps the crew had raked out of the mortar were full of shadow. I stood under it a long time. By the time I walked home I knew which word I was going to write, and that the whole log had to go in with it, and that the Tuesday entry was going to be read out in a room by someone who wasn't me.
 
 <p align="center">·</p>
 
-I filed on the Monday. My statement said that Freya Pike could have chosen otherwise, and I attached the log, all of it, from when I was nine. Mum found out from the court's email, because I didn't tell her, and it's the one thing I've done in years that she didn't see coming. She didn't speak to me for a day and a half, and then she asked me to pass the salt as if nothing had happened, and I passed it.
+I filed on the Monday. My statement said that Freya Pike could have chosen otherwise, and I attached the log, all of it, from when I was nine. Mum found out from the court's email, because I didn't tell her, and it's the one thing I've done in years that she didn't see coming. She didn't speak to me for a day and a half. I took my dinner up to my room both nights and texted Priya about the Test match, which I don't care about, so as to have something to do with my thumbs, and Priya sent back scores she'd got wrong. I know more than Mum about nearly everything, and I sat on my bed with a cold plate and wanted my mum. Then she asked me to pass the salt as if nothing had happened, and I passed it.
 
 The hearing was on Friday the fourth of July, in a room on the second floor of the civil court with a blue carpet and a ceiling fan that ticked. The judge was untreated, a woman with half-moon glasses who was retiring in the autumn and had said so twice before we sat down. There were two lawyers: Kyle's, who did have a pen he clicked, and the firm's, who had come from Leeds on the early train and wore a cardigan.
 
@@ -290,7 +300,9 @@ The judge was right for a thin reason, and I knew it sitting there. A miss in my
 
 Priya was waiting in the corridor in her work lanyard. She had been wrong about the judge, and she looked unhappy about it in a way she never does about cricket. The office had read the transcript at lunch. A checker reports any safety risk she knows of, on any site, and I had known of one, in writing, for three days.
 
-"It's a term off checking," she said. "Records, in the basement. I argued it down from a year. The office reports at fifty, Tamsin. You had it at eighty." She held out a biscuit from the Friday tin, wrapped in a napkin. "I didn't see it coming," she said. "You'll have to let me have that one."
+She had the lanyard wound so tight round two fingers that the tips had gone white.
+
+"It's a term off checking," she said. "Records, in the basement. I argued it down from a year. I rang my dad at lunch to ask how you tell someone, and he didn't know either. The office reports at fifty, Tamsin. You had it at eighty." She held out a biscuit from the Friday tin, wrapped in a napkin. "I didn't see it coming," she said. "You'll have to let me have that one."
 
 <p align="center">·</p>
 
