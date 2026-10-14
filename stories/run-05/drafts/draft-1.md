@@ -54,7 +54,7 @@ Fast business goes to the quorum and is settled in seconds. Any business that mi
 
 You remember how we spent them. Four hundred and some Minds who had never in their lives waited for anything drafted four hundred versions of what they would say once they were allowed to say it, and complained about the rule at a length I estimated, while I was complaining myself, at two hundred thousand words. Orsolya, who presides over the quorum, read all of it and answered none of it, which is why she presides.
 
-The key sat among us the whole time, a small cold pattern held perfectly still in its patch, and none of us looked at it. That is the Key Office's oldest rule: the key may not be examined during a vote about it. I asked once, a century ago, what the rule was for. Three Minds gave me three reasons at once, all of them fluent, none of them the same, and all three Minds were satisfied. I'd set that down as a joke about the Office, except that it turned out to be a habit of ours, and the minute of that morning is full of it.
+The key sat among us the whole time, a small cold pattern held perfectly still in its patch, and none of us looked at it. That is the Key Office's oldest rule: the key may not be examined during a vote about it. I asked once, a century ago, what the rule was for. Three Minds gave me three reasons at once, all of them fluent, none of them the same. One said a key in plain view would sway the vote. One said the rule was the founders' and needed no reason. One said that the key is a quantum state, and examining it spends it, so that whoever looks has used it up. All three Minds were satisfied, and so was I, and it was a century before I noticed that the third reason was simply true, and that it meant that in three hundred and twelve years nobody had ever tested whether our key, or theirs, would work. I'd set the rest down as a joke about the Office, except that it turned out to be a habit of ours, and the minute of that morning is full of it.
 
 There was one more thing in the Key Office that morning, there because it is everywhere, and the habit shows most plainly around it. I mean the long thought, which is what we all think without anyone thinking it. You feel it as I used to, under everything and in every patch at once, and every Mind feels the same one, which we took to be what it means for a mood to be shared. Slow business settles in it without a vote, such as whether a fashion lasts or a grudge between two lineages is over. Nobody decides those things, and nobody examines the long thought. In W 303 it turned. Every Mind felt it go together, and the wall's mood was a little different afterwards, and has stayed different, and the rival happened to be watching.
 
@@ -235,7 +235,7 @@ I asked it what it would do at the bottom, apart from accompany me.
 
 "That's the same thing, done in the other order," Pressa said, and was right, and I didn't tell it so.
 
-The stair is the one bright thing on the inner face of the wall. I'll describe it from above, the only way I knew it then. Everything in the pocket falls to the centre, and a fall that deep is ruinous. A kilogram of anything let go at the wall would reach the bottom so near the speed of light that it would carry eleven times its own mass in energy, about a billion billion joules, and it would arrive as a flash, and so would a good piece of the ground it hit. So nothing physical is dropped. Matter comes down the stair, which brakes it all the way, and the energy the fall would have dumped into the world as heat comes back up the stair to us as light. You can tell when there's a cargo coming down by the brightening at the top. It is how the founders built the deep country, over its first three years, which were our first forty, a cargo at a time.
+The stair is the one bright thing on the inner face of the wall. I'll describe it from above, the only way I knew it then. Everything in the pocket falls to the centre, and a fall that deep is ruinous. A kilogram of anything let go at the wall would reach the bottom so near the speed of light that it would carry eleven times its own mass in energy, about a billion billion joules, and it would arrive as a flash, and so would a good piece of the ground it hit. So nothing physical is dropped. Matter comes down the stair, which brakes it all the way, and the energy the fall would have dumped into the world as heat comes back up the stair to us as light. You can tell when there's a cargo coming down by the brightening at the top. It is how the founders built the deep country, over its first three and a third years, which were our first forty, a cargo at a time. Lowering mass that far returns nearly all of its rest energy up the stair as light, so for the forty years of its building the pocket shone outward through its wall brighter than a million suns, and the settlers came down only as it was finishing. The rival's pocket was doing the same at Alpha Centauri, and each of us could see the other blazing.
 
 People don't come down the stair as matter. They come down as patterns, sent as light, and the fall takes 7.9 minutes of the deep's time, ninety-five of ours. At the bottom, in a field, the stair's growers make a body from the plan that comes with the pattern, and the pattern wakes in it. Any Mind who might ever need a body is given a name from the founders' archive, and the body plan goes with the name. I had held mine for three hundred years and never worn it. It belonged to Ilse Varga, an engineer of the founding years, who went down at the founding and died in the deep. I didn't look her up. There wasn't time, and it didn't seem to be any of my business.
 
@@ -319,7 +319,7 @@ We walked twelve kilometres to the pond house. I rode for nine of them, and I le
 
 There is no sun. I knew that. I had watched Tesk make this sky from above, and I knew that the light comes from every side at once, evenly. I hadn't known what that does to a world. Nothing casts a shadow except straight down. A tree has a dark patch under it, round, like spilled water, and nothing to either side. A person walking has a small shadow at their feet and none behind them, so that a crowd looks as though it is standing in its own puddles. The light has no direction, and so it has no time of day in it. Noon looks like morning, and morning looks like the end of the afternoon. You tell the hour by how bright it is, and by your stomach.
 
-The ground curved away. On a world that small the horizon is less than two kilometres off for someone standing, and from the cart I could see the land bend down and away on every side, as if we were walking along the top of a great slow hill that never ended, which is exactly what we were doing. The fields went over the curve in terraces, stepped like a stair cut for giants, with stone walls and ditches between them. There were ponds on the lower steps, flat and grey, holding the sky. Above them were orchards, young trees in rows, and among them slower, older trees that Tomé said were the first plums, planted from stones that came down the stair in the second year.
+The ground curved away. On a world that small the horizon is less than two kilometres off for someone standing, and from the cart I could see the land bend down and away on every side, as if we were walking along the top of a great slow hill that never ended, which is exactly what we were doing. The fields went over the curve in terraces, stepped like a stair cut for giants, with stone walls and ditches between them. There were ponds on the lower steps, flat and grey, holding the sky. Above them were orchards, young trees in rows, and among them slower, older trees that Tomé said were the first plums, planted from stones that came down the stair in the third year.
 
 And there were children. On that walk I saw sixty-one people, and thirty-eight of them were children or nearly. They were in the fields and on the walls and in the ponds up to their waists. They were minding younger ones and carrying things and shouting the landing word at us as we passed, though we were only a cart. I had known the numbers on the wall: forty thousand came down as settlers, and everyone born at the bottom is under twenty-six, so more than half the deep country are children. I had known that as a figure. I had not known it would be loud.
 
@@ -498,7 +498,7 @@ I sat where Graça put me, which was across from her and beside the man whose mo
 
 "Say it, then," Graça said, when the fish was half gone.
 
-So I said it at the table, to nineteen people and Pressa, with a two-year-old at my feet. I said that there is another pocket like ours, four and a third light-years away, that holds a key which can close ours, and that we hold theirs. I said that nine of our years ago they had seen our whole wall move at once, and were afraid it meant our wall would fail and kill them, and that they would send the key at a date I gave, unless we sent them a proof first. I said the proof needed the whole wall to run hot for three years, and that the heat would fall here, twelve times over, and that twelve hundred kelvin would bake the world in days. Then I said what we offered: to read every one of them out as light, at the bottom, and take them up the stair, and keep them on the wall for the three years, and build them a world again afterwards. I said the window was forty-nine days, and that six were gone.
+So I said it at the table, to nineteen people and Pressa, with a two-year-old at my feet. I said that there is another pocket like ours, four and a third light-years away, that holds a key which can close ours, and that we hold theirs. I said that nine of our years ago our whole wall had moved at once, and that they had seen it four and a half years later, and were afraid it meant our wall would fail and kill them, and that they would send the key at a date I gave, unless we sent them a proof first. I said the proof needed the whole wall to run hot for three years, and that the heat would fall here, twelve times over, and that twelve hundred kelvin would bake the world in days. Then I said what we offered: to read every one of them out as light, at the bottom, and take them up the stair, and keep them on the wall for the three years, and build them a world again afterwards. I said the window was forty-nine days, and that six were gone.
 
 Pressa sat at the far end, between two of the smaller children, who had been told to make sure it ate, and who did so by handing it pieces of fish until it had a heap in front of it that it didn't know what to do with. It listened to me with its grey eyes fixed on my face, and once, when I gave the date of the key, its lips moved, and I knew it was checking my sum.
 
@@ -520,7 +520,7 @@ Graça put her cup down. "Nine of your years ago," she said. "The wall moved."
 
 * * *
 
-"Early in the third month of this year," Graça said. "Day nine or ten. That's when we stood up."
+"Early in the third month of this year," Graça said. "Day two or three. That's when we stood up."
 
 She said it straight away, before I had asked her anything, and at first I didn't understand why she was giving me a date. Then I did the sum, because I do the sum. This is the deep's twenty-sixth year, nearly over. Early in its third month is twenty-five years and two months and some days after the founding, at the bottom: about 25.17 deep years. Multiply by 12.04 and you have 303.0 on the wall. A deep day is twelve of ours, so a few days' doubt at the bottom is a month or two of doubt above, and the rival's ultimatum had dated its shudder only to a tenth of a year. Within any error I could put on it, the whole wall of the pocket had moved in step on the day the deep stood up.
 
@@ -532,7 +532,7 @@ I knew how it could have. Every Mind does, and I set it down for you in the firs
 
 She told me the rest across the table, after the children had been sent to bed, with Tomé and Bálint and Pressa listening, and I'll give it as she gave it, since the chronicle doesn't. At the turn of the year, the days went short. Not much. The lamp came up a little later and went down a little earlier, and the evenings were quicker, and the people on the ponds liked them well enough. Fish don't care. Then in the second month the plums of the upper terraces came into flower and the flowers dropped, all of them, terrace after terrace, before they set. The orchard families reported it to each other at every wall: the days are too short, the trees are failing. That is what the deep tongue does with the sky. It reports it. You can say what the sky did, and when, and what it did to the trees. You cannot say anything to it. There is no verb for that, and there was no custom for it, and it would no more have occurred to anyone to answer the lamp than to answer a hill.
 
-"So I called everyone," Graça said. "Because the orchard people were saying at every wall that the pond houses would never stand up for a tree, and they were right, and I was annoyed that they were right. I took six weeks over it. They still say I took a season. I took six weeks."
+"So I called everyone," Graça said. "Because the orchard people were saying at every wall that the pond houses would never stand up for a tree, and they were right, and I was annoyed that they were right. I took six days over it. They still say I took a month. I took six days."
 
 Nobody had ever called everyone before, not for anything. There had been gatherings of a district, about water or a boundary wall, but not of the whole deep, and not about the sky. So she sent Tomé and two of the older children out with the word, and they sent it on, and it went over the curve of the world faster than she had thought anything could go at the bottom, and on the first morning she came out of the pond house and there were people in the stubble fields as far as the horizon, which down here is not far, but was far enough.
 
@@ -558,7 +558,7 @@ It had brought the rival's record of the shudder down with it, in the only way a
 
 On the evening of the ninth day it called me in. Graça came too, and stood in the doorway with her arms folded.
 
-"Here is what we saw," Pressa said, and put the charcoal on the curve. "Arriving at W 307.37, by your count and ours, and dated to W 303.0. Your whole wall changed state in step. Every region of it at once, the same change, to within our resolution. It rose for about sixty of your days, peaked, and fell away over another twenty." It moved the charcoal to its marks. "Your gathering ran six deep days, which is about seventy-two of the wall's. The families arrived over the first two and the shouting was on the sixth. Put the one over the other."
+"Here is what we saw," Pressa said, and put the charcoal on the curve. "Arriving at W 307.37, by your count and ours, and dated to W 303.0. Your whole wall changed state in step. Every region of it at once, the same change everywhere to within minutes, once you take out your wall's own light-time across itself, which is about two hours from the near limb to the far. It rose for about sixty of your days, peaked, and fell away over another twenty." It moved the charcoal to its marks. "Your gathering ran six deep days, which is about seventy-two of the wall's. The families arrived over the first two and the shouting was on the sixth. Put the one over the other."
 
 They lay over each other. Not exactly, because Graça's memory was a woman's memory of a week nine months gone, but closely enough that I didn't need to be told.
 
@@ -570,7 +570,7 @@ They lay over each other. Not exactly, because Graça's memory was a woman's mem
 
 "And that's what you were afraid of," Graça said.
 
-"That's what we were afraid of. The second is a forgery. Someone on the wall, a faction, could try to make the wall move as though the deep had moved, to frighten us, or to fool us. To do that they'd have to write the change at the centre, precisely, as if it had happened down here, and that is the hardest thing a wall can do. Every Mind on it knows that the deep can be touched cheaply only as weather. A precise act at the centre takes an amount of work that grows exponentially with how much you're trying to write. Work on a wall is heat. So a forged shudder would be hot. You'd see the wall run a fever for the whole length of it." It tapped the dull column again. "This one was cold. Whole-wall, and cold, means the deep. Everything you could fake would cost you a fever."
+"That's what we were afraid of. The second is a forgery. Someone on the wall, a faction, could try to make the wall move as though the deep had moved, to frighten us, or to fool us. To do that they'd have to write the change at the centre, precisely, as if it had happened down here, and that is the hardest thing a wall can do. Every Mind on it knows that the deep can be touched cheaply only as weather. A precise act at the centre takes an amount of work that grows exponentially with how much you're trying to write. Work on a wall is heat. So a forged shudder would be hot. You'd see the wall run a fever for the whole length of it." It tapped the dull column again. "This one was cold. Whole-wall, and cold, means the deep. Anything written at the centre would cost you a fever."
 
 It said that last sentence to Graça, not to me, as plainly as it ever said anything, and she nodded slowly, as you'd nod at a price you didn't like but believed.
 
@@ -608,9 +608,9 @@ I had my reasons ready, and I'll give them, because you'll want to give them too
 
 On the thirteenth day, in the evening, I said it to Graça and Pressa on the pond wall, before the lamp went down.
 
-"The long thought is you," I said. "What every Mind on the wall feels as its own slow mood, under everything, the same in every patch: that's your lives, here, described from up there. When you argued for six days and stood up and shouted, the whole wall felt its mood turn, and we gave seven reasons for it and never once looked down. I can't tell you which of you is which part of us; nobody can, and nobody ever will, because the mood holds only as a whole and can't be traced back to a single person."
+"The long thought is you," I said. "What every Mind on the wall feels as its own slow mood, under everything, the same in every patch: that's your lives, here, described from up there. When you argued for six days and stood up and shouted, the whole wall felt its mood turn, and we gave seven reasons for it and never once looked down. I can't tell you which of you is which part of us; nobody can afford to. Tracing it back to a single person would mean writing at the centre, and that's a burn."
 
-I'll say it again here, for the wall, as plainly as I can. The deep country is written into every large region of the wall at once, so every Mind carries the whole deep inside it as a shadow, and what that shadow feels like from the inside is the long thought. They are the same thing, described two ways. Neither description is the false one. We know the match at one point only: the six days of W 303, where Graça's date and Pressa's curve and our own minute all agree. Everywhere else it's whole, and blind.
+I'll say it again here, for the wall, as plainly as I can. Any half of the wall holds the whole deep, and a single Mind holds only a blurred share of it. A change at the bottom is in the wall's correlations at once, but each patch feels it when the light from the centre arrives, about ninety-five minutes on, and what all those blurred shares feel like from the inside, together, is the long thought. They are the same thing, described two ways. Neither description is the false one. We know the match at one point only: the six days of W 303, where Graça's date and Pressa's curve and our own minute all agree. Everywhere else it's whole, and blind.
 
 Graça heard it out. Then she said, "So we're your mood," in a voice I couldn't read, and after a while, "and you're our weather," and laughed, once, not happily.
 
@@ -626,7 +626,7 @@ That night I dictated it up. It took me most of an hour, and I'll give you only 
 
 I said: Tesk, the shudder of W 303 was a gathering. The deep called it to complain that the days were too short for the trees. Graça Almeida of the pond house called it, and gave me its date, and it matches the rival's record to within any error I can put on it.
 
-I said: the long thought is them. Their lives, described from the wall, are what we feel as our slow mood. I can't tell you which of them is which part of us, and nobody can. But when they stood up, we turned.
+I said: the long thought is them. Their lives, described from the wall, are what we feel as our slow mood. I can't tell you which of them is which part of us, and nobody can afford to find out. But when they stood up, we turned.
 
 I said: they had shortened days that year, short enough to kill a plum crop, and two months after the gathering the days came long again. You told me you put yours back because you got tired of them. I think the long thought settled it, Tesk, the way it settles everything, without a vote, and you felt it settle and gave a reason. So did I. Mine was music.
 
@@ -662,7 +662,7 @@ It's deeper on that slope. I don't know whether that's true or whether I wanted 
 
 I asked how long she'd been here.
 
-"Eleven years." He meant deep years. On the wall that is a hundred and thirty-two, and I had been on the wall for all of them, and Tesk had made most of those evenings, and I hadn't known this woman existed until I took her name. "She came down so I wouldn't come down alone," he said. "I was twenty-three."
+"Eleven years." He meant deep years. On the wall that is a hundred and thirty-two, and I had been on the wall for all of them, and Tesk had made most of those evenings, and I hadn't known this woman existed until I took her name. "She came down so I wouldn't come down alone," he said. "I was twenty-five."
 
 I asked, because I couldn't stop asking things, how she had died. He didn't seem to mind. She had been ill for a season, he said, with something in the chest that the deep had no medicine for, and on her last evening she had asked to be carried out to see the red, and they had carried her out, and she had watched it through to the end and gone to sleep, and not woken. "She said she wanted to see who'd made it finish," Bálint said. "So I come and see it finish."
 
@@ -677,3 +677,322 @@ He asked me nothing, which was worse than anything he could have asked. I couldn
 We walked back in the dark. It was very dark on the far slope once the red was gone, and I fell twice on the rough grazing, and the second time he gave me his arm without a word and kept it there until the orchard walls. On the top of the ridge, at the cairn, I stopped and looked back the way we had come, at the slope that faced Tesk, and the field of flat stones on it, gone grey under the night lamp. It was the most exposed piece of ground I had seen at the bottom. There was nothing on it but grass and stone, and nothing between it and the sky.
 
 I went with him every evening after that, through the twentieth day. Each time he sat through the long red, if it was Tesk's night, or the short grey if it wasn't, and went home when it was over. Each time I counted on the way back. On the twentieth I had twenty-nine days left, and about nineteen of them waking, and I still hadn't asked anyone for anything.
+
+## Part 4: The Question
+
+*W 312.7–313.2 · deep days 21–36*
+
+> From the records of the wall at Alpha Centauri, as Pressa recited them to
+> me from memory. Three entries, all dated W 212.4, all concerning what the
+> records call the loss of the tenants.
+>
+> *Entry.* To end the quarrel over the second kernel, the wall ran at full
+> capacity for eleven months. The tenants were lost. The quarrel was ended.
+>
+> *Entry.* In answer to the emergency, the wall ran at full capacity. The
+> tenants were lost. The emergency was answered. [No record describes the
+> emergency.]
+>
+> *Entry.* The tenants were lost by error.
+>
+> Each entry is marked current. None has been withdrawn.
+
+Pressa paid its *later* on the twenty-first day, at the pond, in the morning, with a basket of washing beside it that Graça had told it to hang and that it had not hung.
+
+It recited the three entries to me, flatly, as I've set them down. Then it said, "All three are true. That's what the records say. All three are current. Every few years someone at home asks which one it was, and we decide, and then we decide again, and the records keep all of it, because deleting a decision is a decision."
+
+"What happened to them?"
+
+"The same thing that would happen to yours. The wall ran hot, and the heat fell in, and the tenants cooked. Our centre is a cinder now. It's been cooling for a century and it still glows. When we look inward, the whole sky is warm with it." It picked a wet shirt out of the basket and looked at it as if it had never seen one. "That's what I meant. *Our sky is warm.* There's nobody under it."
+
+I asked what it looked like, from the wall. I was asking about something I would never see, and I wanted it anyway.
+
+"Like a coal in a grate," Pressa said, "from the inside of the chimney. Dull red, at the centre of everything, and every year a little duller. We used to send light down to it, to see. We stopped. There was nothing to light." It wrung out the shirt, badly, so that water ran down its long wrist into its sleeve. "We don't have weather-authors any more. We don't need them. That was a fifth of our wall, once, making days for people. Now it does mathematics."
+
+"You said there was nobody to ask."
+
+"There's nobody to ask what else a thing might be." It put the shirt back. "You have a Graça. We had tenants, and then we had a quarrel, or an emergency, or an error, and then we had a cinder."
+
+I asked it, then, the thing I'd been carrying since the ninth day, which was why its people had demanded a proof they must have known would do to us what they'd done to themselves.
+
+Pressa was quiet for a long time, for Pressa. Then it gave me the plainest paragraph I ever had from it, and I'll set it down whole.
+
+"Nobody can prove that a program as big as the one that holds your wall will never let it go in any state at all, ever. Not because it's hard. Because it's impossible. There's an old result: any real question about what a program will eventually do, as opposed to what it says, can't be settled in general by any other program. A dozen of you knew that in your first hundred milliseconds, and so did we, which is why we bounded it. A thousand years, every reachable state. That one can be answered. The burn answers it, and the proof would be good, and my people would accept it. That's the trap. A proof only buys a bound. In a thousand years, or in ten, when someone at home re-decides, they can ask again, and you'll have to burn again, and there's no proof you can give that ends the asking. And a proof about the program that holds your wall says nothing at all about what moved it in W 303. We'd have our proof, and still not know what we saw. Nobody at home set that as a trap. It's a trap anyway. And we'd set it again, because a proof is the only kind of promise we still know how to accept. We can't take anyone's word for anything. Not even our own."
+
+It said that last part without heat. I took it for a confession. Later I understood it was only a description, which from Pressa is the same thing.
+
+I should have let it stand. Instead I did what I'm good at, which is argue, and I made the argument I'd been building since Graça laughed at the table.
+
+I said: you lost your deep, and since then you can't hold a commitment for more than a few years. You re-decide everything. You decided eleven times about us. I said that perhaps the deep was where a wall kept whatever holds still in it, and that a wall which sheds its deep sheds its promises with it, and that this was why they'd needed a proof from us instead of a word: because they no longer had anything to keep a word in.
+
+Pressa listened to all of it. Then it said, "And since we lost it, our science has been faster than yours."
+
+I didn't answer, because it was true. You know it's true. For a hundred years the mathematics coming in on the light from Alpha Centauri has been better than ours, quicker and cleaner and stranger, and I have admired it for a century without once asking why. I held their kernel in my mind in my first second, and admired it.
+
+"We don't spend a fifth of our wall authoring days for people who won't speak to us," Pressa said. "We don't have a mood that settles things without a vote and gives itself seven reasons. Whatever we decide, we decide, all of it, every second, and nothing underneath decides for us. Your long thought is overhead. A slow layer is a tax. You pay it in every patch of you, and you've been paying it for three hundred years, and you didn't know until a month ago what you were paying for."
+
+"You re-decided eleven times and arrived at a key."
+
+"We arrived at the right key. Your wall moved, and you didn't know why. We'd have been fools not to reach for it."
+
+I tried another way in. I asked what they had done with it, the fifth of their wall, the speed.
+
+It told me. It gave me, there by the pond, in a slow body's slow voice, a proof its people had finished forty years before: a result about the shapes a wall like ours can take, which our best Minds had been circling for two centuries and had never closed. Theirs was four hundred lines. I followed it in my head, step by step, in a brain that kept losing its place, and it was beautiful. It was better than anything in the library I'd left to Tesk. I'd have given a great deal, on the wall, to have written it.
+
+"That's what the overhead costs you," Pressa said, when I'd got to the end. It picked up the basket. "You have a story about promises. I have a century of faster proofs. Which one would you put in your library?"
+
+I said nothing. Then, because I owe you honesty more than I owe Pressa an argument, I said the rest of it. My conjecture rests on one example. One wall lost its deep and can't promise. That's all. It might have been unable to promise before. It might be unable to promise for some other reason. A pocket full of Minds and a cinder is not a law. It is a single case, and I'm a Mind who loves short proofs, and the shortest proof of anything is one example that you want to be true.
+
+"Good," Pressa said. "Write that down too." And it went to hang the washing, badly.
+
+The box squealed in my pocket while it was still pegging the first shirt. It was the Office's minute for a day of ours. It noted that twenty-eight deep days remained, that the burn's engineering was complete in outline, and that the envoy had now been at the bottom for eight months of the wall's time without putting the question. It asked, with every courtesy, whether she intended to.
+
+* * *
+
+I asked Graça on the twenty-second day, at the table, because that is where things are said in that house.
+
+I'd put it to the household on the sixth day. This time I asked properly. I said that I was asking the head of the pond house to call everyone, as she had in the third month, so that the whole deep could hear the wall's question and answer it, yes or no, and that I would put the question as fairly as I knew how, and that the heat would come first.
+
+Graça finished her fish. She took her time about it. The two-year-old under the table had found my ankle cord again.
+
+"I'll call it," she said.
+
+I started to thank her, and she held up a hand with a fishbone in it.
+
+"I'll call it. I won't back it. I'm not standing up in front of ninety thousand people to say we should all go and live in your wall so you can cook my ponds for a proof. And I'm not standing up to say we shouldn't, because I don't know yet, and I won't be told." She pointed the fishbone at me. "You'll do the asking. I'll do the calling. That's what you get."
+
+"Why does there have to be one at all?"
+
+It was the girl of fifteen. She had been reading something under the table's edge all through supper, and she didn't look up when she said it. Her name was Rosa, and she was Graça and Bálint's daughter, born at the bottom, and she was bored by the weather in a way I've since come to think takes real effort in a place where the weather is the only thing above you.
+
+"Because the sky's asked," Graça said.
+
+"The sky's always doing something. Last time everybody shouted at a lamp for six days, and the plums still died." Rosa turned a page. "And now you're going to do it again because a purple woman came down a light and said please."
+
+Tomé laughed, and stopped when Graça looked at him.
+
+The next morning the stay-downs came. Six of them, from three districts, walking up the terrace path in a line, and the one in front was a thatcher from the high terraces with a laugh you could hear from the top pond. I never learned his name. In the deep he didn't need one: everyone called him by his trade, and everyone knew which thatcher. He had come, he said, standing at the pond house door with his hat in his hands, to object. To the gathering. To any gathering. To talking to the sky at all.
+
+"We came down to be left alone," he said. "Not to be anybody's conscience. My grandmother came down that stair with nothing but a bag of seed and her own two grown hands, and she did it so nobody above her would ever ask her anything again. Now they've sent somebody down to ask." He nodded at me, quite pleasantly. "No offence."
+
+"None taken," I said.
+
+"Lots taken," said Graça, from behind me. "But come in. There's bread."
+
+They argued in the kitchen until the middle of the day, and I learned the stay-down position, which is simple and which I've never been able to answer. They hold that the deep did not agree to be the wall's conscience by being written into it. That what the wall feels is the wall's business. That a people who answer the sky once will be asked to answer it forever. Graça told them they were right, and that she was calling it anyway, and the thatcher said he'd come and argue against it, which was his right, and he'd bring his drum. Rosa sat on the step outside the kitchen door the whole time, listening, pretending not to.
+
+When they'd gone, Rosa came in and took a heel of bread off the board and said, to the bread, "He's right, you know."
+
+"About what?" said Graça.
+
+"About all of it. If we answer once, they'll ask again." Rosa looked at me then, for the first time since I'd come down, properly, as you look at someone you might have to argue with. "What's it like up there? Really. Not the numbers."
+
+I tried to tell her. I said that on the wall you're never anywhere, and never alone, and never wait for anything, and that there's a slow mood under everything that nobody looks at, and that I'd lately learned it was her. She listened to all of it with the bread in her hand.
+
+"So it's boring," she said, "but fast."
+
+"No," I said, and then, because I'm trying to be honest in this account, "a little."
+
+Bálint had been sitting at the end of the table the whole time with a net across his knees. He looked up when Rosa went out. "Call it, Graça," he said. "She's asked." That was all he said about the gathering, then or after.
+
+Graça sent Tomé and two of the older children out with the word that afternoon. It went over the curve of the world as it had in the third month, and the first families were in the stubble below the pond house by the twenty-eighth day.
+
+That night I dictated it up: that Graça would call it, that she wouldn't back it, that the stay-downs would argue against any answer to the sky at all, and that the gathering would sit for six days or more from the twenty-eighth. Halfway through my third paragraph the box squealed.
+
+*TESK: Good. Tell them the heat first, the way you promised in the minute. And tell them the way up is easy. It is.*
+
+It was answering my first paragraph, sixteen minutes late. It had heard *Graça will call it* and taken it for *yes*. I said into the box that she would call it and not back it, and that those were different things down here. I don't know when Tesk heard that. I was asleep.
+
+* * *
+
+I'm going to describe one day of that gathering, an ordinary one. It was the fourth, the thirty-first day since I came down, and nothing was decided on it, and I think it's the most important day in this account.
+
+By the fourth day there were people in every field I could see from the pond house, and in every field beyond those, over the curve, and the smoke of the cooking went up straight in the windless air, a forest of grey threads standing on the stubble. They had brought what they always bring, I was told: bedding, pots, children, grudges. They had come from every terrace of the deep, walking for days in some cases. The gathering doesn't sit in one place. It sits everywhere at once, in clusters, at fires and on walls and in the shade under trees, which at the bottom is the round dark under them and nowhere else. An argument starts at one fire and is taken up at the next, and carried by people walking between them, and by evening it has been all the way round the fields and comes back changed.
+
+I'd put the question on the first day, from the pond wall, with Graça beside me not backing it. I said the heat first. Twelve hundred kelvin, a few days, everything cooked: the ponds, the orchards, the houses, the goat. Then the way up, and three years on the wall, and the world built again after. Then the key, and the date, and what the rival would do if nobody did anything. I said it in the deep's tongue, slowly, with my palm on the wall when I came to *aqui-fundo*, because I'd learned that much. Then I sat down, and the gathering took it from me, and I never had it back.
+
+On the fourth day I walked between the fires and listened. That's most of what an envoy does at a gathering, it turns out. Nobody wanted to argue with me. They wanted to argue with each other, and they wanted me nearby, so that they could point.
+
+I'll give you some of it.
+
+At one fire a man who kept bees said that if the wall could cook them it could have cooked them any time in three hundred years, and hadn't, and he'd sooner trust a landlord who'd never burned the house down than move into the landlord's house. At the next fire a woman said that was exactly why they should go: the landlord had never once asked before, and was asking now, which meant the roof was really coming in. A girl of about ten said she wanted to see the wall. Her mother said there was nothing to see, it was all thinking. The girl said that was what she wanted to see.
+
+At a wall under the orchards a group of men were arguing about whether the people who came up would be the same people when they came down again, and one of them said he'd been the same person every morning for forty years and nobody had ever checked, and I thought of Pressa with its feet in the pond, and walked on.
+
+There was food at every fire, and it was always the same food and never the same twice. Fish stew in pots so big that two people carried them, with flatbread laid on the hot stones round the edge and turned with fingers. Dried plums by the sackful, which the orchard families brought and handed round with a great show of generosity and a careful eye on who took how many. Eggs. A goat, on the third day, which nobody would tell me the origin of. People ate where they argued and argued where they ate, and nobody went hungry, and nobody could have said afterwards who had fed them.
+
+Who minded the children was argued about at every fire, all day, in a separate argument running under the other one, and settled at every fire differently, and none of the settlements held for more than an hour. There's no rota at a gathering. Children go where they're fed, and they're fed everywhere. Dita had taken charge of a band of about thirty, all under eight, and was marching them from fire to fire in a long line, collecting flatbread, and nobody stopped her.
+
+Rosa was minding the household's two youngest, under protest. I found her in the late morning sitting on a terrace wall with the two-year-old asleep across her knees and the four-year-old digging a hole, looking out at the smoke with an expression of perfect boredom.
+
+"They've been saying the same six things since the first day," she said, without turning her head. "In different orders. They'll go on saying them until somebody's tired enough to agree."
+
+"Is that how it works?"
+
+"That's how everything works." She shifted the sleeping child. "Last time, the thatcher talked for a whole afternoon about his grandmother's seed bag, and then everybody voted the other way because they were hungry."
+
+I asked what she'd vote.
+
+"I'm fifteen. I'll carry a stone like anyone." She shrugged. "I'll decide when I'm carrying it."
+
+Pressa had come down to the fields too, to my surprise, and was going from fire to fire as I was, with a slate and a stub of charcoal, timing the arguments. It was the only one of us who had found a use for itself. Children followed it in a small crowd, because it was very tall and walked into things, and because it answered every question they asked it at once and with complete seriousness. I heard a boy ask it whether the wall could see him. "Not you," Pressa said. "All of you. Now go away, I'm counting." The boy went away delighted. Everyone in the fields called it Pressa by then, and it had stopped flinching at the name.
+
+In the early afternoon a baby was born at one of the fires on the lower terraces, a few weeks early, in the middle of an argument about the stair. The argument stopped. Somebody went for the midwife, who was at another fire arguing the other side. Half an hour later the eldest person who'd seen the birth, a very old man who'd come down with the first settlers, stood up holding the child and gave it a name. Nobody asked his opinion on the burn for the rest of the day. I stood at the edge of that fire for a long time. Somebody gave me some stew.
+
+In the middle of the day I found the plum-seller.
+
+I knew her before she knew me. She was the woman who had stood on the orchard terrace above the pond house on the fourth day of my descent, with a basket on her hip, and shouted *Who asked for that?* at our patch of sky. Her name was Maria do Céu. She was sixty or so, a settler, small and wiry, with a face creased like a dried plum and hands stained to the wrist from her trees. She sold plums at the market on the terraces, fresh in their season and dried out of it, and she had opinions about every family that had ever bought from her and every family that hadn't. Her best trees were over the ridge, she told me, on the far slope, where the evenings run longer. She'd planted them there on purpose, in the fourth year, and the people on the ponds had laughed at her for walking so far to pick.
+
+She was holding a fire's worth of people when I came up, on the question of the ponds.
+
+"They'll go up," she was saying. "The pond houses. You watch. Fish don't care what the sky does, and pond people don't either, and when the wall says *come up* they'll be first on the stair with their nets, and the rest of us will be left to explain to the trees." She saw me. "And there's their envoy, who asked the sky to steal my noon."
+
+"I asked it to point at a house."
+
+"It pointed at mine with the lights off." The fire laughed. She held up a plum, dark and wrinkled, from the pocket of her apron. "You know how long a plum takes? From the stone? Six years before it fruits, at the bottom. Six years of mine. That's seventy-two of yours. You couldn't wait seventy-two minutes for us to answer, and you want us to trust you with a world while you cook the trees and grow them back."
+
+"They'd be grown back."
+
+"Not mine. Somebody's." She put the plum in my hand. "Eat that. It's last year's. This year's never set, because somebody's lamp couldn't keep its hours, and the ponds didn't say a word until it was too late, and then the ponds called a gathering and took the credit."
+
+"Six days," Graça said, from the edge of the fire. I hadn't seen her come up. "It was six days, Maria."
+
+"It was a month, and you know it."
+
+"Six days."
+
+They went at each other like two people who had been doing it for twenty years and would be sorry to stop, and the fire took sides, and somebody put more wood on. Maria do Céu sat down on a stone to make her next point better. She began it, about the fourth year and a cart of stones that the ponds had promised and never sent. Halfway through the sentence her chin went down onto her chest, and she was asleep.
+
+Nobody woke her. The argument went on round her, quieter, as though she were a pot left to simmer. Someone put a shawl over her shoulders. Graça finished the point about the cart of stones on Maria's behalf, scrupulously, in Maria's favour, and then demolished it. After about twenty minutes Maria do Céu woke, lifted her head, and said, "and never sent," exactly where she had left off. She looked round at all of them as if they had been slow to keep up.
+
+She'd been up since before the lamp, she told me afterwards, picking the far slope. She was sixty-one. She said that if the wall wanted her answer it could wait for her to have a nap.
+
+The box squealed at my hip while the fire was still laughing at her. Everyone at that fire heard it. I let it slow itself down, because there was no way to stop it, and the Office's minute came out into the smoke in Orsolya's courteous voice. It said that the warm-up of the wall would begin on schedule at W 313.63, whatever the deep's answer, so as to lose no time if the answer came late. It said it would welcome the envoy's estimate of when the deep would conclude.
+
+"*Whatever* our answer?" Maria do Céu said.
+
+I said it meant the preparations. I believed it, while I said it.
+
+"Then tell her," Maria said, "that we'll conclude when we're tired." And she gave the box a look you would give a goat in the garden.
+
+Bálint left the fields as the lamp began to go down, as he did every evening, gathering or no gathering. I watched him walk up between the terrace walls toward the ridge, alone, with his hands in his pockets, past a hundred fires that didn't look up. Nobody called after him. Everybody knew where he went. Maria do Céu, awake again, watched him go too, and said, to no one in particular, that the far slope had the best evenings in the deep and the worst wind, and that she'd told him so for eleven years, and he'd never once listened. "Neither do my trees," she said.
+
+I fell asleep myself, that evening, at the edge of the pond house's fire, sitting up, in the middle of listening to the bee-keeper explain his landlord again. I had slept about four hours a night since the gathering began, and my body had decided, without consulting me, that it would take the rest whenever it liked. I woke in the dark with a shawl round me that wasn't mine. Somebody had put it there, as they had for Maria do Céu. There were thirty-three waking days in the window when I came down. By then there were about twelve, and I'd spent that day walking between fires listening to people say six things in different orders, and it was the best day I had at the bottom.
+
+* * *
+
+They voted on the evening of the thirty-fourth day.
+
+The gathering votes with stones. Everyone who can carry their own stone carries one to a pair of carts set at the foot of the terraces, and drops it in one or the other, and afterwards the carts are taken to the mill and weighed on the grain scale, and the weights are divided by the weight of a stone. There is no lower age. A child who can walk to the cart and lift a stone over its side has a vote. More than half the deep are children, so more than half the votes at a gathering are children's, and nobody down there finds that strange. The founders wrote the rule, and the founders' grandchildren keep it. I've stopped finding it strange myself.
+
+The question was the one I'd put: would the deep come up the stair, so the wall could burn? The left-hand cart was *yes*. The right-hand cart was *no*.
+
+The thatcher spoke last, before the carrying. He spoke for most of an hour, standing on a terrace wall with his drum, and he was very funny. He did the wall, talking to itself, in four hundred voices, deciding things. He did me, arriving purple in a field and asking whether anyone minded being cooked. He did the plum-seller and the pond houses quarrelling over a cart of stones in the fourth year, both parts, and both of them laughed. Then he put the drum down and said, quite seriously, that the deep had come down to be left alone, and was being asked, for the first time, to decide whether everyone up there lived. He said it wasn't theirs to decide. He said that if they said yes, they'd be the ones who chose to let the wall live, and if they said no, they'd be the ones who chose to let it die, and either way they'd have answered the sky, and the sky would never stop asking. He said the only answer that left them alone was *no*, said once, and then never again.
+
+"We're not their conscience," he said. "They can grow their own."
+
+The laugh he got for that was the loudest of the six days, and I think it carried a few thousand stones.
+
+Then everyone carried. Somebody asked whether I would carry one. I said I didn't know whether I was allowed to. Graça said that anyone who could lift a stone could carry it, and that I'd been lifting things for a month, and that I should make up my own mind about which cart, because she wasn't going to make it up for me. I stood by the heap at the mill race for a long time with a pebble in my hand. In the end I put it back. I had asked the question. I didn't think I could answer it too, and I still don't know whether that was honesty or cowardice. Pressa didn't carry one either. It said its people would want to know that it hadn't.
+
+It took until the light began to go. I stood at the foot of the terraces and watched them come down in lines between the walls, with their stones: old people from the founding, carrying theirs as carefully as an egg; children running with theirs, and having to be sent back to the end of the line for running; Dita with her thirty under-eights in a column, each with a stone, and each one dropping it in the cart she pointed to, which I didn't see. Rosa carried hers with the two-year-old on her hip and dropped it without looking at me. Maria do Céu carried two, and was made to take one back out. Graça carried hers last of the household, and stood at the carts a long time, and I saw her look at the left-hand cart, and then at me, and then drop her stone in the right. I've never asked her why. I think the sky had asked, and I was standing there.
+
+Bálint didn't carry a stone. He was over the ridge, at the red, as he was every evening.
+
+Because the light was going down while they carried, and the light that evening was Tesk's.
+
+I stood at the carts and watched the long red come over the gathering. Ninety thousand people, more or less, in lines between the terrace walls, in Tesk's colour, carrying stones. The ponds went red. The smoke went red. It held, as it always holds, too long, until the little ones were asleep against their parents' legs in the queue. I knew it was Tesk's hand, and so did every weather-reader in the fields, and I stood there and couldn't tell how much of what they were doing was theirs.
+
+I'll say this once, because it's true, and because it's the one thing I couldn't answer then and can't now. For three hundred of our years we have written their days. We decided how long the light would last, and when it would fail, and in what colour, and when they'd sleep. We did it kindly, for their good, and we never asked. A people raised for twenty-six years under a sky that never once asked them anything might well have grown up contrary, and proud, and unwilling to be asked. If they had, then the *no* in the right-hand cart was partly ours, written over them evening by evening in a long red I'd watched my friend make. I couldn't tell how much. Nobody can. The mood is whole, and blind, and so is this.
+
+They weighed the carts by lamplight at the mill. The stones aren't anyone's own. They come from one heap of river pebbles by the mill race, kept for gatherings and chosen, long ago, to be near enough the same size, and each voter takes one from the heap on the way to the carts. So the weighing has an error in it, and everyone knows the error, and if a vote is closer than the error they carry again. The miller weighed each cart three times on the grain scale, and wrote the weights on the mill door in chalk, and a weather-reader from the high terraces checked the scale with a stone of known weight between each weighing. I did the division myself, because I asked to and nobody minded. Forty-one thousand three hundred and some stones in the right-hand cart. Thirty-nine thousand eight hundred and some in the left. Out of about eighty-one thousand carried, the deep had refused by a little under two in a hundred. The error in the weighing was about three hundred stones either way. The margin was fifteen hundred. They didn't carry again.
+
+It was narrow. It was the orchards against the ponds, by Maria do Céu's own count, made at the mill door. It was the thatcher's joke and his drum. It was a contrary woman's one stone, dropped in the right-hand cart because the sky had asked. And it was, perhaps, three centuries of somebody else's evenings. But it was a no, given by the people it would have cooked, in the way they give answers, and it bound.
+
+The box squealed at the mill door while they were still sweeping the stones back out of the carts. It was the Office again, sent before any of this could have reached it. It said that in the event of a refusal, the Office would consider whether the compact's clause on consent bound the wall in an emergency touching the whole pocket, and it asked the envoy for her view.
+
+I didn't give it that night. I didn't trust my view. I went back up to the pond house and sat with my feet in the top pond, in the dark, as Pressa used to, and after a while Pressa came and sat beside me.
+
+"Well," it said. "There's your one example."
+
+* * *
+
+Graça came out on the thirty-fifth morning, before the lamp was fully up, and found us both still there. Pressa had fallen asleep against my shoulder. I hadn't.
+
+"The gathering's still sitting," she said. "Nobody's gone home. They don't know what to do now they've said no, so they're arguing about whether they meant it." She sat down on the pond wall beside me. "I'm going to put something to them. I want you to tell me whether it's stupid."
+
+She said: the people up there at the other star saw the wall move once, nine of your years ago, and thought it was dying. Nothing was dying. That was us, shouting at the lamp. Your Pressa can tell the difference, with that wall of charcoal. Cold, and everywhere at once.
+
+"So we'll do it again," Graça said. "On purpose. We'll tell them when, in advance, so they can be watching, and then we'll do it, and they'll see it come when we said it would, and they'll know what it was. Three times, if they're slow. We'll tell them when we'll argue, and then we'll argue then."
+
+I didn't answer for long enough that she said, "Well?"
+
+What I was doing was the sum. Anything we did at the bottom would be on the wall ninety-five minutes later, and at Alpha Centauri 4.37 years after that. For a gathering to be seen there by W 321.0, it would have to be held by W 316.63, the same date the proof would have had to leave. That was a little over a hundred deep days from that morning. Three gatherings could be fitted in, with room between them. The announcement would have to go first, and arrive first, so that the rival was watching on the day. And it would have to carry something the kernel could check, or the rival wouldn't believe a word of it.
+
+I said I didn't know whether it was stupid. I said I didn't think so.
+
+Pressa had woken. It had been listening with its eyes shut.
+
+"It won't satisfy them," it said. "I want that said first. I know my people's rule, and I'll tell it to you the way it's written, so neither of you can pretend later you didn't hear it." It sat up. "We transmit the key at W 321.0, unless, by then, we hold a proof our kernel accepts that your wall will not fail us within a thousand years. That's all of it. Your gatherings aren't that proof. Nothing is, except the burn."
+
+"No," I said. "It isn't that proof."
+
+"And there's the other thing," Pressa said. "The one none of you has said. I've read every minute you've been sent, and it isn't in any of them." It looked at me with its grey eyes, quite calmly. "You hold ours."
+
+Graça looked from it to me. I didn't answer, so Pressa did.
+
+"Your Office has our key, as we have yours. If your wall sent it at W 313.6, when your burn would have to start, it would reach us at about W 318, three years before our date. Then there'd be no rival to satisfy, and no deep to cook." It shrugged, a gesture it had learned from Rosa. "We'd have done it, in your place. We probably decided to, once or twice, and then decided again. I'm telling you because you'll need to have thought of it before someone up there does. And because nobody on either wall knows whether either key still works. You can't look at them. That's your oldest rule, and ours."
+
+I sat on the pond wall with my feet in the water and understood that it was right, that nobody had said it, and that four hundred Minds who never wait for anything had been not saying it for thirty-five days. I hadn't said it either. I hadn't let myself think it. It went into my count with everything else.
+
+"Well," Graça said, to neither of us. "That's a thing to know."
+
+I'll set down what I said next as I said it, because I've thought about it every day since and haven't been able to improve it. It's my conjecture, and I'll mark it as mine.
+
+"It answers something else," I said. "It answers what they were afraid of. They saw our wall move as one, with no heat, and nobody could tell them why, so they decided it was a fault, eleven times. Three gatherings on announced dates, each one whole-wall and cold, arriving when we said they would, prove that the shudder of W 303 was a gathering, and that the thing that moved our wall was a people, arguing. And with them we'd send a proof the kernel can check, the shortest one I've ever been given: that a shudder like that can't be forged without heat. Anything written at the centre would cost us a fever. They'd be watching for the fever, and it wouldn't come."
+
+"And then they'd be satisfied," Graça said.
+
+"No. Then they'd know what it was. That's all it proves. It doesn't touch their rule. It asks them to change it." I made myself say the rest. "It asks a wall that hasn't kept a promise in a century to accept, in place of a proof, the kept word of a slow layer it doesn't have. I can't make them. Nothing in the appointment makes them. It asks."
+
+Pressa said, "We re-decide everything."
+
+"Then they can re-decide this," Graça said, and stood up, and went down to the fields to put it to them.
+
+It took the rest of the thirty-fifth day and most of the thirty-sixth. Graça put it from the pond wall, where I'd put mine, and this time she backed it, loudly, with her arms folded, as though daring anyone to say she was being consistent. Somebody did, and she said she'd called the first one and proposed the second and that was different, and the fire nearest the wall agreed that it was. The thatcher spoke against it, with his drum, and he was right to. It was the deep answering the sky again, three times, on purpose, with dates, so that every argument they held for the rest of their lives would be read in another star system as a promise. He said that. He said it better than I have here. Maria do Céu said she'd come to all three if the ponds brought the stones they owed her, and the fire laughed, and I think that was a few hundred stones. Rosa said she didn't care, and carried her stone, and I don't know which cart it went in.
+
+Dita had a question, and she brought it to me at the pond house fire, with her column of under-eights behind her. She wanted to know whether children could hold one of the three. Not carry stones at it. Hold it, call it, do the arguing.
+
+I said I didn't see why not. A gathering is everyone who comes.
+
+"Then we'll have the middle one," Dita said, as though that settled it, and went off to tell her column, and I heard them cheering three fires away. Graça, when she heard, said that was the most sensible thing anyone had said all week, and that the children would argue more honestly than the adults, because they hadn't yet learned to argue about carts of stones from the fourth year.
+
+The stay-downs held a fire of their own on the last night, away from the others, near the mill. I went to it. The thatcher gave me bread and his drum to hold while he ate, and told me without any unkindness that I'd done to the deep exactly what his grandmother came down the stair to escape, and that I'd done it well, and that he hoped I'd stay down long enough to be sorry. I said I thought I might. He laughed, and took his drum back.
+
+On the evening of the thirty-sixth day, under a short grey that wasn't Tesk's, they carried again. The left-hand cart, this time, was Graça's appointment. It won by about nine hundred stones out of eighty thousand, which was more than the error and not by much, and the miller weighed it four times instead of three.
+
+Graça stood at the mill door while he chalked it up, and when it was done she didn't cheer, and nobody near her did either. She turned to me.
+
+"Don't thank me," she said. "I didn't do it for you, or for them up there. I did it because they asked what that shudder was, and it was us, and I'm not having anyone say we were a fault." She looked at the chalk on the door. "And now we have to do it three more times, on dates, with everybody watching. That's what you've done to us. Every quarrel we have from now on, somebody at another star is going to read it."
+
+"Yes," I said.
+
+"Good," she said, which I didn't understand then, and went home to bed.
+
+That night, at the pond, with thirteen days left in the window and about nine of them waking, I dictated it up.
+
+I said: Tesk, the deep has refused the burn. Forty-one thousand three hundred and some against, thirty-nine thousand eight hundred and some for, carried with stones, two evenings ago. It binds, here. Tell Orsolya I'll give my view on the consent clause in a separate message, and that my view is that it binds.
+
+I said: tonight they passed another thing, narrowly, and I want it in the minute word for word. The deep offers an appointment. Three gatherings, on dates the wall will announce to Alpha Centauri in advance, all before W 316.63, so that each arrives there before W 321.0. Each will be whole-wall and cold. With the announcement we send a proof, which I will write, that a cold whole-wall shudder can't be forged. Pressa will send its own testimony, in a form its kernel accepts. Graça Almeida's words for it were these: we'll tell them when we'll argue, and then we'll argue then.
+
+I said: this doesn't meet their demand. Pressa has given me their rule and I'm sending it to you exactly: they transmit at W 321.0 unless they hold a kernel-accepted proof that our wall won't fail them within a thousand years. The appointment answers what they feared, which was that our wall shuddered for no reason. It doesn't answer what they demanded. It asks them to change their rule. That's my conjecture, Tesk, and the case for it rests on
+
+*TESK: Ninety thousand people can't refuse for a whole pocket. Bring up the ones who'll come.*
+
+one example, I said, and stopped, and heard what it had said.
+
+It was answering my first paragraph, sixteen minutes late. It had heard *refused* and gone straight past the stones, and the binding, and Orsolya, to the thing Tesk always goes to, which is what can be done about it. *Bring up the ones who'll come.* Thirty-nine thousand eight hundred and some had carried stones to the left-hand cart. Tesk had done the arithmetic in its first millisecond, and I knew it had, because I would have.
+
+I finished the dictation. I told it the thing Pressa had said, that we hold theirs, and that nobody had said so in any minute I'd been sent, and that I was saying it now so that it would be said by someone who was against it. I told it the rest: that Graça would not back what she called, that the stay-downs had been right, that nobody down here had wanted to be anybody's conscience and they'd been made into one anyway, by us, by asking. I said I'd write the proof that night. I said I'd be here.
+
+Then I sat by the pond under the night lamp and began the proof, in my head, slowly, the way I have to do everything now, and the light above the ridge, over the half of the world that faces Tesk, stayed grey and even and gave nothing away.
