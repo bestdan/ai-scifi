@@ -22,8 +22,9 @@
 
    Ask no question that reveals a detail the human hasn't raised.
 3. **Confirm before grading a miss.** A row the human didn't mention isn't
-   a row they missed. Once the answers are written, name each graded beat they
-   left out (the twist, the reason behind the setup, the ending's cause),
+   a row they missed. Once the answers are written, name each graded beat
+   they left out (such as the twist, the reason behind the setup, the
+   ending's cause, or what the change means beyond the main characters),
    and ask whether they caught it and how it read. Grade from that answer
    and quote it. A beat they caught but that didn't land as planned, such
    as a twist read as an echo, is its own finding, not a miss.

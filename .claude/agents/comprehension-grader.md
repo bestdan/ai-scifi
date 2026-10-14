@@ -57,11 +57,11 @@ have not read the story and you must not.
      graded row, one for Who's who and one for Terms;
    - **Lost-list:** the entries from step 4, the count, and the rows they
      touch;
-   - **Gate:** "pass" only if Premise, Stakes, Why, Twist, Ending and Reach
-     are all got it or N/A, Terms is got it, and no lost-list entry concerns
-     a graded row. The count of entries doesn't decide it. Otherwise "fail",
-     naming each failing row, each failing term and each lost-list entry
-     that concerns a row.
+   - **Gate:** "pass" only if Twist is got it or N/A, Premise, Stakes, Why,
+     Ending and Reach are all got it, Terms is got it, and no lost-list entry
+     concerns a graded row. The count of entries doesn't decide it.
+     Otherwise "fail", naming each failing row, each failing term and each
+     lost-list entry that concerns a row.
      Who's who is a score, and doesn't decide the gate.
    - **Still unsure:** answer 7, quoted in full.
 6. Reply with the gate line, the grade for each row, and the lost-list count, one line each.

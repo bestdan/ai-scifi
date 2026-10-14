@@ -40,7 +40,8 @@ earlier debrief is a constraint every premise has to meet, not the reason to
 prefer one. In `human` mode, recommend one and the human picks it. In
 `proxy` mode, first get an `agent-guidance:consultant` second opinion on the
 choice, then the orchestrator picks it and logs the choice, its reasons and
-the runner-up in `STATUS.md`. Either way, record the runners-up in `STATUS.md` as seed stock.
+the runner-up in `STATUS.md`. Either way, record the runners-up in
+`STATUS.md` as seed stock.
 
 ## For the agent
 

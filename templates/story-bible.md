@@ -94,7 +94,9 @@ the reason this table exists.
 - **Reach is stated by someone in the story.** A character weighs, aloud
   or in the teller's thoughts, what the change means beyond the family or
   crew: for a trade, for the next generation, for who holds power. A
-  shrug ("not for years") is a hint, not the statement.
+  shrug ("not for years") is a hint, not the statement. A speech is
+  allowed when the question is hard enough to need one: an argument, a
+  confession, a planner explaining the plan.
 - **Stakes come before the climax.** The Stakes row is made explicit in a
   scene before the climax, not only by the end.
 - **"Never explained" is not a valid ledger entry.** Every row is made

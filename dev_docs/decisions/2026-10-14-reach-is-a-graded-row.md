@@ -20,7 +20,7 @@ The bible knew the irony: the firm "is building the thing that will someday
 do his job. Dad knows." Nothing carried it to the page. No ledger row
 tracked it, so no draft had to state it and no grader checked for it. On the
 page it became a shrug ("Someday. Not for years."). The lenses had read the
-bible and scored Consequence 4 or 5.
+bible and scored Consequence 4 or 5 in the last round.
 
 Run-03 drew the same note more softly: "There could have been more
 world-building about other implications. The topic was very narrow."
@@ -50,10 +50,12 @@ constraint every premise must meet, not the reason to prefer one.
   read the bible.
 - Good, because stage 3 can no longer win a premise on the previous run's
   complaint alone.
-- Bad, because a stated reach risks a character delivering the theme out
-  loud, against the style guide's "Nobody delivers the theme out loud".
-  The row asks for a character weighing it, with the friction of dialogue,
-  not a lecture.
+- Bad, because a stated reach can turn into a character delivering the
+  theme, which the style guide's "Nobody delivers the theme out loud"
+  warns against. The template allows a speech when the question needs one
+  (the human, in review: "occasional monologues or speeches are fine,
+  especially if grappling with a complex topic"), so the line is drawn by
+  the debrief, not by a rule.
 - Bad, because a story whose point is intimate, with a deliberately small
   world, now has to reach anyway. The brief's seed is the escape: if it
   asks for something small, the reach can be small, but it is stated.
