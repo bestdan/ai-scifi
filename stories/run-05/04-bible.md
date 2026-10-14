@@ -411,7 +411,7 @@ founding (W). Deep time (D) at the centre runs at 1/12.04 of wall time.
 | Nobody can read a particular person off the mood | F | It limits the twist. Say so on the page. |
 | Tolman: deep temperature is 12× the wall's | E | The burn cooks. There is no black hole. |
 | Daylight is a non-thermal lamp | F | The Minds author the deep's days. |
-| The stair brakes matter and returns its energy as light | F | Offstage engineering. Lowering mass from the wall to the centre returns about 92% of its rest energy as light at the wall, like the Geroch process. Building the world (about 1.3e22 kg) released about 1e39 J over 40 wall years, so the pocket shone outward brighter than a million suns while it was built. The settlers came down after. Added at the interim Egan check. |
+| The stair brakes matter and returns its energy as light | F | Offstage engineering. Lowering mass from the wall to the centre returns about 92% of its rest energy as light at the wall, like the Geroch process. Building the world (about 1.3e22 kg) released about 1e39 J over 40 wall years, so the pocket shone outward brighter than a few thousand suns while it was built (about 8e29 W; Egan corrected this from "a million"). The settlers came down after. Added at the interim Egan check. |
 | Patterns come down; bodies are grown at the bottom | F | |
 | Forgery means writing at the centre, which means heat | F built on C | The test is a whole-wall shudder with no heat. |
 | The rival's demand is impossible in general | E | Rice's theorem. |
