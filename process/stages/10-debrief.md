@@ -18,6 +18,7 @@
    6. Who is each named character, in one line each?
    7. What are you still unsure about?
    8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
+   9. What does the story's central change mean for people beyond its main characters?
 
    Ask no question that reveals a detail the human hasn't raised.
 3. **Then the rest.** Only after section 1 is written may the human open

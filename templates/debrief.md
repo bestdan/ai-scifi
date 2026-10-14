@@ -23,6 +23,7 @@ can be set beside the reader's in `reviews/final/comprehension-answers.md`.
 6. Who is each named character, in one line each?
 7. What are you still unsure about?
 8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
+9. What does the story's central change mean for people beyond its main characters?
 
 Then ask where the read flowed or snagged, and how the ending landed.
 
@@ -55,6 +56,7 @@ scores and the grader's.
 | Understood | Why | | | |
 | Understood | Twist | | | |
 | Understood | Ending | | | |
+| Understood | Reach | | | |
 | Understood | Who's who | | | |
 | Understood | Terms | | | |
 | Craft | Structure | | | |

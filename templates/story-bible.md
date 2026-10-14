@@ -40,6 +40,9 @@ For each character:
 - **What they're wrong about:**
 - **What the novum does to them in particular:**
 - **Something they love that's outside the plot:**
+- **For a character under 18, what they can't do or don't understand yet:**
+  <what a person this age still gets wrong, can't manage, or feels like a
+  child about, whatever else the novum gives them>
 
 ## Point of view and voice
 - **Teller:**
@@ -69,10 +72,11 @@ the reason this table exists.
 | Why | <why the people or powers who set things up did it that way> | | | | |
 | Twist | <the twist, or "none"> | | | | |
 | Ending | <what happens at the end, and why> | | | | |
+| Reach | <what the novum changes for people beyond the main characters: whose work, money or power it moves, and what that costs them> | | | | |
 | <mechanism> | <one traced row per mechanism the plot turns on> | | | | |
 
-- **Graded rows.** Premise, Stakes, Why, Twist and Ending are fixed. Every
-  story has them, and the stage 7 comprehension gate grades a cold reader
+- **Graded rows.** Premise, Stakes, Why, Twist, Ending and Reach are fixed.
+  Every story has them, and the stage 7 comprehension gate grades a cold reader
   against them. A story with no twist writes "none" in that row.
 - **Traced rows.** Add one for each mechanism the plot turns on, including
   any number or date whose arithmetic the ending depends on (give the
@@ -82,6 +86,13 @@ the reason this table exists.
   **stated**, in plain words (the explicit line), and once **shown**, as a
   consequence in a scene. A statement can't be a quoted document of more
   than about 150 words. Traced rows need only the explicit line.
+- **The twist's stated line says what it means.** Showing the image isn't
+  enough: a character says, in plain words, what the reveal changes. A
+  reader who reads the image as a detail still gets the reveal.
+- **Reach is stated by someone in the story.** A character weighs, aloud
+  or in the teller's thoughts, what the change means beyond the family or
+  crew: for a trade, for the next generation, for who holds power. A
+  shrug ("not for years") is a hint, not the statement.
 - **Stakes come before the climax.** The Stakes row is made explicit in a
   scene before the climax, not only by the end.
 - **"Never explained" is not a valid ledger entry.** Every row is made

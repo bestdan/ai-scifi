@@ -62,11 +62,12 @@ That makes them insiders, and they don't score the Understood group. The
 | Understood | Why | Could a reader say why the powers in the story set things up as they did? | the grader |
 | Understood | Twist | Could a reader say what the twist was? (N/A if none) | the grader |
 | Understood | Ending | Could a reader say what happened at the end, and why? | the grader |
+| Understood | Reach | Could a reader say what the story's central change means for people beyond its main characters? | the grader |
 | Understood | Who's who | Could a reader place each named character? | the grader |
 | Understood | Terms | Could a reader get every coined or foreign term from the page itself? | the grader |
 | Craft | Structure | Does every scene turn? Does the form serve the idea? | the panel |
 | Craft | Character | Does the protagonist want something, and does the novum make it harder to get? | the panel (construction), plus the grader's Who's who (legibility) |
-| Craft | Consequence | Does the story live in the second-order effects? | the panel (construction), plus the grader's Stakes and Why (legibility) |
+| Craft | Consequence | Does the story live in the second-order effects? | the panel (construction), plus the grader's Stakes, Why and Reach (legibility) |
 | Craft | Prose | Is it specific, and does every ornate line earn its place? | the panel |
 
 The grader's grades map onto the scale as got it 5, partial 3, missed 1.
@@ -80,8 +81,8 @@ not a construction one.
 
 **No mean mixes the groups.** Report each group separately. The comprehension
 gate, not an average, decides whether a draft can go to polish. It reads the
-graded rows, Terms and the First Reader's lost-list; Who's who is a score
-only.
+graded rows, Terms and whether any of the First Reader's lost-list entries
+concern a graded row; Who's who is a score only.
 
 ### Mapping from the old axes
 

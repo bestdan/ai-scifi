@@ -54,9 +54,15 @@ class ProcessLinks(unittest.TestCase):
             self.assertIn("pass `model:`", text.replace("Don't pass", "pass"),
                           f"{stage.name} lacks the no-model line")
 
-    def test_terms_row_in_the_debrief_and_rubric(self):
+    def test_terms_and_reach_rows_in_the_debrief_and_rubric(self):
         for path in (REPO / "templates" / "debrief.md", REPO / "process" / "rubric.md"):
-            self.assertIn("| Understood | Terms |", path.read_text(), path.name)
+            for row in ("Terms", "Reach"):
+                self.assertIn(f"| Understood | {row} |", path.read_text(), path.name)
+
+    def test_synthesis_weighs_reach_and_picks_on_the_seed(self):
+        text = (STAGES / "03-synthesize.md").read_text()
+        self.assertIn("**Reach:**", text)
+        self.assertIn("Pick on the brief's seed", text)
 
     def test_debrief_asks_the_comprehension_questions(self):
         for path in (REPO / "templates" / "debrief.md", STAGES / "10-debrief.md"):

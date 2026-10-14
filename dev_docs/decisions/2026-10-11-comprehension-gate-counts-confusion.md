@@ -1,7 +1,8 @@
 ---
 created: 2026-10-11
-status: accepted
+status: superseded
 supersedes: 2026-10-06-comprehension-gate.md
+superseded_by: 2026-10-14-lost-list-gates-on-rows-not-count.md
 convention: ../../process/stages/07-review.md
 ---
 

@@ -13,7 +13,7 @@ class StoryBible(unittest.TestCase):
 
     def test_payoff_ledger_has_graded_rows(self):
         self.assertIn("## Payoff ledger", self.text)
-        for row in ("Premise", "Stakes", "Why", "Twist", "Ending"):
+        for row in ("Premise", "Stakes", "Why", "Twist", "Ending", "Reach"):
             self.assertIn(f"| {row} |", self.text, row)
 
     def test_ledger_rejects_never_explained(self):

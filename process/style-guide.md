@@ -54,8 +54,9 @@ default tone for every stage, from ideation on.
    history the story has built.
 8. **Inference pays off.** The reader may be asked to work things out, and
    working them out is part of the pleasure. But every load-bearing fact
-   (the novum's mechanism, the stakes, the twist, and why the people with
-   power did what they did) is made explicit on the page eventually, so a
+   (the novum's mechanism, the stakes, the twist, why the people with power
+   did what they did, and what the change means beyond the main
+   characters) is made explicit on the page eventually, so a
    reader who didn't work it out still gets the payoff.
 9. **Names arrive slowly.** Every named character and invented term arrives
    with its role attached, and the opening scene introduces few of them. A
