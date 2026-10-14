@@ -340,8 +340,9 @@ Each of these surfaces in the first third.
 **New names per part:**
 - Part 1: Ilse, Tesk, Orsolya, Pressa (at the end).
 - Part 2: Tomé, Dita.
-- Part 3: Graça, Bálint, Rosa.
-- Parts 4 and 5: none.
+- Part 3: Graça, Bálint.
+- Part 4: Rosa; Maria do Céu, a plum-seller who is among the 31.
+- Part 5: none. (Superseded by `05-outline.md`.)
 
 ## Era timeline
 
@@ -487,9 +488,12 @@ sentence. It is not a glossary term.
 | Mechanism: weather | Only simple acts are cheap. Precise acts mean heat | 1 | 1 | Tesk's lesson and the compact minute | 2 |
 | Mechanism: burn | Tolman heating ×12 cooks the deep | 1 | 1 | The quorum minute | 5: the storm |
 | Mechanism: deadline | The burn must start by W 313.63, about 49 deep days | 1 | 2 | Ilse's countdown | 3–5 |
-| Mechanism: forgery test | A real gathering is whole-wall and cold; a forgery is hot | 3 | 4 (Pressa), 5 (Ilse's proof) | Pressa: "Everything you could fake would cost you a fever" | 5 |
+| Mechanism: forgery test | A real gathering is whole-wall and cold; a forgery is hot | 3 | 3 (Pressa, moved forward at stage 5) | Pressa: "Everything you could fake would cost you a fever" | 5 (Ilse's proof) |
 
 ## Part ledgers
+
+Superseded by `05-outline.md` where they differ (stage 5).
+
 
 - **Part 1, The Wall (about 6,000 words):** the ultimatum, the quorum, the
   Key Office, Tesk's weather lesson, Ilse chosen and sent down as a move.
@@ -521,8 +525,9 @@ The ending is settled, as above. What it costs:
   trivia.
 - **The Minds:** their fast sovereignty over treaties, and any guarantee of
   survival.
-- **Ilse:** her seat, her fast self, and Tesk. The friendship is not
-  repaired on the page.
+- **Ilse:** her seat, her fast self, Tesk, and Bálint, who dies in the
+  storm (confirmed at stage 5). The friendship with Tesk is not repaired on
+  the page.
 
 Ilse can't tell whether the refusal was free or authored, and says so.
 

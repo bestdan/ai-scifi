@@ -1,0 +1,15 @@
+# Stage 5 critique: Banks lens
+
+Blind spot, stated: I like set pieces and sprawl, and I'm not a natural judge of cuts. Where I praise a big scene (4.3), Chiang and Asimov should test it. I can't judge the physics arithmetic.
+
+1. **[must-fix] The storm is the story's one moment of vastness, and it gets the thinnest scene.** 5.1 has 1,600 words for a hemisphere's sky blazing for days, the misreading, Tesk's long red inside it, 31 deaths and Bálint, while 4.3, an ordinary gathering, gets 2,800. The wall's 2 AU and 3.3-hour lag are stated, but only the storm can be felt. Fix: give 5.1 about 2,600 words by taking about 500 from each of 4.3 and 5.4. Show the scale through one concrete object, such as the blazing side of the sky casting shadows from the opposite wall. Put the dead on the page as people, not only in the part 5 opener list. Show at least two of the 31 alive in 5.1.
+
+2. **[should] Wit thins from part 3 on and is nearly absent from part 5.** The outline credits wit to 1.3, 2.3 and 2.4. After that there is Rosa's boredom and the plum quarrel. Part 5 is storm, minutes, burial, vote, then the answer, which is a long stretch of grief with no relief. Fix: use the Key Office's comic rule ("the key may not be examined during a vote about it") in 5.2, so the quorum has to vote on ceding its treaty voice while forbidden to look at the thing it is ceding. Let the 12:1 joke recur in 5.2 as a Tesk burst that arrives after the censure it argues against. Give 5.4's plum quarrel a stay-down who turns up only to complain.
+
+3. **[should] The ordering wastes the twist.** 2.4 and 2.5 ("the last time the sky did this, we gathered"; W 303 converted to deep time) let the reader solve it. Then 3.1 to 3.4 (about 5,300 words) wait for Ilse to catch up, and the reveal at 3.5 confirms rather than surprises. Fix: move 3.2 (Bálint at the grave) to after 3.5, so the borrowed face lands as the cost of the identity after "the long thought is them", not as a stand-alone scene. Or cut the 2.5 conversion to a bare date and let Graça's story in 3.3 supply the click. Either way the reader should arrive at 3.5 half a step behind Ilse.
+
+4. **[could] 1.1 reads the ultimatum that the part 1 opener document has just shown.** Open 1.1 in the quorum's reaction, with the document already on the page, and give the 1,600 words to what the Minds do with 9 years. That is where the wit and the confident confabulation about W 303 should show first.
+
+5. **[could] Who is missing: the rival, and anyone on the wall who isn't the quorum.** The rival exists only through Pressa and a cinder, which is a good Outside Context Problem, but its sky is never seen, and neither is any ordinary Mind. Fix: in 4.1, have Pressa describe its home sky's heat in one concrete image (what its sky smells like when it overheats). In 5.2, include one non-quorum Mind's objection, so the wall has a view from below too.
+
+Dirty work check: Tesk (good reasons, 31 dead) and Ilse (argued for the burn) satisfy my test. The outline doesn't say who signed off on Tesk's heating. Add a line to 5.2 saying the quorum had tacitly let it happen.

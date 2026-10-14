@@ -1,0 +1,15 @@
+# Stage 5 critique: Chiang lens
+
+Blind spots: I read for idea and form, not momentum. Banks and Asimov should check pace, wit and the clue arithmetic. I have not checked the physics.
+
+The question the story asks is whether a mind may burn its slowest part to win an argument, and whether a freely given no can be told from an authored one. The outline mostly serves it. The notes below are about where it stops.
+
+1. **[must-fix] The climax runs beside the idea.** The idea says nobody can tell which person is which part of the mood. The outline's cost is Tesk's storm, which kills Bálint, and that is plot violence arriving from outside the question. Bálint dying because he happens to be under the blazing hemisphere is also the one cost that is only luck. Fix: make the storm the idea's consequence. Tesk heats a sector because it still believes the long thought is a mood, so it can be moved. In 5.1 let Ilse recognise that Tesk's mistake is hers from part 1. Put Bálint where he is by a choice the story has already shown him make (for example, tending the grave nearest the sky-facing terraces). Then his death is paid for by the misreading and not by the weather.
+
+2. **[must-fix] Cost is stated more than paid.** "Friendship not repaired on the page" and "Ilse can't tell whether the no was free" both appear as summary: in 4.4, in 5.5, and in the ending-cost list. Tesk's loss is carried only by 5.2's censure. Fix, using a light formal device: Tesk's bursts interrupt Ilse mid-sentence throughout parts 1 to 4, in the typography (an unfinished clause, then the burst). In part 5 after the storm the interruptions stop. Never say why, and the reader feels the silence. Then cut one of the two "free or authored" restatements, 4.4 or 5.5.
+
+3. **[should] The ending answers too neatly.** "The lamp answers the gathering" is the first contact between the two sides, and Tomé's "we'll need a word" resolves it. It also offers the wall's reply as proof of listening. But the reply is exactly the authored channel the story fears. Fix: Tomé can't tell whether the lamp is answering the gathering or doing what it would have done that evening anyway. Ilse knows only that Tesk is not the author. End on that ambiguity, with the word still missing.
+
+4. **[should] Unnecessary scene: 2.5.** "Terraces and children" repeats 2.1 and 2.2 (the deep is a country, not a camp) and adds only the line "Ask Graça". Cut it. Move the pointer and the W 303 conversion into the end of 2.4, where "the last time the sky did this, we gathered" already sets it up. Give the 1,100 words to 5.4, where three gatherings, the payoff of the whole structure, get only 1,800 against 2,800 for one ordinary gathering in 4.3.
+
+5. **[should] Names outrun anchors in 1.1 and 3.1.** 1.1 introduces Ilse, Orsolya, the wall, the rival and the burn in 1,600 words. Move "the burn" to 1.2 and let Orsolya be "the president" until 1.2. 3.1 gives Graça, Rosa and a household of 19 in one meal. Name at most five people at the table and let the rest be "the children".

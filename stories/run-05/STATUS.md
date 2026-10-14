@@ -3,9 +3,10 @@
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
 - **Current stage:** 5, Structure
-- **Next action:** write the two-level `05-outline.md` (an arc map, then a
-  scene table per part), run the stage 5 panel (Asimov, Chiang, Banks,
-  Liu), then bring it to the human, who approves at stage 5.
+- **Next action:** the human approves `05-outline.md` (a stage 5 human
+  gate). The panel notes are resolved in the outline. Then make the
+  per-1,000-word lint budget change on its own branch, and dispatch stage 6
+  part by part.
 
 > **Hybrid mode:** after stage 5 the human knows the premise and the shape.
 > They don't open drafts, reviews or this file's later rows until they have
