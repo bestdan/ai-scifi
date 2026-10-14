@@ -5,6 +5,48 @@ dispatching the next part. It is a working file, not story text.
 
 **Title:** *To Be Read Slowly*.
 
+## Draft 2 changes (these supersede anything below)
+**Words:** 31,200 for the story text (part 1 about 4,050; part 2 5,670; part 3 6,170; part 4 8,010; part 5 7,280).
+
+**Ultimatum:** its last line is now "We would expect the same of you." The words "You hold ours" are cut from the ultimatum. Pressa says them in 4.5 instead: "The first strike. You hold ours."
+
+**Ages:**
+- **Tomé** is 22, which is about 265 wall years. He was 21 at the W 303 gathering.
+- **Bálint** is 47. He came down at 24, and the list of the dead says 47.
+- **Natives** are "under twenty-three".
+- **Maria do Céu:** "seventy-two days".
+- **Graça** has been angry at the sky "twenty years and more".
+- **The deep's years:** they "went down in the founding years". The deep tongue is "two decades and more" old.
+
+**Key Office rule (1.2):** "the key is a quantum state, and looking at it spends it. You can move it without harm. Only looking uses it up."
+
+**Part 1 framing:**
+- **The first page** defines a Mind, the wall, the pocket and the deep.
+- **Founding glow:** "brighter than a few thousand suns".
+- **Stair geometry:** "two astronomical units long ... The wall is farther around than it is down, wider than Jupiter's orbit".
+- **The interruption device** is explained at first use: "I've set Tesk's words in italics, where they broke into mine."
+- **The seven causes** are reduced to one sentence.
+
+**The cession (5.3–5.4):**
+- **The offer:** the quorum offers the key and the word, and the first gathering (day 76, W 314.5) decides. It passed by about 1,200 of 82,000. The stay-downs and the thatcher were against ("We'd be keeping their gun for them. In our kitchen."). Graça was for it. Ilse did not carry a stone.
+- **Where the key is now:** it came down the stair nine days later (about day 85), read out as light without looking, in a grower's shell. It landed in the stubble about 30 km from the stair's foot; a twelve-year-old boy from the high terraces won the race. **It is now held in the mill, in its shell, under the grain scale, in a box nobody may open (Dita's rule).**
+- **What a strike would take:** for the key to be sent, a gathering must decide it and carry it to the stair's foot to be sent up as light. Taking it back would need writing at the centre, which is a visible burn.
+- **Why the first strike was rejected (390–17):** the key is untested. If it failed, the rival would learn from its light and send theirs.
+- **The gamble, stated by Pressa:** "One promise, from their own inspector."
+
+**The gatherings:**
+- **Second (the children's):** Ilse carries her first stone, into the goat's cart.
+- **Third:** the trees, "Not now. They're reading", and Pressa's eleven per cent.
+
+**Narrating present:** about W 316.4, "a few days after the third gathering". Pressa "will send its testimony up the stair at W 316.6, in about a week".
+
+**Ending order:** interlude (arithmetic, Pressa, seat and comets, Tesk's silence, whether staying is hers or the long thought's) → the last evening → the lamp → "That was light" → Tomé → one sentence of not-knowing → final paragraph.
+
+**Last three lines:**
+- "That was a reply," he said, carefully, as if he were reading weather, which he was. "The sky answered. We'll need a word for that."
+- I can't tell him whether it was one. It came sixteen minutes after they stood, which is exactly how long a reply would take, and Tesk didn't make it, and I don't know who did, or whether anyone on the wall meant anything by it at all, any more than I can tell you whether the no was free.
+- I'm going to put the pencil down now, and go out to the top pond, and sit with my feet in the water, and press my palm flat on the ground, the way they do, and stay.
+
 ## Parts written
 Word counts run from the `## Part` heading to the next one, and include the header line and the opener.
 
