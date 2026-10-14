@@ -13,6 +13,8 @@
 # Severities:
 #   error   any hit fails the lint
 #   budget  hits are warnings; more than `budget` of them fails the lint
+#           (optional `budget_per_1000` raises the allowance to that many per
+#           1,000 words, rounded down; `budget` stays the floor)
 #   warn    hits are reported and never fail
 #
 # Patterns are Python regular expressions, matched against each paragraph
@@ -82,6 +84,8 @@ exclude_after = ['^ (?:to|back|home|out|through|there|down|up|in|into|forward|ac
 id = "contrast-shape"
 severity = "budget"
 budget = 1
+# About one per 6,500-word story, as in the calibration stories; 35,000 words allows 5.
+budget_per_1000 = 0.15
 case_sensitive = false
 patterns = [
   "\\b(?:it|that|this|he|she|they) (?:wasn'?t|was not|isn'?t|is not)\\b[^.!?]*[.!?]\\s+(?:it|that|this|he|she|they) (?:was|is)\\b",

@@ -100,6 +100,36 @@ class Rules(unittest.TestCase):
         self.assertNotIn("zinger-closer", ids(lint_text("She left.\n")[0]))
 
 
+class ScaledBudget(unittest.TestCase):
+    RULE = {"id": "zap", "severity": "budget", "budget": 1, "patterns": [r"\bzap\b"]}
+
+    def run_rule(self, rule, hits, filler):
+        text = "Zap.\n\n" * hits + ("word " * filler) + "\n"
+        with tempfile.TemporaryDirectory() as d:
+            path = Path(d) / "final.md"
+            path.write_text(text, encoding="utf-8")
+            return L.lint(path, [rule])
+
+    def test_short_file_keeps_the_floor(self):
+        rule = dict(self.RULE, budget_per_1000=0.15)
+        _, failed, summary = self.run_rule(rule, 2, 1000)
+        self.assertTrue(failed)
+        self.assertTrue(summary[0].endswith("budget zap: 2/1 OVER"))
+
+    def test_long_file_scales(self):
+        rule = dict(self.RULE, budget_per_1000=0.15)
+        _, failed, summary = self.run_rule(rule, 5, 35000)
+        self.assertFalse(failed)
+        self.assertTrue(summary[0].endswith("budget zap: 5/5"))
+        _, failed, _ = self.run_rule(rule, 6, 35000)
+        self.assertTrue(failed)
+
+    def test_rule_without_key_is_unchanged(self):
+        _, failed, summary = self.run_rule(self.RULE, 2, 35000)
+        self.assertTrue(failed)
+        self.assertTrue(summary[0].endswith("budget zap: 2/1 OVER"))
+
+
 class Skips(unittest.TestCase):
     def test_headings_scene_break_and_notes_are_skipped(self):
         text = ("# A testament to nothing\n\n## Nine\n\nShe drank her tea.\n\n"

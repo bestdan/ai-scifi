@@ -14,6 +14,7 @@ reason = "...".
 """
 
 import argparse
+import math
 import re
 import sys
 import tomllib
@@ -157,6 +158,14 @@ def waivers(path: Path) -> set:
     return {w["rule"] for w in tomllib.loads(f.read_text()).get("waiver", [])}
 
 
+def budget_allowed(rule: dict, words: int) -> int:
+    """`budget` is the floor; `budget_per_1000`, if set, scales it with length."""
+    per = rule.get("budget_per_1000")
+    if per is None:
+        return rule["budget"]
+    return max(rule["budget"], math.floor(per * words / 1000))
+
+
 def lint(path: Path, rules: list) -> tuple:
     """Return (findings, failed, budget summary lines) for one file."""
     paras = paragraphs(path.read_text(encoding="utf-8"))
@@ -174,9 +183,10 @@ def lint(path: Path, rules: list) -> tuple:
         if sev == "error" and hits:
             failed = True
         if sev == "budget":
-            over = len(hits) > rule["budget"]
+            allowed = budget_allowed(rule, words)
+            over = len(hits) > allowed
             failed |= over
-            summary.append(f"{path}: budget {rule['id']}: {len(hits)}/{rule['budget']}"
+            summary.append(f"{path}: budget {rule['id']}: {len(hits)}/{allowed}"
                            + (" OVER" if over else ""))
         if sev == "warn":
             density = 1000 * len(hits) / words if words else 0
