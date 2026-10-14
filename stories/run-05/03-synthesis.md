@@ -246,3 +246,66 @@ which ends human faith in hardness and arms the hawks, or keep the count.
 - **Load:** one novum (hardness as a treaty instrument) and one twist (the
   seal was opened long ago, and the truce held anyway).
 - **Estimated minimum:** 4,500 words.
+
+## Panel summary
+
+| Premise | Chiang | Vinge | Banks | Liu | Cartographer (novelty) | Mean rank |
+|---|---|---|---|---|---|---|
+| A. The Deep Country | 1 | 2 | 1 | 2 | 1 (N5, uncharted) | 1.4 |
+| D. The Heat Treaty | 4 | 1 | 4 | 1 | 3 (N4, edge-of-map) | 2.6 |
+| C. The Docket | 3 | 3 | 3 | 4 | 4 (N4, edge-of-map) | 3.4 |
+| B. The Observer of Record | 2 | 5 | 5 | 5 | 2 (N5, uncharted) | 3.8 |
+| E. The Lunch Clock | 5 | 4 | 2 | 3 | 5 (N3, edge-of-map) | 3.8 |
+
+**Where the panel agrees.** A is first or second for every lens, and three
+of the five put it first. Its one shared weakness is the outside rival, who
+is a clock rather than a player. Liu also wants its "no" branch written, so
+that the deep people's refusal is a real option the story honours.
+
+**Where it splits.** D is first for Vinge and Liu, the futurity and strategy
+lenses: the rival can act, a convocation every century gives built-in eras,
+and the cost isn't rescued. Chiang and Banks put D fourth, because two hard
+nova plus a deterrence game may crush the person, and because its dark-forest
+register strains the tone charter.
+
+**On length.** Banks and Liu both note that every estimated minimum
+(4,500–6,000) sits far under the 30,000-word floor. That heuristic was built
+for short stories, so it is the wrong test here. The question at this length
+is what fills the other 25,000 words without padding. A and D grow into eras
+most naturally. E, with one novum and two eras, is the thinnest.
+
+## Recommendation (for the human's decision)
+
+**A, The Deep Country,** taking these panel fixes into the bible:
+
+1. **The rival gets a face and moves** (Vinge's push). The rival is another
+   boundary civilization that hasn't worked out what its own deep country is.
+   Its ultimatum mirrors the plot, and its negotiator can lose its nerve.
+   That brings in D's strength, a pressure that acts, without D's machinery.
+2. **The twist lands by the middle** (Chiang, Cartographer). It is an
+   identity shown at another scale, not a hidden fact, so the reader can see
+   it coming. The last third is spent on the consent question.
+3. **"No" is a real answer** (Liu, Cartographer). The slow self may refuse,
+   and the Minds survive the refusal at a visible price.
+4. **The deep people have standing** (Cartographer). They are a description
+   of the Minds that also thinks and votes, so "neither side is fake" holds
+   on the page.
+5. **The Minds get a vice, and the story gets wit** (Banks). A Mind in a
+   borrowed body learning to walk. The quorum that signed off on compressing
+   a principal into a body is named.
+6. **The words go to the deep tongue and the vote, not the pocket's
+   engineering** (Cartographer). The language half lives in the deep
+   people's hundred words for place, and in a warning that has to be
+   authored as weather.
+7. **Deep time:** a candidate device for stage 4 to check, not a claim. In
+   some descriptions of anti-de Sitter space (the Poincaré patch, where
+   "deep" means low-energy) clocks deep inside run slow against boundary
+   time. In global AdS, a static clock at the centre keeps boundary time.
+   If the pocket's geometry supports it, descending would cost Ilse
+   boundary time and make the eras felt rather than dated. Egan checks it
+   at stage 4. If it doesn't hold, the eras come from the deep country's
+   own history instead.
+
+**Runner-up: D, The Heat Treaty,** if the human wants Liu's strategic game
+in front, accepting the risk to the person and to the tone. **B** is the
+pick if the language half should carry the whole premise.
