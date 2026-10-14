@@ -30,6 +30,12 @@ Don't pass `model:`.
    page, or use the plain word), and each lost-list entry, starting with
    those the grader tied to a graded row. You may lower a grade, never raise
    one.
+
+   A fix can break a row it doesn't name. When an item rewrites a line the
+   last drafter's notes quote for a ledger row, the item names every row
+   that line serves and says how each still reads. Two things the reader
+   must tell apart, such as the branches of a choice, never share one
+   picture.
 4. **Loop cap.** If the comprehension gate has failed two rounds in a row,
    log it, and get an `agent-guidance:consultant` opinion on whether one
    more round can close the gap. Then either take that round or proceed to
