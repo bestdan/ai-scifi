@@ -51,9 +51,9 @@ wall days. Each input is planted before the scene that needs it.
 | Message time, deep to wall | 7.9 deep minutes (95 wall minutes); a reply takes about 16 deep minutes | 2.3 (the first long dictation) |
 | The storm | W 313.20–313.45 (deep days 36–44) | 5.1 |
 | The storm's heat seen by the rival | W 317.57–317.82, before the announcement | 5.3 (Ilse adds it to the announcement) |
-| The announcement and Ilse's proof sent | W 313.60 (day 47) | 5.3 |
+| The announcement and Ilse's proof sent | W 313.60 (deep day 48.5) | 5.3 |
 | The announcement arrives at the rival | W 317.97 | 5.3 |
-| Three gatherings | W 314.5, 315.3, 316.2 (days 74, 99, 126) | 5.3 (announced), 5.4 (held) |
+| Three gatherings | W 314.5, 315.3, 316.2 (deep days 76, 100, 127) | 5.3 (announced), 5.4 (held) |
 | Their shudders seen by the rival | W 318.87, 319.67, 320.57, all before 321.0 | 5.4 |
 | The earliest the key could arrive | W 325.37 | 5.5 |
 
@@ -61,17 +61,36 @@ wall days. Each input is planted before the scene that needs it.
 
 The rival's decision rule, as Pressa states it in 4.5: *transmit the key at
 W 321.0 unless, by then, we hold a proof our kernel accepts that your wall
-will not fail us.* That demand can't be met (Rice's theorem, in 4.1). The
-appointment doesn't meet it. Ilse writes the reason plainly in 4.5 and owns
-it as her conjecture.
-- **What it answers:** the fear that caused the demand. Three cold,
-  whole-wall shudders on announced dates, plus a kernel-checkable proof
-  that such shudders can't be forged without heat, prove that the W 303
-  shudder was a gathering, not a fault.
-- **What it asks:** the rival to change its rule and accept a slow layer's
-  kept word.
-
-Whether it will is the open ending.
+will not fail us within a thousand years.* (Revised after the interim Asimov
+check.)
+- **Only the burn meets the demand.** The bounded proof can be made, by
+  three years of the whole wall running hot, which cooks the deep.
+- **The demand is a trap,** and Pressa says so in 4.1. Rice's theorem makes
+  the unbounded question impossible, so any proof only buys a bound, and a
+  civilization that re-decides everything can demand again. Worse, a proof
+  about the control program says nothing about what actually moved the wall
+  in W 303.
+- **The first strike nobody has said aloud.** We hold the rival's key.
+  Sent at W 313.6, it would close the rival at about W 318, before its own
+  transmit date. Pressa raises this in 4.5: "you hold ours". Ilse realizes
+  nobody on the wall has said it.
+- **Why nobody can count on a key.** The Key Office's oldest rule, that the
+  key may not be examined during a vote about it, has a real reason buried
+  among the three fluent ones in 1.2. The key is a quantum state, and
+  examining it spends it. So in 312 years nobody has tested whether either
+  key still works.
+- **What the appointment answers.** It proves the W 303 shudder was a
+  gathering, not a fault: three cold, whole-wall shudders on announced
+  dates, plus Ilse's kernel-checkable proof that such shudders can't be
+  forged without heat.
+- **What ceding the treaty voice means (5.3).** The quorum votes blind on
+  the first strike and rejects it. Then it cedes the pocket's word,
+  including the key, to the deep. From then on our key can be sent only by
+  a deep gathering, and the rival can watch any gathering build, cold and
+  whole-wall, for months of wall time before a key could leave.
+- **What it asks.** That the rival take a slow layer's kept word in place
+  of a proof. That is Ilse's conjecture. Whether the rival accepts is the
+  open ending.
 
 ## Arc map
 
@@ -81,7 +100,7 @@ Whether it will is the open ending.
 | 2. The Descent (6,000) | W 312.0–312.2, days 0–5 | The deep is a country, with children, the stair, terraces. A weather message read two ways disagrees. Wrong: still a separate people | Born in a field, named by a child; counts and sleeps badly | Tesk's interruptions | Ilse, embodied | "Ask Graça; she called the last gathering" |
 | 3. The Deep Country (6,500) | W 312.2–312.7, days 6–20 | The W 303 shudder was the deep's complaint. Pressa's test: whole-wall and cold, so neither a fault nor a forgery, and the forgery rule is stated. Midpoint: the long thought is them, with its limits | The household, the borrowed face; certainty breaks | Tesk: "a mood can be rebuilt". Stakes sharpened | Ilse, a guest | The identity (~18,500 words, 53%) |
 | 4. The Question (8,300) | W 312.7–313.2, days 21–36 | The rival's three reasons; Ilse's conjecture from one example; Pressa's overhead argument; Rice. The decision rule stated; what the appointment answers, stated | She asks, sits through a gathering, can't tell free from authored | A burst from above in every scene. A narrow, petty refusal, then the appointment | Ilse, half deep | The no is real |
-| 5. The Appointment (8,100) | W 313.2–316.2, days 36–126 | The storm follows from Tesk's error. The Minds wait for the first time, because their mood is in turmoil, and the waiting kills. A proof of a promise | Loses Bálint, then Tesk. Writes her proof. Stays | The heat the rival will see first; the vote taken blind under the Key Office rule; the ceding; three gatherings; the answer unknown | Ilse, staying | The weather may reply |
+| 5. The Appointment (8,100) | W 313.2–316.2, days 36–127 | The storm follows from Tesk's error. The Minds wait for the first time, because their mood is in turmoil, and the waiting kills. A proof of a promise | Loses Bálint, then Tesk. Writes her proof. Stays | The heat the rival will see first; the vote taken blind under the Key Office rule; the ceding; three gatherings; the answer unknown | Ilse, staying | The weather may reply |
 
 ## Information plan
 
@@ -163,11 +182,11 @@ interruptions, the countdown.
 | 4.2 | The asking | Ilse asks Graça to call a gathering | Graça will call it, not back it. The stay-downs object to gathering at all | The stay-down dissent | Rosa | 1,200 |
 | 4.3 | The gathering, an ordinary day | Loud, slow, food, who minds the children; Ilse's sleep debt. Maria do Céu, a plum-seller, falls asleep mid-argument | The arguments: "we came down to be left alone"; the orchard grudge; Rosa bored | The gathering as the deep's carrier bag. Maria do Céu is one of the 31 | — | 2,300 |
 | 4.4 | The vote | The refusal, narrow and partly petty | Ilse sees the long red every evening for years and can't tell free from authored | Possibly authored will | — | 1,500 |
-| 4.5 | Graça's appointment | The alternative | "We'll tell them when we'll argue, and then we'll argue then." Pressa states the rival's decision rule. Ilse states what the appointment answers, and what it only asks. It passes narrowly and is dictated up | The game, stated | — | 1,800 |
+| 4.5 | Graça's appointment | The alternative | "We'll tell them when we'll argue, and then we'll argue then." Pressa states the rival's decision rule, and raises the first strike nobody on the wall has said aloud ("you hold ours"). Ilse states what the appointment answers, and what it only asks. It passes narrowly and is dictated up | The game, stated | — | 1,800 |
 
 ### Part 5: The Appointment
 
-Header: W 313.2–316.2, days 36–126. Opening document: the chronicle's list
+Header: W 313.2–316.2, days 36–127. Opening document: the chronicle's list
 of the 31 dead, with names, ages and trades. Bálint Varga and Maria do Céu
 are among them.
 
@@ -175,7 +194,7 @@ are among them.
 |---|---|---|---|---|---|---|
 | 5.1 | The storm | Tesk's error made weather. It thinks a mood loses nothing if the people are frightened up the stair, so it heats its sector. One hemisphere's sky blazes for eight deep days. Scale in one image: the stair's column lit end to end, a line of fire two AU high. Misread first as anger, then the long red inside it. Bálint goes out at the red, as always. The Minds wait for the first time, because their own mood is in turmoil | The sky cools: the halt, seen from below. Tesk's interruptions stop here and don't return | Eviction by weather; the quorum's tacit leave; Bálint's death; Maria do Céu's | — | 2,600 |
 | 5.2 | The burial and the proof | Bálint buried nearer the middle, with the Hungarian word. Ilse writes the forgery test as a kernel proof; Pressa's testimony in kernel form | Her one proof | The proof of a promise, short enough to hold in your head | — | 1,200 |
-| 5.3 | The vote, from below | Minutes arrive in bursts, plus Ilse's dictated plea. The grief nobody can source. The Key Office rule means the quorum votes blind, without examining the key. It lets the window pass and cedes the treaty voice. Tesk censured. The announcement owns the storm's heat, which the rival will see first, and says what ceding means: from now on the pocket's word is given only by a deep gathering | The Minds pay. Ilse has no wall word for "stay" | The heat-then-cold the rival will watch; the dates of the three gatherings | — | 2,000 |
+| 5.3 | The vote, from below | Minutes arrive in bursts, plus Ilse's dictated plea. The grief nobody can source. A faction proposes sending our key first. The Key Office rule means the quorum votes blind on a key nobody has ever tested, and it rejects the strike. It lets the window pass and cedes the treaty voice. Tesk censured. The announcement owns the storm's heat, which the rival will see first, and says what ceding means: from now on the pocket's word, the key included, is given only by a deep gathering, which the rival can watch build for months before any key could leave | The Minds pay. Ilse has no wall word for "stay" | The heat-then-cold the rival will watch; the dates of the three gatherings | — | 2,000 |
 | 5.4 | Three gatherings | W 314.5; the children's at 315.3, with Dita; 316.2. The contrariness tax (a plum quarrel suppressed). A 12:1 joke about the quorum's congratulations arriving mid-gathering | The shudders' arrival dates at the rival, all before 321.0 | Ilse staying | — | 1,300 |
 | 5.5 | The lamp changes | Final image | Tomé: "that was a reply; we'll need a word". Ilse can't tell whether it was one, or whether the no was free | The key's earliest arrival, W 325.37; the answer unknown | — | 1,000 |
 
