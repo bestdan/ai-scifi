@@ -10,6 +10,16 @@ check:
 lint +FILES:
     python3 scripts/lint_prose.py {{FILES}}
 
+# Build a story's EPUB if it is missing, then email it to the owner's Kindle.
+kindle SLUG:
+    #!/bin/sh
+    set -eu
+    src="stories/{{SLUG}}/final.md"
+    title="$(sed -n 's/^# //p' "$src" | head -n 1)"
+    epub="stories/{{SLUG}}/${title:-Untitled}.epub"
+    [ -f "$epub" ] || python3 scripts/make_epub.py "$src" "$epub"
+    python3 scripts/send_to_kindle.py "$epub"
+
 # Install the pre-commit shim into the shared git dir (covers every worktree).
 install-hooks:
     #!/bin/sh
