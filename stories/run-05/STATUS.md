@@ -2,7 +2,7 @@
 
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 5, Structure
+- **Current stage:** 6, Draft (in parts; part 1 written)
 - **Next action:** the human approves `05-outline.md` (a stage 5 human
   gate). The panel notes are resolved in the outline. Then make the
   per-1,000-word lint budget change on its own branch, and dispatch stage 6
@@ -71,7 +71,12 @@
   `research/prior-art-and-form.md` §A6, which every ideator read.
   Candidate process change: give ideators the mental-model dossiers but
   not the open-territory list, which goes to the Cartographer only.
-- **Linter:** per-1,000-word budgets are a prerequisite for stage 6.
+- **Linter:** the per-1,000-word budgets are done on their own branch,
+  `bestdan/agent-a8e83c3f73f501565` (commit cdd6f51). That branch is merged
+  into the story branch. **Land it on `main` before the story**, then
+  rebase the story branch.
+- **Polish note:** the part 1 opener runs 167 words, over the 150-word
+  guideline for documents.
 - **Slug note:** an earlier attempt re-attached `bestdan/story-run-04`,
   which holds a different, unlanded story awaiting its debrief. That branch
   was left unchanged; this story is run-05.
