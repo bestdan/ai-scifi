@@ -34,11 +34,15 @@
   the three dossiers in `research/`. In-world physics claims are tagged in
   the bible with the physics dossier's E/S/C/F scale. An invented claim is
   fine if the story owns it as invention.
-- **Off-limits:** the 13 charted variants in
-  `research/prior-art-and-form.md` §A5, as a core novum. In particular, no
-  simulation reveal: neither side of a duality is "the fake one". Also no
-  flattening weapon that echoes *Death's End*, and no AI oracle that can't
-  explain itself downward.
+- **Novelty: not a repeat book.** The test is that the story as a whole
+  doesn't retell a known book: its core move, its shape and its payoff
+  together aren't anyone else's. A component that echoes another story is
+  fine, including any of the charted variants in
+  `research/prior-art-and-form.md` §A5. The Cartographer flags echoes but
+  marks a card charted only when the whole card repeats a known work, not
+  when one part of it does. Pure novelty isn't required.
+- **Off-limits:** the simulation reveal, which the style guide already rules
+  out. Neither side of a duality is "the fake one".
 - **Must include:** the two halves of the seed meeting on the page, shown
   rather than lectured: at least one scene where a translation between
   descriptions is itself the action.
