@@ -2,9 +2,9 @@
 
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 1, Ideate
-- **Next action:** collect the 11 lenses' idea cards, then dispatch the
-  stage 2 audit.
+- **Current stage:** 2, Audit
+- **Next action:** read the Cartographer's audit and decide the shortlist
+  (by proxy).
 
 > **Hybrid mode:** after stage 5 the human knows the premise and the shape.
 > They don't open drafts, reviews or this file's later rows until they have
@@ -27,6 +27,19 @@
   graded on motive, a lost-list threshold scaled by length, and lint budgets
   per 1,000 words. If they work, they go to `process/` on their own branch
   after the debrief.
+- **Stage 1 attractor: the research dossier steered the blind lenses.**
+  The orchestrator's tally from the 33 cards' one-line replies, before
+  the audit:
+  - About 9 cards rest on black-hole custody by early radiation
+    (Hayden–Preskill and the Page time).
+  - About 7 rest on a mind or charter spread as an error-correcting code
+    across colonies, where a quorum reaches the deep layer.
+  - About 5 rest on an engineered AdS bubble.
+
+  Each of these is one of the open angles listed in
+  `research/prior-art-and-form.md` §A6, which every ideator read.
+  Candidate process change: give ideators the mental-model dossiers but
+  not the open-territory list, which goes to the Cartographer only.
 - **Linter:** per-1,000-word budgets are a prerequisite for stage 6.
 - **Slug note:** an earlier attempt re-attached `bestdan/story-run-04`,
   which holds a different, unlanded story awaiting its debrief. That branch
