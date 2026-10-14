@@ -37,6 +37,10 @@ Don't pass `model:`.
    of `reviews/draft-N/`. A failed gate sends the story back to stage 8.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
+   `just kindle <slug>` builds the EPUB if it is missing or older than
+   `final.md`, then emails it to the owner's Kindle. It needs an unsandboxed
+   run, and uses the `ai-scifi` 1Password profile unless `OP_SA_PROFILE` is
+   already set.
 
 **Gate:** sign-off. In `human` mode, the human signs off. In `proxy` mode,
 the orchestrator marks the story ready, logs it in `STATUS.md`, and tells
