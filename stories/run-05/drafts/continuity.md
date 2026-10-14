@@ -5,6 +5,42 @@ dispatching the next part. It is a working file, not story text.
 
 **Title:** *To Be Read Slowly*.
 
+## Draft 3 changes (these supersede the draft 2 notes below where they differ)
+**Words:** 30,892 for the story text (part 1 3,484; part 2 5,680; part 3 6,222; part 4 8,006; part 5 7,487).
+
+**Part 1** is rewritten as four scenes in order, with **no opening document**. The header `*W 312.0 · before deep day 0*` is kept.
+1. Tesk's weather lesson. The definitions come inside the banter.
+2. The ultimatum arrives mid-lesson ("Show me where" → "That was when the ultimatum came in"). The quorum burst is in quoted voices. Then the market image, the rival's fear, the kernel, the burn, the stakes line, and Tesk's fourth construction ("Heat is weather").
+3. The Key Office, cut short: looking spends the key, moving doesn't. Then the long thought, the seven reasons in one sentence, redundant encoding with the 95-minute clause ("Light is slow down there"), the rule clause quoted, the deadline chain told once, the compact, the landlord line, Orsolya's choice ("No. But you are."), and Tesk's dissent struck.
+4. Tesk's interruption during the acceptance, with the device explained. The fork, "There won't be a you up here", and Pressa ("seven reasons", "Our sky is warm"). The stair and its glow, the name and face, the library. **New:** "I'll make your first evening ... Look for the red at the end of it." Then "Show me where".
+
+**Part 1's first three sentences:**
+- "I was born on my back in a field at the bottom of the world, but before that I was a Mind, and the last thing I learned as one was weather."
+- "'You've never made any,' Tesk said."
+- "'I've lit comets.'"
+
+**Callback in 2.3:** "Then the red came, as Tesk had promised me at the top of the stair."
+
+**The ultimatum** is no longer quoted as a block. Only its rule clause is quoted, in scene 3. The W-clock is defined in plain words in scene 2. The rival "called it a shudder".
+
+**Term change:** "agreement" is gone from the physics. 3.3 defines **in step** ("Far-apart parts of the wall changing together, the same way at the same moment, as if they'd all been given one beat"). 5.2 and 5.3 use "keep in step".
+
+**5.2 proof:** the conclusion comes first. Step 4 says the stair is the one precise door, and loud. Step 5 closes the slow forger: "longer than the pocket has existed".
+
+**5.3:**
+- Attribution comes right after the first-strike result.
+- "The stair ... every use of it lights it end to end."
+- "A Mind of the Office would still aim it, from the wall. But only where the deep had decided."
+- The 72 wall days of light before any key.
+- The minute's reason: "*the wall will not burn the slowest part of itself to win an argument.*"
+- Graça on the censure: "Tell the Pires house."
+
+**Cuts:** "That's the tax" (5.4) and the end's "whether the no was free".
+
+**3.5:** "I asked how long she'd been dead."
+
+**Last line (unchanged):** "I'm going to put the pencil down now, and go out to the top pond, and sit with my feet in the water, and press my palm flat on the ground, the way they do, and stay."
+
 ## Draft 2 changes (these supersede anything below)
 **Words:** 31,200 for the story text (part 1 about 4,050; part 2 5,670; part 3 6,170; part 4 8,010; part 5 7,280).
 
