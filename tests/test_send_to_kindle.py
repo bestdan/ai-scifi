@@ -33,17 +33,26 @@ class BuildMessageTest(unittest.TestCase):
 class OpRefTest(unittest.TestCase):
     def test_defaults(self):
         self.assertEqual(stk.op_ref("KINDLE_OP_USER", {}),
-                         "op://ai-scifi-dev/fastmail-smtp/username")
+                         "op://ai-scifi-dev/Gmail/username")
         self.assertEqual(stk.op_ref("KINDLE_OP_PASS", {}),
-                         "op://ai-scifi-dev/fastmail-smtp/credential")
+                         "op://ai-scifi-dev/Gmail/credential")
         self.assertEqual(stk.op_ref("KINDLE_OP_TO", {}),
-                         "op://ai-scifi-dev/fastmail-smtp/kindle-email")
+                         "op://ai-scifi-dev/Gmail/kindle-email")
 
     def test_env_overrides(self):
         env = {"KINDLE_OP_USER": "op://v/i/u", "KINDLE_OP_PASS": "op://v/i/p",
                "KINDLE_OP_TO": "op://v/i/t"}
         for var, ref in env.items():
             self.assertEqual(stk.op_ref(var, env), ref)
+
+
+class SmtpHostTest(unittest.TestCase):
+    def test_default_is_gmail(self):
+        self.assertEqual(stk.smtp_host({}), "smtp.gmail.com")
+
+    def test_env_override(self):
+        self.assertEqual(stk.smtp_host({"KINDLE_SMTP_HOST": "smtp.example.com"}),
+                         "smtp.example.com")
 
 
 class OpEnvTest(unittest.TestCase):

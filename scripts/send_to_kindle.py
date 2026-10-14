@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Email an EPUB to the owner's Kindle through Fastmail SMTP.
+"""Email an EPUB to the owner's Kindle over SMTP (Gmail by default).
 
 Usage: python3 scripts/send_to_kindle.py <file.epub>
 
@@ -7,7 +7,7 @@ The sender, the app password and the Kindle address are read from 1Password
 with `op read`. Each reference can be overridden by an environment variable:
 KINDLE_OP_USER, KINDLE_OP_PASS and KINDLE_OP_TO. Each `op read` runs with
 OP_SA_PROFILE=ai-scifi unless the caller already set it. The password is never
-printed.
+printed. KINDLE_SMTP_HOST overrides the server; it must accept SSL on port 465.
 """
 
 import argparse
@@ -19,14 +19,14 @@ import sys
 from email.message import EmailMessage
 from pathlib import Path
 
-SMTP_HOST = "smtp.fastmail.com"
+SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 465
 OP_SA_PROFILE = "ai-scifi"
 
 DEFAULT_REFS = {
-    "KINDLE_OP_USER": "op://ai-scifi-dev/fastmail-smtp/username",
-    "KINDLE_OP_PASS": "op://ai-scifi-dev/fastmail-smtp/credential",
-    "KINDLE_OP_TO": "op://ai-scifi-dev/fastmail-smtp/kindle-email",
+    "KINDLE_OP_USER": "op://ai-scifi-dev/Gmail/username",
+    "KINDLE_OP_PASS": "op://ai-scifi-dev/Gmail/credential",
+    "KINDLE_OP_TO": "op://ai-scifi-dev/Gmail/kindle-email",
 }
 
 
@@ -38,6 +38,12 @@ def op_ref(var: str, env=None) -> str:
     """Return the 1Password reference for `var`, honouring an env override."""
     env = os.environ if env is None else env
     return env.get(var) or DEFAULT_REFS[var]
+
+
+def smtp_host(env=None) -> str:
+    """Return the SMTP server, honouring KINDLE_SMTP_HOST."""
+    env = os.environ if env is None else env
+    return env.get("KINDLE_SMTP_HOST") or SMTP_HOST
 
 
 def op_env(env=None) -> dict:
@@ -92,7 +98,7 @@ def main(argv=None) -> int:
         return 2
 
     msg = build_message(args.epub, args.epub.read_bytes(), user, recipient)
-    with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, context=ssl.create_default_context()) as s:
+    with smtplib.SMTP_SSL(smtp_host(), SMTP_PORT, context=ssl.create_default_context()) as s:
         s.login(user, password)
         s.send_message(msg)
     print(f"sent {args.epub.name} to the Kindle")
