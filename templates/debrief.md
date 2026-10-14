@@ -23,6 +23,7 @@ can be set beside the reader's in `reviews/final/comprehension-answers.md`.
 6. Who is each named character, in one line each?
 7. What are you still unsure about?
 8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
+9. What does the story's central change mean for people beyond its main characters?
 
 Then ask where the read flowed or snagged, and how the ending landed.
 
@@ -31,6 +32,10 @@ question like "what had to happen when the deadline ran out" tells the human
 there was a deadline.
 
 <the human's answers, quoted>
+
+**Confirm before grading a miss.** After the answers above are written, name
+each graded beat the human left out and ask whether they caught it and how it
+read. Quote the answer. Silence on a row is not a miss.
 
 **Against the gate.** For each graded ledger row, and for Terms, the
 reader's grade on `final.md` and whether the human's answer would earn the
@@ -55,6 +60,7 @@ scores and the grader's.
 | Understood | Why | | | |
 | Understood | Twist | | | |
 | Understood | Ending | | | |
+| Understood | Reach | | | |
 | Understood | Who's who | | | |
 | Understood | Terms | | | |
 | Craft | Structure | | | |

@@ -29,6 +29,7 @@ COMPREHENSION_QUESTIONS = [
     "Who is each named character, in one line each?",
     "What are you still unsure about?",
     "Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?",
+    "What does the story's central change mean for people beyond its main characters?",
 ]
 
 
@@ -73,8 +74,11 @@ class AgentDefinitions(unittest.TestCase):
         body = (AGENTS / "comprehension-grader.md").read_text()
         gate = body.split("**Gate:**", 1)[1].split("**Still unsure:**", 1)[0]
         self.assertIn("Terms is got it", gate)
+        self.assertIn("Reach", gate)
         self.assertIn("lost-list", gate)
-        self.assertIn("at most three", gate)
+        # The count of lost-list entries no longer decides the gate
+        # (dev_docs/decisions/2026-10-14-lost-list-gates-on-rows-not-count.md).
+        self.assertNotIn("at most three", gate)
 
     def test_stage_7_splits_names_from_terms(self):
         stage = (REPO / "process" / "stages" / "07-review.md").read_text()

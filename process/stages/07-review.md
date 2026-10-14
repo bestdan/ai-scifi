@@ -26,6 +26,7 @@
 6. Who is each named character, in one line each?
 7. What are you still unsure about?
 8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
+9. What does the story's central change mean for people beyond its main characters?
 
 These questions appear nowhere else the reader can see. Asked before the
 read, they would steer it.
@@ -39,10 +40,10 @@ All of its files go in `stories/<slug>/reviews/draft-N/`.
 
    `Answer these from memory, without rereading. Write your answers, numbered, to stories/<slug>/reviews/draft-N/comprehension-answers.md.`
 
-   followed by the eight questions above, word for word.
+   followed by the nine questions above, word for word.
 2. **The grader's inputs.** Write three files from `04-bible.md`:
    - `ledger-rows.md`: only the Row and The fact columns of the payoff
-     ledger's five graded rows. No scenes, no explicit lines.
+     ledger's six graded rows. No scenes, no explicit lines.
    - `names.md`: each named character, with their role in one line, from
      the bible's Characters section. Characters only: a term's meaning here
      would tell the grader what the page may not have.
@@ -60,8 +61,8 @@ The gate passes only when all three hold:
 - **Terms.** The Terms row is "got it": the reader got every term it names
   from the story itself.
 - **The lost-list.** No entry under "Where I got lost" in `first-reader.md`
-  concerns a graded row's fact, and there are at most three entries in all.
-  Three is a starting threshold, to be tuned from the debriefs.
+  concerns a graded row's fact. The number of entries doesn't decide the
+  gate; the orchestrator reads them as revision notes.
 
 Stage 8 acts on a fail; stage 9 can't start without a pass.
 

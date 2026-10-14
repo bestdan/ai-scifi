@@ -15,7 +15,7 @@ Don't pass `model:`.
      it costs.
    - **Numbers.** It states every number and date the story depends on,
      together with its arithmetic, as traced rows of the payoff ledger.
-   - **The payoff ledger.** Fill in every row: the five graded rows, plus a
+   - **The payoff ledger.** Fill in every row: the six graded rows, plus a
      traced row for each mechanism the plot turns on. Each row names the
      scene where it is made explicit. "Never explained" is not an entry, and
      Stakes is explicit before the climax. Each graded row is both stated, in
@@ -47,7 +47,7 @@ reasons in `STATUS.md`.
 |---|---|
 | Watts | Is the biology or neuroscience right, and which real mechanisms support or contradict it? Are minds more coherent or self-aware than the evidence allows? Where does the story flinch? Aim at wonder and unsettling truth, not misery. |
 | Egan | Does the logic hold? Find every edge case that breaks the novum, its rules or its arithmetic. Do posthuman minds think like posthumans? What next logical step does the story not take? Can every payoff-ledger row be made explicit on the page without breaking the novum? |
-| Le Guin | Does the society feel lived-in, with children and the old in it? Are the characters people or functions? Who pays, and do we see them? Do the invented words imply a culture, and does each glossary term have a Job the plain word can't do? Are the names plausible and respectful? |
+| Le Guin | Does the society feel lived-in, with children and the old in it? Are the characters people or functions? Who pays, and do we see them? Do the children act their age? Do the invented words imply a culture, and does each glossary term have a Job the plain word can't do? Are the names plausible and respectful? |
 | Lem | Is the alien truly alien, or a human in costume? Does the story flatter anyone's ability to understand? Where is the irony? Does it resolve too much? Could a document or fragment do more than narration? Can every payoff-ledger row be made explicit without explaining the alien away? |
 | other | Your persona's "In critique" questions. |
 
