@@ -467,6 +467,7 @@ Kept short. Most of the story's words are plain English used precisely.
 | the long thought | the Minds' slow, shared mood | names a thing our world lacks | part 1: Ilse calls it "what we all think without anyone thinking it" | the Minds' usage |
 | the gathering | the deep's assembly of everyone | plain word, fixed sense | part 3: Graça calls one | plain English |
 | running hot / the burn | heating the whole wall until the deep cooks | plain words, fixed sense | part 1: the quorum minute | plain English |
+| stay-downs | the deep's standing faction against ever answering the sky | names a faction the story needs | part 4: the thatcher's six come "to object... to talking to the sky at all" | the deep's own coinage |
 | *aqui-fundo* | deep tongue: "here-at-the-bottom", home, said with a palm pressed to the ground | the deep's richest word is for "here", which the Minds lack | part 2: Tomé presses his palm down as he says it, and Ilse asks | Portuguese |
 | *desce* | deep tongue: "it comes down", said of anything arriving from the sky | names the landing custom (the race) | part 2: children shouting it as they run | Portuguese |
 

@@ -86,7 +86,7 @@ So they wanted proof our wall could never fail, and they had a way to make sure.
 
 The program attached was their kernel, the small checker that would decide whether anything we sent them was a proof. It was four thousand one hundred and six lines long, and so spare I could hold all of it at once, and before I'd thought anything useful, I admired it. I keep a library of short proofs.
 
-The proof they wanted could be made. It would take the whole wall, every part of it, running at full capacity for three years. And a wall at full capacity runs hot. Its waste heat leaks inward as well as out, and falls to the centre, as everything in the pocket does, and arrives twelve times hotter than it left. The deep lives at two hundred and eighty-nine kelvin, which is a mild spring day. The burn would give it twelve hundred, which is hot enough to bake stone. It would cook in a few days, with everyone on it.
+The proof they wanted could be made. It would take the whole wall, every part of it, running at full capacity for three years. And a wall at full capacity runs hot. Its waste heat leaks inward as well as out, and falls to the centre, as everything in the pocket does, and arrives twelve times hotter than it left. Twenty-four kelvin on the wall's inner face is two hundred and eighty-nine at the bottom, which is a mild spring day. The burn would take the wall to a hundred, and the deep to twelve hundred, which is hot enough to bake stone. It would cook in a few days, with everyone on it.
 
 So the cost was plain, from the first second. Either we burned the deep to make the proof, or the key came and everything in the pocket ended, the deep included.
 
@@ -228,7 +228,7 @@ It didn't laugh. The reading-out began at the edges, at the slow ties to the far
 
 I was born on my back in a field of stubble, inside a skin of something like boiled milk, and the first thing I saw with eyes was a child's face very close to mine, deciding. I knew a great deal about the child. I knew her mass to within a few kilograms and her distance from the centre of everything to within a metre, and I knew that she had run a long way, because she was breathing as the founders' archive says people breathe after running, with her mouth open and her hands on her knees. I did not know that she was about to name me, or that she had the right.
 
-Everything else I learned in the wrong order. Light came first, and it hurt, though the sky was only as bright as a dull morning. Then the cold of the stubble through the skin of my back, which I took for a fault in the grower until I understood that the cold was outside me and I was meant to feel it. Then my own weight, which I had known to four figures for three hundred years and had never once had to lift. The child put her fingers into the milky skin where it covered my face and pulled, and it came away in a long warm sheet that smelled of bread dough, and air came into my mouth by itself, and I made a noise I hadn't decided to make.
+Everything else I learned in the wrong order. Light came first, and it hurt, though the sky was only as bright as a dull morning. Then the cold of the stubble through the skin of my back, which I took for a fault in the grower until I understood that the cold was outside me and I was meant to feel it. Then my own weight, which I had known to four figures for three hundred years and had never once had to lift. The child put her fingers into the milky skin where it covered my face and pulled, and it came away in a long warm sheet that smelled of proving dough, and air came into my mouth by itself, and I made a noise I hadn't decided to make.
 
 "You're purple," she said.
 
@@ -824,7 +824,7 @@ She was holding a fire's worth of people when I came up, on the question of the 
 
 "I asked it to point at a house."
 
-"It pointed at mine with the lights off." The fire laughed. She held up a plum, dark and wrinkled, from the pocket of her apron. "You know how long a plum takes? From the stone? Six years before it fruits, at the bottom. Six years of mine. That's seventy-two of yours. You couldn't wait seventy-two days for us to answer, and you want us to trust you with a world while you cook the trees and grow them back."
+"It pointed at mine with the lights off." The fire laughed. She held up a plum, dark and wrinkled, from the pocket of her apron. "You know how long a plum takes? From the stone? Six years before it fruits, at the bottom. Six years of mine. That's seventy-two of yours. You couldn't wait seventy-two of your days, six of ours, for us to answer, and you want us to trust you with a world while you cook the trees and grow them back."
 
 "They'd be grown back."
 
@@ -1098,7 +1098,7 @@ Third. The rival's record of W 303 measured keeping in step, not brightness. So 
 
 Fourth. To make the wall keep in step as a gathering does, without a gathering, you'd have to write the change at the centre. There are two ways to reach the centre precisely. One is to write from the wall, which costs about what the burn costs, the whole wall for years. The other is the stair, the one precise door through the pocket, and every use of it is visible, from the deep and from outside. The only cheap way to make a gathering is to hold one.
 
-Fifth. Work on a wall is heat, and the rival watches our heat and our stair, whose returned light comes out through the wall, as the founding glow did. A forger who worked slowly enough to stay cold would need longer than the pocket has existed. No forgery could be made in time without a fever, or light on the stair, that the rival would see.
+Fifth. Work on a wall is heat, and the rival watches our heat, and our stair, whose light shows through the wall as the founding glow did. A forger who worked slowly enough to stay cold would need longer than the pocket has existed. No forgery could be made in time without a fever, or light on the stair, that the rival would see.
 
 That's all of it. It's the shortest proof I own, and I didn't find it. Pressa found it in a column of numbers and drew it in charcoal, and the storm showed me the third step, because I watched our wall burn white and knew what the rival would see when the light of it reached them: a sector hot, and the far-apart parts of the wall thrown about with everything else, but not keeping in step. A wall in a fever. The exact opposite of a gathering. I put it in the library I carry in my head now, the slow one, and it's the only one in there I wrote myself.
 
@@ -1142,7 +1142,7 @@ The slowest part of itself was the deep. That was the moment the Minds paid. At 
 
 The quorum also offered the way back down to everyone who had gone up the stair in the storm, eleven hundred and some, held on the wall in patches set aside for them as I'd once promised. By the second gathering most of them had come down again and been grown, in the fields, and named again by whoever was eldest at the landing. A few stayed up. It's the only thing I've found that nobody down here argues about.
 
-The announcement went out the same hour. It began with the storm, because the rival would see the storm first: the heat of Tesk's sector would reach Alpha Centauri between W 317.57 and 317.82, and the announcement only at W 317.97. So it said: before this reaches you, you will have seen one sector of our wall run hot for a quarter of a year, and stop. That was one of us, without leave. It was halted. Look at it: hot, partial, and out of step. That is neither a gathering, which is cold, nor a forgery, which would be in step. It is one of us, running hot. Then it gave the deep's refusal, the offer, and the three dates of the appointment, W 314.5, W 315.3 and W 316.2, so the rival would be watching. It carried my proof in kernel form, and said that Pressa's testimony would follow. It didn't ask them to change their rule. It told them what we would do, and when, and let them decide what that was.
+The announcement went out the same hour. It began with the storm, because the rival would see the storm first: the heat of Tesk's sector would reach Alpha Centauri between W 317.57 and 317.82, and the announcement only at W 317.97. So it said: before this reaches you, you will have seen one sector of our wall run hot for a quarter of a year, and stop. That was one of us, without leave, and the stair ran bright with people leaving the scorched half. It was halted. Look at it: hot, partial, and out of step. That is neither a gathering, which is cold, nor a forgery, which would be hot and in step. It is one of us, running hot. Then it gave the deep's refusal, the offer, and the three dates of the appointment, W 314.5, W 315.3 and W 316.2, so the rival would be watching. It carried my proof in kernel form, and said that Pressa's testimony would follow. It didn't ask them to change their rule. It told them what we would do, and when, and let them decide what that was.
 
 Pressa read the announcement with me at the pond, after the box had played it.
 
