@@ -22,9 +22,22 @@
 | 5 Structure | 2026-10-14 | the human | Outline approved: five parts, about 34,900 words, with an arc map, a calendar and a stated game | The Asimov, Chiang, Banks and Liu must-fix notes are all resolved in the outline (see its lens notes) | Review in the page (declined) |
 | 6 Draft | 2026-10-14 | orchestrator (proxy) | Draft 1 written in five parts with interim Asimov and Egan checks on parts 1–3: 32,658 words | Each part read before the next. The interim checks fixed calendar slips and added the first-strike thread and the key's quantum nature | — |
 | 7–8 Review round 1 | 2026-10-14 | orchestrator (proxy) | The gate failed (Premise and Stakes partial, Why missed; lost-list 11, 8 on graded rows). The revision plan is approved: 24 items | Consensus: part 1 too dense (5 sources). The cession was imposed without consent and its logic was wrong in the rival's frame (Le Guin, Egan, Asimov, Chiang). Restatements. New mechanism: the key is moved down the stair to the deep, so un-ceding needs a visible burn. The gamble is stated honestly: the rival is asked to accept one promise, from its own inspector. Panel Craft mostly 3–4, Atmosphere up to 5 | Cut part 1 to a flashback (noted for the human, not taken) |
+| 7–8 Review round 2 | 2026-10-14 | orchestrator (proxy), consultant concurred (80% and 75%) | The gate failed again, and the loop cap fired. One narrow round 3: part 1 rewritten as scenes in order, opening on a one-line field frame then Tesk; Terms fixes; the stair as the one loud door; the proof conclusion-first; attribution beside the vote | The First Reader's page-2 answer regressed ("would not have kept reading on my own account"). Panel scores up: Le Guin Weight and Consequence 5, Asimov Structure 4 | Open in the field with the wall in flashback (Asimov, Le Guin); proceed to polish now |
 | 4 Build | 2026-10-13 | orchestrator (proxy) | Bible approved, with all 13 must-fix notes resolved | Biggest changes: the burn is now Tolman heating ×12 rather than a Hawking–Page black hole, which needed 6.5e7 M☉ (Egan's numbers). Patterns come down and bodies are grown at the bottom, because braking from γ≈12 is ~1e5 g. Precise acts at the centre are exponentially complex, so heat, so no fork or backup. Visibility comes from redundant encoding. The forgery test (whole-wall and cold) is found by Pressa and written as Ilse's proof. The storm sits inside the burn window, so honouring the refusal costs the Minds. The refusal is narrow, partly petty and possibly authored, and Ilse says she can't tell. The twist is stated with its limits, and the rival's causation is Ilse's conjecture. The household, the children's roles, the named dead and the stay-down dissent are in | — |
 
 ## Gate failures
+
+- **Round 1 (draft 1):** Premise and Stakes partial, Why missed. Lost-list
+  11 entries, 8 touching graded rows.
+- **Round 2 (draft 2):** Premise, Stakes and Why partial. Terms missed
+  (W-clock dating, "agreement"). Lost-list 12. The grader applied the
+  process default of 3, not the brief's 6; the round-3 grader gets 6.
+- **The loop cap fired after round 2.** The consultant (fable, 80%) advised
+  one narrow round 3, aimed at part 1 and the cheap fixes. The lost-list
+  will probably still fail, on hard-SF content the cold reader takes on
+  trust. Round 3's success test is the First Reader's page-2 answer and the
+  three partial rows. After round 3, proceed to stage 9 whatever the
+  result, logging any unclosed rows here.
 
 ## Seed stock
 
