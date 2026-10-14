@@ -34,7 +34,15 @@ Don't pass `model:`.
 5. **After polish, the gate again.** Run the stage 7 comprehension gate on
    `final.md`, with a fresh `first-reader` and a fresh
    `comprehension-grader`, and write every file to `reviews/final/` instead
-   of `reviews/draft-N/`. A failed gate sends the story back to stage 8.
+   of `reviews/draft-N/`. A failed gate sends the story back to stage 8,
+   except after a loop-cap pass (step 1). Then compare, for each failing
+   row, the lines the drafter's notes quote for it in draft N with the same
+   lines in `final.md`:
+   - **Unchanged:** the reader differs, not the text. Log the row under
+     "Gate failures" in `STATUS.md`, and go on.
+   - **Changed in polish:** restore draft N's lines, log it, and go on.
+     Polish may not break a row, and undoing that is a line fix, not a
+     stage 8 round.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
    `just kindle <slug>` builds the EPUB if it is missing or older than
