@@ -21,13 +21,19 @@
    9. What does the story's central change mean for people beyond its main characters?
 
    Ask no question that reveals a detail the human hasn't raised.
-3. **Then the rest.** Only after section 1 is written may the human open
+3. **Confirm before grading a miss.** A row the human didn't mention isn't
+   a row they missed. Once the answers are written, name each graded beat they
+   left out (the twist, the reason behind the setup, the ending's cause),
+   and ask whether they caught it and how it read. Grade from that answer
+   and quote it. A beat they caught but that didn't land as planned, such
+   as a twist read as an echo, is its own finding, not a miss.
+4. **Then the rest.** Only after section 1 is written may the human open
    `MORNING.md`, the reviews or the bible. Then take the rubric scores, the
    run's open questions, the lines to protect, and the process takeaways.
-4. **Compare with the gate.** Set the human's answers beside the reader's
+5. **Compare with the gate.** Set the human's answers beside the reader's
    grades on `final.md`. Where the reader passed a row and the human missed
    it, say so plainly in the debrief: the gate didn't predict the human.
-5. **Gate failures first in the appendix.** Copy `STATUS.md`'s "Gate
+6. **Gate failures first in the appendix.** Copy `STATUS.md`'s "Gate
    failures" section to the top of the appendix.
 
 **Gate:** landing. In `human` mode and in `proxy` mode alike, the story

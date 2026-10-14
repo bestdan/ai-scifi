@@ -33,6 +33,10 @@ there was a deadline.
 
 <the human's answers, quoted>
 
+**Confirm before grading a miss.** After the answers above are written, name
+each graded beat the human left out and ask whether they caught it and how it
+read. Quote the answer. Silence on a row is not a miss.
+
 **Against the gate.** For each graded ledger row, and for Terms, the
 reader's grade on `final.md` and whether the human's answer would earn the
 same grade. Set the reader's lost-list beside the places the human snagged. A row
