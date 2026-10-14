@@ -86,9 +86,11 @@ the reason this table exists.
   **stated**, in plain words (the explicit line), and once **shown**, as a
   consequence in a scene. A statement can't be a quoted document of more
   than about 150 words. Traced rows need only the explicit line.
-- **The twist's stated line says what it means.** Showing the image isn't
-  enough: a character says, in plain words, what the reveal changes. A
-  reader who reads the image as a detail still gets the reveal.
+- **A twist changes how the earlier story reads.** The Twist row's fact
+  names what the reader believed before the reveal and what they see
+  differently after it. A payoff the reader can see coming, such as an
+  echo of a planted habit, is not a twist, however well it lands: give it
+  a traced row and write "none" in Twist.
 - **Reach is stated by someone in the story.** A character weighs, aloud
   or in the teller's thoughts, what the change means beyond the family or
   crew: for a trade, for the next generation, for who holds power. A
