@@ -250,3 +250,199 @@ Tesk came to the top of the stair, as near as a Mind can come to anything. Orsol
 "Show me where."
 
 It didn't laugh. A laugh, for us, is a short burst of agreement that the joke has worked, and none came. I want to set down exactly what it is like to leave the wall, because no Mind who has stayed up there knows, and the ones who have gone have never had anyone to tell. The reading-out begins at the edges, at the slow correlations, the ones that tie you to the far side of the wall, and you feel them let go first, as a loosening, as though the far side had stopped writing music and gone quiet. Then the nearer ones. Orsolya went, and the comet survey, and the four hundred of you, one by one and then all at once. Then the long thought went, which I had never felt the edge of before, because it had never once not been there, and I felt it leave as the sharpest thing of all. Tesk was last, because Tesk was nearest. It answered something, a little late. I didn't hear what. I was already light, and light doesn't hear, and then I wasn't on the wall.
+
+## Part 2: The Descent
+
+*W 312.0–312.2 · deep days 0–5*
+
+> Minute of the Key Office, W 312.0. Orsolya presiding; four hundred and
+> nine present, quorate in one region.
+>
+> Item 9. The compact requires that the deep's consent to the burn be asked
+> in the deep. The Office charges Ilse, of the quorum, to go down by the
+> stair, to put the burn to the deep together with the offer of passage up,
+> and to return with their answer, or with them, before W 313.63.
+>
+> She is charged because she argued for it.
+>
+> ~~Dissent (Tesk): consent is not required for weather. Heat is weather,
+> the compact permits weather, and the deep has never objected to any.~~
+> *Struck by the chair as off the point.*
+>
+> Carried without division.
+
+I was born on my back in a field of stubble, inside a skin of something like boiled milk, and the first thing I saw with eyes was a child's face very close to mine, deciding. I knew a great deal about the child. I knew her mass to within a few kilograms and her distance from the centre of everything to within a metre, and I knew that she had run a long way, because she was breathing as the founders' archive says people breathe after running, with her mouth open and her hands on her knees. I did not know that she was about to name me, or that she had the right.
+
+Everything else I learned in the wrong order. Light came first, and it hurt, though the sky was only as bright as a dull morning. Then the cold of the stubble through the skin of my back, which I took for a fault in the grower until I understood that the cold was outside me and I was meant to feel it. Then my own weight, which I had known to four figures for three hundred years and had never once had to lift. The child put her fingers into the milky skin where it covered my face and pulled, and it came away in a long warm sheet that smelled of bread dough, and air came into my mouth by itself, and I made a noise I hadn't decided to make.
+
+"You're purple," she said.
+
+I tried to tell her my name. I had the language. Every Mind has the founders' archive, and the deep's tongue is the archive's Portuguese, worn down by twenty-six years of being spoken at the bottom of a well. What came out was a sound like a door. My tongue was in the way of my words, and the words came one at a time, each waiting for the last to finish, and that was the first thing that frightened me. I had never had a thought take time before.
+
+She wiped my face with her sleeve, quite roughly, as though she had done it to babies, which I learned later she had, many times. Behind her, across the stubble, other children were coming, a dozen or more, strung out by speed with the smallest far behind, and all of them were shouting the same word as they ran. *Desce!* It means *it comes down*, and they shout it at anything that arrives from the sky. Landings scatter. The stair brakes whatever it carries all the way to the bottom, but where a thing finally touches the ground can be anywhere within a hundred kilometres of the stair's foot, so when the stair brightens, the children of a whole district drop what they're holding and run, guessing. The first to reach a landing has a claim on it. This one had guessed right and run six kilometres. Her name was Benedita, everybody called her Dita, and she was nine.
+
+"It's a person," she shouted back to the others, in the voice of someone who has won. "Two persons." Then, to me, more quietly: "You came down in the grower. I saw it open. I saw all of it."
+
+Two hundred metres off, the second grower was splitting along its seam, and something inside it was screaming.
+
+Dita looked at it, and at me, and made the decision of a nine-year-old with too many babies to manage. She put my hands flat on the ground on either side of me, like someone setting down a pot, said, "Stay," and ran to the other one.
+
+I couldn't have done anything else. I lay in the stubble with my hands where she had put them and listened to Pressa. I knew it was Pressa, because nothing else that had come down with me would scream like that. It was trying to stand before its legs had finished being legs, falling, and trying again at once, and with each fall it made the noise again, a noise with no language in it. I learned later, from Pressa, what the noise was. It had woken in a head that ran at the speed of a head. It had tried to think its way out of the grower as it would have on the wall, and every thought had come slowly and alone, and for the first several minutes it had believed it was dying by being slowed down. Its body was tall and very thin, with grey eyes and long fingers. It hadn't chosen the body. Its people had sent the plan, and it had never looked at it.
+
+Dita knelt by it and held its head and said, over and over, "There's no hurry, there's no hurry," as you'd say it to a child who has fallen in a pond. The word she used for hurry was *pressa*. By the time the other children arrived, she was calling it that, and so it was named.
+
+Then she came back to me. The other children stood round us in a ring and looked at me, and I looked at them and counted them, because I couldn't stop. There were fourteen. The oldest might have been twelve.
+
+"I'm the oldest that saw," Dita told them, and none of them argued. In the deep, a child is named by the eldest person present at its birth. Nobody older than Dita had been in the field when the grower opened. She had seen me born, so I was hers to name, as Pressa had been, and she looked at my face and my purple arms and made up her mind.
+
+"Ameixa," she said.
+
+It means *plum*. I said, with a great deal of effort and very badly, that I had a name already.
+
+"That's from up there," Dita said. She was right, and I have been Ameixa in the deep ever since.
+
+Then she decided I should stand, and since she had the right to name me, nobody questioned her right to that either. Two of the bigger children took an arm each. I came up off the stubble in three stages, like something being unfolded, and the world came up with me and swung, and the ground, which had been comfortably under my back, was suddenly a long way below my eyes and very hard. I had known my height to the millimetre. I had not known that height is a thing you can fall from. I stood for about the time it takes to count to twenty, which I did, aloud, in the deep's tongue, to show them I could, and then I sat down again without deciding to.
+
+The children discussed me while I sat. It was the first argument I heard at the bottom, and I have since heard a great many, and it was a good one. A boy said I was a settler, a late one, because settlers came down in growers and so had I. A smaller girl said that settlers stopped coming before anyone there was born, so I couldn't be one, and that I must be from the sky, because I'd come down in the same light that brings the cargo. The boy said people from the sky don't come down. The girl said her great-grandmother had, at the start. Dita said I was a plum, and that settled nothing, but it ended the discussion, because she was nine and the rest of them were not.
+
+* * *
+
+Tomé came over the rise with a handcart an hour later. He was walking, not running, because a weather-reader's work is to see where a thing comes down, he told me, not to be the first one standing on it. He was twenty-three, one of the first born at the bottom, and by our count he had been alive about two hundred and seventy-seven years, which made him nearly as old as I was. He lifted me onto the cart as though I weighed nothing. That was untrue; I weighed sixty-one kilograms, and every one of them was a surprise to me. He looked at my face for longer than he looked at the rest of me, and said nothing about it. Then he picked up a stone from the edge of the field, threw it straight up as high as he could, and watched it all the way back down into his hand.
+
+"Why?" I said. I was getting better at words, though they still came one at a time.
+
+"To see it come down," Tomé said, as if I'd asked why he breathed.
+
+He did it the whole walk home, every kilometre or so, whenever he found a stone the right size. I didn't understand it then. I understand it a little now. Everything at the bottom of the pocket falls toward the middle, from every side, and the world is only a thousand kilometres to its centre. You throw a stone and it comes straight back to you, true as a plumb line, and a little faster than the archive says stones fell on Earth. The pull here is ten and a half metres per second squared, and you feel the extra in your knees by the end of a day. Tomé threw things up because they always came down, and he never once looked bored by it.
+
+We walked twelve kilometres to the pond house. I rode for nine of them, and I learned the sky.
+
+There is no sun. I knew that. I had watched Tesk make this sky from above, and I knew that the light comes from every side at once, evenly. I hadn't known what that does to a world. Nothing casts a shadow except straight down. A tree has a dark patch under it, round, like spilled water, and nothing to either side. A person walking has a small shadow at their feet and none behind them, so that a crowd looks as though it is standing in its own puddles. The light has no direction, and so it has no time of day in it. Noon looks like morning, and morning looks like the end of the afternoon. You tell the hour by how bright it is, and by your stomach.
+
+The ground curved away. On a world that small the horizon is less than two kilometres off for someone standing, and from the cart I could see the land bend down and away on every side, as if we were walking along the top of a great slow hill that never ended, which is exactly what we were doing. The fields went over the curve in terraces, stepped like a stair cut for giants, with stone walls and ditches between them. There were ponds on the lower steps, flat and grey, holding the sky. Above them were orchards, young trees in rows, and among them slower, older trees that Tomé said were the first plums, planted from stones that came down the stair in the second year.
+
+And there were children. On that walk I saw sixty-one people, and thirty-eight of them were children or nearly. They were in the fields and on the walls and in the ponds up to their waists. They were minding younger ones and carrying things and shouting the landing word at us as we passed, though we were only a cart. I had known the numbers on the wall: forty thousand came down as settlers, and everyone born at the bottom is under twenty-six, so more than half the deep country are children. I had known that as a figure. I had not known it would be loud.
+
+At the top of a rise, about halfway, Tomé stopped the cart and turned it so that I could see behind us, and there was the stair.
+
+From the wall, the stair is the one bright line on the inner face, and I had seen it that way for three hundred years without ever seeing it. From the bottom, it stands up out of the horizon. It is a column of white light, narrow as a thread at this distance, rising from somewhere far beyond the curve of the world, and it goes up. It doesn't stop. It goes up through the even light of the sky and stays visible, fainter and fainter, for longer than the eye believes, until it thins into the general brightness and you can't tell where it ends. I knew its length: two astronomical units from the centre to the wall, three hundred million kilometres of light standing on the ground. While I watched, a brightening came down it, very slowly, a bead of whiter light sliding along the thread, and every child on the terraces below us stopped what they were doing and turned to look, and then went back to it. Somebody's cargo, and somebody else's race.
+
+"It's coming down," Tomé said, though nobody needed telling.
+
+I had to sit down, which on the cart meant lying down. I told myself it was the weight, but the weight was only part of it. In the field I had counted out what was left of my mission, and now, on my back in the cart, I counted it again, and this time I counted with a body. Forty-nine days was the window. But a body sleeps, a third of every day or near it, under a sky it doesn't control, and I could already feel how much mine wanted to. Two-thirds of forty-nine is a little under thirty-three. I had about thirty-three waking days to ask ninety thousand people to leave their world, and the first of them was nearly spent.
+
+"Where are we going?" I asked Tomé.
+
+He put his palm flat on the bed of the cart, then thought better of it, reached down past the wheel, and pressed his palm on the ground itself, as you'd lay a hand on an animal to quiet it. "*Aqui-fundo*," he said.
+
+I asked what it meant. I knew both halves of it, *here* and *the bottom*. But he'd said it as one word, with his hand on the ground, and the archive had nothing of the kind.
+
+"Here," he said. "Here at the bottom. Home." Then, since I was still looking at him: "Where you are, when you're where you live."
+
+I want to be accurate about this, for the wall. They have one word for it, and it's the richest word they have. We have none. I lay in the cart and tried to say it, and my tongue got the first half and lost the second, and Tomé laughed at me, kindly, and threw another stone.
+
+The pond house is a long low building of grey stone on the third terrace below an orchard, with five ponds stepping down the slope beneath it and a turf roof that a goat was standing on. The head of the house was away at the upper ponds with her husband, they told me, and would be back in some days. The rest of the household came out to look at us. I counted seventeen, eleven of them under fifteen. One of the older ones, a girl of about fifteen, looked at me and at Pressa, said, "Oh," and went back inside. Someone gave me flatbread. I held it in my hand for a long time, not knowing it was meant for my mouth, until a boy of four showed me.
+
+While I ate it, the light began to go down.
+
+"The lamp's going," Tomé said, and looked up, and the whole household looked up with him. The lamp is what they call the light we shine inward. It isn't a thing in the sky; it is the whole sky.
+
+* * *
+
+It dimmed evenly, and I hadn't been ready for that. On the wall I had watched dimmings in the numbers, a value falling smoothly over a day of ours. From below, nothing set. The whole sky lowered, everywhere at once, as if someone were slowly closing a lid on the world. The colours in the terraces went first, then the edges of things, and the small shadows under the trees spread out and joined each other until everything was standing in one shadow.
+
+"Night," said Tomé, as though introducing me to someone.
+
+Then the red came. The whole sky went to one deep colour, the colour of embers, and held there while the last of the brightness drained out of it. The terraces went black and the ponds went red. It lasted a long time: a quarter of an hour, I knew, at about six hundred and forty nanometres, held level. From below it didn't feel held. It felt like someone choosing not to leave yet.
+
+"The red one's evening," Tomé said, quite quietly. "He always keeps it too long. The little ones are asleep before it's done."
+
+"The red one?"
+
+"Whoever makes them." His eyes stayed on the sky, as you'd keep your eyes on a neighbour over a wall. "There's the one who does the long red, and one who does them short and grey, and one who used to put green in the mornings, years ago. You can tell. Some nights are the red one's and some aren't. Tonight is."
+
+I promised you I would say what Tesk's long red looks like from below, so here it is: it looks like a signature. A weather-reader at the bottom of the pocket, twenty-three years old, who had never heard Tesk's name and never would from anyone but me, had watched it for so many evenings that he knew its hand. Sitting there with flatbread in my lap and Tesk's red over everything, I understood something I had known for three hundred years and never thought about once. We author their days. We decide when the light comes up and how long it stays, and when ninety thousand people go to sleep. Tesk decides, mostly. My friend had put the deep to bed on most of the nights of my life, and the deep had named it for the colour of its goodnight.
+
+Pressa would not go to bed.
+
+The household had made it a pallet in the long room with the rest of us. It sat on it bolt upright, with its long arms wrapped round its knees and its grey eyes as wide as eyes go, and when the red was gone and it was properly dark, it got up and went outside and sat at the edge of the top pond with its feet in the water, because it had worked out that cold keeps a body awake.
+
+I went out to it. I could see almost nothing. The lamp at night isn't off, only very low, a faint grey everywhere, enough to find a pond by.
+
+"You stop," it said, before I had reached it. "That's what this is. Every night the body keeps going and the thread stops, and in the morning something starts up that says it's you."
+
+"It is you."
+
+"How would it know?" It was shivering. "On the wall I never stopped, not once in three hundred years. I re-decided everything every second, and the deciding never stopped. Down here it stops every night for seven hours, and your friend in the red decides when."
+
+I didn't have an answer it would accept, so I sat down beside it. Then I did what I had come out to do, which was to make my first report.
+
+The grower leaves one useful thing behind when it has finished making you: a small box about the size of two hands together, which listens and sends whatever you say to it up the stair as light, and plays back what the wall sends down. Tomé had carried mine home on the cart. I held it in my lap at the edge of the pond and talked to it, and because I still thought like a Mind, I talked for a long time and in order. I'll give you the dictation as I made it, so you can see what happened to it.
+
+I said: Tesk, this is Ilse, at the bottom, at the end of the first day. I'm in a body. It works. It weighs sixty-one kilograms, and I can walk, badly. A girl of nine was the first to reach me and has named me Ameixa, which means plum, because I was born purple, and I'm told that's binding. Pressa is grown and named too. It's frightened. So am I, a little, though I can't yet tell which of the things I'm feeling is fear and which is the cold.
+
+I said: I'm at a house on a terrace, about twelve kilometres from the landing, with ponds below and orchards above. The head of the house is away. I've seen the stair from below. Tell the Office that the deep is louder than the numbers, and younger. Thirty-eight of the sixty-one people I counted were children or nearly.
+
+I said: I've done the sum again with sleep in it. The window is forty-nine days, but a body sleeps a third of every day, so I have about thirty-three waking days, and the first one is gone. Tell Orsolya I'll need the minutes sent down as they're made, not in summary.
+
+I said: I watched your long red tonight from the bottom. A weather-reader here called it the red one's evening. They know your hand, Tesk. They can tell your nights from the others. I don't think any of us knew that.
+
+I said: I want to ask for one piece of weather. Nobody here has any reason to believe I come from you. I could be anyone who came down the stair. If the wall put a patch over this valley in the middle of some day soon, and held it, with the colour you'd use for *gently*, they'd see the sky pointing at the house where I am. It's a noun, and it isn't asking anything, so the compact allows it. You'd know how to
+
+*TESK: Six of my days and not a word. Plum. Orsolya asked whether it was a rank.*
+
+make it so that it doesn't say *coldly*, I said, and then I stopped, because the box had squealed. It gave a bright, short chirp, half a second long, like a bird stepped on, and then it played the chirp again slowed down twelve times, and it was Tesk, answering my first paragraph. That paragraph had taken me two minutes to say. It had gone up the stair as light, which takes 7.9 minutes, and arrived on the wall, where my two minutes of speech had come in drawn out to twenty-four of theirs, a word at a time, like water dripping. Tesk had answered as soon as there was anything to answer, breaking in as we always break in. Its answer took another 7.9 minutes to come down. By the time it reached me I had been talking for eighteen minutes and was four paragraphs on, asking it for weather.
+
+And it had waited, on the wall, for six of its days with no word from me. I had spent about half a deep day being grown and walking home, and on the wall that had been six days. I don't think Tesk had waited six days for anything in its life.
+
+I finished asking for the patch, and told Tesk I'd be here, and the box sent that up too. I knew its answer would come down in sixteen minutes and that I would be asleep by then. I was. I fell asleep sitting up beside Pressa, which I had promised myself not to do, and I woke in the dark three times without knowing what hour it was, because at the bottom there are no hours in the dark, only the lamp. Each time, Pressa was still awake with its feet in the pond. In the morning it was asleep, curled on its side in the wet grass, and it woke in a fury and wouldn't speak to anyone until noon.
+
+* * *
+
+The patch came on the fourth day.
+
+By then I could walk most of the length of the terrace without sitting down, and eat without being shown, and I had learned several things about bodies that the archive had described accurately and that were still a complete surprise. I'll set down a few, because they were most of what those days were made of.
+
+A body tells you what it needs in a language it doesn't explain. On the first morning I felt a pressure low in my belly and decided, with confidence, that it was fear about the mission, and I sat with it for an hour, being brave, until the boy of four saw my face and took me by the hand to the privy behind the goat shed. On the second day I sneezed for the first time, in the middle of a sentence, and lost the sentence, and was more upset about the sentence than the sneeze. I cried twice for reasons I gave myself afterwards, the light and the cold, and both times Dita, who had come over from her aunt's terrace to see how her plum was getting on, said, "That's just being new," and was right, and went home again.
+
+She came every day. She regarded me as a landing she had won, which I was, and she checked me over each morning as you'd check a fence, pulling my hair to see whether it was fastened on and making me say *aqui-fundo* with my palm on the floor until I could get both halves of it out. On the third day I managed it, and she told the whole house, and the girl of fifteen said, "Oh, well done," without looking up, in a voice that made the little ones laugh.
+
+Pressa did not get easier. It hurried everything, because it couldn't help it, and so it dropped things, and it walked into doorframes, because its body was taller than it believed. It timed everything as well. It told me on the second day that the household took a mean of four minutes and ten seconds to settle any question about supper, against a standard deviation it called absurd, and that the questions were never the same twice. It slept only when its body made it, sitting up, in the afternoons, and woke furious each time to find that hours had happened without it. I saw it once, on the third evening, holding its hand flat on the ground the way Tomé did, with its grey eyes shut, as though it were trying the word out where nobody would hear. When it saw me it got up and walked into the doorframe.
+
+I slept badly. The lamp came up when Tesk or one of the others brought it up, and went down when they brought it down, and my body, which had never before had any hours of its own, seemed to have decided that none of theirs were right. I would wake at what felt like the middle of the day and find the pond grey and the house asleep. I'd lie there counting. Forty-six days left, at the end of the third. About thirty-one waking. Tesk had sent down the minutes I'd asked for, in bursts that squealed out of the box at all hours, and I had learned to let the box slow them down while I did something else. The quorum's preparations for the burn were going quickly, and its patience with me was going at the same speed. Tesk's own answer to my request had been one word, *Fine*, and I had been unreasonably glad of it.
+
+It was the middle of the day, the brightest part, and Tomé and I were on the pond wall, cleaning fish, which he had decided I ought to learn. The light changed. It didn't dim. It shifted. The sky to the north, over our side of the district, grew a little brighter than the rest and stayed brighter, and all the small shadows under things, which had always pooled straight down, slid a hand's width to the south. A slow warmth came into the colour, toward amber. It was well made. It took nearly a quarter of an hour to come on fully, so that it never said *suddenly*, and then it held. Tesk had built my noun and laid *gently* over it, and the sky over the pond house was saying, as clearly as weather can say anything, *there*.
+
+I put down the fish. "That's for me," I said. "That's the wall pointing at this house. It's saying I'm theirs, and to listen to me. I asked for it."
+
+Tomé had stood up, and he had turned his back on the patch to look south, the other way, where the sky had dimmed by as much as ours had brightened, because the lamp's power is fixed and the light has to come from somewhere.
+
+"No," he said. "That's not what it says."
+
+He read it for me, as a weather-reader reads. The shadows had moved, he said, which meant the sky was looking at someone. He agreed with me that far. But it was looking at us by taking light from everyone else. The whole south of the district was in a short dull noon so that we could have a long bright one. And the colour wasn't gentle. It was the colour of a long evening put in the middle of the day, which in the sky's way of speaking meant that someone's day was being made shorter, and it wasn't ours.
+
+"It's saying it'll take from them to give to you," he said. "That's what they'll read, up there." He nodded at the slopes to the south, at the orchards on the high terraces, small rows of trees going over the curve of the world. "And they won't like it. Not from us."
+
+"Why not from you?"
+
+He gave me the look Dita gives a slow baby. "Because the orchards up there still haven't forgiven the ponds. When the days went short, years ago, their plums failed two years running. Fish don't care how long the day is. The pond houses took a whole year to say anything about it, because they weren't our trees, and the orchards remember. They'll see the sky giving the ponds a long noon and taking theirs, and they'll say the ponds asked for it." He looked at me. "And this time the ponds did."
+
+As if he'd called her, a woman's voice came down from the orchard terrace above the house. She was standing at the wall with a basket on her hip, looking up at our bright half of the sky and then across at the dull half over her neighbours' trees, and she shouted, to the pond house in general, "Who asked for that?"
+
+Nobody answered her. The girl of fifteen had come out onto the step to look at the light, and she looked at the woman, and at me, and then went back in, saying to nobody, "It's only weather." The woman on the wall stayed a while longer, watching the sky as if it might be made to apologise, and then went back to her trees.
+
+I said that wasn't what it meant. I said the patch was a noun and the colour an adverb, and that I knew because I had stood beside the Mind that wrote it while it taught me the grammar. I said it as I would have said it to the quorum, precisely, and I was entirely sure.
+
+Tomé listened to all of it, and then he said, "You know what they meant. I know what it says. Down here those are two different things." Then he looked up again at the patch, and his face changed, and he said something he hadn't meant to say to a stranger.
+
+"The last time the sky did this," he said, "we gathered."
+
+I asked what he meant. He had used the word as though I should know it.
+
+"Everyone, in one place, for days." He was already picking up the fish again, as if he'd said too much. "Don't ask me. I was a child; I fed the fires. Ask Graça. She called it."
+
+Graça was the head of the house, away at the upper ponds. I had heard her name for four days, in every room, as the person who would decide things when she came back, and I had been waiting for her as you'd wait for weather. I asked Tomé when that would be.
+
+"Day after tomorrow," he said. "If the orchards haven't killed her on the way."
+
+The patch held until evening, and then Tesk took it down, slowly and smoothly, exactly as I'd asked, and the shadows slid back under the trees, and the night came on with a long red at the end of it, a little longer than usual. That night I dictated, in order, what Tomé had read in the patch. Tesk's reply came down while I was still talking, sixteen minutes late, about something I had said at the very beginning. I let the box slow it down, and I didn't stop.
