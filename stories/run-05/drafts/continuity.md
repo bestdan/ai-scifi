@@ -9,7 +9,13 @@ dispatching the next part. It is a working file, not story text.
 | Part | Words | Deep days covered | Wall years covered |
 |---|---|---|---|
 | 1. The Wall | 5,833 (header, opener and text; 5,659 without the opener) | none; ends at her read-out, before day 0 | W 312.0 (under one wall day: 3.3 h assembly, the lesson, the read-out) |
-| 2. The Descent | 5,703 (header, opener and text; the opener is 131) | days 0–4 shown; ends on the evening of day 4, with Graça due "day after tomorrow" (day 6) | W 312.0–312.2 (day 5 ends at about W 312.16) |
+| 2. The Descent | 5,743 (header, opener and text; the opener is 131) | days 0–4 shown; ends on the evening of day 4, with Graça due "day after tomorrow" (day 6) | W 312.0–312.2 (day 5 ends at about W 312.16) |
+| 3. The Deep Country | 6,152 (header, opener and text; the opener is 137) | days 6–20 | W 312.2–312.7 (day 20 ≈ W 312.66) |
+
+**Part 2 fixes made with part 3:**
+- The orchard grudge is now: "When the days went short at the start of this year, their plums failed at flowering, the whole crop ... The pond houses said nothing about it until the flowers were gone."
+- Tomé: "Don't ask me; I fed the fires" (he was 22, not a child).
+- The 2.3 dictation is framed as excerpted: "It ran to a quarter of an hour and more, slowly ... I'll give you the parts of it that matter". This keeps the 18-minute timing honest against the paragraphs shown. It ends "well into my last request".
 
 **Format:**
 - `## Part N: Title`, then an italic header line with both clocks: `*W 312.0 · before deep day 0*` and `*W 312.0–312.2 · deep days 0–5*` (en dash, no em dash).
@@ -31,12 +37,18 @@ dispatching the next part. It is a working file, not story text.
 | Ameixa | 2.1 | Ilse's deep name, from Dita: "It means *plum*", because she was born purple. "I have been Ameixa in the deep ever since." Deep characters call her Ameixa; the narration stays "I"/Ilse |
 | Tomé | 2.2 | A weather-reader, "twenty-three, one of the first born at the bottom, and by our count he had been alive about two hundred and seventy-seven years". He throws stones up to watch them come down. He calls Tesk "the red one" (he) |
 | Graça (name only) | 2.4 | "Ask Graça. She called it." She is the head of the pond house, away at the upper ponds "with her husband" (Bálint, not yet named), and due back on day 6 |
+| Graça Almeida | 3.1 (in the opener as "Graça Almeida of the pond house") | "a short, broad woman of fifty-two, grey-haired, with a fisherman's forearms and a face that seemed to have been made for disagreeing with things." On the face: "Ilse Varga is under a stone over the ridge. I helped dig it ... They've sent her back with somebody else inside." Her rule: "In this house things are said at the table, where the children can hear them." Her anger at the face is unresolved; she laughs properly once, at Pressa's "Like you" |
+| Bálint | 3.1 | Introduced first as "the man" who reads her face, then with his one line at the table: "My mother never could eat them either." / "That was Bálint, Graça's husband." He is "tall and slow-moving and about fifty". Surname Varga is not yet on the page; "the Varga line" is in 3.5 |
 
 **Unnamed so far:**
 - **A girl of about fifteen** (2.2, 2.4): says "Oh" and goes inside; "Oh, well done" without looking up; "It's only weather." This is meant to be Rosa, named in 4.2.
 - **A boy of four** (2.2, 2.4): shows Ilse that bread goes in the mouth, and leads her to the privy.
 - **The orchard woman** (2.4): on the terrace wall above, with a basket: "Who asked for that?" She could later be Maria do Céu, or another orchard neighbour.
-- **Graça's husband** (2.2): mentioned only as that.
+- **Graça's husband** (2.2): mentioned only as that, then named Bálint in 3.1.
+- **The girl of fifteen** also has 3.1 and 3.4 lines: "Can't we just tell the other ones no?" She is told to put out the oil light. Still unnamed; she is Rosa, for 4.2.
+- **The boy of about two** (3.1): under the table, untying and retying the cord round Ilse's ankle. This is the toddler.
+- **Others at the meal (3.1):** a boy of eight ("whether the fish would come too"); a cousin of Graça's who keeps the lower ponds ("whether it hurts"); another adult ("who would feed the goat for three years").
+- **The woman who keeps the chronicle** (3.2): "sat up two nights trying to find" a word.
 
 ## Terms (first use, and the line that makes it clear)
 | Term | First use (part.scene) | The clarifying line |
@@ -56,7 +68,12 @@ dispatching the next part. It is a working file, not story text.
 | *aqui-fundo* | 2.2 | Tomé presses his palm on the ground: "'Here,' he said. 'Here at the bottom. Home.' ... 'Where you are, when you're where you live.'" Ilse: "They have one word for it, and it's the richest word they have. We have none." |
 | gathered (verb only) | 2.4 | "'The last time the sky did this,' he said, 'we gathered.'" / "Everyone, in one place, for days." |
 
-**Not yet used:** *the gathering* as a noun, which is for Graça in part 3.
+| the gathering | part 3 opener, 3.2 | Opener: "Graça Almeida of the pond house called everyone together ... On the sixth day the gathering reported the sky". 3.2: "Nobody had ever called everyone before ... There had been gatherings of a district, about water or a boundary wall, but not of the whole deep" |
+| "reported", corrected to "answered" | opener, 3.2 | The opener glosses the chronicle's verb as *reported*, "the one the chronicle uses for a weather-reader's record of what the sky did". 3.2: "They had not reported the sky. They had answered it. The deep tongue had no word for that, and so they bent the nearest one." The wrong gloss is left at the head of the part on purpose |
+| nearer the middle | 3.5 | "The dead in the deep are buried nearer the middle ... you dig down, deeper than for anything else ... and you set a flat stone over the top" |
+| *Halottaim* (used once, not a glossary term) | 3.5 | "*Halottaim*: it is Hungarian, from the Varga line, and it means *my dead*." **The bible says this word appears once, so it is spent.** 5.2's burial "with the Hungarian word" should refer back to it ("he had said it over her") rather than spell it again, or the orchestrator should waive the once-only rule |
+
+The deep tongue is never named as Portuguese in the narration, which says only "the archive's Portuguese, worn down" (2.1).
 
 ## Calendar as stated on the page
 **Part 1:**
@@ -99,6 +116,23 @@ dispatching the next part. It is a working file, not story text.
 - Pressa: "not once in three hundred years" did it stop on the wall. Sleep is "seven hours".
 - Graça is due on day 6.
 
+**Part 3 (deep-time arithmetic):**
+- Now is W 312.0 = D 25.9, late in the deep's 26th year ("This is the deep's twenty-sixth year, nearly over").
+- **The shortening:** "Since the end of the last year" (opener), "At the turn of the year" (3.2). That is about W 301 = D 25.0, matching Tesk's "ten years, eleven" in 1.3.
+- **The flowering failure:** "in the second month" of year 26.
+- **The gathering:** "early in the third month of this year ... Day nine or ten" (Graça). Ilse converts: "about 25.17 deep years. Multiply by 12.04 and you have 303.0." "A few days' doubt at the bottom is a month or two of doubt above." The ultimatum dated the shudder "only to a tenth of a year". Graça took "six weeks" to call it after the failure ("They still say I took a season").
+- **The gathering's length:** six deep days, about 72 wall days. Tomé was 22 and fed the fires. Ilse tells Graça the shudder was "About nine months" ago, and the narration has "a week nine months gone".
+- **Days restored:** "Two months after," the days came long again, which is about two wall years, matching Tesk's "a few years". The plums of the jar are "from the year before. This year's had never come." "The trees are in flower again now."
+- **Pressa's record:** arrived W 307.37 and dated W 303.0. Whole wall, in step; "rose for about sixty of your days, peaked, and fell away over another twenty". The wall's heat was flat "within half a millikelvin". A fault would take "hours" to cross the wall (3.3 h).
+- **Scene days:**
+  - Day 6: Graça home, the meal. Ilse tells them "forty-nine days, and that six were gone".
+  - Days 7–9: Pressa writes the record in charcoal on the limewashed wall of the long room. The column went up on the seventh; Graça gave "the shouting on the eighth".
+  - Evening of day 9: the test, and the forgery rule.
+  - Day 13: the identity. 36 days left, about 24 waking.
+  - Days 15–20: Ilse walks with Bálint to the grave each evening. Day 20: 29 days left, about 19 waking.
+- **The original Ilse Varga** died "eleven years" ago (deep), which is 132 wall years, after an illness of a season "in the chest". On her last evening she was carried out to watch the red to its end. Bálint was 23 at the founding (now 49).
+- **The grave:** about 4 km from the pond house, over the ridge. The walk takes Ilse most of an hour. There is a cairn on top that the children add stones to.
+
 ## Tesk's interruptions
 **Device (fixed for all parts):**
 1. The interrupted paragraph stops mid-sentence with no closing punctuation.
@@ -110,6 +144,9 @@ Only Tesk gets this device, and only during Ilse's long dictations.
 - **1.3:** Ilse is dictating her acceptance for the minute. *TESK: They won't want a place on the wall.* This is at wall speed. "Breaking in is manners on the wall."
 - **2.3:** the first light-lag interruption, in Ilse's first report: five "I said:" paragraphs by the pond. *TESK: Six of my days and not a word. Plum. Orsolya asked whether it was a rank.* It breaks into paragraph five ("You'd know how to / ... / make it so that it doesn't say *coldly*") and answers paragraph one. The mechanics are explained once, here, in full; later interruptions need no explanation.
 - **2.4 (summarised, not set):** "Tesk's reply came down while I was still talking, sixteen minutes late, about something I had said at the very beginning. I let the box slow it down, and I didn't stop." This is the first time Ilse talks through one, a small sign that she is slowing. Minutes also arrive "in bursts that squealed out of the box at all hours".
+
+- **3.2 (a burst, not an interruption):** "the Office's minute for a day of ours, asking for my progress, noting that the burn's engineering was ahead of schedule, and inviting me, very courteously, to say when I expected to put the question." Graça: "They sound like the orchards."
+- **3.4:** the night dictation, "most of an hour", excerpted in five "I said:" paragraphs: the date; "the long thought is them"; the restored days; Pressa's test; the stakes. *TESK: Then bring them up. A mood can be rebuilt.* It breaks into the stakes paragraph at "everything ends, both of us, fast and / ... / slow" and answers paragraph two, "Sixteen minutes after". Ilse replies "we can't rebuild what we can't read, Tesk", says she'd be here, and doesn't wait for the answer. **This is Tesk's error, stated: bring them up as patterns, rebuild the world, and the mood comes back.**
 
 ## Planted, awaiting payoff
 **From part 1:**
@@ -130,8 +167,8 @@ Only Tesk gets this device, and only during Ilse's long dictations.
 
 **From part 2:**
 - **The long red from below,** promised in 1.3 and **paid in 2.3**: "it looks like a signature." Tomé: "The red one's evening ... He always keeps it too long." He also names "one who does them short and grey, and one who used to put green in the mornings, years ago". Ilse: "We author their days ... My friend had put the deep to bed on most of the nights of my life." Bálint's evening at the grave, at the long red (3.5), can build on this.
-- **The orchard grudge (2.4).** "When the days went short, years ago, their plums failed two years running. Fish don't care how long the day is. The pond houses took a whole year to say anything about it." The patch looked like the sky taking light from the orchards for the ponds, "And this time the ponds did [ask for it]". The orchard woman shouts "Who asked for that?" For 3.2, and for 4.3 and 4.4 (the petty refusal).
-- **The twist clue,** the only one in part 2: "The last time the sky did this, we gathered." / "Ask Graça. She called it." Tomé "was a child; I fed the fires". There is no W 303 conversion yet; that is for Graça in 3.2.
+- **The orchard grudge (2.4).** "When the days went short at the start of this year, their plums failed at flowering, the whole crop. Fish don't care how long the day is. The pond houses said nothing about it until the flowers were gone." The patch looked like the sky taking light from the orchards for the ponds, "And this time the ponds did [ask for it]". The orchard woman shouts "Who asked for that?" Graça took "six weeks" to call the gathering ("They still say I took a season"). For 4.3 and 4.4 (the petty refusal).
+- **The twist clue,** the only one in part 2: "The last time the sky did this, we gathered." / "Ask Graça. She called it." Tomé: "Don't ask me; I fed the fires" (he was 22). There is no W 303 conversion yet; that is for Graça in 3.2.
 - **Lossy weather, read two ways (2.4).** Ilse's reading: a noun with *gently* over it, "the wall pointing at this house". Tomé's reading: light taken from everyone else, and an evening colour at midday means "someone's day was being made shorter". Tomé: "You know what they meant. I know what it says. Down here those are two different things."
 - **Pressa softening:**
   - On the third evening it holds its palm flat on the ground with its eyes shut, then walks into the doorframe.
@@ -142,6 +179,30 @@ Only Tesk gets this device, and only during Ilse's long dictations.
 - **The children's argument (2.1):** is Ameixa a late settler, or "from the sky"? "People from the sky don't come down." "Her great-grandmother had, at the start."
 - **Ilse's body misreadings:** a full bladder taken for fear about the mission; crying blamed on the light and the cold ("That's just being new").
 - **Sleep debt:** she wakes in the dark without knowing the hour; her body "seemed to have decided that none of theirs were right".
+
+**From part 3:**
+- **Payoff-ledger rows now made explicit:**
+  - **Twist / premise identity (3.4):** "The long thought is you ... that's your lives, here, described from up there ... I can't tell you which of you is which part of us; nobody can, and nobody ever will, because the mood holds only as a whole and can't be traced back to a single person." It is restated for the wall: "They are the same thing, described two ways. Neither description is the false one. We know the match at one point only: the six days of W 303."
+  - **Forgery test (3.3):** Pressa: "Whole-wall, and cold, means the deep. Everything you could fake would cost you a fever." The narration gives the two checks: "The whole wall must change in step, and its heat must not rise ... A cold shudder can't be forged. A hot one can't be trusted." Ilse: "the shortest proof I had ever been given, and ... I hadn't written it" (for 5.2).
+  - **Stakes, sharpened (3.4 dictation):** "If the deep agrees to the burn and stays, or if we override it, we cook the long thought. Whatever in us holds still, we burn it to win an argument ... If the deep refuses, and we honour it, and Alpha Centauri isn't satisfied, the key comes and everything ends."
+  - **Mechanism (3.2):** registration is spelled out again, as the click ("Anything that happens at the centre is written into every large region of the wall at once").
+- **The long thought settled the days (3.2, 3.4).** Graça: "Bálint thinks it got bored." That echoes Tesk's "I got tired of it". Ilse to Tesk: "I think the long thought settled it ... you felt it settle and gave a reason. So did I. Mine was music." The deep's complaint worked through the mood, without anyone knowing.
+- **Pressa** says "It changes nothing. My instructions are a proof about your wall. Not about your shudder." "They'll want it in a form our kernel checks." "My people re-decide everything." The rival decided "eleven times, and the eleventh was the key." "Nobody asked what else it could be. There wasn't anyone to ask." / "Later." All of this is for 4.1: the cinder, and no deep to ask.
+- **Graça on the identity (3.4):** "So we're your mood ... and you're our weather." "Every time anybody's child died. Every bad harvest. Every wedding ... without once asking whose it was." "I'm not going to be your conscience tonight. Find another one." That last line is for Lem's and Le Guin's "the deep never asked to be the word", and for the stay-downs.
+- **The stay-down position is already voiced at the W 303 gathering (3.2):** "There were people who said they had come down to be left alone, and that you don't speak to a landlord you don't want visiting." This echoes Ilse's landlord line in 1.2 without anyone noticing. For Rosa and the stay-downs in 4.2.
+- **The vote at W 303 was narrow:** "On the sixth day they agreed, narrowly".
+- **Ilse's denial (3.4):** she catches herself giving seven reasons. This answers Asimov's "why does she wait".
+- **Bálint's habit, for 5.1:**
+  - "He came every evening at the long red, and sat with her through it, and went home when it was gone." He goes even on other nights ("the short grey if it wasn't [Tesk's]").
+  - **The grave's location:** "The pond house stands a few kilometres from the line that divides the deep country into two halves: the half that faces the patch of wall where Tesk runs, and the half that doesn't ... The ridge is that line, near enough. The burial ground is on the far slope of it, on the half that faces Tesk."
+  - Exposure: "the most exposed piece of ground I had seen at the bottom ... nothing between it and the sky."
+  - The pond house itself is on the other half, which is why the storm can spare the house and kill Bálint.
+  - His mother "wanted to see who'd made it finish"; "So I come and see it finish." She said the red evenings were "made by someone who took care over them".
+- **The face:** "You've got her face wrong at the mouth. That's all." Ilse "couldn't answer for the face". The steady small grief in the long thought: "I can't tell you that it was his ... But it was in there, and he was in there."
+- **Graça's anger at the face is unresolved.** She calls the face "Ilse Varga"; no one in part 3 calls Ilse Ameixa to her face except Pressa ("Ameixa watched me").
+- **The burn's offer has been put to the household** (3.1), but **no one has been formally asked** for a gathering. That is 4.2. "I still hadn't asked anyone for anything" (end of 3.5).
+- **The goat** would cook with everything else. It is a small domestic image of the cost.
+- **Graça knows the 49-day window** (the meal) and the rival's demand. She hasn't said what she thinks of the burn.
 
 ## Open threads
 - Ilse believes she'll be back "in forty-nine days" and will come up with the deep. Orsolya: "Come up with them."
@@ -154,13 +215,26 @@ Only Tesk gets this device, and only during Ilse's long dictations.
   - The quorum's patience is "going at the same speed" as the burn preparations, and minutes squeal out of the box at all hours.
   - Pressa sleeps only when its body makes it, in the afternoons, sitting up.
 
+- **After part 3:** part 4 opens on day 21 at about W 312.7.
+  - Pressa owes Ilse its "Later" (the rival's history, 4.1).
+  - Ilse hasn't asked Graça to call a gathering (4.2), and she now doubts the burn, though she hasn't said so to the wall in those words.
+  - Tesk's position is "bring them up; a mood can be rebuilt".
+  - The quorum is ahead of schedule on the burn's engineering and is courteously pressing.
+  - 29 days are left, about 19 waking.
+
 ## Voice notes
 - **Person and address.** Retrospective first person, past tense, addressed to the wall as "you". Ilse writes from the deep after the events and sometimes translates wall experience into body terms she has learned since. Keep that sparing.
 - **Part 1** is quick and numerate: long multi-clause sentences, dry wit, exact numbers.
 - **Minds** have no "here". Distance is answer-time and agreement. Pauses are in milliseconds, and Tesk's lengthen as it grows upset.
 - **Part 2** has slightly shorter, more physical sentences: bread dough, stubble, the goat on the roof, the puddle shadows. Ilse counts compulsively ("because I couldn't stop"). The wit comes from the body comedy, Dita's authority and Tomé's stones. The numbers still come exact, but now some of them hurt (33 waking days). The last line shows the first slowing: she talks through Tesk's interruption.
-- **Part 3** should slow a little more, and let *aqui-fundo* and the lamp stand without comment.
+- **Part 3 as written:**
+  - The sentences are a little plainer, the dialogue carries more, and the numbers come only at the date and the countdown.
+  - Household texture rides under the argument: the toddler and the ankle cord, the goat question, the jar plums.
+  - The wit comes from Graça ("If you'd wanted to make me famous ..."; "They sound like the orchards") and Pressa ("A very small, very suspicious program. Like you.").
+  - Ilse still addresses the wall ("I'll say it again here, for the wall, as plainly as I can"; "you'll want to give them too").
+- **Part 4** should shorten the sentences further and carry one burst from above in every scene.
 - **Concrete objects per scene:**
   - Part 1: the kernel (1.1), the key held still (1.2), the long red at 640 nm (1.3), Pressa's 2 mK flush and the stair's brightening (1.4).
   - Part 2: the milk skin and stubble (2.1), the thrown stone and the stair's column (2.2), the long red and the pond Pressa sits in (2.3), the fish on the pond wall and the shadows sliding south (2.4).
+  - Part 3: the sour plum (3.1), the cup going cold (3.2), the charcoal record on the limewash and Pressa's black hands (3.3), the oil light by the door (3.4), the flat stones gone red, and the cairn (3.5).
 - **Lint:** no em-dashes used. Zinger closers run at 6.2 per 1,000 words across the file, and a little higher in part 2. Part 3 should cut a few reflexive short closers. The contrast-shape budget is 1 for the file and is at 0; two "He wasn't looking ... He was looking" lines in part 2 were rewritten.
