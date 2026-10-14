@@ -98,9 +98,15 @@ def main(argv=None) -> int:
         return 2
 
     msg = build_message(args.epub, args.epub.read_bytes(), user, recipient)
-    with smtplib.SMTP_SSL(smtp_host(), SMTP_PORT, context=ssl.create_default_context()) as s:
-        s.login(user, password)
-        s.send_message(msg)
+    try:
+        with smtplib.SMTP_SSL(smtp_host(), SMTP_PORT,
+                              context=ssl.create_default_context()) as s:
+            s.login(user, password)
+            s.send_message(msg)
+    except (smtplib.SMTPException, OSError) as e:
+        print(f"send_to_kindle: sending through {smtp_host()} failed: {e}",
+              file=sys.stderr)
+        return 3
     print(f"sent {args.epub.name} to the Kindle")
     return 0
 

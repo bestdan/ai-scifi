@@ -1,4 +1,6 @@
 import importlib.util
+import io
+import tempfile
 import unittest
 from unittest import mock
 from pathlib import Path
@@ -81,6 +83,56 @@ class OpEnvTest(unittest.TestCase):
             self.assertEqual(stk.op_read("op://v/i/f"), "value")
         self.assertEqual(seen["cmd"], ["op", "read", "op://v/i/f"])
         self.assertEqual(seen["env"]["OP_SA_PROFILE"], "ai-scifi")
+
+
+class MainTest(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.epub = Path(self.tmp.name) / "The Long Tide.epub"
+        self.epub.write_bytes(b"PK-data")
+        self.stderr = io.StringIO()
+        for name, stream in (("stderr", self.stderr), ("stdout", io.StringIO())):
+            patcher = mock.patch.object(stk.sys, name, stream)
+            patcher.start()
+            self.addCleanup(patcher.stop)
+
+    def op_ok(self, cmd, **kw):
+        return mock.Mock(returncode=0, stdout="secret-" + cmd[-1].rsplit("/", 1)[-1],
+                         stderr="")
+
+    def test_missing_file(self):
+        with mock.patch.object(stk.subprocess, "run") as run:
+            self.assertEqual(stk.main([str(Path(self.tmp.name) / "nope.epub")]), 1)
+        run.assert_not_called()
+
+    def test_op_read_fails(self):
+        failed = mock.Mock(returncode=1, stdout="", stderr="boom")
+        with mock.patch.object(stk.subprocess, "run", return_value=failed):
+            self.assertEqual(stk.main([str(self.epub)]), 2)
+
+    def test_op_missing(self):
+        with mock.patch.object(stk.subprocess, "run", side_effect=FileNotFoundError):
+            self.assertEqual(stk.main([str(self.epub)]), 2)
+
+    def test_sends(self):
+        smtp = mock.MagicMock()
+        with mock.patch.object(stk.subprocess, "run", self.op_ok), \
+                mock.patch.object(stk.smtplib, "SMTP_SSL", smtp):
+            self.assertEqual(stk.main([str(self.epub)]), 0)
+        server = smtp.return_value.__enter__.return_value
+        server.login.assert_called_once_with("secret-username", "secret-credential")
+        server.send_message.assert_called_once()
+
+    def test_smtp_failure_hides_password(self):
+        smtp = mock.MagicMock()
+        smtp.return_value.__enter__.return_value.login.side_effect = \
+            stk.smtplib.SMTPAuthenticationError(535, b"bad login")
+        with mock.patch.object(stk.subprocess, "run", self.op_ok), \
+                mock.patch.object(stk.smtplib, "SMTP_SSL", smtp):
+            self.assertEqual(stk.main([str(self.epub)]), 3)
+        self.assertIn("bad login", self.stderr.getvalue())
+        self.assertNotIn("secret-credential", self.stderr.getvalue())
 
 
 if __name__ == "__main__":
