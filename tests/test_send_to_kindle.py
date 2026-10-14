@@ -33,11 +33,11 @@ class BuildMessageTest(unittest.TestCase):
 class OpRefTest(unittest.TestCase):
     def test_defaults(self):
         self.assertEqual(stk.op_ref("KINDLE_OP_USER", {}),
-                         "op://ai-scifi dev/Fastmail SMTP/username")
+                         "op://ai-scifi-dev/fastmail-smtp/username")
         self.assertEqual(stk.op_ref("KINDLE_OP_PASS", {}),
-                         "op://ai-scifi dev/Fastmail SMTP/credential")
+                         "op://ai-scifi-dev/fastmail-smtp/credential")
         self.assertEqual(stk.op_ref("KINDLE_OP_TO", {}),
-                         "op://ai-scifi dev/Fastmail SMTP/kindle")
+                         "op://ai-scifi-dev/fastmail-smtp/kindle-email")
 
     def test_env_overrides(self):
         env = {"KINDLE_OP_USER": "op://v/i/u", "KINDLE_OP_PASS": "op://v/i/p",

@@ -24,9 +24,9 @@ SMTP_PORT = 465
 OP_SA_PROFILE = "ai-scifi"
 
 DEFAULT_REFS = {
-    "KINDLE_OP_USER": "op://ai-scifi dev/Fastmail SMTP/username",
-    "KINDLE_OP_PASS": "op://ai-scifi dev/Fastmail SMTP/credential",
-    "KINDLE_OP_TO": "op://ai-scifi dev/Fastmail SMTP/kindle",
+    "KINDLE_OP_USER": "op://ai-scifi-dev/fastmail-smtp/username",
+    "KINDLE_OP_PASS": "op://ai-scifi-dev/fastmail-smtp/credential",
+    "KINDLE_OP_TO": "op://ai-scifi-dev/fastmail-smtp/kindle-email",
 }
 
 
