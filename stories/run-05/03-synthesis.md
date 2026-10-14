@@ -309,3 +309,30 @@ most naturally. E, with one novum and two eras, is the thinnest.
 **Runner-up: D, The Heat Treaty,** if the human wants Liu's strategic game
 in front, accepting the risk to the person and to the tone. **B** is the
 pick if the language half should carry the whole premise.
+
+## Decision
+
+**A, The Deep Country, with all seven fixes from the recommendation.** The
+human chose it on 2026-10-13 (hybrid mode, stage 3 is a human gate).
+
+How it answers the panel's warnings:
+- **The thin rival:** the rival becomes a second boundary civilization that
+  hasn't worked out what its own deep country is. It has a negotiator, and
+  it can make moves and lose its nerve.
+- **The twist as a pun, or arriving late:** the identity is shown as a
+  puzzle the reader can see forming, and it lands by the middle. The last
+  third belongs to the consent question.
+- **The comfortable "consent" exit:** the deep people's refusal is a real
+  branch with a visible price, and the bible settles the ending on it.
+- **"Neither side is fake":** the deep people think, argue and vote with full
+  standing. They are a description that is also a people.
+- **No wit, no vice:** the Minds get a shared failing, Ilse's body gets
+  comedy, and the quorum that sent her is named.
+- **Engineering sprawl:** the pocket's construction stays offstage beyond
+  what the plot needs. The words go to the deep tongue and the vote.
+
+**Declined:**
+- D, The Heat Treaty. The human asked to keep it as an alternate for a
+  future story, so it's in seed stock with the panel's notes.
+- B, C and E go to seed stock.
+- The A-and-D hybrid: its load is too heavy for one novella.
