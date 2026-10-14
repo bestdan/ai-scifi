@@ -2,9 +2,9 @@
 
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 0, Brief
-- **Next action:** the human approves `00-brief.md`. Then write the Liu and
-  Stephenson persona files, and dispatch stage 1 (11 lenses × 3 cards).
+- **Current stage:** 1, Ideate
+- **Next action:** collect the 11 lenses' idea cards, then dispatch the
+  stage 2 audit.
 
 > **Hybrid mode:** after stage 5 the human knows the premise and the shape.
 > They don't open drafts, reviews or this file's later rows until they have
@@ -14,6 +14,7 @@
 | Stage | Date | Decided by | Decision | Reasons | Runner-up |
 |---|---|---|---|---|---|
 | 0 Pre-work | 2026-10-13 | the human | Novella, 30–40k; hybrid gates (human at 3 and 5); pressure from strategy (Three-Body's strategic side); read whole at the end | Answers to the pre-work questions in `00-prework.md` | Short novel 40–60k; proxy blind; awe-driven; read part by part |
+| 0 Brief | 2026-10-13 | the human | Approved, after one review comment: novelty softened to "not a repeat book", so a component may echo another story, and only the simulation reveal stays off-limits | Local review of the brief; the human approved in chat | — |
 
 ## Gate failures
 
