@@ -2,7 +2,10 @@
 
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 9, Polish (from draft 3)
+- **Current stage:** 10, Debrief
+- **Next action:** the human reads `final.md` (or `To Be Read Slowly.epub`),
+  then the stage 10 debrief interview. Before landing, land the lint branch
+  `bestdan/agent-a8e83c3f73f501565` on `main` first.
 - **Next action:** the human approves `05-outline.md` (a stage 5 human
   gate). The panel notes are resolved in the outline. Then make the
   per-1,000-word lint budget change on its own branch, and dispatch stage 6
@@ -25,6 +28,7 @@
 | 7–8 Review round 2 | 2026-10-14 | orchestrator (proxy), consultant concurred (80% and 75%) | The gate failed again, and the loop cap fired. One narrow round 3: part 1 rewritten as scenes in order, opening on a one-line field frame then Tesk; Terms fixes; the stair as the one loud door; the proof conclusion-first; attribution beside the vote | The First Reader's page-2 answer regressed ("would not have kept reading on my own account"). Panel scores up: Le Guin Weight and Consequence 5, Asimov Structure 4 | Open in the field with the wall in flashback (Asimov, Le Guin); proceed to polish now |
 | 7–8 Review round 3 | 2026-10-14 | orchestrator (proxy), per the logged stop rule | Draft 3 called structurally done (Chiang and Asimov both say yes). The gate fails (Premise and Stakes partial, Terms missed on kelvin, nm and AU, lost-list 17), but by the round 2 stop rule the story proceeds to stage 9 | The round's test passed: the First Reader would now keep reading ("Yes. The first line and the Tesk banter hooked me"). Why moved to got it. Chiang Structure 3→4, Asimov Prose 3→4. The remaining gaps are line-level or hard-SF density | Round 4 (ruled out by the stop rule) |
 | 9 Polish | 2026-10-14 | orchestrator (proxy) | final.md at 30,420 words. Spot-checks applied: Asimov 1–4 and Rajaniemi 2 and 4. Declined: Rajaniemi 1 (the burial's restated gloss of *halottaim* helps a cold reader across three parts; the proposed wording is awkward) and Rajaniemi 3 (the rewording would say the deep was what the Minds paid, which is wrong; they paid by letting the window pass) | The line editor handled all 9 required items. Orchestrator fixes: the announcement's forgery line (the storm is neither a gathering nor a forgery), and the heat sentence restored with the wall-side figures (24→289, 100→1,200), which makes "twelve times" read correctly | — |
+| 9 Sign-off | 2026-10-14 | orchestrator (proxy) | Ready for the human's read: final.md, 30,420 words, with an EPUB | The gate on final.md failed (logged); proceeding under the stop rule, as run-03 did | Send back to stage 8 |
 | 4 Build | 2026-10-13 | orchestrator (proxy) | Bible approved, with all 13 must-fix notes resolved | Biggest changes: the burn is now Tolman heating ×12 rather than a Hawking–Page black hole, which needed 6.5e7 M☉ (Egan's numbers). Patterns come down and bodies are grown at the bottom, because braking from γ≈12 is ~1e5 g. Precise acts at the centre are exponentially complex, so heat, so no fork or backup. Visibility comes from redundant encoding. The forgery test (whole-wall and cold) is found by Pressa and written as Ilse's proof. The storm sits inside the burn window, so honouring the refusal costs the Minds. The refusal is narrow, partly petty and possibly authored, and Ilse says she can't tell. The twist is stated with its limits, and the rival's causation is Ilse's conjecture. The household, the children's roles, the named dead and the stay-down dissent are in | — |
 
 ## Gate failures
@@ -47,6 +51,15 @@
   reader knew from outside the story. Lost-list 17 (12 on graded rows,
   mostly hard-SF content taken on trust). Why moved to got it. The page-2
   hook passed. All of these go to the line editor as required items.
+- **Gate on final.md** (fresh reader and grader, `reviews/final/comprehension.md`):
+  Premise, Stakes and Why partial. Terms missed ("key", accepted without
+  being understood; "kelvin", known from outside the story). Lost-list 13,
+  7 on graded rows. Twist, Ending and Who's who got it. The reader was
+  hooked at the first line and Tesk's lesson ("Yes, narrowly"). Not sent
+  back to stage 8, under the logged stop rule: four fresh readers have
+  shown the same pattern, in which the summary rows move with each reader
+  and the lost-list is hard-SF mechanics taken on trust. The debrief should
+  test whether the human's read matches.
 
 ## Seed stock
 
