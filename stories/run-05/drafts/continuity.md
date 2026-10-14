@@ -14,6 +14,9 @@ Word counts run from the `## Part` heading to the next one, and include the head
 | 2. The Descent | 5,737 (opener 131) | days 0–4 shown; ends on the evening of day 4 | W 312.0–312.2 |
 | 3. The Deep Country | 6,212 (opener 137) | days 6–20 | W 312.2–312.7 (day 20 ≈ W 312.66) |
 | 4. The Question | 7,913 (opener 115) | days 21–36 | W 312.7–313.2 (day 36 ≈ W 313.19) |
+| 5. The Appointment | 6,779 (opener about 200) | days 36–127, narrated from after day ~140 | W 313.2–316.2, with the testimony at W 316.6 |
+
+**Draft 1 is complete:** 32,658 words of story text by `wc`, from the title to the end of part 5. The `## Drafter's notes` follow it.
 
 The total is about 25,850 words, leaving about 8,100 for part 5 at a 34,000 finish, against the 40,000 ceiling.
 
@@ -228,3 +231,39 @@ The device appears only in long dictations, and **stops after the storm (5.1)**.
   - 4.4: the pebble heap, the grain scale, chalk on the mill door.
   - 4.5: feet in the pond, the chalk again.
 - **Lint:** no em-dashes. Contrast-shape is at 0 of 3 for the file; one "It wasn't dying. It was us" in 4.5 was rewritten. Zinger closers run at 6.5 per 1,000 words for the file.
+
+## Part 5 (final) record
+
+**Calendar as written:**
+- **Storm:** from a little after midnight on day 36 (W 313.20) to day 44 (W 313.45). The white goes out "in the time it takes to close a door".
+  - Day 37 evening: Bálint goes out at the red. The long red shows inside the white glare, and Tomé, on the roof by the goat, says "He's telling us to go."
+  - Day 38 before lamp-up: Maria do Céu goes picking on the far slope. The gale (cool air over the ridge) blows on day 38; the far orchards burn on day 39.
+  - Day 40: Bálint is found at his mother's stone, and Maria under her trees "with her ladder. She had filled one basket."
+  - Day 41 night: Ilse and Tomé go to the cairn.
+- **The minutes:** "referred ... to the long thought, as slow business", then unsettled for "eight of our days, which were ninety-six of yours". The halt came when the chair ruled unsettled business fast, "carried in four seconds".
+- **Burial:** day 46. Ilse writes the proof that night. Pressa's testimony is written the next day.
+- **The vote:** W 313.60, "halfway through the forty-eighth day". Bursts for three days before it:
+  - the grief minute;
+  - Tesk's censure (barred from the deep's weather);
+  - the faction of seventeen and the first strike, rejected 390 to 17, with 2 abstaining. The Office took 3.3 h to assemble and complained in "a hundred and ninety thousand words, somewhat fewer than the last time".
+  - Then the window was let pass, and the word ceded.
+- **The announcement:** owns the storm's heat (seen at W 317.57–317.82; the announcement arrives at W 317.97), carries the dates W 314.5, 315.3 and 316.2, and says Pressa's testimony will follow.
+- **Evacuees:** about 1,100 went up the stair in the storm. Most came back down by the second gathering, "and been grown, in the fields, and named again". "A few stayed up."
+- **The three gatherings:**
+  - Day 76 (W 314.5): about trees for the orchards. The congratulations arrived "on the first morning ... sixteen minutes, at the bottom, after the gathering had started".
+  - Day 100 (W 315.3): the children's, called by Dita, about whether the goat may vote. "The goat could vote," and its refusal to carry counted as an abstention.
+  - Day 127 (W 316.2): Graça's.
+  - Arrival at the rival: W 318.87, 319.67 and 320.57.
+- **The lamp change:** on the last evening of the third gathering, "about sixteen minutes after the deep stood up". An even brightening, then "a pale warm colour like the inside of a plum, held level for a few minutes". Its author is unknown, and Tesk is barred.
+- **Pressa's testimony** went up the stair at W 316.6.
+- **The earliest key arrival** is W 325.37, "about nine months away" in deep time from when Ilse writes.
+
+**The 31:** see the part 5 opener, which lists them. Among them are Bálint Varga (49, pond-keeper), Maria do Céu Fontes (61, plum-seller), Tiago Lemos (66, bee-keeper; possibly the bee-keeper of 4.3) and Filipe Teles (29, weather-reader). The storm is called "the burning" in the chronicle.
+
+**Tesk's interruptions:** the last one is in 5.1, *TESK: Look at the stair. It's working. They're coming home.* After it: "That was the last time Tesk broke into anything I said." Tesk hasn't written since the censure, and Ilse hasn't written to it. The friendship is not repaired. Ilse still ends dictations "I'll be here", and "Nobody answers. I know where it is now."
+
+**Graça:** "Don't. Not in that face." She calls Ilse Ameixa at the table now, and has never said whether she forgives the face.
+
+**Rosa** says *halottaim* over her father. On the cart trips in the storm she was "bored, mostly, between trips". She argues for the goat.
+
+**Ilse:** carries a stone at all three appointed gatherings. Her seat is gone; the comets were lit in blue and she didn't see them. Last line: "... press my palm flat on the ground, the way they do, and stay."

@@ -2,7 +2,7 @@
 
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 6, Draft (in parts; part 1 written)
+- **Current stage:** 7, Review (draft 1: 32,658 words, five parts)
 - **Next action:** the human approves `05-outline.md` (a stage 5 human
   gate). The panel notes are resolved in the outline. Then make the
   per-1,000-word lint budget change on its own branch, and dispatch stage 6

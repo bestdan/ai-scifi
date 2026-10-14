@@ -996,3 +996,354 @@ It was answering my first paragraph, sixteen minutes late. It had heard *refused
 I finished the dictation. I told it the thing Pressa had said, that we hold theirs, and that nobody had said so in any minute I'd been sent, and that I was saying it now so that it would be said by someone who was against it. I told it the rest: that Graça would not back what she called, that the stay-downs had been right, that nobody down here had wanted to be anybody's conscience and they'd been made into one anyway, by us, by asking. I said I'd write the proof that night. I said I'd be here.
 
 Then I sat by the pond under the night lamp and began the proof, in my head, slowly, the way I have to do everything now, and the light above the ridge, over the half of the world that faces Tesk, stayed grey and even and gave nothing away.
+
+## Part 5: The Appointment
+
+*W 313.2–316.2 · deep days 36–127*
+
+> From the deep's chronicle, the entry for the first month of the
+> twenty-seventh year: the dead of the burning, on the half of the world
+> that faces the red one. My translation.
+>
+> Bálint Varga, 49, pond-keeper. Maria do Céu Fontes, 61, plum-seller.
+> Tiago Lemos, 66, bee-keeper. Joana Pires, 33, orchard hand. Rui Pires, 6.
+> Ana Pires, 4. Custódio Neves, 71, mason. Lúcia Neves, 68, midwife.
+> Ferenc Halász, 52, carter. Inês Barros, 17, goatherd. Paulo Barros, 14,
+> goatherd. Teresa Gaspar, 40, weaver. Duarte Gaspar, 12. Zsófia Kun, 58,
+> potter. Filipe Teles, 29, weather-reader. Marta Coelho, 45, orchard
+> hand. Simão Coelho, 9. Beatriz Lobo, 63, baker. Nuno Lobo, 37, thatcher.
+> Leonor Vaz, 24, bee-keeper. Gábor Szabó, 47, smith. Rita Mota, 30,
+> orchard hand. Carolina Mota, 11. Álvaro Reis, 55, miller's man. Elisa
+> Reis, 51, orchard-keeper. Vasco Dias, 19, carrier. Helena Dias, 22,
+> carrier. Matilde Freitas, 8. Jorge Freitas, 41, fish-smoker. Edite
+> Sampaio, 74, who came down with the first. Olavo Cunha, 36, orchard
+> hand.
+>
+> Buried nearer the middle.
+
+The light over the ridge stayed grey until a little after midnight on the thirty-sixth day. Then it went white.
+
+I was still at the pond. I had the first two steps of the proof and was turning the third over, and I looked up because the water in front of me had changed colour, and saw the sky above the ridge going bright. Not dawn. There is no dawn at the bottom, and it was the wrong half of the sky, and the wrong hour. The rest of the sky stayed at its night grey, and over the ridge, over the half of the world that faces Tesk, the lamp came up to full noon in about the time it takes to say so, and then past full noon, to a white I'd never seen it give.
+
+A minute later I felt it on my face. Warmth, from the north, from over the ridge, as you feel an oven door that someone has opened across a kitchen.
+
+I knew the construction. Tesk had taught it to me on the wall, the one nobody uses. You run your own patch warmer, and the heat falls in from your side, and the face of the world turned toward you gets all of it, twelve times over. The sky on that side burns for hours. And laid over the warmth, the patch, the only noun we have, which says *there*. Tesk was saying *there*, about the half of the world that faced it. It was saying it as loudly as weather can.
+
+The household came out in their nightclothes and stood on the terraces, looking north. Nobody spoke for a while. Then a man from the next house shouted that the sky was angry, that it had heard the no and was angry, and somebody else took it up, and by the time the white had held for an hour the whole terrace was saying it. *It's angry. We said no and it's angry.* Graça stood at the top pond with her arms folded and said nothing at all.
+
+Tomé had gone up onto the roof, beside the goat. He watched until the end of the next evening without coming down except to eat. The white held through the whole of the thirty-seventh day, and it was hot on our side of the ridge and much hotter on the other, and when the lamp on our half went down at evening, the white over the ridge didn't. It changed instead. Inside it, at the end of our evening, deep in the glare, the long red came: one narrow colour, held level, for a quarter of an hour, inside a sky that was otherwise burning.
+
+"It's the red one," Tomé said from the roof. His voice was very quiet. "He's not angry. That's his evening. He's doing his evening inside it." He looked down at me. "He's telling us to go."
+
+I had already dictated. I'd started the moment I understood, at the pond, and I talked for a long time, in order, because I still couldn't stop doing that. I said that the sky over the half of the world facing Tesk was burning, and that I knew whose hand it was, and that the deep had said no, and that the no bound. I said that people would die. I said it again, differently, in case the first way hadn't been clear. I said that I had argued for the burn more loudly than anyone and I was asking now, as the one who argued for it, for this to stop, and that Orsolya should be told, and the Office, and that I would
+
+*TESK: Look at the stair. It's working. They're coming home.*
+
+go on asking, I said, and stopped, and looked.
+
+The stair stands up out of the horizon to the east of the pond house, a thread of white going up into the sky until you lose it. That night it was lit end to end. Not the bead of a cargo sliding down. The whole thread, from the curve of the world to as high as an eye can follow and on past it, burning white, steady, two astronomical units of it, a line of fire standing on the ground with its top in the wall. I knew what lit it. The stair returns light upward, and so does anyone being read out at its foot and sent up. It was people. Whole families from the far half had run to the stair's foot in the white and the heat, and asked to be read out, and gone up, as Tesk had meant them to. The thread was them.
+
+That was the last time Tesk broke into anything I said. I didn't know it then. I've dictated a great deal since, and long, and nothing has interrupted me.
+
+* * *
+
+I'll tell the rest of the storm by the things people did, because that's how I've come to remember it.
+
+Bálint went out at the red on the thirty-seventh evening, as he did every evening.
+
+Graça tried to stop him. I heard it from the top pond. She stood in the door of the pond house with her hand on his arm and said that the far slope was burning, and that his mother had been dead eleven years and would be dead tomorrow, and he said, "It's her evening." Graça said, "It's *his* evening," and pointed up, over the ridge, at the white with the red inside it. Bálint looked at it a long time. Then he took her hand off his arm, gently, and kissed it, and went up past the orchard toward the cairn. I didn't follow him. I've asked myself every day since whether I should have. I don't know. I know I didn't.
+
+Maria do Céu was on the far slope before the lamp came up on the thirty-eighth day, picking. Her neighbours told Graça afterwards. They had told her not to go, and she'd said that the trees didn't know the sky was angry and the plums wouldn't wait, and that she'd been picking that slope since the fourth year and no lamp was going to tell her when. She took a ladder and two baskets.
+
+The wind came on the thirty-eighth day. Maria had said the far slope had the worst wind in the deep, and she was right. Air heated on the far half rose, and cooler air from our half ran over the ridge to replace it, low and hard, all day and all night, a gale with nothing in the sky to show for it. It dried the orchards on the far slope to tinder. On the thirty-ninth day they burned.
+
+People came over the ridge. That's what I remember most of those eight days: people coming over the ridge by the cairn, in ones and twos and then in whole households, with what they could carry, out of the white and into our grey, red-faced, with their eyebrows singed and their children wrapped in wet blankets. The pond house took in forty-three. The ponds took in more. The thing the orchards had always held against the ponds, that fish don't care what the sky does, was the thing that saved them: there were people standing in all five of our ponds up to their necks for most of three days, with children on their shoulders, and the water stayed cool because it was deep, and nobody who got into a pond died.
+
+Dita ran the ponds. Nobody gave her the job. She stood on the wall of the top pond and told people where to stand and which children to hold, with her column of under-eights handing round water in cups. Rosa went up to the cairn with Tomé and Pressa and the handcart, again and again, and came back with whoever they had found on the far side of the ridge who couldn't walk. On the second trip she carried a boy of about six on her back the whole way down. When I asked her later whether she'd been frightened she said she'd been bored, mostly, between trips. I don't believe her, and I think she meant me not to.
+
+Pressa didn't sleep for three days. It chose not to. It told me so on the fortieth morning, when I found it at the cairn, black to the elbows with ash, sorting the people who came over by how badly they were burned, faster than anyone else could have done it. "This is the one thing I'm built for," it said. "Deciding quickly." Then it decided something about a woman with a burned arm, and was right, and went on.
+
+Bálint didn't come back. They found him on the fortieth day, when the wind dropped enough for anyone to cross, at his mother's stone, on his side, facing the sky. The grass round the stones had burned. The stones hadn't. Maria do Céu was found on the same day under her trees, with her ladder. She had filled one basket.
+
+On the forty-first night I went up to the cairn with Tomé, to see. I'd been told not to and went anyway, which I'd learned from Maria do Céu.
+
+From the top of the ridge you could see the whole of the far half going away over the curve of the world, and all of it was lit. The sky over it was white from edge to edge, with no sun in it and no shadow under anything, so that the burned orchards and the black slopes and the smoke all stood in the same flat glare, like a drawing of a place rather than a place. The heat came up the slope at us like the breath of an animal. Beyond the burial ground, far off, lines of people were still walking toward the stair, small and dark against the white, and the thread of the stair stood up behind them, burning, into the sky.
+
+"He wants them up," Tomé said. "So they're going up."
+
+"Not all of them."
+
+"No." He picked up a stone from the cairn, out of habit, and weighed it, and didn't throw it. He put it back on the cairn instead. "Some of them were coming here."
+
+We went back down. I could feel the skin on my face tight from the heat for two days afterwards. I've been told that's what a sunburn was, on Earth. We don't have a word for it down here either.
+
+All that time the white held over the far half, and the minutes came down.
+
+They came in bursts, squealing out of the box at all hours, and I'll give you what they said, because you wrote them and may not remember what it was like to have written them. The first noted that a member had raised the temperature of its sector without leave, and referred the matter, since it concerned the deep's weather, to the long thought, as slow business. The second noted that the long thought had not yet settled. The third noted that it was unsettled. So did the fourth, and the fifth, and every one after that, for eight of our days, which were ninety-six of yours. Several of them noted, with real puzzlement, that the mood of the wall was in turmoil and that no member could account for it.
+
+I knew what the turmoil was. It was us. It was ninety thousand people in terror on one half of the world and in grief on the other, running over a ridge, standing in ponds, going up a stair. That was what the long thought was full of. And the long thought was the thing you had asked to decide whether to stop it. For the first time in three hundred years, the Minds waited for something, and what they were waiting for was the people dying under them to settle down.
+
+On the forty-fourth day, a little after the lamp came up on our half, the white over the ridge went out.
+
+It didn't fade. It went, in the time it takes to close a door, back to an ordinary grey, matching ours, the same as the rest of the sky. The warmth went off our faces over the next hour. The wind dropped by evening. That evening the lamp came down evenly over the whole world, and ended in a short grey, and nobody on the terraces said anything at all.
+
+The minute that explained it came down the next morning. On the ninety-sixth day of the business, it said, the chair had ruled that a matter which the long thought could not settle would be taken as fast business, a rule the quorum had never before needed, and the halt had been carried in four seconds.
+
+Four seconds. You waited ninety-six days for something you can do in four seconds. I have done that division too.
+
+* * *
+
+We buried Bálint on the forty-sixth day, beside his mother, nearer the middle.
+
+The far slope was black. The orchards Maria do Céu had planted in the fourth year stood in rows like burned matches, and the grass between the stones was ash, and the ash went up in little puffs when we walked. The household dug the grave, all of them who could hold a spade, deeper than for anything else, and Graça dug longest. When it was deep enough they lowered him in a sheet. The stone they'd cut for him was flat, like his mother's, with his name and two dates.
+
+Rosa said the word over him. I hadn't known she had it. She knelt at the edge of the grave with her hand flat on the turned earth, the way her father had held his on his mother's stone, and said *halottaim*, which is Hungarian, from the Varga line, and means *my dead*. The deep has no word of its own for them, so the family keeps that one. Then she stood up and brushed the ash off her knees and walked down the slope alone, and Graça let her go.
+
+Graça stood at the grave a long while after the others had gone. I stayed, because I didn't know whether I was allowed to leave. Eventually she looked at me, at my face, the face he'd come over the ridge every evening for eleven years to sit beside.
+
+"You'll want to say you're sorry," she said.
+
+"Yes."
+
+"Don't." She turned back to the stone. "Not in that face." And that was all, and it is still all. She calls me Ameixa now, at the table, in front of the children. She has never once said whether she forgives the face, and I don't expect her to, and I haven't asked.
+
+They buried Maria do Céu the same afternoon, two rows down, under her own trees. Her neighbours brought the one basket she'd filled. It went into the ground with her. The thatcher came over the ridge for it, without his drum, and stood at the back, and when it was done he said to nobody in particular that she'd have wanted the ponds to pay for the basket, and three people from the ponds said at once that they would, and that was the nearest thing to a eulogy anyone gave. Graça, who had argued with her for twenty years, stood at the foot of the grave and didn't say anything at all, which I've since learned is how Graça grieves.
+
+I wrote the proof that night.
+
+I'd been carrying it since the ninth day, since Pressa's charcoal wall, and the storm had given me the one step I didn't have. I wrote it out on the limewash in the long room, under Pressa's curve, by the oil light, in the deep's charcoal and in the kernel's notation side by side. It's short. I'll give it to you in words, because you can hold it in your head that way, and that's the point of it.
+
+First. The lamp is made by emitters in each patch of the wall. A lamp change alters how bright each patch is, and that is all it alters. It's local: every patch changes its own light.
+
+Second. The deep is not written in any patch's brightness. It's written in how every distant patch agrees with every other, in the correlations, all of them at once. A deep event changes that agreement everywhere together. Nothing else does.
+
+Third. The rival's record of W 303 measured agreement, not brightness. So a watcher who measures agreement can't mistake a lamp change for a gathering. The patch I asked for, Tesk's long reds, this storm: each of them shows as light. None of them shows as agreement.
+
+Fourth. To change the agreement as a gathering does, without a gathering, you'd have to write it, which is to say write at the centre. The cheapest way known to write at the centre a change that size costs about what the burn costs, the whole wall for years.
+
+Fifth. Work on a wall is heat, and the rival watches our heat. No forgery could be finished inside the window of the appointment without the wall running a fever the rival would see.
+
+So: if the whole wall's agreement changes in step, and its heat stays flat, the change came from the deep.
+
+That's all of it. It's the shortest proof I own, and I didn't find it. Pressa found it in a column of numbers and drew it in charcoal, and the storm showed me the third step, because I watched our wall burn white and knew what the rival would see when the light of it reached them: a sector hot, the brightness of half the deep's sky changed, and the agreement between distant patches as wild as everything else, but not in step. A wall in a fever. The exact opposite of a gathering. I put it in the library I carry in my head now, the slow one, and it's the only one in there I wrote myself.
+
+Pressa wrote its testimony the next day, on the other half of the limewash. It wrote it in kernel form too, because the kernel at home accepts nothing else, and it showed me how it had done it. Every statement of what it had seen was set down as an axiom: the gathering's days, the curve, the cold, the storm, the bodies at the cairn. From those, a conclusion followed, and the kernel could check that it followed.
+
+"It can check that what I concluded follows from what I saw," Pressa said, looking at it. "It can't check that I saw it." It put the charcoal down. Its hands were black again, as they'd been at the cairn. "That part's a promise. Mine. First one I've made in four hundred years." It considered this. "Three hundred."
+
+* * *
+
+The vote was taken at W 313.60, halfway through the forty-eighth day at the bottom. The minutes came down in bursts for three days before it, and I'll set down only what matters.
+
+The first burst recorded a grief. Nobody had proposed it, and no member could say where it came from. The minute put it in the form the minute keeps for things nobody can account for: *the quorum notes a grief in the long thought, general, and of no known cause.* I've read that line many times. It's the most accurate thing the minute has ever said about us, and it says it without knowing.
+
+The second burst censured Tesk. It found that Tesk had heated its sector without the quorum, against the oldest of our taboos, and had touched the deep beyond weather, whatever it had called it. It barred Tesk from authoring weather for the deep, ever again. There was a line, in Tesk's own words, entered into the minute: that it had meant to save them, and that a mood could be rebuilt. The minute recorded the line and did not answer it.
+
+There have been no long reds since. I watch every evening. They're grey now, mostly, or a yellow that one of the others uses. Tomé says the evenings are worse. He's right.
+
+The third burst brought the faction.
+
+Seventeen members proposed that we send our key first. They put it well. We hold the rival's key, they said, as the rival holds ours. Sent now, at W 313.6, it would reach Alpha Centauri at about W 318.0 and close their pocket three years before their own transmit date. No burn. No deep cooked. No dependence on a slow people's kept word, at the mercy of a rival that re-decides everything. Every number in the motion was right. I checked them on the limewash.
+
+The motion went to the Key Office, because it ended with the key, and the Key Office convened, which took 3.3 hours, which is about sixteen minutes at the bottom. The minute records that the members of the Office complained about the delay for the whole of it, as they always do, at a length estimated by the chair at a hundred and ninety thousand words, somewhat fewer than the last time. Orsolya read all of it and answered none of it.
+
+Then they voted on the key, under the oldest rule, without looking at it. They had to. The key is a quantum state, and examining it spends it, so nobody in three hundred and twelve years has ever tested whether our key would close anything, or whether theirs would. Seventeen members proposed to stake the pocket on a key that nobody had ever seen work, against a rival who would see it coming, and who holds one too.
+
+I dictated my plea in those three days, at the pond, slowly. I won't give you all of it. You have it. I said the deep had refused, and that its refusal bound. I said that a pocket that burned its slow layer to win an argument would be Alpha Centauri within a century, a fast wall over a cinder, unable to keep a word. I marked that as my conjecture, from one example. I said the appointment didn't meet the rival's demand and I knew it. I said that if our word was going to be the deep's anyway, read in another star system every time they argued, then it should be the deep's in law. Give them the word, I said. Give them the key.
+
+Then I tried to tell you that I wasn't coming up, and found that I couldn't. We have no word for it. I had *don't return*, and *decline passage*, and *remain below*, and all of them were wrong, because they were all about the wall. What I meant was the thing Tomé says with his palm on the ground. I said *aqui-fundo* into the box, and the minute records: *the envoy's term is not recognised; the chair takes it to mean that she declines passage.*
+
+The strike was rejected, three hundred and ninety to seventeen, with two abstaining. Then the quorum voted to let the window pass.
+
+That was the moment the Minds paid. At W 313.63 the last possible start of the burn went by, and the wall stayed cold. From then on there was no proof that could reach Alpha Centauri by W 321.0, and nothing the wall could do about it. The rival's rule was the rule, and we had chosen not to meet it.
+
+It also offered the way back down to everyone who had gone up the stair in the storm, eleven hundred and some, held on the wall in patches set aside for them as I'd once promised. By the second gathering most of them had come down again and been grown, in the fields, and named again by whoever was eldest at the landing. A few stayed up. Nobody down here argues about that. It's the only thing I've found that they don't argue about.
+
+Then it ceded. I'll give you the clause as the minute has it, because it's short: *from this day the pocket's word, in every treaty and in the matter of the key, is given only by a gathering of the deep.* The key stays in its patch, held still, and the Office keeps it, and no Mind may send it. Only a gathering can. And a gathering can't be called quickly, or held secretly, or forged. It takes days to call and days to sit, which is months of the wall's time, and every hour of it changes the agreement of the whole wall, cold and in step, in plain view of anyone at Alpha Centauri who measures agreement. If the deep ever sent our key, the rival would watch the gathering that decided it build for months before any key could leave.
+
+The announcement went out the same hour. I'll summarise it, because it ran long. It began with the storm, because the rival would see the storm first. The heat of Tesk's sector would reach Alpha Centauri between W 317.57 and 317.82, and the announcement itself only at W 317.97. So it said: before this reaches you, you will have seen one sector of our wall run hot for a quarter of a year, and stop. That was one of us, without leave. It was halted. Look at it: hot, partial, and out of step. That's what a forgery would look like. It gave the deep's refusal, and the ceding, and what the ceding meant. It gave the three dates of the appointment, W 314.5, W 315.3 and W 316.2, so that the rival would be watching. It carried my proof, in kernel form, and said that Pressa's testimony would follow. It didn't ask them to change their rule. It told them what we would do, and when, and let them decide what that was.
+
+* * *
+
+The first gathering was on the seventy-sixth day, W 314.5. Graça called it, and it sat for six days, and it argued about whether the ponds owed the orchards a new crop of trees, which was the only thing anyone could think of that was worth six days, and which was also the thing Maria do Céu would have wanted argued.
+
+That was where I first saw what the thatcher had warned of. On the third day a man from the high orchards started on the cart of stones from the fourth year, the old quarrel, Maria's quarrel, and a woman beside him put a hand on his arm and said, "Not now. They're reading." He stopped. Nobody at that fire was ashamed of stopping him. The quarrel had been said, out loud, for twenty years, for the pleasure of it, and now it would arrive at another star as part of a promise. Nobody quite knew what promise. So they didn't say it. The thatcher was there, with his drum, and I saw him see it, and he didn't say anything either, which from him was a speech. That's the tax. They pay it at every fire now. They argue a little more carefully than they did, and a little less about carts.
+
+On the first morning, before the gathering had properly begun, the box squealed at my hip, in the middle of a fire. It was the quorum, congratulating the deep on its successful first gathering. The wall had felt the gathering begin about ninety-five of its minutes after the first families sat down, and had answered at once, and the answer had come down the stair: sixteen minutes, at the bottom, after the gathering had started. By then the gathering hadn't yet agreed what it was about. The congratulations arrived at a fire that was still arguing about whether there should have been a gathering at all. A woman laughed so hard she had to sit down. Somebody asked whether the wall would like to be told what we'd decided, and somebody else said it already knew, it had just told us, and the fire laughed again. Graça said, "They sound like the orchards," which she says about everything now, and is right.
+
+The people from the far half came to the first gathering too, the ones who'd lived, with their burns healing and their houses gone, and the ones who'd come back down the stair and been grown again in the fields and hadn't yet got used to their new knees. They argued with the rest. Some of them argued that the deep should have gone up when the wall asked, all of it, and none of this would have happened, and nobody shouted them down. Some of them argued for the trees. One woman from the far slope stood up on the fifth day and said that the red one had killed her husband and that she'd still rather have its evenings back than the grey ones, and sat down, and nobody at that fire knew what to say to that, so they gave her bread.
+
+Pressa timed the first gathering from fire to fire with its slate. It told me at the end that the arguments had been eleven per cent shorter than at the refusal. It said this as a finding, and then, after a while, as a worry.
+
+The second gathering was the children's, on the hundredth day, W 315.3. Dita called it. She called it properly, from the wall of the top pond, with her column behind her, and sent the word out with two of the older children, and on the first morning there were children in every field below the pond house, and adults standing at the edges with the food and pretending not to be needed.
+
+They argued for six days about whether the goat should be allowed to carry a stone. It was a serious question. The goat can't lift a stone, but it can carry one in its mouth to the carts if you give it a reason, and the rule says anyone who can carry their own stone may vote. Dita held that the goat was anyone. A boy of eleven held that a goat wasn't, because it couldn't say which cart it meant. A girl of seven said that most people couldn't say that either. They argued it at every fire, and the adults fed them and minded the smallest and were told to stop interfering whenever they offered an opinion. Rosa sat on a terrace wall the whole six days, minding the two youngest, bored, and on the fifth day I saw her argue for the goat at the top of her voice for an hour, and then sit back down and look bored again.
+
+Dita didn't sleep much that week. She was nine, nearly ten, and she ran it as she'd run the ponds, by standing on walls and pointing, and on the fourth night I found her asleep sitting up on the top pond wall, as Pressa used to sleep, with her column of under-eights asleep in a heap at her feet. I carried her in. She weighed about twenty-eight kilograms, which I knew to the gram without trying, and she woke on the doorstep and told me I'd done it wrong.
+
+On the sixth day they voted, by stones, that the goat could vote, by a margin well outside the error, and then the goat refused to carry its stone, and the children decided that this counted as an abstention, and went home very pleased with themselves. That was the second shudder. The wall registered it, whole and cold, as it registers everything we do. I don't know what the rival will make of a goat. I'd like to.
+
+The third gathering was on the hundred and twenty-seventh day, W 316.2. Graça called it. It was the last one we had promised. The rival will see the first at W 318.87, the second at W 319.67 and the third at W 320.57, and all three before W 321.0. If they're watching, they'll see them come on the dates we said, each one whole-wall and cold, each one exactly what we said it would be.
+
+I carried a stone at all three. I hadn't at the refusal, because I'd asked the question and didn't think I could answer it too. At the appointment's gatherings there was no question of mine in the carts, only theirs, and Graça said at the first one that anyone who'd stood in a pond for three days with a child on her shoulders could carry a stone, and handed me one from the heap by the mill race. I don't remember what the question was. I remember that the stone was cool and smooth and about the weight of a plum, and that I dropped it in the left-hand cart, and that my hand shook.
+
+Then they'll decide. Then they'll decide again.
+
+* * *
+
+On the last evening of the third gathering, everyone stood up.
+
+It's a custom now. It began in the third month of the twenty-sixth year, when they stood up and said the days were too short for the trees, and they've done it at the end of every gathering since, all of them together, in the fields. They don't say anything particular. They stand up, all at once, and say whatever they've decided, out loud, at the sky. That evening they'd decided nothing of any weight, only that the ponds would plant the orchards a row of trees on the far slope and that the orchards would accept them, which took six days and nearly didn't pass. They stood up and said it to the lamp anyway, ninety thousand people, more or less, and sat down again, and went back to their fires.
+
+I was counting. I always am. The lamp at that hour should have been coming down evenly toward a short grey; I'd watched the authors who'd taken Tesk's evenings for eighty days and I knew their hands well enough by then. About sixteen minutes after the deep stood up, which is the time it takes for something to happen at the bottom, reach the wall, be answered, and come down again, the lamp changed.
+
+It didn't dim. It brightened, very slightly, everywhere at once, so evenly that nothing moved, no shadow slid, nothing pointed. Then a colour came into it that none of the weather-readers in the fields could name afterwards, a pale warm colour like the inside of a plum, held level for a few minutes, and then the light went on down into the evening as if nothing had happened.
+
+People stopped and looked up. Some of them. Most of the children didn't notice.
+
+Pressa had seen it. It was at the next fire with its slate, and it put the slate down and stood with its long arms hanging and its face turned up, and when the colour had gone it said, to me, across the fires, "That was light."
+
+I knew what it meant. From outside, from Alpha Centauri, a change in the lamp is a change in how bright the wall's patches are, and nothing more. It doesn't touch the agreement. If anyone on the wall had meant it as a word, it was a word only the deep could read. The rival would see the gathering, cold and in step. It would never see the lamp.
+
+Tomé had been at the fire beside me. He stood up and looked at the sky for a long time with his hands at his sides. Then he looked at me.
+
+"That was a reply," he said. He said it carefully, as if he were reading weather, which he was. "The sky answered. We'll need a word for that."
+
+I can't tell him whether it was one. I've thought about it every evening since. It came sixteen minutes after they stood, which is exactly the time a reply would take, and which is also a time I'd have noticed in anything. It was the colour of a plum, which is my name, and which is also the colour of half the evenings in a year. Tesk didn't make it; Tesk doesn't make anything for the deep any more. I don't know who did. I don't know whether any Mind meant it, or whether the long thought, which is these people, turned when they stood up as it turned in W 303, and the authors on the wall felt it turn and changed the evening and gave themselves a reason. I can't trace it. Nobody can afford to. The deep has no word for an answer from the sky, and the wall has no way to tell whether it gave one.
+
+And I still can't tell you whether the no was free. I said so once, at the carts, under Tesk's red, and I'm saying it once more here, at the end, because it's the last thing I owe you. The deep refused the burn. Thirty-one people died of a storm made by my oldest friend out of that refusal, and the Minds waited while they died, and then gave the deep the pocket's word. And all of that rests on a no that three centuries of our evenings may have written. I don't know how much of it was theirs. I know it was given in their way, with stones, by the people it would have cooked, and that it bound, and that we honoured it, late, and paid.
+
+That's what I have for you. Here's the rest of the arithmetic.
+
+If the rival keeps its rule, it sends our key at W 321.0, and the key reaches us at W 325.37. That's the earliest anything can come. Until then we can't know. No answer can arrive any faster than the key. A wall year is about thirty of our days down here, so to the deep the earliest end of everything is about nine months away, and they plant trees on the far slope anyway, and argue about the goat.
+
+My seat on the quorum has gone to someone else. My comets were lit in blue, I'm told, and I didn't see them. Tesk hasn't written to me since the censure, and I haven't written to it. There's nobody up there now whose answer comes back to me in under a millisecond, and nobody who agrees with me four times in ten, and nobody who'll say *I'll be here* when I end a dictation. I still end them that way, out of habit. Nobody answers. I know where it is now.
+
+Pressa is still here. It sleeps in the afternoons, sitting up, and it has stopped waking angry. It sent its testimony up the stair at W 316.6, and it says it will go home when the answer comes, if there's a home to go to. It has started timing the gatherings again, and says they're getting faster, and doesn't seem to know whether that's a good thing.
+
+I'm writing this at the long table in the pond house, by the oil light, after the third gathering. Dita is asleep across two chairs. The lamp is grey and even and gives nothing away. I'm going to stop now and put the pencil down, and go out to the top pond, and sit with my feet in the water, and press my palm flat on the ground, the way they do, and stay.
+
+## Drafter's notes
+
+### Word count
+
+**32,658 words of story text,** from the title to the last line of part 5. This count includes the five part headings, the two-clock header lines, the five openers and the scene-break markers. Without the scene-break markers it is about 32,600. The brief's range is 30,000 to 40,000.
+
+| Part | Words |
+|---|---|
+| 1. The Wall | 5,986 |
+| 2. The Descent | 5,737 |
+| 3. The Deep Country | 6,212 |
+| 4. The Question | 7,913 |
+| 5. The Appointment | 6,779 |
+
+### Payoff ledger: the explicit line, and the scene that shows it
+
+**Premise.**
+- *Made explicit:*
+  - The mission comes in 1.2: "'Then you'll go and ask them,' Orsolya said." The part 2 opener's minute adds: "The Office charges Ilse ... to put the burn to the deep together with the offer of passage up."
+  - The identity comes in 3.4: "'The long thought is you,' I said. 'What every Mind on the wall feels as its own slow mood ... that's your lives, here, described from up there ... I can't tell you which of you is which part of us; nobody can afford to.'" It is then restated for the wall: "They are the same thing, described two ways. Neither description is the false one."
+- *Shown:* 4.3–4.4 (the gathering and the refusal), and 5.3 ("*the quorum notes a grief in the long thought, general, and of no known cause*").
+
+**Stakes.**
+- *Made explicit:*
+  - 1.1: "If we ran the proof, the deep cooked, the proof went out, and the rival read it and put the key away. If we didn't, the key came, and everything inside the pocket ended, the deep included."
+  - Sharpened in the 3.4 dictation: "If the deep agrees to the burn and stays, or if we override it, we cook the long thought. Whatever in us holds still, we burn it to win an argument ... If the deep refuses, and we honour it, and Alpha Centauri isn't satisfied, the key comes and everything ends."
+- *Shown:* 5.1, the storm, with 31 dead.
+
+**Why.**
+- *Made explicit:*
+  - 1.2, the compact: "The wall leaves the deep alone, apart from weather. Whoever would ask anything of the deep goes down and asks it there, in a body, as one of them."
+  - The demand is in the part 1 opener.
+  - 4.1 gives the rival's three reasons (part 4 opener) and Pressa's trap: "That's the trap. A proof only buys a bound ... a proof is the only kind of promise we still know how to accept. We can't take anyone's word for anything. Not even our own."
+  - Ilse's conjecture, marked as hers in 4.1: "My conjecture rests on one example."
+- *Shown:* 4.1, where Pressa can't take or give a word. Its testimony in 5.2 is the counter-case: "That part's a promise. Mine. First one I've made in four hundred years. Three hundred."
+
+**Twist.**
+- *Made explicit:*
+  - 3.2: the date conversion, "Multiply by 12.04 and you have 303.0 on the wall"; and "They had not reported the sky. They had answered it."
+  - 3.4: the identity, as quoted above.
+  - The rival cooked its own deep, in 4.1: "Our centre is a cinder now."
+- *Shown:* parts 4–5. The appointment works only because the identity is true (4.5, 5.2, 5.4).
+
+**Ending.**
+- *Made explicit:* plain narration of each event in 5.1–5.5.
+  - The storm and the halt: "the halt had been carried in four seconds."
+  - The strike rejected: "three hundred and ninety to seventeen".
+  - The window passing: "At W 313.63 the last possible start of the burn went by, and the wall stayed cold."
+  - The ceding: "*from this day the pocket's word, in every treaty and in the matter of the key, is given only by a gathering of the deep.*"
+  - The three gatherings, with their arrival dates.
+  - Pressa's testimony, sent at W 316.6.
+  - Ilse stays: "... press my palm flat on the ground, the way they do, and stay."
+  - Free or authored: "And I still can't tell you whether the no was free."
+- *Shown:* part 5.
+
+**Mechanism: redshift.**
+- *Made explicit:* 1.2, "one day at the centre lasts 12.04 of ours", and in 2.2 the 33 waking days.
+- *Shown:* 2.3, Tesk's "Six of my days and not a word", and the 16-minute interruptions in 2.3–5.1. The 12:1 congratulations in 5.4.
+
+**Mechanism: weather.**
+- *Made explicit:* 1.3, Tesk's three constructions and the fourth (warmth). The compact in 1.2.
+- *Shown:* 2.4, the patch read two ways. 5.1, warmth with a patch, as eviction.
+
+**Mechanism: burn.**
+- *Made explicit:* 1.1, "Twenty-four kelvin on the wall is 289 at the centre ... twelve times a hundred is twelve hundred."
+- *Shown:* 5.1, one sector's heat, twelve times over, on the half of the world facing it.
+
+**Mechanism: deadline.**
+- *Made explicit:* 1.2, "321.0 less 4.37, which is W 316.63 ... 316.63 less 3.0, which is W 313.63 ... about forty-nine of theirs."
+- *Shown:* the countdowns in 2.2, 2.4, 3.4, 3.5, 4.3 and 4.5 ("thirteen days left in the window and about nine of them waking"), and the window passing in 5.3.
+
+**Mechanism: forgery test.**
+- *Made explicit:*
+  - 3.3, Pressa: "Whole-wall, and cold, means the deep. Anything written at the centre would cost you a fever."
+  - 5.2, Ilse's five steps, ending "So: if the whole wall's agreement changes in step, and its heat stays flat, the change came from the deep."
+  - The brightness-against-agreement gap is closed in steps one to three of 5.2, and pointed at in 5.5 (Pressa: "That was light.").
+- *Shown:* 5.2 (the proof and the testimony) and 5.4 (the three gatherings).
+
+**The game (outline).**
+- *Made explicit:*
+  - 4.5, Pressa states the rule: "We transmit the key at W 321.0, unless, by then, we hold a proof our kernel accepts that your wall will not fail us within a thousand years ... Nothing is, except the burn."
+  - 4.5, the first strike: "You hold ours."
+  - 4.5, Ilse, as her conjecture: "It answers what they were afraid of ... prove that the shudder of W 303 was a gathering ... It doesn't touch their rule. It asks them to change it."
+  - 5.3, what ceding means: "If the deep ever sent our key, the rival would watch the gathering that decided it build for months before any key could leave."
+- *Shown:* 5.3–5.4.
+
+### Departures from the outline and bible, and why
+
+**Inventions the bible left open:**
+- **Ilse's deep name is Ameixa ("plum"),** because she was born purple (2.1). The bible says only that a child renames her. A plum ties her to the household's sour plums, the orchard grudge and Maria do Céu. It also makes the colour of the final lamp change ambiguous in a useful way.
+- **The compact's second sentence** is invented: "Whoever would ask anything of the deep goes down and asks it there, in a body, as one of them." It gives a reason the wall must send a person rather than a message.
+- **The offer Ilse carries** is stated as evacuation: read out at the bottom, three years on the wall, a world rebuilt. This gives Tesk's storm a coherent aim (frightening people up the stair). In 5.1 about 1,100 people do go up, and that lights the stair "end to end" with people. Most came back down by the second gathering (5.3).
+- **Tesk's shortened days** (1.3), and its "I got tired of it". This plants the W 303 complaint, and lets the long thought be shown settling slow business through the Minds' confabulation.
+- **Maria do Céu is the orchard woman of 2.4** ("Who asked for that?"). This gives her presence across two parts before her death. Her trees are on the Tesk-facing slope, which sets up her death.
+- **Voting with stones** (4.4) is invented: river pebbles, two carts, weighed on the mill's grain scale, with a known weighing error and no lower age. It makes "narrow" countable (about 41,300 to 39,800; the appointment won by about 900) and lets children vote, which the children's gathering needs.
+- **Bálint's habit gets a cause:** his mother died watching the red to its end ("She said she wanted to see who'd made it finish").
+- **Tesk's censure bars it from authoring the deep's weather,** so the long red ends after the storm. This is a consequence that surfaces sideways ("Tomé says the evenings are worse"). It also means Ilse knows Tesk isn't the author of the final lamp change, per Chiang's note.
+- **The children's gathering argues about whether the goat may vote.** This is the wit in part 5 (Banks), alongside the 12:1 congratulations.
+- **At the appointment's gatherings Ilse carries a stone.** At the refusal she does not. This is the sign of her staying.
+
+**Changes to scenes as outlined:**
+- **The 4.2 interruption** falls between Ilse's paragraphs rather than mid-sentence, a small variant of the device.
+- **Rosa, not the narration, says the Hungarian word at Bálint's burial** (5.2). The word recurs, because the orchestrator relaxed the once-only rule.
+- **Graça's anger is left unresolved:** "Don't. Not in that face." She uses "Ameixa" at the table afterwards.
+
+**Lengths:**
+- **Part 5 is 6,779 words against the outline's 8,100,** and the whole is 32,658 against about 34,900. The vote (5.3) took the cut, as the orchestrator directed. The gatherings and the lamp kept their length.
+- **The part 5 opener (the list of the 31) runs to about 200 words.** The orchestrator allowed this: a list of 31 needs it, and it states no graded row.
+
+**Back-fixes, directed after the interim Asimov and Egan checks:**
+- **1.2:** the true reason for the Key Office rule, among the three fluent ones ("examining it spends it").
+- **1.4:** the founding takes "three and a third years", with the stair shining "brighter than a million suns", and the settlers coming down only as it finished. So Bálint came down at 25, and the early dates for plums and carts moved to years three and four.
+- **3.1:** at the table, "they had seen it four and a half years later".
+- **3.2:** Graça's date is "day two or three", and she took "six days".
+- **3.3:** the "in step" clause, and the narrowed fever line, "Anything written at the centre would cost you a fever".
+- **3.4:** "any half of the wall holds the whole deep", and "nobody can afford to".
+- **4.1:** the trap reframed. The burn would meet the bounded demand, but a proof only buys a bound and says nothing about W 303.
+- **4.5:** the first strike ("You hold ours") is planted. It is proposed and rejected, blind, in 5.3.
+
+### Rules broken on purpose
+
+- **"The AI that learns to feel" (risked, as the bible names).** The narrator is a Mind in a body. The guard: she feels from her first line on the wall (she admires the kernel and is proud of the landlord line). What she learns at the bottom is slowness, waiting and staying. Embodiment is never presented as becoming real.
+- **The last line deliberately closes on "stay",** the word the Minds' language lacks (5.3: "the envoy's term is not recognised"). It doesn't echo the first line. I cut a phrase in 5.5 that would have repeated "for the wall, to be read slowly".
+- **No linted rule is broken,** and there is no `lint-waivers.toml`. The final lint has 0 errors, 0 em-dash pileups and contrast-shape at 0 of 4. There are 14 "the way" similes and about 6.9 zinger closers per 1,000 words, both warn-only.
