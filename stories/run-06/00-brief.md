@@ -30,7 +30,13 @@
   all along" twist count as the stock darkness the tone charter rules out,
   unless a card makes one of them its uncharted novum.
 - **Must include:** none.
-- **Panel changes:** defaults. 3 idea cards per lens.
+- **Panel changes:** add the **Stephenson** lens (`personas/stephenson.md`:
+  systems and institutions, digression as pleasure, technical virtuosity,
+  wit). A seed about how governance machinery works is squarely his ground.
+  - Stage 1: the default nine plus Stephenson, 3 cards each.
+  - Stage 3: add Stephenson.
+  - Stage 4: add Stephenson.
+  - Stage 7: add Stephenson.
 - **Notes (long-form adaptations, carried over from run-05):**
   - **Two-level outline.** An arc map comes first, one row per part,
     tracking the idea arc, the character arc and the pressure arc. A scene
