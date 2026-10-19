@@ -2,14 +2,9 @@
 
 - **Gate mode:** hybrid. The human decides stages 0, 3, 5 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 10, Debrief
-- **Next action:** the human reads `final.md` (or `To Be Read Slowly.epub`),
-  then the stage 10 debrief interview. Before landing, land the lint branch
-  `bestdan/agent-a8e83c3f73f501565` on `main` first.
-- **Next action:** the human approves `05-outline.md` (a stage 5 human
-  gate). The panel notes are resolved in the outline. Then make the
-  per-1,000-word lint budget change on its own branch, and dispatch stage 6
-  part by part.
+- **Current stage:** landed.
+- **Next action:** none for this story. The process takeaways in
+  `debrief.md` section 5 go to `process/` on their own branch.
 
 > **Hybrid mode:** after stage 5 the human knows the premise and the shape.
 > They don't open drafts, reviews or this file's later rows until they have
@@ -30,6 +25,7 @@
 | 9 Polish | 2026-10-14 | orchestrator (proxy) | final.md at 30,420 words. Spot-checks applied: Asimov 1–4 and Rajaniemi 2 and 4. Declined: Rajaniemi 1 (the burial's restated gloss of *halottaim* helps a cold reader across three parts; the proposed wording is awkward) and Rajaniemi 3 (the rewording would say the deep was what the Minds paid, which is wrong; they paid by letting the window pass) | The line editor handled all 9 required items. Orchestrator fixes: the announcement's forgery line (the storm is neither a gathering nor a forgery), and the heat sentence restored with the wall-side figures (24→289, 100→1,200), which makes "twelve times" read correctly | — |
 | 9 Sign-off | 2026-10-14 | orchestrator (proxy) | Ready for the human's read: final.md, 30,420 words, with an EPUB | The gate on final.md failed (logged); proceeding under the stop rule, as run-03 did | Send back to stage 8 |
 | 4 Build | 2026-10-13 | orchestrator (proxy) | Bible approved, with all 13 must-fix notes resolved | Biggest changes: the burn is now Tolman heating ×12 rather than a Hawking–Page black hole, which needed 6.5e7 M☉ (Egan's numbers). Patterns come down and bodies are grown at the bottom, because braking from γ≈12 is ~1e5 g. Precise acts at the centre are exponentially complex, so heat, so no fork or backup. Visibility comes from redundant encoding. The forgery test (whole-wall and cold) is found by Pressa and written as Ilse's proof. The storm sits inside the burn window, so honouring the refusal costs the Minds. The refusal is narrow, partly petty and possibly authored, and Ilse says she can't tell. The twist is stated with its limits, and the rival's causation is Ilse's conjecture. The household, the children's roles, the named dead and the stay-down dissent are in | — |
+| 10 Debrief and landing | 2026-10-19 | the human | Land as it is. Story notes recorded in `debrief.md` for any later revision, not acted on | The human scored it 9/10 (Felt 4, Craft 5) and understood every comprehension row. They called the premise "extremely ambitious accommodation of theoretical quantum physics and information theory" | Revise first: open in the deep, a less flat Ilse, a defined plum light, Pressa's "one example" line |
 
 ## Gate failures
 

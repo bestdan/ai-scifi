@@ -133,6 +133,17 @@ Craft as groups.
 
 **Where the human and the panel diverge:**
 
+- **The human's note on the premise, given with the landing decision:**
+
+  > Note that the premise was extremely ambitious accommodation of
+  > theoretical quantum physics and information theory
+
+  The human credits the story for its ambition: a premise built on
+  theoretical quantum physics and information theory, carried through the
+  plot. Read beside the cold readers' lost-lists, this is the other side
+  of the same density. The hard-SF mechanics the test readers took on
+  trust were what the human admired.
+
 - **Felt is lower for the human (4) than the panel's best scores (5).**
   Asked whether "a little shallow" meant the world, the emotion or Ilse,
   the human said:
