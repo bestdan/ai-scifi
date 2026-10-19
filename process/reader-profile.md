@@ -62,10 +62,13 @@ quantum physics and information theory" was praise.
 
 ## What disappoints
 
-- **The concept smothers the story.** The one adult 1-star on the shelf is
-  Greg Egan's *Dichronauts*, from an author the human otherwise rates 5;
-  *Uncanny Valley* got 3. Hard ideas alone don't carry a book. (Inferred from
-  ratings; the human hasn't said why.)
+- **Physics the reader can't follow, at a length that won't wait.** The one
+  adult 1-star on the shelf is Greg Egan's *Dichronauts*, from an author the
+  human otherwise rates 5. The human's reasons: the physics was too hard to
+  follow, so the story got lost in it, and it was a slog for what it gave
+  back. Ambition is still welcome (run-05 was praised for it); what fails is
+  a mechanism the reader is never handed a way into, with no pace to carry
+  them while they work it out.
 - **Strangeness that never resolves.** *Annihilation* 3, *Way Station* 2,
   and in run-05 the final lamp "did just seem throwaway mysterious." The
   style guide's rule against the mysterious final image is this reader's
@@ -74,8 +77,12 @@ quantum physics and information theory" was praise.
   Planet* got 3 where the same author's *A Psalm for the Wild-Built* got 5.
   The difference is a philosophical core. (Inferred.)
 - **Sprawl and pastiche.** *Ilium* and *Olympos* 3, *The Atlantis Gene* 2.
-- **Military SF is comfort reading, not a target.** 15 books from Evan Currie
-  and Craig Alanson average about 3.5. Read often, rarely loved.
+- **Volume military SF is filler, not a model.** 15 books from Evan Currie
+  and Craig Alanson average about 3.5. In the human's words they are "the
+  junk food of my genres": quick to publish, so there is always one to read.
+  Don't borrow from them. A military setting is welcome when it carries an
+  idea: *Ender's Game*, *Speaker for the Dead*, *The Forever War*, *Old Man's
+  War* and *The Last Colony* all rate 4 or 5.
 - **Flat protagonists.** Run-05's Ilse "felt flat"; run-03's Tamsin "seemed
   robotic". Both were otherwise well-received stories.
 
@@ -91,6 +98,10 @@ lyricism that earns its place).
 - **Two viewpoints, two levels of understanding.** When the novum can be
   seen as magic by one side and engineering by the other, let the reader
   hold both.
+- **Hand the reader a way into hard physics.** Start from something a human
+  body would sense, and let momentum carry the reader while the mechanism
+  comes clear. Run-05's debrief asked for exactly this ("starting from the
+  deep allows you to begin with a human senses reference").
 - **Escalate the scale.** Each movement of the story shows the stakes are
   bigger than the last one let on.
 - **The idea pays off in a choice.** The novum resolves into a consequence
@@ -102,14 +113,6 @@ lyricism that earns its place).
 - **A big question underneath.** Personhood, mortality, what a civilization
   owes what it makes. *A Psalm for the Wild-Built* and *Flowers for
   Algernon* outrank books that only have a cool machine.
-
-## Open questions
-
-Being asked one at a time; answers replace these lines.
-
-- What *Dichronauts* did wrong for this reader.
-- Whether military SF's pull (pace, competence, momentum) should count
-  toward anything here.
 
 ## Refreshing it
 

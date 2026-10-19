@@ -1,7 +1,7 @@
 # Stage 4: Build
 
 **Dispatch:** `lens-critic`, once per lens on the stage 4 panel (by default
-Watts, Egan, Le Guin and Lem), in parallel. Use this prompt:
+Watts, Egan, Le Guin, Lem and Tchaikovsky), in parallel. Use this prompt:
 
 `Lens: <lens>. Stage: process/stages/04-build.md. Story: stories/<slug>.`
 
@@ -53,6 +53,7 @@ reasons in `STATUS.md`.
 | Egan | Does the logic hold? Find every edge case that breaks the novum, its rules or its arithmetic. Do posthuman minds think like posthumans? What next logical step does the story not take? Can every payoff-ledger row be made explicit on the page without breaking the novum? |
 | Le Guin | Does the society feel lived-in, with children and the old in it? Are the characters people or functions? Who pays, and do we see them? Do the children act their age? Do the invented words imply a culture, and does each glossary term have a Job the plain word can't do? Are the names plausible and respectful? |
 | Lem | Is the alien truly alien, or a human in costume? Does the story flatter anyone's ability to understand? Where is the irony? Does it resolve too much? Could a document or fragment do more than narration? Can every payoff-ledger row be made explicit without explaining the alien away? |
+| Tchaikovsky | Is the other mind written from the inside, or described from outside? Does its biology account for its culture and its mistakes? Is any of it a human trait in costume? Does the encounter cost something on both sides? |
 | other | Your persona's "In critique" questions. |
 
 Give at most 6 notes. Tag each one [must-fix], [should] or [could], and
