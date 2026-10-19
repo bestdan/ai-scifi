@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 8 Revise, round 1 → draft 2.
-- **Next action:** the drafter writes draft 2 from `06-revision-plan.md`, then stage 7 round 2 runs with a fresh First Reader on a copy with the drafter's notes stripped.
+- **Current stage:** 7 Review, round 2 (draft 2, about 31,730 words).
+- **Next action:** collect the Asimov, Watts and Stephenson critiques, then consult on the loop cap.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -21,6 +21,7 @@
 ## Gate failures
 
 - **Round 1 (draft 1):** Premise, Stakes, Why, Twist and Reach partial. Terms missed (supra, tetri, the turn). Lost-list 9 entries, 6 on graded rows. Ending and Who's who got it.
+- **Round 2 (draft 2):** Premise, Stakes, Ending and Reach partial. Why and Twist moved to got it. Terms missed (khinkali, guessed from outside; schedule of evidence, misread). Lost-list 12 entries, 10 on graded rows (Premise and Twist mostly: the opening's rules, errata, Akinyi's motive). Ending regressed from got it to partial: the reader missed that the licence follows from Davit's carriage description, and the ring's absorption. **The loop cap fires:** two consecutive fails. A consultant is asked whether one more round can close the gap.
 
 ## Seed stock
 
