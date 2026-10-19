@@ -132,6 +132,10 @@ What no regex can judge stays here:
   the setting (see the tone charter)
 - Misery as the ending by reflex: the bleak twist, everyone dead, the
   pointless loss
+- The mysterious final image: an open question the page gives the reader
+  no way to answer. Ambiguity is earned when the page supports at least two
+  specific readings. Test readers who all ask "who sent it?" mean it isn't
+  earned yet
 
 Any of these can be broken on purpose. Name the rule being broken in the
 bible or the outline, and say why. For a rule the linter checks, the waiver

@@ -21,6 +21,12 @@ Don't pass `model:`.
      list surfaces in the first third.
    - **Introductions.** The scene table's Introduces column lists each new
      name and term. Keep the opening scene's list short.
+   - **The opening.** Open in a scene a human body could stand in, with
+     things to see, hear and touch. When the novum lives far from human
+     scale (a wall, a mind, a vacuum), start where it touches people, and
+     bring the strange layer in through that frame or in a flashback. An
+     opening that defines the world before the reader has a place to stand
+     costs the reader at page 2.
    - **The ending.** Its final image, and what it costs.
 2. If the story hinges on a fair-play clue, add a calendar or arithmetic
    section that plants every input before the payoff scene.

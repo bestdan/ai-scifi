@@ -61,8 +61,11 @@ The gate passes only when all three hold:
 - **Terms.** The Terms row is "got it": the reader got every term it names
   from the story itself.
 - **The lost-list.** No entry under "Where I got lost" in `first-reader.md`
-  concerns a graded row's fact. The number of entries doesn't decide the
-  gate; the orchestrator reads them as revision notes.
+  concerns a graded row's fact that the reader's answers still get wrong.
+  The number of entries doesn't decide the gate; the orchestrator reads
+  them as revision notes. So does a mechanism the reader "took on trust"
+  while still getting its row: in hard SF, density a reader follows on
+  trust is often what a reader came for.
 
 Stage 8 acts on a fail; stage 9 can't start without a pass.
 
@@ -71,7 +74,10 @@ Stage 8 acts on a fail; stage 9 can't start without a pass.
 - **Round 1** uses the full default panel.
 - **Later rounds** can run leaner: the lenses that scored lowest or raised
   structural notes, plus a fresh First Reader and the comprehension gate.
-  The gate runs every round.
+  The gate runs every round. A leaner round still keeps one lens with
+  standing on Character, and carries forward every open Character note
+  from earlier rounds. A flat protagonist is not a structural note, so a
+  round narrowed to structure loses it otherwise.
 - **You don't grade comprehension.** You wrote the ledger, so you read the
   answers as an insider would. You may lower one of the grader's grades, with
   a reason, but never raise one.
