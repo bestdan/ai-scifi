@@ -6,7 +6,7 @@
 
 The radiator under the window knocked twice, waited, and knocked again. Davit Kiknadze had been listening to it for most of an hour. The Ministry of Health turned its heating down at six, and by nine the fourth floor smelled of cold plaster and of an orange somebody had peeled in the corridor at lunch. He had his coat on, and he had the window open a hand's width anyway, because the room was too hot by the radiator and too cold everywhere else, and he thought better in the cold half.
 
-The schedule wanted names. A schedule of evidence was any set of facts a petitioner filed in support of a petition, statistics or returns or accounts, and a list of persons was only one kind of it, but that kind wanted names. That was the first thing anyone learned about it, and he had known it since he was twenty-five, and he had still opened the template that morning hoping it would ask for something else. SCHEDULE OF EVIDENCE: PERSONS. Column one, full name. Column two, age. Column three, function. Column four, the place, the hours and the basis of the work. Under the columns, in the small grey type the charter office kept for its warnings, one line: *Persons will be read as listed.*
+The schedule wanted names. A schedule of evidence was any set of facts filed in support of a petition, statistics or returns or accounts. A list of persons was only one kind, but that kind wanted names. That was the first thing anyone learned about it, and he had known it since he was twenty-five, and he had still opened the template that morning hoping it would ask for something else. SCHEDULE OF EVIDENCE: PERSONS. Column one, full name. Column two, age. Column three, function. Column four, the place, the hours and the basis of the work. Under the columns, in the small grey type the charter office kept for its warnings, one line: *Persons will be read as listed.*
 
 He sat with the cursor in the first box while the radiator knocked, and in the end he typed LAMARA GOGIASHVILI, 74, WARD SISTER (RET.), and took his hands off the keys as if the keys were hot.
 
@@ -888,7 +888,7 @@ The boys on the pitch were shouting a name, over and over, someone who had score
 
 "And you'd read the report."
 
-"I'd read it three days before any of them could." She took the sheets back and slid them into the sleeve. "There was a television in the canteen then. On the seventeenth they showed the ger. Just the outside of it, with the snow on the roof and a policeman at the door, and the stovepipe with no smoke. I had my breakfast in front of it. I couldn't think of a reason not to." "On the night of the eighteenth I was on again. I had my form. One a night. I found an entry with a numeral in it that a tired clerk could have mistyped, a fuel return from Darkhan, and I corrected it, and I restored some words that had been omitted. A boiler at a hospital there, with its own fault in the intake. Nobody died at the hospital in Darkhan that winter. Possibly nobody would have." She looked at him. "That was the first."
+"I'd read it three days before any of them could." She took the sheets back and slid them into the sleeve. "There was a television in the canteen then. On the seventeenth they showed the ger. Just the outside of it, with the snow on the roof and a policeman at the door, and the stovepipe with no smoke. I had my breakfast in front of it. I couldn't think of a reason not to. On the night of the eighteenth I was on again. I had my form. One a night. I found an entry with a numeral in it that a tired clerk could have mistyped, a fuel return from Darkhan, and I corrected it, and I restored some words that had been omitted. A boiler at a hospital there, with its own fault in the intake. Nobody died at the hospital in Darkhan that winter. Possibly nobody would have." She looked at him. "That was the first."
 
 He looked up at the shelf.
 
@@ -954,7 +954,7 @@ He let her work. He watched the screen and her hands, and he found that the draf
 
 She filled in the form. He watched her do it. The entry reference. The old text. The new text: *Rusumo: closed to vehicles over 3.5 tonnes from 15 February (Tanzanian roads authority notice). Load limit 42 tonnes.* Nature of clerical error: wrong numeral; omitted words restored. Her desk key. She read it through once, aloud under her breath, the way he had been taught to read a clause, and he understood that she had taught him that too. Then she pressed the key, and the form locked, and the lamp on her desk hummed very faintly and went on burning, and that was all.
 
-It had taken four minutes. Forty lorries would not cross the Kagera tomorrow, or they would and nothing would happen.
+It had taken four minutes. A hundred and sixty lorries would not cross the Kagera tomorrow, or they would and nothing would happen.
 
 "Now," she said, unlocking her flask. "Sadakhlo. You think I did it for you."
 
@@ -1504,7 +1504,7 @@ Mariam found him there at half past nine with the phone in his hand and the radi
 
 He read it twice at the kitchen table with the radio in pieces in front of him and the kettle not yet on. Then he put the phone face down on the oilcloth beside the new valve in its box and sat with his hands flat on the table.
 
-The phone rang under his hand at twenty past six. A Kenyan number. Five past five in Nairobi; she would just have come off.
+The phone rang under his hand at twenty past six. A Kenyan number. Twenty past five in Nairobi; she would just have come off.
 
 "You've read it," Akinyi said.
 
@@ -1526,7 +1526,7 @@ He found he had nothing to say to that, because it was true, and because he had 
 
 "Your line kept the ring running."
 
-"My line of the eighth kept the ring running. Without it the inspectors open the bags on the ninth, and by the twenty-sixth there is no ring left for you to write. That part is mine. And your schedule called the ring carriage of goods, and that is the only reason there was anything for it to license. That part is yours." The traffic noise rose and fell. "Both of those happened. Neither one cancels the other. I can't weigh them. I don't know whose mercy it was, yours or mine. So I don't know. I never know what they do, any of them." She let out a breath. "I'm going home to sleep. Tell your pharmacist his inspector isn't coming."
+"My line of the eighth kept the ring running. Without it the inspectors open the bags on the ninth, and by the twenty-sixth there is no ring left for you to write. That part is mine. And your schedule called the ring carriage of goods, and that is the only reason there was anything for it to license. That part is yours." The traffic noise rose and fell. "Both of those happened. Neither one cancels the other. I can't weigh them. Whose mercy it was, yours or mine. So I don't know. I never know what they do, any of them." She let out a breath. "I'm going home to sleep. Tell your pharmacist his inspector isn't coming."
 
 "Akinyi."
 
@@ -1534,7 +1534,7 @@ He found he had nothing to say to that, because it was true, and because he had 
 
 He did not know what he had meant to say. "The town. In Patagonia."
 
-"I don't know yet," Akinyi said. "The front comes through tonight. I'll read about it on Tuesday, when the notice is gazetted, if anybody writes it down." And she rang off.
+"I don't know yet," Akinyi said. "The front comes through tonight. I'll read about it on Sunday, when the notice is gazetted, if anybody writes it down." And she rang off.
 
 He sat with the phone in his hand until the screen went dark.
 
