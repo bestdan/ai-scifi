@@ -13,14 +13,22 @@ spec.loader.exec_module(me)
 FAKE_JPEG = b"\xff\xd8\xff\xe0fake-jpeg"
 
 
+def temp_dir(test: unittest.TestCase) -> Path:
+    d = tempfile.TemporaryDirectory()
+    test.addCleanup(d.cleanup)
+    return Path(d.name)
+
+
 class BuildTest(unittest.TestCase):
     def build(self, cover):
-        tmp = Path(self.enterContext(tempfile.TemporaryDirectory()))
+        tmp = temp_dir(self)
         src = tmp / "final.md"
         src.write_text("# The Long Tide\n\nIt began.\n", encoding="utf-8")
         out = tmp / "out.epub"
         me.build(src, out, author="ai-scifi", cover=cover)
-        return zipfile.ZipFile(out)
+        z = zipfile.ZipFile(out)
+        self.addCleanup(z.close)
+        return z
 
     def test_cover_is_declared_both_ways(self):
         z = self.build(FAKE_JPEG)
@@ -42,6 +50,21 @@ class BuildTest(unittest.TestCase):
         first = self.build(FAKE_JPEG).infolist()[0]
         self.assertEqual(first.filename, "mimetype")
         self.assertEqual(first.compress_type, zipfile.ZIP_STORED)
+
+
+class MainTest(unittest.TestCase):
+    def test_rendered_cover_reaches_the_epub(self):
+        tmp = temp_dir(self)
+        src = tmp / "final.md"
+        src.write_text("# The Long Tide\n\nIt began.\n", encoding="utf-8")
+        out = tmp / "out.epub"
+        with mock.patch.object(me, "render_cover", return_value=FAKE_JPEG) as render, \
+             mock.patch("sys.argv", ["make_epub.py", str(src), str(out)]), \
+             mock.patch("sys.stdout"):
+            me.main()
+        render.assert_called_once_with("The Long Tide", "ai-scifi")
+        with zipfile.ZipFile(out) as z:
+            self.assertEqual(z.read("OEBPS/cover.jpg"), FAKE_JPEG)
 
 
 class RenderCoverTest(unittest.TestCase):

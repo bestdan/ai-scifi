@@ -55,17 +55,22 @@ def palette(title: str) -> tuple[str, str, str]:
     return PALETTES[digest[0] % len(PALETTES)]
 
 
+def loads(path: str) -> bool:
+    try:
+        ImageFont.truetype(path, 10)
+        return True
+    except OSError:
+        return False
+
+
 def font_path(candidates: list[str], pattern: str) -> str | None:
     for path in candidates:
-        try:
-            ImageFont.truetype(path, 10)
+        if loads(path):
             return path
-        except OSError:
-            continue
     if shutil.which("fc-match"):
         out = subprocess.run(["fc-match", "-f", "%{file}", pattern],
                              capture_output=True, text=True).stdout.strip()
-        if out:
+        if out and loads(out):
             return out
     return None
 
