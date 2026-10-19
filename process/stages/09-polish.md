@@ -53,6 +53,10 @@ Don't pass `model:`.
    as that row.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
+   The EPUB gets a cover showing only the title and author, so it gives
+   nothing of the premise away. `scripts/make_cover.py` renders it through
+   `uv`, and the first run needs an unsandboxed run to fetch Pillow. If the
+   cover fails, the EPUB is built without one and a warning is printed.
    `just kindle <slug>` builds the EPUB if it is missing or older than
    `final.md`, then emails it to the owner's Kindle. It needs an unsandboxed
    run, and uses the `ai-scifi` 1Password profile unless `OP_SA_PROFILE` is

@@ -6,15 +6,24 @@ Usage: python3 scripts/make_epub.py stories/<slug>/final.md [out.epub]
 It understands the small subset of Markdown the stories use: a `# Title`,
 `## Section` headings, `*italic*`, paragraphs separated by blank lines, and a
 `<p align="center">…</p>` line used as a scene-break mark.
+
+The book gets a typographic cover (title and author only) rendered by
+scripts/make_cover.py, which needs Pillow and so runs through `uv`. If that
+fails, the EPUB is built without a cover and a warning is printed.
 """
 
 import html
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 import uuid
 import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
 
 CSS = """\
 body { font-family: serif; line-height: 1.5; margin: 0 1em; }
@@ -49,7 +58,46 @@ def to_xhtml_body(md: str) -> tuple[str, str]:
     return title, "\n".join(parts)
 
 
-def build(src: Path, out: Path, author: str) -> None:
+COVER_XHTML = """<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head><title>Cover</title>
+<style>body { margin: 0; padding: 0; text-align: center; } svg { height: 100%; }</style></head>
+<body epub:type="cover">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" width="100%" height="100%" viewBox="0 0 1600 2560"
+     preserveAspectRatio="xMidYMid meet">
+<image width="1600" height="2560" xlink:href="cover.jpg"/>
+</svg>
+</body>
+</html>
+"""
+
+
+def read_title(md: str) -> str:
+    return to_xhtml_body(md)[0]
+
+
+def render_cover(title: str, author: str) -> bytes | None:
+    """Run make_cover.py through uv and return the JPEG, or None on failure."""
+    uv = shutil.which("uv")
+    if not uv:
+        print("make_epub: uv not found, building without a cover", file=sys.stderr)
+        return None
+    with tempfile.TemporaryDirectory() as tmp:
+        jpg = Path(tmp) / "cover.jpg"
+        result = subprocess.run(
+            [uv, "run", "--quiet", "--script", str(HERE / "make_cover.py"),
+             title, author, str(jpg)],
+            capture_output=True, text=True)
+        if result.returncode != 0 or not jpg.exists():
+            print(f"make_epub: cover failed, building without one\n{result.stderr}",
+                  file=sys.stderr)
+            return None
+        return jpg.read_bytes()
+
+
+def build(src: Path, out: Path, author: str, cover: bytes | None = None) -> None:
     title, body = to_xhtml_body(src.read_text(encoding="utf-8"))
     book_id = f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL, str(src.resolve()))}"
     modified = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -64,11 +112,26 @@ def build(src: Path, out: Path, author: str) -> None:
 </body>
 </html>
 """
+    landmarks = ('<nav epub:type="landmarks"><ol>'
+                 '<li><a epub:type="cover" href="cover.xhtml">Cover</a></li>'
+                 '<li><a epub:type="bodymatter" href="story.xhtml">Start</a></li>'
+                 '</ol></nav>\n') if cover else ""
+    # Kindle's converter still reads the EPUB 2 cover meta and guide entry, so
+    # the cover is declared both ways.
+    cover_meta = '\n    <meta name="cover" content="cover-image"/>' if cover else ""
+    cover_items = ('\n    <item id="cover-image" href="cover.jpg" media-type="image/jpeg"'
+                   ' properties="cover-image"/>'
+                   '\n    <item id="cover" href="cover.xhtml"'
+                   ' media-type="application/xhtml+xml" properties="svg"/>') if cover else ""
+    cover_spine = '<itemref idref="cover"/>' if cover else ""
+    guide = ('\n  <guide><reference type="cover" title="Cover" href="cover.xhtml"/>'
+             '</guide>') if cover else ""
     nav = f"""<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
 <head><title>{t}</title></head>
-<body><nav epub:type="toc"><ol><li><a href="story.xhtml">{t}</a></li></ol></nav></body>
+<body><nav epub:type="toc"><ol><li><a href="story.xhtml">{t}</a></li></ol></nav>
+{landmarks}</body>
 </html>
 """
     opf = f"""<?xml version="1.0" encoding="utf-8"?>
@@ -78,14 +141,14 @@ def build(src: Path, out: Path, author: str) -> None:
     <dc:title>{t}</dc:title>
     <dc:creator>{a}</dc:creator>
     <dc:language>en-GB</dc:language>
-    <meta property="dcterms:modified">{modified}</meta>
+    <meta property="dcterms:modified">{modified}</meta>{cover_meta}
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="css" href="style.css" media-type="text/css"/>
-    <item id="story" href="story.xhtml" media-type="application/xhtml+xml"/>
+    <item id="story" href="story.xhtml" media-type="application/xhtml+xml"/>{cover_items}
   </manifest>
-  <spine><itemref idref="story"/></spine>
+  <spine>{cover_spine}<itemref idref="story"/></spine>{guide}
 </package>
 """
     container = """<?xml version="1.0" encoding="utf-8"?>
@@ -102,6 +165,10 @@ def build(src: Path, out: Path, author: str) -> None:
         for name, data in [("content.opf", opf), ("nav.xhtml", nav),
                            ("style.css", CSS), ("story.xhtml", story)]:
             z.writestr(f"OEBPS/{name}", data, compress_type=zipfile.ZIP_DEFLATED)
+        if cover:
+            z.writestr("OEBPS/cover.xhtml", COVER_XHTML, compress_type=zipfile.ZIP_DEFLATED)
+            # JPEG is already compressed.
+            z.writestr("OEBPS/cover.jpg", cover, compress_type=zipfile.ZIP_STORED)
 
 
 def main() -> None:
@@ -109,7 +176,9 @@ def main() -> None:
         sys.exit(__doc__)
     src = Path(sys.argv[1])
     out = Path(sys.argv[2]) if len(sys.argv) == 3 else src.with_suffix(".epub")
-    build(src, out, author="ai-scifi")
+    author = "ai-scifi"
+    cover = render_cover(read_title(src.read_text(encoding="utf-8")), author)
+    build(src, out, author=author, cover=cover)
     print(out)
 
 
