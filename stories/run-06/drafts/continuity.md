@@ -209,6 +209,146 @@ man in bed six** (hypo, talks to "Gocha").
   could surface once in 4.4's costing note.
 - **"Then who is it for?"** Tamar's "Ask it" can echo when he reads 13,515.
 
+## Part 2 additions
+
+### Part 1 edit made during Part 2
+- 1.3: "eleven kilometres away" changed to "half an hour away by bus"
+  (Marneuli to the crossing is about 25 km).
+
+### Names introduced (Part 2)
+| Name | Role | First line |
+|---|---|---|
+| Rauf Mammadov | pharmacist, Marneuli, 63, runs the ring | 2.1, "Rauf Mammadov. You're Lamara's boy from the ministry." |
+| Zurab | Davit's driver (named) | 2.1, "Zurab, his driver, was waiting outside" |
+
+Unnamed by design: **the woman of about fifty** on the bus (gives up the
+cool-bag; daughter at university in Tbilisi on her three shifts; "If you
+write anybody, don't write her. She's on her own with a boy."); **the young
+nurse with the plait** = Eka (unnamed here; carries the cool-bag "your
+week"; son's voice-message joke about a cow in a lift); **the Armenian ward
+sister** at Bagratashen, about 60, speaks Russian, remembers Davit's mother
+("She was rude to everybody."); **the Gazette Office counter boy**, about
+23, with a cold ("Sorry. I say it to everyone."); **Zurab's father's
+neighbour**, a nurse who does his leg dressings at night for jam.
+
+### Places
+- Rauf's pharmacy: main street, Marneuli, between a wedding-dress shop and
+  a phone-mender; green cross missing its top arm (looks like a T); back
+  room with two-ring hob and a Baku tyre-company calendar; squared-paper
+  "who owes who" sheet; tea in glasses with sugar lumps, drunk through a lump.
+- The 05:20 bus from Marneuli bus station, old electric, via Shulaveri.
+- Sadakhlo crossing: Georgian booth, bridge over the Debed, Armenian booth;
+  the commons hall between, pale blue circle on white; a belt and a grey
+  arch for bags; people walk round it. Screen line format:
+  `MEDICAL · INSULIN GLARGINE 100 U/ML · 10 PENS · UNLICENSED · LOGGED`.
+- Bagratashen commons hospital: long, low, pale brick and glass, on the site
+  of the old border hospital where Ketevan worked nights; no reception desk,
+  a lobby screen of the day's allocations and staff names; protocol posters
+  in Armenian, Russian, English, Georgian (the Georgian one hand-corrected
+  in biro and initialled); commons blues "the pale blue of the commons on
+  every map"; a patients' screen with theatre sessions and no waiting list.
+- National Gazette Office, Rustaveli, opens at eight; Form G-14, Notice of
+  Withdrawal Before Gazette; red stamp WITHDRAWN BEFORE GAZETTE.
+
+### Mechanism decisions made in Part 2 (later parts must honour)
+- **Scanner logs are live commons telemetry.** The instance sees each
+  consignment as it crosses (13,491 "a little over an hour old" saw the ten
+  pens at 06:14). It sees goods, dose and batch numbers, never the carrier.
+- **The shift swaps:** the Georgian nurses at Bagratashen are on no roster.
+  Each works in the place of a rostered Armenian commons nurse, who pays
+  her in cash out of a commons wage. So "the hospital was fully staffed. The
+  record said so. The record did not say by whom." Keep this light; don't
+  open an Armenian-prosecution thread.
+- **The ring lends both ways.** Rauf lends to the Bagratashen commons
+  pharmacy across its own three-day lag (a new diabetic boy of nine); they
+  lend Georgia what the Care Service hasn't sent. "Their trouble is three
+  days. Ours is three years."
+- **Runners:** nurses carry the cool-bag by weekly rota on the bus ("Your
+  week"). Rauf hands it up at the bus station.
+- **The 4 Feb standing order (memo 13,490, item 4):** January scanner
+  return, 54 unlicensed medical consignments under 4 kg; "Inspection of
+  Sadakhlo medical freight is set at priority 2 from 9 February. Unlicensed
+  stock found on inspection is seized."
+- **The 8 Feb erratum (memo 13,494, item 5):** "Standing inspections:
+  Sadakhlo medical freight is at priority 5, per an erratum applied
+  overnight to the order of 4 February. The order as corrected reads:
+  'Inspection priority 5. Consignments may be relief stock.' At priority 5
+  no inspector is available before April. None is scheduled." Record shows
+  *Old: Inspection priority 2.* / *New: Inspection priority 5. Consignments
+  may be relief stock.* Signed only "Night Registry": errata never carry a
+  clerk's name. 4.1's memo should show it standing: "Standing inspections:
+  Sadakhlo medical freight, priority 5 (corrected 8 Feb)."
+- **Why Akinyi wrote it on the night of 7–8 Feb:** the inspection began 9
+  Feb, so the 8 Feb memo was the last that could lower it. She read the
+  ring schedule in the intake on the turn beginning 6 Feb (04:00 Tbilisi,
+  Thu 6 Feb), before Davit withdrew it at 08:15. Part 3 can say so.
+- **"Relief stock"** is Davit's own phrase from the withdrawn Schedule 3.
+- **Davit already suspects the desk:** "he knew, because he had sat beside
+  her for a fortnight in 2072 while she showed him how to fill in the
+  form, which desk the Caucasus intake had always gone to." So in 3.2 he
+  arrives knowing, as the outline wants.
+- **Reporting is closed to him:** the Irregularity in the Record form would
+  make him confess the withdrawn filing's contents (2.5). This is the 3.2
+  reason "he can't report her" already on the page.
+
+### Schedules so far
+| No. | Content | Filed | Gazetted / read | Status |
+|---|---|---|---|---|
+| 1 | Statistics: "has not, in any month since March 2093, filled more than 70 per cent of its nursing establishment" | Mon 3 Feb | Thu 6 Feb (13,492) | Read; memo: "has nurses the record does not show" |
+| 2 | Retired nurses, counts only: 640, median 68, hours, wards, no names | Tue 4 Feb | Fri 7 Feb (13,493) | "Unverifiable counts carry no weight. If they were identified, they would be capacity." |
+| 3 | The ring as "relief stock", 23 pharmacies (14 Marneuli municipality, 9 Lori), dates each district hospital would have had no insulin | Wed 5 Feb, 16:40 | would have been Sat 8 Feb | Withdrawn Thu 6 Feb 08:15 (Form G-14). Never gazetted |
+
+Davit told his deputy the names "would follow in an amended schedule".
+Lamara's name sits saved, unfiled. Final Schedule 4 = persons (1,912);
+Schedule 7 = carriage. Schedules 5 and 6 are unassigned so far.
+
+### Forecaster
+- Failure scenario dropped from 60 to **57** on 7 Feb after Schedules 1 and
+  2 were read. 4.1 says "nearly done, and the forecaster says 60%"; to stay
+  consistent, 4.1 should either say it has crept back to 60 as the failure
+  draft improved, or use 57.
+
+### Memo numbers and items used (Part 2)
+- 13,490 (Tue 4 Feb): items 4 (Sadakhlo order) and 9 (petition now in the
+  record; schedules may be filed until 28 Feb; none yet).
+- 13,491 (Wed 5 Feb): running during the crossing; no text quoted.
+- 13,492 (Thu 6 Feb): item 9 reads Schedule 1.
+- 13,493 (Fri 7 Feb): item 9 reads Schedule 2.
+- 13,494 (Sat 8 Feb): orbit 1,204,302; Mongolia fault report gazetted,
+  Bayanzürkh transformer to be replaced 12 Feb, supply rerouted; item 5 the
+  erratum; item 14 "Errata applied overnight: 39 …"; a whale off the Azores.
+
+### Lines delivered (ledger)
+- One morning, one mind: "It gives reasons," Davit said. "Nobody knows if
+  they're why. It doesn't either; it's gone." (2.3, 7 Feb)
+- Unverifiable counts: memo 13,493 (above).
+- Premise shown: 13,492 and 13,493 Georgia items move toward "capable";
+  "Georgia was more visible this morning than it had been on Monday, and it
+  looked a good deal less needy."
+- Why's benefit shown: the scanner. Rauf: "You can't bribe a thing that
+  forgets you by midnight. … It logged the cognac."
+- Reach hinted: Rauf's cousin in Alaverdi ("You're helped, and then you're
+  scheduled."); Lamara's call ("I'd get scheduled."; "Your mother would
+  have put the letter in the stove.").
+- Carriage = goods, not persons: the belt and arch; "The persons were
+  Georgia's business and Armenia's … The commons did not look up at them.
+  It looked at the bags."
+- Errata, one per clerk per shift, read by nobody: 2.5 paragraph.
+- Twist hinted: 2.5 in full; Mariam "See? It remembered."
+
+### New open threads
+- **Davit's flight:** Friday 14 Feb, booked as "a records matter".
+- **Lamara:** "I'm asking too." She now knows about Schedule 3 and the
+  withdrawal. Their relationship is strained, not broken (that is Part 5).
+- **The woman of fifty's warning about Eka** ("don't write her") prefigures
+  4.3. Eka should recognise Davit from the bus.
+- **Zurab's line** "It can be right and he can still be on the list. Both."
+  Part 4's slip to April can land on that.
+- **The Bagratashen ward sister** knew Ketevan; could be a source in Part 4
+  (optional), or not used again.
+- **The radio** now has its back on and plays with a whine. Still
+  half-mended.
+
 ## Voice notes
 
 - **Narration:** close third on Davit, past tense, plain and exact. Long
@@ -237,5 +377,10 @@ man in bed six** (hypo, talks to "Gocha").
   her voice; ends on hospitality as a weapon (the wine).
 - **Mariam:** quick, half-right, argues from prepared positions, says "it
   remembered".
-- Watch: zinger closers at ~3.7 per 1,000; trim where a paragraph ends on
-  a reflexive short beat. "The way" similes: 3 so far.
+- **Rauf:** jokes with exact counts; Azerbaijani, Armenian and Russian on
+  the phone; treats people "as a batch number"; calm when frightened.
+- **Zurab:** few words, practical, lands one plain sentence per scene.
+- Watch: zinger closers now ~5.1 per 1,000 (Part 2's and-chained
+  paragraphs end on short clauses). Still under calibration's 7.6, but trim
+  reflexive ones in revision. "The way" similes: 4 so far. Em-dashes: still
+  only the one.
