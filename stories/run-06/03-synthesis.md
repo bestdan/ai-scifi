@@ -232,8 +232,64 @@ her language stops being a legal language at all.
 
 ## Panel summary
 
-*(Added after the critiques.)*
+| Premise | Vinge | Chiang | Banks | Stephenson | Cartographer | Mean |
+|---|---|---|---|---|---|---|
+| A. The Morning Record | 1 | 2 | 1 | 1 | 1 (37/40, N5) | 1.2 |
+| B. The Speaker's Reasons | 2 | 1 | 3 | 4 | 2 (34/40, N4) | 2.4 |
+| C. The Port | 4 | 3 | 4 | 2 | 4 (34/40, N4) | 3.4 |
+| D. The Empty Set | 3 | 4 | 2 | 3 | 5 (31/40, N3) | 3.4 |
+| E. Equally Authentic | 5 | 5 | 5 | 5 | 3 (34/40, N4) | 4.6 |
+
+The panel's shared warnings:
+
+- **The clerk's line risks the whistleblower attractor** (Banks,
+  Stephenson, Chiang, Cartographer). It has to be a fact the minister uses,
+  not one he discovers and reveals.
+- **B's reveal lands early and then repeats** (Chiang, Stephenson). It
+  needs a clock, an adversary, and a procedure that lasts the length.
+- **C's global question is thin, and its second timeline costs words**
+  (every lens).
+- **D's people have no face, and its fix is copy-identity ground** (Chiang,
+  Cartographer).
+- **E is a short story at novella length,** and it answers the voice
+  question with none (every lens but the Cartographer).
 
 ## Decision
 
-*(Added after the panel and the consultant.)*
+**A, The Morning Record,** with these fixes:
+
+1. **The clerk's line is the minister's instrument.** He learns of it, uses
+   it, and never publishes it. The clerk gets a name, a method and nine
+   years of overnight ritual. If the arc map shows the load is too heavy,
+   the "names him" turn is the first thing cut.
+2. **The whole lawmaking loop goes on the page.** The petition is drafted,
+   amended and costed in real numbers. The determination is issued. The
+   absorbed or refused function is then administered. The next morning's
+   memo shows what changed. This meets the brief's "drafted, amended,
+   costed, passed and administered".
+3. **The memos come early and sound distinct** from the minister and the
+   clerks. The opening is the minister naming a person in a clause, not a
+   memo.
+4. **The futurity lives in the institutions, not the wards.** The bible
+   decides what the hospitals look like at F3, so that a present-day ward
+   doesn't read as low futurity.
+5. **The commons gets one concrete moment of vastness** (Banks), so the
+   global governor's scale is felt and not only stated.
+
+**Why A:** it is the only premise that answers all four seed questions, and
+the brief's voice question, inside one device. It is the only N5. Four
+lenses with different blind spots (futurity, moral friction, machinery and
+novelty) rank it first, and Chiang ranks it second. Its procedure
+regenerates: every clause drafted changes what the next morning's instance
+believes, so the plot stays in motion without depending on a secret.
+
+**Consultant** (`agent-guidance:consultant`, fable): A, at 72% confidence,
+with B as runner-up. The crux it named was "whether A's two nova plus the
+clerk's-line twist fit the length without the clerk's line reverting to a
+discovery-and-disclosure plot." Fixes 1 and 2 above are its fixes.
+
+**Declined:** B is the runner-up. Its question is the deepest, but its
+reveal is one early event near the off-limits manipulation twist. C has a
+thin global question and costs two timelines. D has the least novelty and
+faceless stakes. E is too light for the length, and it answers the voice
+question with none.
