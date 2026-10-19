@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 5 Structure.
-- **Next action:** write `05-outline.md` (arc map plus a scene table per part), then dispatch the stage 5 panel.
+- **Current stage:** 6 Draft.
+- **Next action:** dispatch one `drafter` for Part 1; resume the same drafter for each later part, and update `drafts/continuity.md` after each.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -15,6 +15,7 @@
 | 2 Audit | 2026-10-19 | orchestrator (proxy) | Shortlisted five distinct cores: C1 Morning Instance × The Refusals (37); C2 The Interpreter × The Opening (36); C3 Bit-Exact × The Fostering (36); C4 The Empty Intersection × Concord Minus One (35); stephenson/Equally Authentic (34) | Top 5 minus rank 4 (egan/Morning Instance, which is C1's core), replaced by the highest single card sharing no core with the rest. Every shortlisted option gives the AI a voice bounded by its novum. Premises must steer off the audit's attractors: water as the test case, the clerk-whistleblower turn, the 400,000-person island, the name Ines, ferry mechanics, and the comprehension gate | C5 The Comprehension Jury × The Descent (34): the best rescue of the comprehension gate, which is this run's strongest attractor |
 | 3 Synthesize | 2026-10-19 | orchestrator (proxy) | A, The Morning Record, with the five fixes in `03-synthesis.md` (the clerk's line is the minister's instrument; the full lawmaking loop on the page; early, distinct memos; futurity in the institutions; one moment of the commons' vastness) | Panel mean rank 1.2 (first for Vinge, Banks, Stephenson and Cartographer, second for Chiang). The only premise that answers all four seed questions and the voice question in one device. N5. Consultant (fable) agreed at 72% | B, The Speaker's Reasons (mean 2.4) |
 | 4 Build | 2026-10-19 | orchestrator (proxy) | Bible approved after the stress test. Every must-fix note is resolved in the bible's stress-test log | Five lenses' must-fix notes, covering numbers, the errata channel, reproducibility, the carriage definition, the wound arc, the ending call and faces for the costs, are all fixed in the bible. Shoulds are taken or passed to the outline | Holding for a second stress-test round (declined: the fixes are mechanical and local, and stage 5's panel will see the bible in use) |
+| 5 Structure | 2026-10-19 | orchestrator (proxy) | Outline approved: five parts, about 34,200 words, with an arc map, a calendar and scene tables. All must-fix notes are resolved (see its Stage 5 lens notes); the bible gets a Stage 5 amendments section | Seven must-fix notes (Asimov 4, Chiang 2, Banks 1) closed: the late-addendum loophole made into plot, Akinyi's reasons, the inherited standing order, a mechanism that forces naming the nurses, no stated cost in 5.3 and 5.5, a mechanical cause for memo 13,516, and the cost of Akinyi's triage | A sixth, shorter part split out of Part 3 (declined: Part 3 carries the twist at 7,000 words) |
 
 ## Seed stock
 

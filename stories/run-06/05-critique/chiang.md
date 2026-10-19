@@ -1,0 +1,15 @@
+# Stage 5 critique: Chiang lens
+
+**Blind spots.** I read for idea and form, not momentum. Part 4's race and Part 5's pacing are Asimov's and Banks's to judge. I distrust the tidy reading of any ending, so weigh my complaints about 5.3 and 5.5 against theirs.
+
+The idea is good. The governor sees only the record, and every act of recording changes what the record then says about the nation. The climax, a determination that the instance's own reading produced, grows out of that. These are my notes on where the outline stops trusting it.
+
+1. **[must-fix] The ending states its cost where it should enact it.** 5.3 has "Davit's plain thought: what he lost, what he got, why". Scene 5.4 then shows the same cost through Eka's letter and Lamara's door. Cut the thought and let 5.4 carry it. In 5.5, "He tries to answer, and the page gives two or three plain sentences" is the one place the idea can produce the feeling. Answering Mariam is itself a recording decision: what he says aloud about Ketevan's ledger becomes what Mariam knows, and the family keeps no paper. Write that answer so he hesitates over what to say and what to leave unsaid. The cost is then his own act of recording, not a summary.
+
+2. **[must-fix] The instance is the most moving voice in the room.** In memo 13,516, "A schedule of evidence lists the dead only where the dead did the work. I note it" reads as tenderness. That breaks the bible's rule that the memos never warm, and it is the AI-feels trope arriving by the back door. Give the note a mechanical cause. For example, the registry's person-status field flags a deceased entry in a schedule, and the instance reports the flag. The reader supplies the warmth, and Mariam's question stays the only emotional beat.
+
+3. **[should] The form claims an identity it doesn't deliver.** The outline says the reader's knowledge equals the state's knowledge. But Davit's scenes show things the memos cannot know for days, so the reader knows more. Make that gap the device. Date every scene with its record status: "Not yet gazetted" under 1.1's typed name, flipping to "Gazetted" in the memo three days on. The reader then feels the lag as the governor's blindness. The 8 Feb memo (2.5) becomes a formal shock too, because it knows a fact the page marked as never gazetted. Cost: one line per scene.
+
+4. **[should] Cut 2.4, the opera.** It exists to deliver the Why as an aphorism: "They built a king that can't remember and has to say no." That is the theme spoken aloud, in a chance encounter. The Why is already shown in 3.3, where Ulaanbaatar shows the price of the design, and Tamar already has the 1.4 corridor. Move one dry, sceptical sentence of hers into 1.4. Also fold 5.1 (turn: "—") into the opening of 5.2 as one paragraph of waiting, and spend the words on 3.4's craft, the watched choice.
+
+5. **[could] 3.1 introduces too much.** In one scene it brings in Akinyi, the Night Registry, forty desks, 190 gazettes, the orbital board and the erratum form. Anchor only Akinyi and the lamp in 3.1. Move the 190 gazettes and the form into 3.4, where her method is the action. The vastness image (the board, the million points) can stay.

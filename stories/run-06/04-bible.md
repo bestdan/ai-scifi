@@ -603,12 +603,15 @@ style guide bans.
   them. Eka is among the first letters. Lamara stops speaking to Davit.
 - **He has written his mother into the record against her will.** The
   last memo of the story is instance 13,516, the first to read the record
-  with the licence in it. Its Georgia item reviews the schedules behind
-  the new carrier, and it notes flatly: "Schedule 4 lists 1,912 persons,
-  of whom one is deceased: Ketevan Kiknadze, nurse, 2019–2096. A schedule
-  of evidence lists the dead only where the dead did the work. I note it."
-  He reads it at the kitchen table. Mariam reads it over his shoulder and
-  says, "Why is Grandma in it?" He tries to answer.
+  with the licence in it. It validates the new carrier's supporting
+  schedules against the civil registry, a mechanical check, and reports:
+  "Validation: Schedule 4 lists 1,912 persons. One is recorded deceased in
+  the Georgian civil registry: Ketevan Kiknadze, nurse, 2019–2096.
+  Schedules of evidence may list deceased persons where the evidence
+  concerns work done. No action." The warmth is the reader's, not the
+  instance's. He reads it at the kitchen table. Mariam reads it over his
+  shoulder and says, "Why is Grandma in it?" His answer is a recording
+  decision: he tells her one thing and keeps another.
 - **His final act is to start drafting again:** an amnesty bill for the
   400. The story ends on the first clause of that bill. It is drafting,
   not victory.
@@ -656,6 +659,46 @@ The outline sets the parts. This is the proposal it starts from, about
 
 Per-part ledger rows: every graded row above names its part. The outline
 adds a scene-level ledger per part.
+
+## Stage 5 amendments
+
+The stage 5 panel's must-fix notes added these rules and facts. They
+override anything earlier in this file that conflicts with them.
+
+- **Unverifiable counts carry no weight.** A schedule of evidence must
+  identify persons so they can be checked against civil registries. A
+  count without names is read and given no weight, which is why every
+  schedule names people.
+- **A carrier licence requires every person who carries goods across the
+  border to be identified.** The ring's runners are the shift-swap nurses,
+  who take turns carrying the cool-bag on the bus. Licensing the ring
+  therefore means naming the nurses, and naming them exposes their shift
+  work to national prosecution, because persons crossing are not carriage.
+  An unnamed carriage schedule has no chance of a licence.
+- **Standing orders are inherited.** An order such as an inspection
+  priority stands, and every later memo carries it until it is changed.
+  Akinyi's 8 Feb erratum corrected a standing order, so priority 5 has
+  stood ever since. That is why her line could keep the ring running to
+  the 26th.
+- **Tamar's counter-schedule (24 Feb)** names the 640 retired nurses she
+  knows from her wards and frames the 400 as unlicensed labour, by count.
+- **The late addendum.** Davit holds back one clause, an argument that
+  nurses crossing to work are carriage of services, and files it on 28
+  February. That is too late to be gazetted before 1 March, so only an
+  erratum could carry it. Akinyi doesn't carry it: she carries Patagonia.
+  "Nobody dies of it by Thursday."
+- **Why Akinyi confirms to Davit:**
+  - He has already worked it out.
+  - He can't report her without explaining how he knew what his withdrawn
+    filing said.
+  - She retires next year and has been wondering whom to tell.
+- **Why nobody else has noticed:** about forty errata a night against
+  fourteen million entries, and long errata (corrected names, addresses,
+  citations) are routine. The memo's oversized-erratum line is routine
+  too.
+- **Akinyi's triage has a cost.** In 3.4 she passes over a vaccine
+  cold-chain fault for a bridge closure. Three days later a memo reports
+  41,000 doses destroyed in Lagos.
 
 ## Rules deliberately broken
 
