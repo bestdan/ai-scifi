@@ -20,6 +20,8 @@ with SendMessage, so the voice holds across drafts.
 3. `stories/<slug>/04-bible.md`, all of it. Its amendments and stress-test
    resolutions are binding.
 4. `stories/<slug>/05-outline.md`. Its scenes table is the plan.
+5. `process/reader-profile.md`, the *How the best-loved stories are built*
+   section. It says who this story is for.
 
 **Task:** write the whole story as draft 1.
 - **Length.** Stay within the brief's length range; its top is the hard

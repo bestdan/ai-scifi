@@ -35,7 +35,9 @@ Don't pass `model:`.
 top of the brief's length range, or narrow it until it fits. Reject a
 premise whose plain pitch doesn't hold up, whose novum doesn't bear
 directly on what the protagonist does all day, or whose Reach stays inside
-the household. Pick on the brief's seed. A note the brief carries from an
+the household. Pick on the brief's seed. Among premises that serve the seed
+equally, prefer the one `process/reader-profile.md` says this reader would
+enjoy most, and say which of its pulls the choice rests on. A note the brief carries from an
 earlier debrief is a constraint every premise has to meet, not the reason to
 prefer one. In `human` mode, recommend one and the human picks it. In
 `proxy` mode, first get an `agent-guidance:consultant` second opinion on the

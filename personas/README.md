@@ -17,6 +17,7 @@ another lens covers them. If every lens agreed, the panel would be useless.
 | **Vinge**, the Singularitarian | `vinge.md` | Futurity; how to write past the event horizon | Le Guin (the human scale) |
 | **Rajaniemi**, the Immersionist | `rajaniemi.md` | Texture, jargon density, trusting the reader | Asimov (plate glass) |
 | **Liu**, the Strategist | `liu.md` | Cosmic sociology, deep-time strategy, scale, consequence followed to its end | Le Guin (the human scale) |
+| **Tchaikovsky**, the Naturalist | `tchaikovsky.md` | Non-human minds written from inside; evolution as the author of a culture; contact as negotiation | Watts (minds with nobody home), Lem (the unknowable) |
 | **Stephenson**, the Systems Builder | `stephenson.md` | Systems and institutions, digression as pleasure, technical delight, wit | Chiang (restraint) |
 
 ## Functional roles
@@ -34,4 +35,4 @@ with a **distinct job and a named tension** with an existing lens. One that
 would mostly agree with somebody already on the panel doesn't qualify. Lenses
 that could be added later: Octavia Butler (power, survival, bodies changed by
 the other), Ann Leckie (distributed selves, pronouns, empire), Stross (the
-economics of acceleration), Adrian Tchaikovsky (truly non-human cognition, evolutionary scale).
+economics of acceleration).

@@ -64,6 +64,12 @@ class ProcessLinks(unittest.TestCase):
         self.assertIn("**Reach:**", text)
         self.assertIn("Pick on the brief's seed", text)
 
+    def test_reader_profile_is_read_where_it_is_aimed(self):
+        self.assertTrue((REPO / "process" / "reader-profile.md").exists())
+        for stage in ("01-ideate.md", "03-synthesize.md", "06-draft.md"):
+            self.assertIn("process/reader-profile.md",
+                          (STAGES / stage).read_text(), stage)
+
     def test_debrief_checks_the_human_with_directed_questions(self):
         # The human picks from options built from the ledger rows; the open
         # comprehension questions are for the cold reader alone.

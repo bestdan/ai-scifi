@@ -110,10 +110,10 @@ text is restored (`process/stages/09-polish.md`).
 
 | Stage | Lenses |
 |---|---|
-| 1 Ideate | Asimov, Banks, Watts, Egan, Chiang, Le Guin, Lem, Vinge, Rajaniemi |
+| 1 Ideate | Asimov, Banks, Watts, Egan, Chiang, Le Guin, Lem, Vinge, Rajaniemi, Tchaikovsky |
 | 2 Audit | Cartographer |
 | 3 Synthesize | Vinge, Chiang, Banks, Cartographer |
-| 4 Build | Watts, Egan, Le Guin, Lem |
+| 4 Build | Watts, Egan, Le Guin, Lem, Tchaikovsky |
 | 5 Structure | Asimov, Chiang, Banks |
 | 7 Review | Asimov, Watts, Le Guin, Chiang, Cartographer, plus the First Reader (report, then comprehension answers) and the comprehension grader |
 | 9 Polish | Line Editor, then Asimov and Rajaniemi spot-checks |
