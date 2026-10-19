@@ -463,9 +463,16 @@ sense, and appears only in the costing.
   - The petition is filed on 29 January.
   - The schedule period runs 30 days, closing at the end of 28 February.
   - The determination comes on 1 March, from instance 13,515.
-  - The last filing that can be gazetted in time is 25 February, plus 72
-    hours, which makes 28 February. The honest schedule is filed on 25
-    February.
+  - Filings are gazetted at the third turn after filing. A filing on 26
+    February is gazetted at the turn that begins 1 March, so instance
+    13,515 is the first and only instance to read it before deciding. That
+    makes 26 February the last useful filing day. Tamar's counter-schedule
+    is filed on 24 February and first read on 27 February. The honest
+    schedule is filed on the afternoon of 26 February.
+  - Schedule 4 lists 1,912 persons: 640 retired nurses, about 400
+    shift-swap nurses, 23 pharmacists and their about 120 drivers and
+    runners, and about 730 others (porters, cooks, a priest who drives).
+    One of them is deceased: Ketevan.
 - **The gazette lag:** three turns, about 72 hours. A filing made Monday is
   read by Thursday's instance.
 - **The Ulaanbaatar deaths:** January 2089. Three instances in a row
@@ -478,7 +485,7 @@ sense, and appears only in the costing.
   - Population: 3.4 million.
   - Care Service: 61 hospitals, with 38% of nursing posts vacant.
   - Waiting-list deaths: about 2,100 a year.
-- **The web:** about 1,900 people.
+- **The web:** 1,912 people in Davit's Schedule 4.
   - 640 retired nurses, median age 68.
   - 23 pharmacies, 14 in Georgia and 9 in Armenia.
   - About 400 nurses on cross-border shift swaps.
