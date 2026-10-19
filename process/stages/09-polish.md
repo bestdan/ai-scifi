@@ -34,7 +34,23 @@ Don't pass `model:`.
 5. **After polish, the gate again.** Run the stage 7 comprehension gate on
    `final.md`, with a fresh `first-reader` and a fresh
    `comprehension-grader`, and write every file to `reviews/final/` instead
-   of `reviews/draft-N/`. A failed gate sends the story back to stage 8.
+   of `reviews/draft-N/`. A failed gate sends the story back to stage 8,
+   except after a loop-cap pass (step 1). Then compare, for each failing
+   row, the text the drafter's notes quote for it in draft N with the same
+   text in `final.md`:
+   - **Passed on draft N and changed in polish:** polish broke the row.
+     Restore draft N's text, log it, and go on. Polish may not break a row,
+     and undoing that is a line fix, not a stage 8 round.
+   - **Otherwise:** log the row under "Gate failures" in `STATUS.md`, and
+     go on. Unchanged text means the reader differs, not the text. A row
+     that already failed on draft N came through the loop cap, and polish
+     may have rewritten it on purpose, as a required item.
+
+   A failing Terms row works the same way, term by term: if the Terms row
+   passed on draft N and polish introduced a failing term or changed any use
+   of it, restore draft N's wording of the passages involved and log it;
+   otherwise log it. A lost-list entry that touches a graded row is handled
+   as that row.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
    `just kindle <slug>` builds the EPUB if it is missing or older than
