@@ -843,6 +843,55 @@ in Dmanisi** who drives patients to dialysis; the woman who runs the
   to ask", and the satellite's "temperature" (now "Its record is closed.").
 - **tetri** is glossed: "not a single coin".
 
+## Draft 3 changes (round 2 revision; these override earlier entries)
+
+- **Page 1 order:** typed name → "Nothing happened" (with "erased at
+  midnight Greenwich time, four in the morning here"; "booted before
+  dawn") → instance 13,485 → headstone → Lamara and the 2,100 → deletion,
+  now with the must-refuse rule in one sentence → radiator stops → the
+  Nairobi-desk paragraph → the driver.
+- **Schedule of evidence** is defined on page 1: the facts a petitioner
+  files in support of a petition, of which a list of persons is one kind.
+- **1.4 costing** is now only its last line: the 214 posts, Davit's among
+  them. The 11,300 staff and the 0.9% of GDP are gone from the page. The
+  deputy "wanted to talk about the costing".
+- **1.5 hypo:** Lamara turns bed six's head before the gel goes in.
+- **3.1:** the Registry briefing is cut to the flagged-few-hundred sentence.
+  The 1.1 paragraph carries the header-stamping.
+- **3.2:** Akinyi counts her reasons ("That is one reason." / "That is
+  two." / "And the third?"). "A machine that read the intake would be the
+  end of the charter. A clerk who breaks its rules is only a crime."
+- **3.4:** the narration no longer says orders are inherited. Davit only
+  notices that the order has stood since the eighth.
+- **3.5:** 13,503 is the first memo to say "does not follow", because the
+  scanners' February return was gazetted at the turn of 17 Feb. Davit "had
+  read the order every morning since the eighth".
+- **Licence = pharmacies (Part A) + persons who carry (Part C).** No
+  "vehicles" in Schedule 7's clause ("The persons listed at Part C carry
+  goods …"). Świecko covers the drivers "only as the persons who carried".
+  The freight officer's "bag goes in the vehicle" is a routing rule on
+  tomorrow's form.
+- **Part C carries employment,** "*nurse, Care Service*", because the Code
+  asks for each carrier's relationship to each person carrying. The
+  prosecutor reads it against the determination's roster paragraph (5.4).
+- **4.4 stakes in dialogue:** the deputy proposes the sixty plus Part C.
+  Davit: "Four hundred and six women working tonight is capacity, whatever
+  I call it. I ran it on Sunday. Single figures." After Rauf's call he says
+  both branches aloud. The deputy adds "And Eka Beridze holding a letter."
+  The costing note drops "Schedule 7 refused: no change."
+- **Khinkali** are "the fat twisted dumplings".
+- **13,515:** "four schedules from the ministry, numbered 1, 2, 4 and 7".
+  The committee's 640 all appear in Schedule 4, which also has Lamara.
+  "verified against your registry. The work described is done, or was done,
+  by them."
+- **5.3:** Akinyi's reason for her wrong belief is that the 2089 memos
+  repeated their order without remark. Tamar's text message is cut. A new
+  exchange with Mariam: "What did you call it?" / "Carriage of goods." /
+  "So it licensed them because of what you called them." / "Because of what
+  they are …"
+- **5.4:** after "bored to death" comes the absorption paragraph, ending "It
+  was lawful now, and it was no longer theirs."
+
 ## Voice notes
 
 - **Narration:** close third on Davit, past tense, plain and exact. Long
