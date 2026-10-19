@@ -76,7 +76,7 @@ Davit had the soldering iron in its stand and the back off the radio again. The 
 
 "Boring," Mariam said, "boring, fish," and skipped. "Oh. 'Carriage: a carrier licence is issued at the Świecko crossing, Poland to Germany, for sawn timber, 212 vehicles a day. Its schedules are in order.' Two hundred and twelve trucks of planks." She scrolled. "Here's us."
 
-> 9. Georgia: the record shows a Cession Act (Hospitals), passed on 27 January. A petition under it has not reached the record. The record shows 61 hospitals and 38 per cent of nursing posts vacant. The record does not show who works the vacant posts. Somebody does; the hospitals are open. Until it is written, I cannot count them.
+> 9. Georgia: the record shows a Cession Act (Hospitals), passed on 27 January. A petition under it has not reached the record. The record shows 61 hospitals and 38 per cent of nursing posts vacant. Occupied beds, from the Service's January return: 81 per cent. The record does not show who works the vacant posts. Somebody does; the hospitals are open. Until it is written, I cannot count them.
 
 Davit put the iron down.
 
@@ -166,7 +166,7 @@ She ran them. Vacancies, waiting lists, the 2,100 deaths, no schedule of persons
 
 "Thirty-one," she said. "With the hospitals failing."
 
-"With the hospitals open. It can count occupied beds. It said so this morning. Somebody does; the hospitals are open."
+"With the hospitals open. Eighty-one per cent of beds occupied in January. That's the Service's own return, and it read it this morning. Somebody does; the hospitals are open."
 
 "So we tell it who."
 
@@ -206,13 +206,13 @@ Sixty per cent.
 
 "The twenty-sixth, by close of business, and I would rather the twenty-fifth."
 
-She wrote it on the edge of a filing slip, which he noticed and liked. Then, because she was quick and because she was thirty-four, she said, "And if something's late, it goes in as an erratum. They go in overnight."
+She wrote it on the edge of a filing slip, which he noticed and liked. Then, because she was quick and because she was thirty-four, she said, "And if we're late, we find a typo in something and correct it. Errata go in overnight."
 
 "Errata are for typos."
 
-"I've seen long ones."
+"That was a joke."
 
-"You've seen corrected citations. An erratum corrects a clerical error, and it goes in at the next turn, by hand. Midnight in Greenwich, four in the morning here. There's no instance running for that hour, and forty clerks in Nairobi apply the night's corrections, one each, and that's all they're allowed. One a night, for a misspelled name." He heard himself and stopped. "I did two years on the Night Registry when I was younger than you. A clerk who put a schedule through as a correction would be in a cell by the weekend, and the schedule would be struck."
+"Not in Nairobi it isn't. They go in at the turn, midnight in Greenwich, four in the morning here, by hand, while nothing is running." He heard himself and stopped. "I did two years on the Night Registry when I was younger than you. A clerk who put a schedule through as a correction would be in a cell by the weekend."
 
 "I didn't know you were Registry."
 
@@ -318,7 +318,7 @@ Afterwards he went out into the corridor to get away from his deputy, who wanted
 
 "I think it's arithmetic."
 
-"It's a good machine," she said. "I'll give it that. Do you know why they built it like that? Wiped every night, made to refuse? I had a professor who was in Nairobi for the charter as a young man, carrying papers. He said the drafters sat for two years and the only thing they all agreed on was that every government any of them had ever lived under had been bought by somebody. So they built a king that can't remember and has to say no. That was the whole point. Nobody trusted the ones who remembered."
+"It's a good machine," she said. "I'll give it that. My old professor carried papers at the charter, and he said the only thing the drafters agreed on was that every government they had ever lived under had been bought. So they built a king that can't remember and has to say no. That was the whole point. Nobody trusted the ones who remembered." She looked at him. "And you want to hand it the one thing we still get wrong for ourselves, because you're tired of being the man who remembers how badly."
 
 "Then who is it for?"
 
@@ -392,9 +392,11 @@ He thought, as he had thought at nine years old in the doorway, and at twenty-fi
 
 It was in a two-litre water bottle on the passenger seat, dark red and cloudy, with a twist of cling film under the cap. He had locked the car. He drove back with it rolling against his hip at every bend, behind the lorries, which had not stopped and did not stop all night. At four, somewhere past Koda, the clock on the dashboard turned over and instance 13,488 was erased, and nothing on the road was any different. At five the next one booted in Nairobi and began to read.
 
-The ministry was dark except for the night porter. He went up the stairs instead of waiting for the lift, sat in his coat at his desk with the window shut and the radiator knocking, and opened the template. SCHEDULE OF EVIDENCE: PERSONS. *Persons will be read as listed.*
+The ministry was dark except for the night porter. He went up the stairs instead of waiting for the lift, sat in his coat at his desk with the window shut and the radiator knocking, and opened the draft his deputy had built on Friday from his third scenario, the one the forecaster liked. SCHEDULE OF EVIDENCE: PERSONS. Its preamble was already in place: *Dependent on volunteers with a median age of sixty-eight. No succession. No legal basis.* Under it the first box was empty.
 
-He typed LAMARA GOGIASHVILI, 74, WARD SISTER (RET.), and this time he saved it.
+He thought of the pen with the Armenian label behind the milk, and the man in bed six asking for tea, and what would become of bed six on the first night Lamara could not drive to Marneuli. Everything he had seen tonight was held up by women in their seventies and a cool-bag. That was what the preamble said. He could stand to write her into that. It was true, and it was the kind of true that might get her paid before it killed her.
+
+He typed LAMARA GOGIASHVILI, 74, WARD SISTER (RET.), and this time he saved it. He did not file it. The filing button sat at the foot of the screen, and he left it there and went home to shave.
 
 ## Part Two: Schedules
 

@@ -36,3 +36,24 @@ Carry-forward notes go into the brief for every later part.
   remembering is".
 - **Lighten the mechanism load per scene.** Let people and place carry
   Part 2.
+
+## Part Two (Le Guin)
+
+**Fix in Part Two:**
+
+1. **Armenia reads as frictionless.** Add one concrete cost on the ceded
+   side: the Armenian ward sister, or the rostered nurses paid to stay
+   home. That gives Tamar's case weight.
+2. **The "helped, then scheduled" thesis is stated three times.** Keep
+   the cousin's version. Cut Lamara's abstract version back to the stove
+   and her mother's letter. Zurab's "Both." line stays.
+3. **Schedule 3 is filed before Davit rings Rauf,** though he promised
+   himself he would read it first. Either fix the order or make it a
+   visible failure he notices.
+
+**Carry forward:**
+
+- **Part Three must not just confirm the seam.** Davit deduces it in 2.5,
+  so Akinyi has to re-teach it with details only she has: her method, the
+  exercise books, the texture of Ulaanbaatar, what she passes over. Part
+  Three is her knowledge, not his confirmation.
