@@ -294,7 +294,7 @@ She put her glasses on again and read from a paper of her own. "I'd like to put 
 
 She let that sit long enough for everyone in the room to understand it, and then she moved to the costing of the transition, and for an hour and a half they went line by line through what cession would cost Georgia in its first year: the transfer of buildings, at no charge, under the charter; the transfer of 11,300 Care Service staff onto commons contracts, at commons rates, paid by the commons; the national contribution to the commons budget, which would rise by 0.9 per cent of GDP; and the 214 posts in the Ministry of Health, Davit's among them, which would cease to exist. Tamar read that last line without looking at him. Davit answered it without looking at her. The nursing students wrote everything down on paper.
 
-At a quarter to one a member from Kutaisi, a retired schoolteacher who asked a question at every sitting on principle, moved that the committee file a schedule of evidence of its own. Tamar thanked him and moved that his motion be deferred to the committee's sitting of 23 February, "when the committee will have read what the ministry has filed, and so will the instance." The deferral was carried by seven votes to four. Davit watched her not look at him while the hands were counted.
+At a quarter to one a member from Kutaisi, a retired schoolteacher who asked a question at every sitting on principle, moved that the committee file a schedule of evidence of its own. Tamar thanked him and moved that his motion be deferred to the committee's sitting of 24 February, "when the committee will have read what the ministry has filed, and so will the instance." The deferral was carried by seven votes to four. Davit watched her not look at him while the hands were counted.
 
 Afterwards he went out into the corridor to get away from his deputy, who wanted to talk about the 0.9, and found the chair at the window by the stairs with a cardboard cup of coffee from the machine, looking down at the traffic.
 
@@ -1047,3 +1047,317 @@ In the departure hall he read memo 13,503 on his phone, standing by a window wit
 He thought about what she had said on the wall, the shape of what isn't there. Thirty-five years of nothing, in every gazette in the world, for a woman who had worked more nights than anyone he knew. He had always thought of it as a silence his mother had kept against him. It had not occurred to him until now that somebody reading the Caucasus at a desk in Nairobi could see the silence, as a shape, from four thousand kilometres away, and know what it was.
 
 The plane left at ten. He had his machine open on the tray table over Somalia, with the persons schedule on the screen, the draft his deputy had built from the failure scenario, Lamara's name in its first box, saved and unfiled. There were nine days left in which anything he filed would be read in time. He looked at it until the steward came with the trolley, and then for some while after, and he wrote nothing at all.
+
+## Part Four: The Honest Schedule
+
+> **Instance 13,504.** This is what I understand the world to be today.
+>
+> …
+>
+> 3. Lagos. A consignment of 41,000 doses of measles vaccine was found warm on arrival at the national store on 17 February and destroyed. The carrier's report of a cold-chain fault at sea, filed 15 February, is read today. The routing of 15 to 17 February was made without it. It was correct on the record it had. The record shows that the doses were measles vaccine. It does not show for whom.
+>
+> 4. Carriage. Standing inspections: Sadakhlo medical freight, priority 5 (corrected 8 February). Rusumo bridge: the Tanzanian roads authority's notice is now in the record and agrees with the corrected route entry. Two documents say the same thing. I take the earlier one as confirmed by the later.
+>
+> …
+>
+> 9. Georgia. No new schedule of evidence is in the record. Ten days of the schedule period remain. A schedule filed after 26 February will be read after the determination. This is arithmetic, not policy.
+
+*Tuesday 18 February, 06:10 · Instance 13,504*
+
+He read it in the back of the car at the lights by the opera house, with the heater going and the windows misted and Zurab's football murmuring in the front, and he read item 3 three times, and then he put the phone face down on his knee.
+
+He had watched her draw the line. It had been a pencil line on a pad of paper, under a green lamp, through the first of three dots, and it had taken less than a second, and he had sat beside her and said *forty thousand children* and then let her work. *It kills nobody by Tuesday.* It was Tuesday. It had killed nobody. Forty-one thousand doses had been tipped into a hospital incinerator in Lagos the day before, by somebody in gloves, and somewhere in the record of the Nigerian health ministry there was a schedule of clinics and dates that had just become a list of clinics and no dates. The memo did not know for whom. Neither did he. *Those children will be vaccinated next month from another lot.* Zurab had met him off the night flight, and in the transit lounge at Dubai he had looked for the next lot. The Nigerian national store had nothing in the record for measles before May.
+
+She might be right. She had been right about a bridge. He did not know that either; the bridge was still standing this morning, and it had been standing on the night she wrote it, and it would go on standing or not, and either way the lorries had gone round by Kabanga. He had flown home with a woman's arithmetic in his head as if it were a law, and this morning it was only arithmetic, done by one tired person at three in the morning, between a bridge and a cold-box, with nobody to check it and nobody ever to tell her if she had been wrong. He could not tell anyone either. There was nobody in the world he could say *I watched it happen* to who would not have to ask him how.
+
+"They rang my father," Zurab said, at the next lights.
+
+Davit looked up.
+
+"The Republican. Yesterday." Zurab's eyes were on the road. "April now. Maybe. They said maybe twice."
+
+"I'm sorry."
+
+"He said, good, he'll see the cherry blossom." The lights changed. "He's never looked at the cherry blossom in his life."
+
+Davit put the phone in his pocket with the warm vaccine in it. He found that it sat there beside Zurab's father quite easily, the two of them, as if they had always been the same size.
+
+That evening Mariam asked him about Nairobi at supper, whether he had seen a lion, and he said he had seen a football match, and she said that was worse than nothing. Then she said, with her mouth full, that the memo that morning had been sad. "The vaccine. In Lagos. It says it was correct on the record it had." She frowned at her plate. "It sounds like it's sorry."
+
+"It isn't sorry. It doesn't do sorry."
+
+"I know. It sounds like it, though." She pushed a piece of potato round. "Forty-one thousand. That's more than my whole school times forty. Who was supposed to get them?"
+
+"It doesn't say."
+
+"It says it doesn't say," Mariam corrected him. "That's different."
+
+He looked at her across the table, his daughter, fourteen, who read the governor of the world as if it were a letter from a friend and who had just read it better than he had. He thought of a pencil line through a dot under a green lamp. He said nothing about it, then or afterwards, to her or to anyone. It was the first thing he had ever kept from her that was not about himself.
+
+The persons schedule was nearly done. His deputy had spent the ten days he was away on the telephone to district hospital directors, and the directors, who had known for years exactly which old women came in at night and which of their nurses went to Armenia three nights a week, because they wrote their rotas around them, had told her. Not all of them. Enough. She had two hundred and twelve retired nurses named by Tuesday, with their ages and their wards, every one of them framed in the preamble his third scenario had given her: *Dependent on volunteers with a median age of sixty-eight. No succession. No legal basis.* Lamara's name was still in the first box. The forecaster, fed the names as they came, had crept back up from fifty-seven to fifty-nine on Wednesday, and on Friday, when the directors in Kakheti came through, to sixty.
+
+He sat in on one of the calls on Thursday, because she asked him to. The director at Telavi was a man of sixty with a smoker's voice who had run his hospital for nineteen years, and he read out his night women from memory, slowly, as if he were reading a war memorial. "Manana Kapanadze, seventy-one, she's on women's surgical, Tuesdays and Fridays. Her sister Tsiala, sixty-nine, the same, Thursdays, when her hip lets her. Dodo Chkheidze. I don't know how old Dodo is, she won't say, she taught my wife." He stopped. "Deputy Minister, what happens to them?"
+
+"They're evidence."
+
+"Of what?"
+
+"That Georgia can't go on like this."
+
+There was a pause on the line, and a lighter clicked. "Georgia has gone on like this since before I was born," the director said. "Write them down. I'll tell them it was me."
+
+"Sixty," his deputy said, on Friday afternoon. "We're back. File it Monday?"
+
+"Wednesday. With everything."
+
+"We have till Wednesday."
+
+"Then we'll use till Wednesday."
+
+She did not argue. She had been watching him since he got back, in the way you watch a colleague who has come home from somewhere with a story he isn't telling, and she had decided, apparently, to let him not tell it.
+
+*Sunday 23 February, 11:00 · Instance 13,509*
+
+Tamar rang him on Sunday morning, at home, while he was standing at the sink with his hands in the washing-up. His wife had taken Mariam to see her mother in Mtskheta. He dried his hands on his trousers and answered.
+
+"I'm telling you before my committee does," Tamar said. "Tomorrow at ten we take the Kutaisi motion. I have the votes. We file at noon."
+
+"File what?"
+
+"Them." She let it stand. "Six hundred and forty retired nurses, by name, by ward, by night. I've had the list for six years in my head, Davit, and since the first of February I've had it on paper. And the girls who go to Armenia. Those by count. Four hundred, give or take, working in a foreign hospital outside the terms of their Georgian licences, without the ministry's consent."
+
+"That's the prosecutor's language."
+
+"It's the law's language. I'm a legislator. I'm using the law's words." He heard her drink something. "It will say Georgia has six hundred and forty nurses the Care Service doesn't pay and four hundred it can't keep, and that the hospitals run. It will say capacity, because it is capacity. And it will be refused, and the hospitals will stay ours."
+
+"And the four hundred."
+
+"Are by count. The memo says counts carry no weight."
+
+"In Nairobi. In Tbilisi the prosecutor reads counts the same morning."
+
+"Then the prosecutor will have to do some work," Tamar said. "Better me than you, Davit. I'll be accurate. You'd make them sound like a famine."
+
+He stood at the sink with the phone and the tap dripping, and for a moment he could not think of anything to say that would not have been a plea, and he would not plead with her on a Sunday morning with his hands wet.
+
+"You know what it'll read on the twenty-seventh," he said.
+
+"I know what it'll read. That's why I'm filing on the twenty-fourth." She paused. "You have till Wednesday. You can file whatever you like after mine. It'll read both. It reads everything." And then, more quietly, in a voice he had not heard her use: "I didn't put Lamara Gogiashvili on it. I couldn't. I've left her for you."
+
+When she had rung off he went into the spare room, where his machine was, and ran the forecaster on a scenario he had hoped not to have to write: his failure schedule, everything his deputy had gathered, framed as dependency, filed on Wednesday; and Tamar's, framed as capacity, filed on Monday, read first. The forecaster considered it for longer than it had considered anything.
+
+Twenty-five per cent.
+
+He sat looking at the number. It had read the same record he had, and it was cheap and often wrong, and it was not wrong about this. A description of these people was going into the record either way. The only thing left to decide was whose words it would be in.
+
+He thought of the carrier licence in the first memo he had heard this year, Mariam reading it out over cold tea: *a carrier licence is issued at the Świecko crossing, Poland to Germany, for sawn timber, 212 vehicles a day. Its schedules are in order.* Two hundred and twelve trucks of planks. He found the licence in the record and opened its schedules, out of something that was not yet an idea, only an itch. Schedule A, the goods. Schedule B, the vehicles. Schedule C, the persons carrying: two hundred and sixty-three drivers, by name, by licence number, by date of birth, every one of them. Under the commons Carriers' Code, a licence covered goods and the vehicles that moved them, and it required every person who carried those goods across the border under the licence to be identified. It covered the goods. It did not cover the drivers; the drivers' own licences stayed Polish and German. But they had to be named, every one, or there was no licence.
+
+He sat for a long time in the spare room with the Świecko schedules open, while the light went round the building.
+
+*Sunday 23 February, 19:00 · Instance 13,509*
+
+Lamara's house was on the edge of Marneuli, a one-storey house of grey block with a tin roof and a yard, and a vine trained over a frame of iron pipes so that in summer the yard was a green room. In February it was a frame of black knotted wood with the sky through it. She had a fire going in the stove in the kitchen and a pan of beans on top of it, and a bottle on the table that had once held lemonade and now held wine, the same cloudy red as the bottle in his car.
+
+"Sit," she said. "Eat. Then drink. Then we'll see."
+
+He ate the beans, which were good, with bread she had baked, which was better. She did not eat. She sat across from him with a glass of her terrible wine and watched him as she had watched him in the ward, as if he were a chart. When he had finished she took his plate away and came back with a book and put it on the table in front of him, on the oilcloth, between the bread and the wine.
+
+It was a hardback accounts book of the old Soviet kind, with a marbled cover gone soft at the corners and a spine mended with brown tape, and it was thick. On the front, on a square of white paper glued down, in his mother's square handwriting: *2049–*. She had never written the closing date.
+
+"She gave it to me when she was ill," Lamara said. "She said, keep it, or burn it, but don't give it to him. So I'm giving it to you." She drank. "Read it. Then tell me you'll write her down."
+
+He opened it.
+
+His mother had ruled the columns herself, in ink, with a ruler, and they were the same on every page for twenty-two years: *Date. Where. Covered for. With.* And then a narrow column without a heading, for notes. The first entry was 3 March 2049, when he had been two. He looked, first, for the last: October 2071, the autumn before he left for Nairobi, and after it a hundred ruled pages she had never used. *Rustavi No. 2, women's medical, 24 beds. Covered for: Nana B. (her mother died). With: Lamara.* The next was two nights later. The next was the night after that.
+
+He turned the pages. It went on. Rustavi, Tbilisi, Rustavi, Marneuli, Gardabani. *Covered for:* names of women he half knew, from the stairwell and the market and his mother's funeral. *With:* Lamara, mostly, or another name, or nobody. Then, from the autumn of 2052, a new place, written in full the first time and abbreviated ever after: *Border Hospital, Bagratashen.* Covered for: Armenian names. Siranush, Anahit, Gohar. Those were the lean years on the other side, before the strikes, when the Armenian hospitals had been worse than the Georgian ones, and women had gone the other way across the bridge.
+
+In February 2055 there were six lines in a row that said only *Not worked. D. measles.* He had no memory of having measles. He looked at the six lines for some time and then turned the page, because he could feel the shape of what they wanted to do to him, and he did not want it done in Lamara's kitchen.
+
+The notes column was almost always empty. When it was not, it said things like *Bed 4 bled 02:00, held.* Or *Generator out 01:30–03:10, torches.* Or once, in 2053, only *Hard night.*
+
+He knew where he was going in the book before he got there, and he made himself turn the pages one by one anyway, all through 2053, all through the first months of 2054, until he came to May.
+
+*16 May 2054. Border Hospital, Bagratashen, men's surgical, 11 beds. Covered for: Siranush M. (child, fever). With: —.* And in the notes column: *Alone. Two post-op bad. Surgeon would not come out, roads. Both kept. Home 08:40.*
+
+The sixteenth of May 2054 was the night of the first-year concert at School No. 98 in Vake. He had been seven. He had sung in the second row, a song about a stork, with his hair wet down by his father, and when he had looked for her at the end of the song her chair beside his father had been empty, with her handbag on it to keep it, because she had meant to come. He had brought that chair up with her at least once a year for forty years. He had brought it up at her kitchen table in November 2096, a month before she died, and she had said nothing, as she always said nothing, and got up to put the kettle on.
+
+Eleven men. Two of them bad. No surgeon. Alone.
+
+He sat with the book open at that page. The stove ticked. Lamara did not say anything, and he was grateful to her for that, and also angry with her for it, and with his mother, and with Siranush M., whoever she had been, and her child with its fever. He found that every one of those angers was still there, exactly where it had been for forty-four years, only it was now standing beside a ward of eleven men in the dark at Bagratashen, and it could see them.
+
+"She could have told me," he said.
+
+"You were seven."
+
+"I wasn't seven in 2096."
+
+"No," Lamara agreed. "In 2096 you'd have told someone." She refilled his glass, though he had not touched it. "That's why she wrote it in there. So that nobody could ever tell her it hadn't happened, and so that nobody could ever use it. Both." She pushed the glass an inch towards him. "At the supra after her funeral, when the man leading the toasts stood up to drink to the dead, I drank to her nights. Nobody knew what I meant. Your wife thought I'd had too much. I had, but that was what I meant."
+
+He drank the wine. It was as bad as she had promised.
+
+"Now," Lamara said. "Tell me you'll write her down."
+
+He did not tell her. He did not tell her anything. He closed the book and put both his hands flat on the marbled cover, and after a while he asked if he could take it home, and she said it was his, it had always been his, that was the trouble.
+
+She stood in the yard under the bare vine while he got into the car, with her cardigan pulled round her and her arms crossed, and she did not wave. He understood now why his mother had been gone. He did not forgive her for it. He drove back to Tbilisi with the book on the passenger seat where the wine had been, and both of those things rode with him, and neither of them made room for the other.
+
+*Monday 24 February, 07:30 · Instance 13,510*
+
+Morning handover on the ground floor at Marneuli was eight women round the desk with the wire trays, the night ones grey in the face and the day ones still smelling of outside, and Lamara not among them. The night had been bad: a man in bed fourteen, the one who had mended her gutter, had gone in the small hours, and they talked about him in low voices while the day sister read through the charts. Davit stood by the door. He had driven down at six without knowing exactly why, with the ledger on the seat beside him, and he had known as he came in that he had come to be seen by these women, as if being seen by them were a thing he owed.
+
+The young nurse with the plait was among the day staff. She had her coat still on over her uniform and her bag over her shoulder, and when handover broke up she did not go to the ward. She came across to him.
+
+"You were on the bus," she said. "Three weeks ago. With Lamara's friend."
+
+"Yes."
+
+"Eka Beridze," she said, as if he might write it down, and then, seeing that he had understood that, her face changed. "I work here Monday, Tuesday, Friday. And Wednesday, Thursday and Saturday I'm over there, in the place of a woman called Lilit, who has a mother with dementia in Vanadzor. You know how it works. You saw."
+
+"I saw."
+
+"They say you're writing everyone." She kept her voice down; the day sister was ten feet away, writing. "Don't write me. Please." She did not say it beautifully. She said it like a nurse asking a doctor for something she needed for a patient, quickly, with the reasons ready. "My boy is eight. His father is in Russia, or he isn't, I don't know. Three shifts over there, I can pay the rent and he has shoes. Shoes that fit, not his cousin's. If I lose my licence here, I lose the three over there too, because I'm only over there because I'm a nurse here. Do you understand? It's one thing. If you pull it, it all comes."
+
+"I understand."
+
+"So don't write me."
+
+He did not answer, and she saw that, too.
+
+"He sends me jokes," she said suddenly, and took her phone out of her coat, and played him one, to fill the silence or to make him hear the boy, he did not know which. It was the cow in the lift. A child's voice, high and pleased with itself, began the joke, *a cow gets in a lift and the lift man says which floor*, and then dissolved, and did not come back, and the message ended in the sound of a small boy laughing so hard he could not breathe.
+
+"He's never finished it," Eka said. "Not once. I don't know how it ends."
+
+He knew why he could not promise her. He had known since Sunday in the spare room. If the ring was going to be licensed as carriage, every person who carried its goods across the border had to be named in its schedule, and she carried the cool-bag. It was her week every fourth week. Without her name, and the names of every woman on that bus who had ever had the bag on her knees, there was no licence; there was a schedule describing an unlicensed ring, and the ring stayed what it was, an offence in Georgia and seizable at the bridge whenever an order changed. Rauf stayed a man who had exported prescription medicine without a licence fifty-four times in January. And Eka, named or not, stayed the woman who carried it.
+
+"I can't promise you," he said.
+
+She looked at him for a moment longer, and then put the phone away and buttoned her coat over the uniform, though she was going to the ward, where it was warm.
+
+"Lamara said you'd say that," she said, and went.
+
+He saw Lamara herself on his way out. She was in the corridor by the side door with the brick, in her good black coat, with a woman of forty who had been crying, the daughter of the man in bed fourteen. Lamara had an arm through hers and was telling her something about the undertaker in a low, practical voice. She saw Davit over the daughter's shoulder. She did not stop talking and she did not nod, and she did not look away either. She looked at him exactly as long as it took to be sure he had seen her see him, and then she turned the daughter gently by the elbow and walked her out into the yard, towards the cars, to see about the man who had mended her gutter.
+
+At four o'clock, as he was leaving the district health office, where he had spent the afternoon not doing anything useful, his deputy sent him a single line: *Committee schedule filed 12:10. 640 named. 400 by count. Text attached.* He did not open the text. He knew it would be accurate.
+
+*Tuesday 25 February, 22:00 · Instance 13,511*
+
+By ten on Tuesday night the fourth floor was dark except for his office and the corridor light, and the radiator under his window had knocked itself out an hour before and gone cold. He had his coat on. He had the ledger on the desk beside the keyboard, closed, and he did not open it again.
+
+There were three filings he could make, and he had laid them out to himself in the afternoon on the back of an envelope, the way he had once laid out cases for a minister. The schedule as failure, his deputy's careful work, sixty per cent before Tamar and twenty-five after. Nothing at all: let Tamar's stand alone in the prosecutor's words, and let the instance decide on that. Or the honest one, which he had not written yet and was now writing.
+
+Tamar's schedule lay open on the second screen. He had read it on Monday night and he read parts of it again now, because he needed to know exactly what he was writing against. It was accurate, as she had promised. *Dodo Chkheidze, age not stated, Telavi Regional Hospital, women's surgical, night duty without contract or remuneration, approximately two nights weekly since at least 2079.* And further down, under its own heading, a single paragraph: *Approximately 400 nursing staff employed by the Care Service perform regular paid work at commons-run hospitals in the Republic of Armenia, outside the scope of their Georgian practising licences and without the consent of the Ministry required by the Health Professions Act, s. 31.* Without contract. Without consent. Outside the scope. Every word of it was true, and every word of it would read in Tbilisi like a charge sheet, because that was the language she had chosen to be accurate in.
+
+He wrote it plainly. Schedule 4: Persons. Every name his deputy had gathered, and Tamar's six hundred and forty, which she had sent him on Monday night without a covering note. The nurses who went to Armenia, named, from the directors' lists, with what they did on which nights. Rauf's pharmacists. The porters and cooks and the woman who ran the laundry at Gori for nothing, and a priest in Dmanisi who drove patients to dialysis twice a week in his own car. And beside each name not a dependency, not a median age, but what the person did, and how well. *Night duty, men's medical, three nights a week since 2081. No adverse events recorded in the ward's own book.* He wrote them as his mother had written her columns. Where. Covered for. With.
+
+Then Schedule 7, which was the one he had sat in the spare room for. He drafted its first clause four times and read each version aloud under his breath at the dark window.
+
+> *The persons and vehicles listed at Part C carry goods, being medicines held by the pharmacies listed at Part A, across the border between Georgia and Armenia at Sadakhlo, in both directions, on most days. This is cross-border carriage of goods. It is unlicensed.*
+
+He looked at the last sentence for a long time. It was true. It was also the sentence that put Rauf's ring inside the only jurisdiction on earth that could make it lawful, and it was written so that a mind reading it fresh would have no choice about whose business it was. *This is cross-border carriage of goods.* The commons could not take Georgia's hospitals. It already owned the road.
+
+Part C was the runners. Sixty-one women, by name, by date of birth, by the weeks they had carried the bag. Rauf's nephew had brought the list up from Marneuli that afternoon in an envelope, in Rauf's hand on squared paper, with a note clipped to it that said only *Every fourth week, in rotation, since 2091. Don't lose it.* Eka Beridze was the fourteenth.
+
+He typed her name, and her date of birth, and *runner, every fourth week, since 2094*, and then he sat with his hands off the keys, as he had sat a month ago with Lamara's, and nothing happened, and nothing would for three days.
+
+He tried it without them first. He owed her that. He made a copy of Schedule 7 with Part C struck out and a single line in its place, *Persons carrying: approximately sixty, nurses employed by the Care Service, not named*, and ran it through the forecaster against the Carriers' Code. The forecaster did not even take long. Licence: 0 per cent. It added, in the small grey type it used for its reasons, *Schedule omits identification of persons carrying. Code s. 14(2). An application lacking Part C is incomplete.* With Part C, named, it gave the licence forty per cent, and cession, with both schedules and Tamar's, six.
+
+He rang Rauf at half past ten. Rauf answered on the first ring, as if he had been sitting by the phone, and listened while Davit read him the clause, and Part A, which was his own name and his thirteen colleagues' and the nine across the river, and asked him whether he would let it go in.
+
+There was a long silence on the line, with the television on behind it, some quiz show, a woman getting an answer wrong.
+
+"Carriage," Rauf said finally. "So we're lorries."
+
+"You're carriage. Lorries are carriage."
+
+"And the instance licenses lorries. It doesn't prosecute them. It schedules them." Another silence. "And my pharmacy inspectorate can't touch a commons carrier."
+
+"Not for the carriage."
+
+"Then your king owns every road out of here," Rauf said, and Davit heard him begin to laugh, quietly, the laugh of a man doing sums. "Every road. Every lorry on the Rustavi road, every bus to Sadakhlo, every cool-bag on a nurse's knee. It owns the lot, and it doesn't even know it yet. You're going to tell it." The laughter stopped. "And the girls?"
+
+"Are named. They have to be. The licence needs them."
+
+"And the girls' work over there."
+
+"Isn't carriage," Davit said. "People aren't goods. That stays Georgia's."
+
+"So we're lorries, and they're people, and people can be prosecuted." Rauf breathed out. "Put me in. Put all of us in. If you don't, the man with the gloves comes in April, or whenever somebody fixes priority five. But you tell those girls yourself, Davit. Don't let them read it in the memo."
+
+When he had rung off he wrote the costing note. It was for the minister, and for the file, and it would be gazetted with everything else, and he wrote it knowing that.
+
+> *Costing, for the Minister. Grant: 2,100 fewer deaths a year within five years; the web ends. Refuse: the deaths continue and 400 names go to the prosecutor. Schedule 7 licensed (est. 40%): the pharmacies' carriage becomes lawful and is administered by the commons. Schedule 7 refused: no change. In every case the Ministry of Health's 214 posts continue only if cession is refused.*
+
+He read it twice. It was the plainest thing he had written in thirty years, and he did not like it, because there was nowhere in it to stand.
+
+There was one more clause. He had been carrying it since the touchline in Kibera, and he wrote it last, in a separate file, by itself. *Persons who cross the border to perform work in a commons-run hospital, in the place of a rostered commons employee, provide a service across a border, which is carriage of services and within the jurisdiction of the commons.* He knew it was weak. The Carriers' Code said goods and vehicles and nothing about services, and a lawyer in Nairobi would take it apart in a paragraph, and so would any instance. But an instance might not be given time to. An addendum filed on the twenty-eighth would not be gazetted until the third of March, two days after the determination. Only one thing in the world could put it in front of the deciding instance in time, and that thing was a woman at desk 12 with one form a night.
+
+He did not file it. He did not delete it either. He saved it under a name that meant nothing, *addendum_draft*, and he turned off the lamp and sat in his coat in the dark office, a man who had asked a clerk a principle and had now written the thing the principle was for.
+
+*Wednesday 26 February, 05:15 · Instance 13,512*
+
+Rauf had said tell them yourself, and so at a quarter past five on Wednesday he was standing at Marneuli bus station in the dark, in the light from the café, beside the 05:20 with its heaters going and its windows wet. Zurab had driven him down without asking why and was sitting in the car with the engine running and the football off.
+
+The women came in ones and twos with their soft bags. Some of them knew him now, and stopped. The woman of fifty who had given up the cool-bag at Shulaveri saw him from across the forecourt and came straight over and stood in front of him with her bag on her shoulder.
+
+"Well," she said.
+
+He told them, the six or seven who had stopped, with the bus door open and the driver watching from his seat. He told them plainly, the way he had written it. That he was filing their names that afternoon, every woman who had ever carried the bag. That it was the only way the pharmacies could be licensed, because the licence needed the name of everybody who carried. That the licence would cover the medicines and the bag, and would not cover them, because people were not goods. That on Saturday morning the instance would read their names, and so would the Prosecutor General in Tbilisi. That he was sorry. He heard himself say it and could not tell if it was true or only the thing a man says at a bus door.
+
+Nobody said anything for a moment. Then one of the younger women laughed, short and hard.
+
+"You came at five in the morning to tell us you're reporting us," she said.
+
+"Yes."
+
+"That's very polite."
+
+Eka was at the back of the little group with her plait pinned up already and her coat buttoned. She looked at him once, and then got on the bus, and sat by the window on the far side, and took out her phone, and did not look up again. Rauf came across the forecourt in his fur hat with the cool-bag and handed it up to the woman of fifty, who took it without a word and sat down in the front seat with it on her knees and her two hands on top of it.
+
+"It's my week," she said to Davit through the open door, as if he had argued. Then the door hissed shut, and the bus pulled out past the dark mosque and the lit bakery, and was gone towards the border.
+
+Rauf stood beside him and watched it go.
+
+"Well," Rauf said. "Now they know. They knew already. But now they know you know." He put his hands in his pockets. "Go and make your speech."
+
+*Wednesday 26 February, 10:00 · Instance 13,512*
+
+The Health Committee sat on Wednesday at ten for its last hearing in the period, in the long room with the tall windows onto Rustaveli. It was full. The nursing students were back in the public seats, more of them, and the journalists, and, in the second row, three old women from Lamara's ward in their good coats, who did not look at him. The man with the newspaper was there, with his newspaper. Tamar sat at the centre of the horseshoe with her glasses on.
+
+The clerk read the committee's own filing into the record, by title only, *Schedule of Evidence of the Health Committee, filed 24 February*, and the room stirred, because everybody in it had read it by now in the national gazette's pending list, and everybody knew somebody whose name was on it.
+
+"Deputy Minister," Tamar said. "The ministry has a statement."
+
+He had written it at five that morning and had not changed it since. He did not read it. He found that he knew it.
+
+"The ministry will file two further schedules of evidence today," he said. "Schedule 4 names one thousand nine hundred and twelve persons who keep Georgia's hospitals open without being paid by the Care Service, or without being paid by it for what they do. It says who they are, where they work, and what they do, and how well. Schedule 7 describes the movement of medicines between pharmacies across the border at Sadakhlo as what it is. I want the committee to understand what this means, because by Saturday the instance will, and by Saturday morning so will the Prosecutor General." He looked along the horseshoe, and then at the public seats, because he had decided at five o'clock that he would. "Every name I file is a person the state will now help, or charge, or schedule. And every one is a thing Georgia no longer does for itself."
+
+Nobody said anything. Down on Rustaveli a tram went past, and the windows hummed with it faintly and were still.
+
+Tamar took her glasses off.
+
+"The committee notes," she said, "that the deputy minister has described his own filing as an act of state." She folded the glasses. "The committee also notes that it filed on Monday, so that it is not under any illusion about what it did either." She looked at him down the length of the room. "We'll both be read on Saturday, Deputy Minister. I hope one of us is wrong."
+
+"So do I, Chair."
+
+"Good," Tamar said. "Then we agree on something. The hearing is closed."
+
+The National Gazette Office took filings for the day's batch until five. At four o'clock he was at his desk on the fourth floor with the door shut and his deputy at the other side of it, standing, with her coat on, because she had said she would be there when he did it and then had not known where to sit.
+
+Schedule 7 he filed first. It went quickly. The slip came back with its intake number.
+
+"You'll lose your job," his deputy said, from the door. "Either way. If it's granted, the post goes. If it's refused, the minister will need somebody to have done this."
+
+"I know."
+
+"I'd have filed the sixty." She said it without reproach, as a fact for the record. "I'd have slept."
+
+"You'd have been right to," Davit said. "It was a good schedule. You built it well."
+
+She looked at him as if he had said something in a language she had learned at school and not used since. Then she took off her coat after all, and sat down on the hard chair by the door, and stayed.
+
+Schedule 4 was open on the screen, one thousand nine hundred and eleven names long, alphabetical, and the cursor was in the last empty box at the foot of it, where he had left it at six that morning. Lamara was in it, near the top, in capitals, where she had been since the night of the insulin pen. Eka Beridze was in it, under B. Rauf was in it. The priest from Dmanisi was in it.
+
+The ledger lay closed beside the keyboard. He did not open it. He did not need the dates.
+
+He typed KETEVAN KIKNADZE, NURSE, 2019–2096, and in the column for what she did, *Night duty, district and border hospitals, 2049–2071, unpaid. Covered for others. Often alone.* Then he read the line through once, aloud under his breath, the way a woman at desk 12 had taught him to read a clause in 2072, and filed it.

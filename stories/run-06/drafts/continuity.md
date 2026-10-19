@@ -547,6 +547,161 @@ who will inherit the Caucasus (reads first page, last page, signature).
 - New understanding of his mother: the silence was visible from Nairobi as
   a shape. Primes 4.2 without resolving it.
 
+## Part 4 additions
+
+### Edit to Part 1 made during Part 4
+- 1.4: Tamar's deferral now goes to **the committee's sitting of 24
+  February** (Monday), not the 23rd, which is a Sunday. Tamar rings on Sun
+  23rd to warn him; the committee votes at 10:00 on Mon 24th and files at
+  12:10.
+
+### Lem carry-forward (for Part 5)
+- Memo excerpts get exact, alien noticings at the edge of what the instance
+  can think. In Part 4: "It was correct on the record it had."; "It does not
+  show for whom."; "Two documents say the same thing. I take the earlier
+  one as confirmed by the later."; "This is arithmetic, not policy."
+- **Part 3 will be revised after Part 5** so that Akinyi treats each line as
+  one morning's patch and the Sadakhlo order's persistence surprises her in
+  the 5.3 call. Part 4 relies on nobody's knowing about persistence except
+  Davit (he reads "priority 5" standing in memos). Rauf's "whenever somebody
+  fixes priority five" is consistent with either version.
+
+### Names introduced (Part 4)
+| Name | Role | First line |
+|---|---|---|
+| Eka Beridze | ward nurse, Marneuli, 31; three days a week at Bagratashen in place of **Lilit** (mother with dementia, Vanadzor); son 8, father "in Russia, or he isn't" | 4.3, "Eka Beridze," she said, as if he might write it down |
+
+Also named in passing (not characters): **Lilit** (the Armenian rostered
+nurse); **Siranush M.**, Anahit, Gohar (ledger names); **Nana B.** (ledger
+2049); **Manana Kapanadze, 71; Tsiala, 69; Dodo Chkheidze** (Telavi night
+women, read out by the Telavi director); **School No. 98, Vake**. Unnamed:
+**the Telavi director** (60, smoker, 19 years; "Write them down. I'll tell
+them it was me."); **Rauf's nephew** (brings the runner list); the **daughter
+of the man in bed fourteen** (who died the night of 23–24 Feb); the **priest
+in Dmanisi** who drives patients to dialysis; the woman who runs the
+**laundry at Gori**.
+
+### Ledger (Ketevan's)
+- Soviet hardback accounts book, marbled cover, spine mended with brown
+  tape; label *2049–*, closing date never written. Columns ruled in ink:
+  *Date. Where. Covered for. With.* plus an unheaded notes column.
+- First entry 3 Mar 2049 (Rustavi No. 2, women's medical, 24 beds, covered
+  for Nana B., with Lamara). Last entry **October 2071**, then ~100 blank
+  ruled pages.
+- From autumn 2052, *Border Hospital, Bagratashen*, covering for Armenian
+  nurses in Armenia's lean years. Notes like *Bed 4 bled 02:00, held.*;
+  *Generator out 01:30–03:10, torches.*; 2053 *Hard night.*
+- Feb 2055: six lines *Not worked. D. measles.* (He has no memory of it.
+  Deliberately left unresolved.)
+- **16 May 2054:** *Border Hospital, Bagratashen, men's surgical, 11 beds.
+  Covered for: Siranush M. (child, fever). With: —.* Notes: *Alone. Two
+  post-op bad. Surgeon would not come out, roads. Both kept. Home 08:40.*
+  The first-year concert at School No. 98, Vake: he was 7, sang in the
+  second row, a song about a stork; her chair empty with her handbag on it.
+  He last raised it in Nov 2096.
+- Ketevan told Lamara: "keep it, or burn it, but don't give it to him."
+  Lamara gives it anyway. "So that nobody could ever tell her it hadn't
+  happened, and so that nobody could ever use it. Both."
+- The supra used once: Lamara drank to Ketevan's nights when the man
+  leading the toasts stood to drink to the dead. **Supra is now spent.**
+- Davit has the ledger; he did not open it again on the 25th or 26th.
+
+### Calendar and numbers in Part 4
+- 13,504 (Tue 18 Feb): Lagos 41,000 doses found warm 17 Feb and destroyed;
+  fault report filed 15 Feb read today. Sadakhlo priority 5 (corrected 8
+  Feb). Rusumo notice now in the record. Georgia: ten days remain.
+- Nigerian national store shows no measles lot before **May** (Davit
+  checked in the Dubai transit lounge). Akinyi's "another lot next month"
+  is in doubt.
+- Zurab's father: the Republican rang on Mon 17 Feb: **April, "maybe"
+  twice.** "He'll see the cherry blossom."
+- Forecaster: failure 57 (7 Feb) → 59 (Wed 19) → **60** (Fri 21) as the
+  directors' names came in (212 named retired nurses by Tue 18). After
+  Tamar's filing, failure scenario **25%**. Named Schedule 7 licence
+  **40%**; unnamed Schedule 7 **0%** ("Code s. 14(2). An application lacking
+  Part C is incomplete."). Cession with honest schedules and Tamar's: **6%**.
+- Tamar's schedule (Schedule of Evidence of the Health Committee): filed
+  **Mon 24 Feb, 12:10**; 640 named retired nurses (she left Lamara off: "I've
+  left her for you"); ~400 by count, "outside the scope of their Georgian
+  practising licences and without the consent of the Ministry required by
+  the Health Professions Act, s. 31". Gazetted Thu 27 Feb (13,513).
+- **Carriers' Code:** a licence covers goods and vehicles; Part C must
+  identify every person carrying under the licence (s. 14(2)); drivers'
+  own licences stay national. Model: the Świecko licence's Schedule C, 263
+  drivers.
+- **Schedule 4 (Persons):** 1,912 names, alphabetical; each with what the
+  person does and how well, in Ketevan's column logic. Sources: the
+  deputy's directors' lists, Tamar's 640 (sent Monday night, no covering
+  note), the directors' lists of nurses who go to Armenia, Rauf's people,
+  porters, cooks, the Gori laundry, the Dmanisi priest. Last entry typed:
+  **KETEVAN KIKNADZE, NURSE, 2019–2096** / *Night duty, district and border
+  hospitals, 2049–2071, unpaid. Covered for others. Often alone.*
+- **Schedule 7 (Carriage):** Part A, the 23 pharmacies (Rauf + 13 in
+  Marneuli municipality + 9 in Lori). Part C, **61 runners** from Rauf's
+  squared-paper list ("Every fourth week, in rotation, since 2091");
+  **Eka is the fourteenth**, "runner, every fourth week, since 2094". Key
+  clause: "*The persons and vehicles listed at Part C carry goods, being
+  medicines held by the pharmacies listed at Part A, across the border
+  between Georgia and Armenia at Sadakhlo, in both directions, on most
+  days. This is cross-border carriage of goods. It is unlicensed.*"
+- Both filed **Wed 26 Feb, ~16:00**, Schedule 7 first; gazetted at the
+  turn beginning Sat 1 Mar; read by 13,515.
+- **Costing note** (for the Minister; will be gazetted): "*Grant: 2,100
+  fewer deaths a year within five years; the web ends. Refuse: the deaths
+  continue and 400 names go to the prosecutor. Schedule 7 licensed (est.
+  40%): the pharmacies' carriage becomes lawful and is administered by the
+  commons. Schedule 7 refused: no change. In every case the Ministry of
+  Health's 214 posts continue only if cession is refused.*" Written Tue 25
+  Feb, night.
+- **Held-back clause**, saved as *addendum_draft*, unfiled: "*Persons who
+  cross the border to perform work in a commons-run hospital, in the place
+  of a rostered commons employee, provide a service across a border, which
+  is carriage of services and within the jurisdiction of the commons.*" He
+  knows it's weak (the Code says goods and vehicles). To be filed 28 Feb
+  (5.1) → gazetted 3 Mar.
+- Committee statement (Wed 26, 10:00): "Every name I file is a person the
+  state will now help, or charge, or schedule. And every one is a thing
+  Georgia no longer does for itself." Tamar: "We'll both be read on
+  Saturday, Deputy Minister. I hope one of us is wrong." / "So do I,
+  Chair." / "Good. Then we agree on something."
+
+### Relationship states at the end of Part 4
+- **Lamara:** gave the ledger; at the hospital on the 24th she looked at
+  him and walked away. Not yet a break; Part 5 closes the door.
+- **Eka:** asked; he didn't promise; at the bus on the 26th he told them,
+  and she sat by the far window and did not look up.
+- **The bus women:** told at 05:15 on the 26th ("You came at five in the
+  morning to tell us you're reporting us." "That's very polite."). The
+  woman of fifty carried the bag that day: "It's my week."
+- **Rauf:** consents to being named as carriage. "Then your king owns
+  every road out of here … And the girls?" "But you tell those girls
+  yourself." Rauf: "Now they know you know."
+- **Tamar:** adversary, respectful; left Lamara off her list.
+- **Deputy:** "You'll lose your job. Either way." / "I'd have filed the
+  sixty. I'd have slept." She stayed, coat off, on the hard chair by the
+  door.
+- **Mariam:** read Lagos better than he did ("It says it doesn't say.
+  That's different."). He kept the Nairobi truth from her, "the first thing
+  he had ever kept from her that was not about himself."
+- **Davit's job:** 214 posts end under cession; under refusal "the
+  minister will need somebody to have done this."
+
+### Open threads for Part 5
+- 13,513 (27 Feb) reads Tamar's schedule; Georgia becomes "capable" in so
+  many words. 13,514 (28 Feb).
+- 28 Feb 16:00: Davit files the addendum; gazetted 3 Mar.
+- Akinyi's 5.3 call: Patagonia; "Your addendum was in my tray. I didn't
+  carry it. Nobody dies of it by Thursday."; Sadakhlo standing order
+  surprises her (per Lem's revision).
+- 13,515's determination: refuse; carriage licence; "Persons crossing are
+  not carriage. Their status is a matter for Georgia."; plus ONE flat line
+  on the Armenian roster discrepancy ("referred to the commons hospital
+  administration, Armenia").
+- 13,516 validation: Ketevan, "2019–2096", "No action."
+- Mariam: "Why is Grandma in it?" Answer: one thing told (nights at the
+  border), one kept (the concert).
+- Zurab's father slips again; the radio still half-mended; amnesty clause.
+
 ## Voice notes
 
 - **Narration:** close third on Davit, past tense, plain and exact. Long
@@ -578,6 +733,8 @@ who will inherit the Caucasus (reads first page, last page, signature).
 - **Rauf:** jokes with exact counts; Azerbaijani, Armenian and Russian on
   the phone; treats people "as a batch number"; calm when frightened.
 - **Zurab:** few words, practical, lands one plain sentence per scene.
+- **Eka:** quick, practical, asks like a nurse asking a doctor, reasons
+  ready; never pleads twice.
 - **Akinyi:** Kenyan English, exact, unhurried; answers with "Yes." and
   then with method; teaches rather than confesses; dry ("You are a very
   convenient man."; "Four to seven hours. Good."); reads while she talks;
