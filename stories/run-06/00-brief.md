@@ -28,8 +28,19 @@
 - **Off-limits:** nothing beyond the style guide. The rogue-AI uprising,
   the secret puppet-master reveal, and the "it was manipulating everyone
   all along" twist count as the stock darkness the tone charter rules out,
-  unless a card makes one of them its uncharted novum.
-- **Must include:** none.
+  unless a card makes one of them its uncharted novum. So are caricatured
+  camps, such as luddites against singularity optimists. People who resist
+  or embrace the AI do so for reasons the story takes seriously, and
+  positions cut across those lines.
+- **Must include:** the mechanics of governing on the page, shown rather
+  than summarised: how a law is drafted, amended, costed, passed and
+  administered, and the bureaucracy that carries it out. Procedure can be
+  the action of a scene, not only background to it.
+- **Open question for the cards: does the AI have a voice?** Each card
+  says whether the governing AI, or some component of it, gets a voice or
+  a point of view in the story (narration, documents, dialogue, none), and
+  why that choice serves the novum. Stage 3 weighs this choice explicitly
+  when it picks the premise.
 - **Panel changes:** add the **Stephenson** lens (`personas/stephenson.md`:
   systems and institutions, digression as pleasure, technical virtuosity,
   wit). A seed about how governance machinery works is squarely his ground.
