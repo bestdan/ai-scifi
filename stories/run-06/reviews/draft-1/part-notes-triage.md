@@ -57,3 +57,30 @@ Carry-forward notes go into the brief for every later part.
   so Akinyi has to re-teach it with details only she has: her method, the
   exercise books, the texture of Ulaanbaatar, what she passes over. Part
   Three is her knowledge, not his confirmation.
+
+## Part Three (Lem)
+
+**Fix in Part Three (in revision, after Part 5 so the ending is known):**
+
+1. **Akinyi is right about everything.** Give her the bible's wrong
+   belief: that each line is small, one morning's patch. She explains
+   standing orders in general but doesn't think through that her own
+   Sadakhlo line became one. She treats it as one morning's mercy for the
+   insulin. The persistence surprises her in Part 5's call ("That order
+   stood"). Cut or soften "Of course I knew" and "I can see the shape of
+   what isn't there."
+2. **Memo 13,502 confirms Rusumo worked** and she says "Good." That
+   undercuts "Mostly I never find out." Cut the confirmation, or make the
+   outcome ambiguous.
+3. **Sadakhlo reads as a favour to Davit.** Her motive is her own triage:
+   insulin would be seized, someone dies in three days. Davit is
+   incidental. Let the instance, not Akinyi, carry the noticing of the
+   seam, on the model of 13,503's "The notice … is not yet in the record."
+
+**Carry forward to Parts Four and Five:**
+
+- **More of the instance's alien, exact lines.** Flat noticings at the
+  edge of what it can think, like 13,503, in the memo excerpts of Parts
+  Four and Five.
+- **Akinyi's authority stays in doubt.** Her Part 5 call should show the
+  wrong belief breaking.
