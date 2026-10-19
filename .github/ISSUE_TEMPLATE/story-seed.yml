@@ -1,7 +1,7 @@
 name: Story seed
 description: Bank an idea for a future story run. Only the seed is required.
 title: "Seed: "
-labels: ["seed"]
+labels: ["seeds"]
 body:
   - type: textarea
     id: seed

@@ -62,7 +62,7 @@ You are running a fiction-writing pipeline, not a codebase. The process in
 
 ## The seed backlog
 
-Story ideas wait as GitHub issues labelled `seed`, filed through the
+Story ideas wait as GitHub issues labelled `seeds`, filed through the
 **Story seed** issue form. A seed is the human's raw idea. Don't expand it,
 comment on it or audit it before a run starts: anything an agent adds is an
 angle the human has seen before reading.
