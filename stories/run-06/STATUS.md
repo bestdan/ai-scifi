@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 7 Review, round 1 (draft 1, about 31,350 words).
-- **Next action:** collect the six lens critiques and the comprehension answers, then dispatch the comprehension grader.
+- **Current stage:** 8 Revise, round 1 → draft 2.
+- **Next action:** the drafter writes draft 2 from `06-revision-plan.md`, then stage 7 round 2 runs with a fresh First Reader on a copy with the drafter's notes stripped.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -16,6 +16,11 @@
 | 3 Synthesize | 2026-10-19 | orchestrator (proxy) | A, The Morning Record, with the five fixes in `03-synthesis.md` (the clerk's line is the minister's instrument; the full lawmaking loop on the page; early, distinct memos; futurity in the institutions; one moment of the commons' vastness) | Panel mean rank 1.2 (first for Vinge, Banks, Stephenson and Cartographer, second for Chiang). The only premise that answers all four seed questions and the voice question in one device. N5. Consultant (fable) agreed at 72% | B, The Speaker's Reasons (mean 2.4) |
 | 4 Build | 2026-10-19 | orchestrator (proxy) | Bible approved after the stress test. Every must-fix note is resolved in the bible's stress-test log | Five lenses' must-fix notes, covering numbers, the errata channel, reproducibility, the carriage definition, the wound arc, the ending call and faces for the costs, are all fixed in the bible. Shoulds are taken or passed to the outline | Holding for a second stress-test round (declined: the fixes are mechanical and local, and stage 5's panel will see the bible in use) |
 | 5 Structure | 2026-10-19 | orchestrator (proxy) | Outline approved: five parts, about 34,200 words, with an arc map, a calendar and scene tables. All must-fix notes are resolved (see its Stage 5 lens notes); the bible gets a Stage 5 amendments section | Seven must-fix notes (Asimov 4, Chiang 2, Banks 1) closed: the late-addendum loophole made into plot, Akinyi's reasons, the inherited standing order, a mechanism that forces naming the nurses, no stated cost in 5.3 and 5.5, a mechanical cause for memo 13,516, and the cost of Akinyi's triage | A sixth, shorter part split out of Part 3 (declined: Part 3 carries the twist at 7,000 words) |
+| 8 Revise (round 1) | 2026-10-19 | orchestrator (proxy) | Revision plan approved: 21 items (6 consensus, 7 adopted single-lens, 8 comprehension). The gate failed on draft 1: Premise, Stakes, Why, Twist and Reach partial; Terms missed; Ending got it | Every lens scored Structure 3, with the forecaster and deadline arithmetic as the shared cause. The comprehension failures are fixable with plain statements. The dominated filing is fixed by giving the names one job (Part C, twelve months) | Cutting the forecaster entirely (declined: it carries the failure-framing exploit) |
+
+## Gate failures
+
+- **Round 1 (draft 1):** Premise, Stakes, Why, Twist and Reach partial. Terms missed (supra, tetri, the turn). Lost-list 9 entries, 6 on graded rows. Ending and Who's who got it.
 
 ## Seed stock
 

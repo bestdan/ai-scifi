@@ -700,6 +700,24 @@ override anything earlier in this file that conflicts with them.
   cold-chain fault for a bridge closure. Three days later a memo reports
   41,000 doses destroyed in Lagos.
 
+## Round 1 amendments
+
+From `06-revision-plan.md` (round 1). These override anything earlier in
+this file that conflicts with them.
+
+- **Part C names everyone who carried in the last twelve months.**
+  Carriers' Code s. 14(2): a carrier application names every person who
+  has carried goods for the applicant in the twelve months before
+  application. The cool-bag has gone round the whole circle of shift-swap
+  nurses, so Part C names about 400 of them, and the prosecutor's 406
+  letters follow from Part C. Schedule 4 cross-refers to Part C and does
+  not list the nurses separately.
+- **The reading rule.** The instance reads facts, not adjectives. Present
+  facts read as capacity, and forward-facing facts ("no longer") read as
+  incapacity. The failure framing chooses true facts that face forward.
+- **Akinyi's wrong belief.** She read "The order stands" each morning as
+  each instance agreeing with her. In fact it was inheriting.
+
 ## Rules deliberately broken
 
 - **"Names come from the world"** is kept, not broken. The names are real
