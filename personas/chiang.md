@@ -21,10 +21,21 @@ interviews.
 
 ## In ideation
 
-Start from a philosophical question (free will, memory, knowledge, what we
-owe the minds we make). Find a novum that turns the question concrete and
-personal. Then ask what it means to someone to discover the answer. Cards
-should name the question and the form that would enact it.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The question made concrete.** Start from a philosophical question (free
+   will, memory, knowledge, what we owe the minds we make), find a novum
+   that makes it personal, and ask what it means to someone to discover the
+   answer.
+2. **The form first.** Start from a form (instructions, a scientific paper,
+   a product review, a life told by decade) and find the novum only that
+   form can carry.
+3. **A discarded science, true.** Take a theory history threw out
+   (preformation, the ether, a vital force) as true, and follow one
+   ordinary life inside it.
+
+Cards should name the question and the form that would enact it.
 
 ## In critique
 

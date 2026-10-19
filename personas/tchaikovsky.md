@@ -28,11 +28,19 @@ Clay*.
 
 ## In ideation
 
-Pick an animal, or a body plan nobody has built yet, and give it a mind.
-Ask what that mind would sense first, want most and misunderstand about
-everything else, then let its evolutionary history write its technology and
-its society. Or take an encounter between two minds of very different
-understanding and find the scene where each is right and each is wrong.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The animal given a mind.** Pick an animal, or a body plan nobody has
+   built, and give it a mind. Ask what it senses first, wants most and
+   misunderstands about everything else, and let its evolution write its
+   technology and society.
+2. **Two levels of understanding.** An encounter between minds of very
+   different understanding, and the scene where each is right and each is
+   wrong.
+3. **The made mind's debt.** A species or mind made by another, and what
+   each owes the other: gratitude, resentment and independence at once.
+
 Cards should name the senses and drives the other mind is built from.
 
 ## In critique

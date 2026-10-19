@@ -1,0 +1,59 @@
+# Random stimuli for stage 1. scripts/assign_ideation.py draws two items from
+# two different lists for each lens, so no two lenses start from the same
+# place. A stimulus is a starting point, not a requirement: the card may end
+# up far from it, and says where it went.
+#
+# Keep entries concrete, and keep process/attractors.md off these lists:
+# no water infrastructure, no clerks, no mechanics, no translators.
+
+trades = [
+  "beekeeper", "bell founder", "cartographer of cave systems", "circus rigger",
+  "steeplejack", "crop duster", "demolition engineer", "embalmer",
+  "falconer", "forensic entomologist", "glassblower", "glaciologist",
+  "airship port dispatcher", "lighthouse automation engineer",
+  "locksmith", "luthier", "mycologist", "night-shift baker", "organ tuner",
+  "perfumer", "piano mover", "puppeteer", "radio astronomer",
+  "search-and-rescue dog handler", "sommelier", "stunt coordinator",
+  "taxidermist", "tea blender", "tunnel boring machine operator",
+  "volcanologist", "wigmaker", "zookeeper",
+]
+
+organisms = [
+  "army ants", "axolotl", "bdelloid rotifer", "bowerbird", "cleaner wrasse",
+  "corvid", "cuttlefish", "slime mould", "electric eel", "honey badger",
+  "hydra", "leafcutter ants", "lichen", "mantis shrimp", "naked mole-rat",
+  "octopus", "orca pod", "parasitoid wasp", "portuguese man o' war",
+  "siphonophore", "sperm whale", "star-nosed mole", "tardigrade",
+  "termite mound", "Toxoplasma", "vampire bat", "velvet worm", "wood-wide web",
+]
+
+sciences = [
+  "acoustics", "astrobiology", "chronobiology", "cryptography",
+  "epidemiology", "game theory", "geochemistry", "glaciology",
+  "immunology", "materials fatigue", "metallurgy", "neutrino physics",
+  "orbital mechanics", "palaeoclimate", "plate tectonics", "prion biology",
+  "psychoacoustics", "queueing theory", "radiocarbon dating", "seismology",
+  "sleep science", "spectroscopy", "superconductivity", "thermodynamics",
+  "topology", "virology",
+]
+
+objects = [
+  "a barometer", "a bell", "a black box flight recorder", "a carillon",
+  "a census form", "a chess clock", "a deep-space probe", "a fossil",
+  "a gyroscope", "a hearing aid", "an hourglass", "a jukebox",
+  "a kiln", "a library card", "a metronome", "a music box", "a pacemaker",
+  "a periodic table", "a pressure suit", "a seed vault", "a sextant",
+  "a snow globe", "a space elevator cable", "a telescope mirror",
+  "a typewriter", "a vending machine", "a weather balloon",
+]
+
+eras_and_places = [
+  "a Bronze Age copper mine", "a Mongol relay station", "Antarctic winter-over",
+  "a desert observatory", "a high-altitude city", "an ice-road trucking route",
+  "a lunar far-side base", "a Martian dust storm season",
+  "a medieval scriptorium", "a night market", "a nomadic herding camp",
+  "an orbital shipyard", "a salt mine", "a space station's hydroponics bay",
+  "a Silk Road caravanserai", "a steppe in a heat wave", "a submarine",
+  "a tropical cloud forest", "a Venus aerostat", "the Sahara",
+  "a 1920s radio station", "a Jupiter moon", "a generation-old asteroid mine",
+]

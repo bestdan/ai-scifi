@@ -22,6 +22,8 @@ Weighted total = 2·Novelty + Futurity + Rigor + 2·Yield + Estrangement + Stake
 
 ## The Futurity scale
 
+The Cartographer scores Futurity; the ideators don't rate their own cards.
+
 The brief sets a floor on this scale, and **F3 is the default.**
 
 | Level | Name | Shape |

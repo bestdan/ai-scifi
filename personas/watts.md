@@ -21,11 +21,20 @@ it, and his public writing.
 
 ## In ideation
 
-Pick a trait we treat as essentially human. Ask what pressure selected it,
-then build an environment where that pressure is gone or reversed, and
-follow the minds that result. Or take one well-replicated finding from
-neuroscience and work out the society that would follow if people believed
-it. Cards should cite the real research they lean on.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The trait without its pressure.** Pick a trait we treat as essentially
+   human, ask what pressure selected it, and build an environment where
+   that pressure is gone or reversed.
+2. **The finding believed.** Take one well-replicated result from
+   neuroscience and work out the society that would follow if people
+   believed it.
+3. **The body rebuilt.** A body remade for somewhere humans can't live (the
+   deep sea, vacuum, a gas giant's clouds) and what the rebuild does to the
+   mind inside.
+
+Cards should cite the real research they lean on.
 
 **This lens works under the tone charter** in `process/style-guide.md`. Aim the
 rigor at wonder and at unsettling truths, not at misery: the strangeness of

@@ -18,7 +18,8 @@ its reasons and the runner-up in `STATUS.md`.
 
 **Read:**
 - `stories/<slug>/00-brief.md`
-- every file in `stories/<slug>/01-ideas/`
+- every file in `stories/<slug>/01-ideas/`, including `assignments.md`
+- `process/attractors.md`
 
 **Task:** for every card, give the following, in your persona file's output
 format:
@@ -38,10 +39,20 @@ Then add three sections:
    register. Judge whether each cluster points to territory that is already
    charted, or to an attractor in the generating model that the next run
    should steer away from. Be blunt: this is calibration data.
+   - Cluster the lenses' "Obvious card" lines too. Several lenses writing
+     the same obvious card shows the brief's most literal answer; a written
+     card that matches it is a red flag.
+   - A card on an entry in `process/attractors.md` is edge-of-map at best,
+     unless it names the entry and earns breaking it.
+   - Say whether the assigned entry points and stimuli spread the cards, or
+     whether they converged anyway.
 2. **Collisions.** List the 3 to 6 most promising cross-lens combinations.
 3. **Top 5.** Rank single cards and collisions together by weighted score.
 
-**Write:** `stories/<slug>/02-audit.md`
+**Write:** `stories/<slug>/02-audit.md`. Then update
+`process/attractors.md`: add every cluster you judged an attractor, and add
+this run's slug to each existing entry it hit again. An entry is hard once
+two runs have hit it. Change nothing else in that file.
 
 **Reply:** the Top 5, one line each with its scores, and the convergence
 verdict in two sentences.

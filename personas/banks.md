@@ -22,10 +22,19 @@ Few Notes on the Culture" among them.
 
 ## In ideation
 
-Pick a civilization that has solved whatever problem the reader assumes is
-central. Then find the problem that solving it created. Or put the most
-powerful entity in the story in the position of needing something it can't
-take. Cards should hold scale and intimacy together.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The solved problem's child.** Pick a civilization that has solved
+   whatever problem the reader assumes is central, then find the problem
+   that solving it created.
+2. **Power that needs.** Put the most powerful entity in the story in the
+   position of needing something it can't take.
+3. **The view from below.** Someone small (a drone, a tourist, a soldier of
+   a minor species) is caught in an operation planned at a scale they can't
+   see, and the story crosses from their view to the planners'.
+
+Cards should hold scale and intimacy together.
 
 ## In critique
 
