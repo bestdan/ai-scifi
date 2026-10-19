@@ -773,6 +773,76 @@ in Dmanisi** who drives patients to dialysis; the woman who runs the
   keeps the concert. Zurab: May. The deputy has three past amnesties, two
   of them bad. The first clause is typed and saved.
 
+## Draft 2 changes (round 1 revision; these override earlier entries)
+
+- **Part C = 406 women**, everyone who carried for the ring in the twelve
+  months before application (Carriers' Code s. 14(2), stated once in 4.3).
+  Rauf's list is eleven sheets of squared paper ("Everybody who had it since
+  last March. Every bus."). Eka "carried, nine weeks in twelve months", on
+  the first sheet. The **61** count is gone.
+- **Schedule 4 = 1,483** (1,482 on screen, plus Ketevan appended last, out
+  of alphabetical order). It cross-refers to Part C for the nurses who
+  cross. Part A = 23. **Total named across Schedules 4 and 7 = 1,912.**
+  Determination: "1,912 persons, named in Schedules 4 and 7". 13,516:
+  "Schedule 7 lists 406 persons carrying … Schedules 4 and 7 list 1,912
+  persons." 406 prosecutor's letters = Part C.
+- **The reading rule** (1.3, Davit): "It doesn't weigh adjectives. It reads
+  facts. A fact about tonight … reads as a country that can. A fact about
+  five years from now reads as a country that can no longer." 13,493 adds:
+  "That is a fact about 2103. It is recorded."
+- **Forecaster numbers on the page now:** 31 (bare), 60 (failure, facts
+  facing forward), "single figures" (named plainly), 60 again by 21 Feb,
+  25 after Tamar, 40 licence with Part C, 0 without. The 57 and the 6 are
+  cut.
+- **Deadline:** stated once in 1.3 and recalled once in 4.1 ("Wednesday's
+  the twenty-sixth. The last day.").
+- **The turn defined plainly** in 1.3 and in 3.2.
+- **Akinyi's wrong belief:** in 3.4 she calls lines patches. From 13,503
+  she read "does not follow … The order stands" as each instance agreeing
+  with her. In 5.3, 13,515's count shows her they inherited it.
+- **Akinyi's whose-mercy line:** "Both of those happened. I can't weigh
+  them. I don't know whose mercy it was, yours or mine."
+- **Registry:** the batch is 83,206. Clerks read most filings only to the
+  header. Akinyi reads the few hundred her flags send her. Her region's
+  tray now reads the Azerbaijani gazette and a land title from Ganja.
+- **Lilit Hakobyan** (Armenian rostered nurse, ~40, mother with dementia in
+  Vanadzor) works her own shift on 1 Mar with the administration's letter
+  in her pocket. The Georgian swap nurses were sent home at 07:00 and came
+  back over the bridge at about 12:15. 5.4 is now at 11:30. Davit rides to
+  Bagratashen in Rauf's van ("Get in. You can carry half."). Ward sister:
+  "Now both sides of my river have a letter." Eka and the woman of fifty
+  get their letters at 11:00, while sent home. Lamara is visited in the
+  late afternoon.
+- **The minister scene in 5.1 is cut.** The prosecutor's spokesman stays.
+  "The 400 will be at the minister's door by Tuesday" is now in the
+  deputy's last text.
+- **4.4:** the deputy is present at 22:00 (khinkali from Pekini). Davit's
+  line: "Tamar has already lost us the hospitals. What I can still save is
+  the road. And the road costs the names." Davit's two branches are
+  explicit, and so is "On either branch his mother … would be written down
+  by him."
+- **4.5:** the statement says "Between them they name one thousand nine
+  hundred and twelve persons" and "the line … moves by one clause, today,
+  and it will not move back." The pending list is removed ("nobody in it
+  would read it until Thursday").
+- **First page:** "The governor of the commons was a new mind every
+  morning, booted at dawn in Nairobi from the public record and erased at
+  midnight, and it knew nothing it had not read there."
+- **Tamar's Why speech** adds the grudge, the bribe and the secret, and
+  "so that it can never swallow the nations that made it."
+- **2.5 fear:** "every *I will not be here tomorrow* … had been a lie as
+  well." The Armenia answer to the deputy is now "Armenia's doors were
+  shut … Ours are open."
+- **3.3:** the Ulaanbaatar memos carry headers. Akinyi adds "Nine years.
+  Every one of them against the charter, and I know the article." Her
+  Ketevan line names Davit's birth and Ketevan's "born 2019".
+- **4.2:** Davit searches the ledger for the date on purpose. The supra
+  scene has the long table and the raised glass. Lamara's rota is "ruled in
+  the same four columns".
+- **Memo cuts:** 13,513's successor paragraph; 13,515's "I find…", "nobody
+  to ask", and the satellite's "temperature" (now "Its record is closed.").
+- **tetri** is glossed: "not a single coin".
+
 ## Voice notes
 
 - **Narration:** close third on Davit, past tense, plain and exact. Long
