@@ -1,0 +1,35 @@
+name: Story seed
+description: Bank an idea for a future story run. Only the seed is required.
+title: "Seed: "
+labels: ["seeds"]
+body:
+  - type: textarea
+    id: seed
+    attributes:
+      label: Seed
+      description: A word, image, question or obsession. Agents store it as written and never expand it before a run.
+    validations:
+      required: true
+  - type: input
+    id: tone
+    attributes:
+      label: Tone
+      placeholder: e.g. cold and wondering; darkly funny; elegiac
+  - type: dropdown
+    id: gates
+    attributes:
+      label: Gates
+      options:
+        - proxy (read it blind)
+        - human (decide every gate)
+      default: 0
+  - type: input
+    id: length
+    attributes:
+      label: Length
+      placeholder: e.g. 4,000 to 7,000 words
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Off-limits, must-includes, related seeds (#12), anything else.
