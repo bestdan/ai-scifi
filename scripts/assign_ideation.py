@@ -28,36 +28,51 @@ REPO = Path(__file__).resolve().parent.parent
 ROW = re.compile(r"^\| (?P<lens>[a-z-]+) \| (?P<entry>\d+)\. ")
 
 
+def lens_names(spec: str) -> list[str]:
+    """'Asimov, Le Guin' -> ['asimov', 'le-guin'], the persona file stems."""
+    return [name.strip().lower().replace(" ", "-") for name in spec.split(",")]
+
+
 def stage1_panel() -> list[str]:
     text = (REPO / "process" / "PROCESS.md").read_text()
     m = re.search(r"^\| 1 Ideate \| (.+?) \|$", text, re.M)
     if not m:
         sys.exit("assign_ideation: no stage 1 row in process/PROCESS.md")
-    return [name.strip().lower().replace(" ", "-") for name in m.group(1).split(",")]
+    return lens_names(m.group(1))
+
+
+def numbered_items(path: Path, heading: str) -> list[str]:
+    """The bold labels of a section's numbered list: `1. **Label.** ...`."""
+    text = path.read_text()
+    section = re.search(rf"^## {heading}\n(.*?)(?:^## |\Z)", text, re.S | re.M)
+    name = path.relative_to(REPO)
+    if not section:
+        sys.exit(f"assign_ideation: {name} has no '{heading}' section")
+    found = re.findall(r"^\d+\. \*\*(.+?)\*\*", section.group(1), re.M)
+    if not found:
+        sys.exit(f"assign_ideation: {name}'s '{heading}' section lists nothing")
+    return [f.rstrip(".") for f in found]
 
 
 def pulls() -> list[str]:
-    text = (REPO / "process" / "reader-profile.md").read_text()
-    section = re.search(r"^## What pulls\n(.*?)^## ", text, re.S | re.M)
-    if not section:
-        sys.exit("assign_ideation: no 'What pulls' section in process/reader-profile.md")
-    return [p.rstrip(".") for p in re.findall(r"^\d+\. \*\*(.+?)\*\*", section.group(1), re.M)]
+    return numbered_items(REPO / "process" / "reader-profile.md", "What pulls")
 
 
 def entry_points(lens: str) -> list[str]:
-    text = (REPO / "personas" / f"{lens}.md").read_text()
-    section = re.search(r"^## In ideation\n(.*?)^## ", text, re.S | re.M)
-    if not section:
-        sys.exit(f"assign_ideation: personas/{lens}.md has no 'In ideation' section")
-    found = re.findall(r"^\d+\. \*\*(.+?)\*\*", section.group(1), re.M)
-    found = [f.rstrip(".") for f in found]
-    if not found:
-        sys.exit(f"assign_ideation: personas/{lens}.md lists no entry points")
-    return found
+    return numbered_items(REPO / "personas" / f"{lens}.md", "In ideation")
+
+
+def format_row(lens: str, entry: str, pull: str, stimulus: str) -> str:
+    """One table row; past_entries() reads it back with ROW."""
+    return f"| {lens} | {entry} | {pull} | {stimulus} |"
 
 
 def past_entries(skip: Path) -> Counter:
-    """How often each lens has used each entry point in earlier runs."""
+    """How often each lens has used each entry point in earlier runs.
+
+    Only runs in this checkout count: a story lands on main after the human
+    signs off, so parked and in-flight stories on other branches are unseen.
+    """
     used = Counter()
     for path in (REPO / "stories").glob("*/01-ideas/assignments.md"):
         if path.resolve() == skip.resolve():
@@ -74,6 +89,7 @@ def assign(lenses, rng, used):
     pool = pulls()
     order = []
     rows = []
+    seen = set()
     for lens in lenses:
         entries = entry_points(lens)
         least = min(used[(lens, i)] for i in range(1, len(entries) + 1))
@@ -82,8 +98,12 @@ def assign(lenses, rng, used):
         if not order:
             order = rng.sample(pool, len(pool))
         pull = order.pop()
+        # No item goes to two lenses in one run.
         a, b = rng.sample(sorted(stimuli), 2)
-        stimulus = f"{rng.choice(stimuli[a])} × {rng.choice(stimuli[b])}"
+        x = rng.choice([s for s in stimuli[a] if s not in seen])
+        y = rng.choice([s for s in stimuli[b] if s not in seen])
+        seen.update((x, y))
+        stimulus = f"{x} × {y}"
         rows.append((lens, f"{entry}. {entries[entry - 1]}", pull, stimulus))
     return rows
 
@@ -91,7 +111,8 @@ def assign(lenses, rng, used):
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("story", type=Path, help="the story directory, stories/<slug>")
-    ap.add_argument("--seed", type=int, help="seed the draw, to reproduce it")
+    ap.add_argument("--seed", type=int,
+                    help="seed the draw; it reproduces only against the same earlier runs")
     ap.add_argument("--lenses", help="comma-separated lenses, if the brief changes the panel")
     ap.add_argument("--force", action="store_true", help="overwrite an existing file")
     args = ap.parse_args()
@@ -100,7 +121,7 @@ def main() -> None:
     if out.exists() and not args.force:
         sys.exit(f"assign_ideation: {out} exists; pass --force to redraw")
     seed = args.seed if args.seed is not None else random.randrange(10**6)
-    lenses = args.lenses.split(",") if args.lenses else stage1_panel()
+    lenses = lens_names(args.lenses) if args.lenses else stage1_panel()
     rows = assign(lenses, random.Random(seed), past_entries(out))
 
     lines = [
@@ -113,7 +134,7 @@ def main() -> None:
         "",
         "| Lens | Entry point | Pull | Stimulus |",
         "|---|---|---|---|",
-        *(f"| {lens} | {entry} | {pull} | {stim} |" for lens, entry, pull, stim in rows),
+        *(format_row(*row) for row in rows),
         "",
     ]
     out.parent.mkdir(parents=True, exist_ok=True)

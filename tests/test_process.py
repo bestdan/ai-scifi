@@ -95,6 +95,20 @@ class ProcessLinks(unittest.TestCase):
         n = len(assign_ideation.pulls())
         self.assertLessEqual(max(pulls.values()), -(-len(lenses) // n))
 
+    def test_no_stimulus_item_goes_to_two_lenses(self):
+        lenses = assign_ideation.stage1_panel()
+        for seed in range(50):
+            rows = assign_ideation.assign(lenses, random.Random(seed), Counter())
+            items = [i for r in rows for i in r[3].split(" × ")]
+            self.assertEqual(len(items), len(set(items)), f"seed {seed}")
+
+    def test_written_rows_read_back_as_history(self):
+        rows = assign_ideation.assign(["asimov", "le-guin"], random.Random(0), Counter())
+        for lens, entry, *_ in rows:
+            m = assign_ideation.ROW.match(assign_ideation.format_row(lens, entry, *_))
+            self.assertIsNotNone(m, lens)
+            self.assertEqual((m["lens"], m["entry"]), (lens, entry.split(".")[0]))
+
     def test_assignment_prefers_the_least_used_entry_point(self):
         used = Counter({("asimov", 1): 2, ("asimov", 2): 1})
         rows = assign_ideation.assign(["asimov"], random.Random(0), used)

@@ -63,7 +63,12 @@ same: this reader credits ambition.
   it outgrows the territory the seeds need, entries will need retiring.
 - Bad, because `attractors.md` is updated on the story branch, so a run's
   findings reach main only when its story lands. A parked story's findings
-  stay on its branch.
+  stay on its branch. Two stories in flight both edit it, so the second to
+  land meets a rebase conflict there: keep both sides' additions, and merge
+  the run slugs on shared entries.
+- Bad, because entry-point rotation counts only runs that have landed in
+  the checkout the script runs in. Parked and in-flight stories don't count,
+  so rotation drifts toward random until runs land.
 - Bad, because a random stimulus can be a poor fit for a seed. The card may
   travel far from it, and says where it went.
 

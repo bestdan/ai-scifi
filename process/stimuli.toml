@@ -8,9 +8,9 @@
 
 trades = [
   "beekeeper", "bell founder", "cartographer of cave systems", "circus rigger",
-  "commercial diver", "crop duster", "demolition engineer", "embalmer",
+  "steeplejack", "crop duster", "demolition engineer", "embalmer",
   "falconer", "forensic entomologist", "glassblower", "glaciologist",
-  "harbour pilot of an airship port", "lighthouse automation engineer",
+  "airship port dispatcher", "lighthouse automation engineer",
   "locksmith", "luthier", "mycologist", "night-shift baker", "organ tuner",
   "perfumer", "piano mover", "puppeteer", "radio astronomer",
   "search-and-rescue dog handler", "sommelier", "stunt coordinator",
