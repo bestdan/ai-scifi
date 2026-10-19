@@ -21,6 +21,10 @@ Don't pass `model:`.
      Stakes is explicit before the climax. Each graded row is both stated, in
      plain words, and shown, as a consequence in a scene. A statement can't
      be a quoted document of more than about 150 words.
+   - **The protagonist's own stake.** A want and a wound that belong to
+     the protagonist and not to the plot's task, and the scene where they
+     change their mind about something personal. A narrator who only
+     reports the novum, however well, reads as flat.
    - **The world list.** Three to five facts of daily life the premise rests
      on, in plain words, under "What the reader needs about the world".
    - **The glossary.** Every coined, foreign or slang word the story will

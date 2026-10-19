@@ -6,42 +6,53 @@ every note **[story]**, meaning the text should change, or
 **[process: stage N]**, meaning the pipeline should have caught it at
 stage N.
 
-Keep the sections in this order. The interview comes first so that nothing
+Keep the sections in this order. The check comes first so that nothing
 else primes it.
 
-## 1. Unprimed interview
+## 1. Unprimed check
 
-Ask these first, word for word, before anything else is shown or said.
-They are the First Reader's comprehension questions, so the human's answers
-can be set beside the reader's in `reviews/final/comprehension-answers.md`.
+Follow `process/stages/10-debrief.md` steps 2–4. Ask the two open questions
+first, then show the whole check at once. The human answers with letters.
 
-1. What is this story about, in two sentences?
-2. What does the protagonist stand to gain or lose, and what happens if they fail?
-3. Why did the people or powers who set this situation up do it that way?
-4. What did you learn late that changed how you saw the earlier part, if anything?
-5. What happened at the end, and why?
-6. Who is each named character, in one line each?
-7. What are you still unsure about?
-8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
-9. What does the story's central change mean for people beyond its main characters?
+**Where did the read snag, and what are you still unsure about?**
 
-Then ask where the read flowed or snagged, and how the ending landed.
+<the human's answer, quoted>
 
-Ask nothing that names a detail the human hasn't already mentioned. A
-question like "what had to happen when the deadline ran out" tells the human
-there was a deadline.
+**How did the ending land?**
 
-<the human's answers, quoted>
+<the human's answer, quoted>
 
-**Confirm before grading a miss.** After the answers above are written, name
-each graded beat the human left out and ask whether they caught it and how it
-read. Quote the answer. Silence on a row is not a miss.
+**The check.** One question per graded row, written from
+`reviews/final/ledger-rows.md`. Each wrong option is a specific misreading,
+and the last option is always "can't say".
+
+1. <Premise question>
+   a. <option>
+   b. <option>
+   c. <option>
+   d. Can't say
+
+<one question per remaining graded row, in ledger order>
+
+**Who's who.** Match each name to a role, or mark it "don't remember".
+
+| Name | Role (shuffled) |
+|---|---|
+
+**Terms.** Mark any term you didn't get from the page.
+
+<the glossary terms>
+
+**Answers and follow-ups.** The human's picks, the right answer for each,
+and the one-line follow-up on each wrong pick or "can't say", quoted.
+
+| Question | Picked | Right | Grade | Follow-up |
+|---|---|---|---|---|
 
 **Against the gate.** For each graded ledger row, and for Terms, the
-reader's grade on `final.md` and whether the human's answer would earn the
-same grade. Set the reader's lost-list beside the places the human snagged. A row
-the reader got and the human missed means the gate didn't predict the
-human.
+reader's grade on `final.md` beside the human's grade from the check. Set
+the reader's lost-list beside the places the human snagged. A row the
+reader got and the human missed means the gate didn't predict the human.
 
 | Row | Reader (`reviews/final/comprehension.md`) | Human |
 |---|---|---|
@@ -89,4 +100,4 @@ The process-tagged notes, gathered for whoever next changes the process.
 - **Gate failures:** copied from `STATUS.md`'s "Gate failures" section, or
   "none".
 - **The run's report:** `MORNING.md`, if the run wrote one. The human opens
-  it only after section 1.
+  it only after section 1 is graded.

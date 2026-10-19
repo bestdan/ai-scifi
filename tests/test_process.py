@@ -64,11 +64,15 @@ class ProcessLinks(unittest.TestCase):
         self.assertIn("**Reach:**", text)
         self.assertIn("Pick on the brief's seed", text)
 
-    def test_debrief_asks_the_comprehension_questions(self):
+    def test_debrief_checks_the_human_with_directed_questions(self):
+        # The human picks from options built from the ledger rows; the open
+        # comprehension questions are for the cold reader alone.
         for path in (REPO / "templates" / "debrief.md", STAGES / "10-debrief.md"):
             text = path.read_text()
+            self.assertIn("ledger-rows.md", text, path.name)
+            self.assertIn("can't say", text.lower(), path.name)
             for question in COMPREHENSION_QUESTIONS:
-                self.assertIn(question, text, f"{path.name}: {question}")
+                self.assertNotIn(question, text, f"{path.name}: {question}")
 
 
 if __name__ == "__main__":

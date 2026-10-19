@@ -72,7 +72,10 @@ That makes them insiders, and they don't score the Understood group. The
 
 The grader's grades map onto the scale as got it 5, partial 3, missed 1.
 Terms has no partial: one term the reader got only from outside the story,
-or never got, is a miss.
+or never got, is a miss. Terms covers only the coined, foreign and slang words in
+the glossary. Real units and scientific words, such as kelvin or
+astronomical unit, are not terms: a reader who knew them from outside the
+story hasn't failed the row.
 
 **Character and Consequence carry two scores each,** reported side by side
 and never averaged: construction from the panel, legibility from the grader.
