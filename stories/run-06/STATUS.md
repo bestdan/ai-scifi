@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 6 Draft.
-- **Next action:** dispatch one `drafter` for Part 1; resume the same drafter for each later part, and update `drafts/continuity.md` after each.
+- **Current stage:** 7 Review, round 1 (draft 1, about 31,350 words).
+- **Next action:** collect the six lens critiques and the comprehension answers, then dispatch the comprehension grader.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -26,4 +26,4 @@
 
 ## Open questions
 
-- None.
+- **Process: the cold reader saw the drafter's notes.** In round 1 the First Reader's file view showed `## Drafter's notes`, which quote the ledger lines, at the end of draft-1.md. It says it did not treat them as story, and it was told to answer only from the story. From round 2, the First Reader gets a copy with the notes stripped. This is a candidate process change for `MORNING.md`.
