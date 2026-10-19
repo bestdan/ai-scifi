@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 9 Polish, the gate on `final.md`.
-- **Next action:** a fresh First Reader and grader on `final.md`, written to `reviews/final/`. Then compare any failing rows against draft 3's text, and sign off.
+- **Current stage:** 10 Debrief (awaiting the human's read).
+- **Next action:** the human reads `final.md` blind. Then the stage 10 debrief interview. Only the human lands the story.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -19,6 +19,7 @@
 | 8 Revise (round 1) | 2026-10-19 | orchestrator (proxy) | Revision plan approved: 21 items (6 consensus, 7 adopted single-lens, 8 comprehension). The gate failed on draft 1: Premise, Stakes, Why, Twist and Reach partial; Terms missed; Ending got it | Every lens scored Structure 3, with the forecaster and deadline arithmetic as the shared cause. The comprehension failures are fixable with plain statements. The dominated filing is fixed by giving the names one job (Part C, twelve months) | Cutting the forecaster entirely (declined: it carries the failure-framing exploit) |
 | 8 Revise (round 2, loop cap) | 2026-10-19 | orchestrator (proxy) | Narrow round 3: 8 items (Terms, Ending regression, Stakes in dialogue, page 1, Akinyi's belief, two consensus cuts, ending hedges, line fixes). **Stop rule:** stage 9 follows round 3 whatever the gate says, with unclosed rows logged. No round 4 | The loop cap fired. Consultant (fable, 80%), crux: "that the outstanding lens notes are structural and consensus". Stage 9 can't take structural notes. Round 3's success test: Terms got it, Ending back to got it, a clear page-2 yes, no row regressing to missed | B, polish now and log the rows (the consultant's alternative if the notes were line-level) |
 | 8 Draft structurally done | 2026-10-19 | orchestrator (proxy) | Draft 3 is called structurally done under the loop cap's stop rule; proceed to stage 9 | The stop rule was logged before round 3. Round 3 closed Terms; Premise, Stakes, Ending and Reach stay partial, the same pattern as run-05 (summary answers omitting one clause of multi-clause facts). The lenses score Structure 4 in round 2 | Round 4 (declined: no round 4 under the stop rule) |
+| 9 Polish (sign-off) | 2026-10-19 | orchestrator (proxy) | The story is ready. `final.md` is about 32,200 words | Polish closed Stakes and Ending on the final gate, and the page-2 hook is a clear yes. Premise, Reach and Terms are logged per the stage 9 rules. Spot-checks applied, with one decline logged. `dli check` passes | Another stage 8 round (declined: the loop cap's stop rule) |
 
 ## Polish spot-check decisions
 
@@ -31,6 +32,7 @@
 - **Round 1 (draft 1):** Premise, Stakes, Why, Twist and Reach partial. Terms missed (supra, tetri, the turn). Lost-list 9 entries, 6 on graded rows. Ending and Who's who got it.
 - **Round 2 (draft 2):** Premise, Stakes, Ending and Reach partial. Why and Twist moved to got it. Terms missed (khinkali, guessed from outside; schedule of evidence, misread). Lost-list 12 entries. 10 touch graded rows, but only those on rows the answers still miss (Premise, Ending, Reach) fail the gate. Five touch Twist, which the reader got. Ending regressed from got it to partial: the reader missed that the licence follows from Davit's carriage description, and the ring's absorption. **The loop cap fires:** two consecutive fails. Consultant (fable, 80%): one narrow round 3, then stage 9 whatever the result.
 - **Round 3 (draft 3):** Premise, Stakes, Ending and Reach partial. Why, Twist and Terms got it. Lost-list 10, 7 on graded rows (the opening's rules, schedule arithmetic, the carriage move, Akinyi's call). Against the round-3 success test, Terms is met; Ending back to got it is **not** met (the reader treated Akinyi's motive as settled and missed that her earlier line kept the ring alive); the page-2 answer is "Yes, but only just" (**not** met); no row regressed to missed (met). **Per the stop rule, the story proceeds to stage 9.** The unclosed rows go to the line editor as required items, and the gate runs again on final.md. The human's debrief should test whether their read matches these rows.
+- **Gate on final.md** (fresh reader and grader, `reviews/final/comprehension.md`): Premise and Reach partial. **Stakes, Why, Twist and Ending got it**, so Stakes and Ending closed in polish. Terms missed ("the turn", khinkali, mandazi). The page-2 answer is a clear yes. Premise and Reach failed on draft 3 too, so they are logged under the loop cap. Terms passed on draft 3, but polish changed no use of the three failing terms (draft 3 and final compared), so it is the reader, not the text, and it is logged. Mandazi was never in the bible's Glossary: a drafter-added term that slipped the terms list. That is a process note.
 
 ## Seed stock
 
