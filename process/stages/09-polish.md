@@ -48,8 +48,9 @@ Don't pass `model:`.
 
    A failing Terms row works the same way, term by term: if the Terms row
    passed on draft N and polish introduced a failing term or changed any use
-   of it, restore draft N's wording and log it; otherwise log it. A
-   lost-list entry that touches a graded row is handled as that row.
+   of it, restore draft N's wording of the passages involved and log it;
+   otherwise log it. A lost-list entry that touches a graded row is handled
+   as that row.
 6. **Optional EPUB.** For reading on a device, run
    `python3 scripts/make_epub.py stories/<slug>/final.md stories/<slug>/<title>.epub`.
 

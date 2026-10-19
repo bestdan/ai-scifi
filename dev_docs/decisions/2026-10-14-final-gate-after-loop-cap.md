@@ -23,9 +23,10 @@ drafter's notes quote for Ending is word for word the same in `final.md`.
 Polish changed the sentence after one of them, "tasted of nothing" becoming
 "tasted of the paper cup", in a spot-check; drafts hold a paragraph per
 line, so a line-by-line comparison would have counted that as a change.
-Across the three draft gates and the final gate, Stakes and Ending were
-each partial for one reader and got it for another, Why and Who's who were
-got every time, and Premise was partial every time. A fresh reader's miss
+Across the three draft gates and the final gate, Stakes was partial on
+drafts 1 and 3 and on `final.md` and got it on draft 2; Ending was partial
+on draft 1 and `final.md` and got it on drafts 2 and 3; Why and Who's who
+were got every time, and Premise was partial every time. A fresh reader's miss
 on unchanged text is noise in the reader, not damage from polish.
 
 Premise is the opposite case. It failed on draft 3, so the loop cap let it
@@ -44,9 +45,9 @@ by polish: restore draft N's text and log it. Every other failing row is
 logged under "Gate failures": unchanged text means the reader differs, and
 a row that failed on draft N may have been rewritten on purpose. The
 Terms row follows the same rule for each failing term, and a lost-list
-entry that touches a graded row follows its row. Outside a
-loop-cap pass, a failed final gate still sends the story back to stage 8. In `process/stages/09-polish.md` step 5 and
-`process/PROCESS.md`.
+entry that touches a graded row follows its row. Outside a loop-cap pass,
+a failed final gate still sends the story back to stage 8. In
+`process/stages/09-polish.md` step 5 and `process/PROCESS.md`.
 
 ## Consequences
 
@@ -61,6 +62,9 @@ loop-cap pass, a failed final gate still sends the story back to stage 8. In `pr
 - Bad, because the comparison trusts the drafter's notes to quote every
   line a row depends on. A row carried by a line they don't quote can be
   broken by polish unseen.
+- Bad, because a row that already failed on draft N is only logged, even
+  if polish changed its quoted text outside a required item and made it
+  worse; only the debrief sees that.
 
 ## Revisit when
 
