@@ -702,6 +702,77 @@ in Dmanisi** who drives patients to dialysis; the woman who runs the
   border), one kept (the concert).
 - Zurab's father slips again; the radio still half-mended; amnesty clause.
 
+## Part 3 revision (Lem triage, applied after Part 5)
+
+- **Akinyi's wrong belief:** in 3.4 she says "I corrected a numeral … A
+  line is a patch … The record catches up … I'm only ever holding a door
+  for three days." "Of course I knew" is cut. Davit notices the order still
+  standing and doesn't tell her.
+- **Her Sadakhlo motive is her own triage:** the scanner logs came before
+  his schedule; seizure on the 9th means no insulin by the 12th ("That's my
+  test. Your schedule was only where I read it.").
+- **Rusumo isn't confirmed:** "nobody will ever drive forty tonnes over
+  the old one to find out whether it would have held … That's what a good
+  night looks like. Exactly like a wasted one."
+- **"I can see the shape of what isn't there"** became "I notice who isn't
+  in it." The airport paragraph now says she "could notice the silence …
+  and wonder what it was."
+- **The instance carries the seam-noticing.** In 13,503 item 5 (17 Feb)
+  and every memo after it: "The scanners continue to log unlicensed medical
+  consignments at Sadakhlo at the rate that set priority 2. The order as it
+  stands does not follow from the log. The order stands." 13,504 has the
+  short form.
+
+## Part 5 (as drafted)
+
+- **13,513 (Thu 27 Feb):** Tamar's 640 verified; the 400 count gets no
+  weight; "Georgia is capable of performing the function petitioned"; "It
+  will not read this sentence as advice. It may not."
+- **Thu 27:** the prosecutor's spokesman on the 8 o'clock news. The
+  minister (6th floor; former mayor of Kutaisi; bad back; portrait of David
+  the Builder; his wife's aunt in Zestaponi is on Schedule 4) will tell the
+  PM the naming was his own idea, and asks Davit to draft something for the
+  400.
+- **Fri 28:** Zurab's father on the wall outside the Didube bakery on
+  Tsereteli Avenue: opposes cession, "April". His neighbour-nurse is in
+  Schedule 4. 13,514: "A filing made today will be read on 3 March." The
+  deputy reads *addendum_draft*, works out the erratum route, and says "I
+  won't have seen anything." Davit files the addendum at 16:00. Lamara
+  doesn't answer at 18:00 or 21:00. Mariam: "That's so annoying." Her civics
+  class argued the case, and she won on the "against" side.
+- **13,515 (Sat 1 Mar), the 5.2 memo:** 1 orbit 1,204,261, the
+  Saskatchewan fence; 2 the Clarion fine paid; 3 sulphate; 4 2,904 carrier
+  licences, Rusumo still closed; 5 Sadakhlo stands, "This sentence has
+  appeared in each memo since 17 February. I find that I would have written
+  it without having read it."; 6 Patagonia (Río Turbio and 28 de Noviembre
+  restored to full; erratum restores "subject to the distributor's fault
+  notice of 27 February"; minus seven forecast); 7 Bayanzürkh in service; 8
+  Lagos, no measles stock, replacement in May; 9 Georgia, Determination
+  13,515/GE/1, carrier **88,412**, the roster discrepancy line; 10 the
+  Strait ferries; 11 pilot whales at Farewell Spit, 31 refloated "by
+  volunteers who are not in the record"; 12 a 2061 weather satellite
+  re-entered; 13 appeals none; 14 errata 36.
+- **5.3 call:** Patagonia is a coal town of 8,000 ("the same shape" as
+  Ulaanbaatar). Addendum: "I didn't carry it. Nobody dies of it by
+  Thursday." The Sadakhlo order: "I thought it was one morning … It
+  stood." Then "So I don't know … I never know what they do, any of them."
+  Tamar texts: "One of us was wrong. I've read it four times and I can't
+  tell which. T."
+- **5.4:** Rauf's white Ford van, bought from a man in Bolnisi; manifest 1
+  is twelve pages. The freight officer: "Next time the bag goes in the
+  vehicle … Persons aren't my department." The screen reads `MEDICAL ·
+  CARRIER 88,412 · MANIFEST 1 · LICENSED · CLEARED`. 406 prosecutor's
+  letters by noon (Health Professions Act 2081, s. 31; Gorgasali Street).
+  The woman of fifty: "It was my week … Write that down too." Eka shows the
+  letter and says nothing. Lamara writes the rota and doesn't open the
+  door.
+- **5.5:** the radio mended at 1 a.m. 13,516 schedules carrier 88,412
+  (Mon/Wed/Fri) and closes the order of 4 Feb as corrected ("It was carried
+  in 22 memos"). The validation line on Ketevan ends "No action." Mariam:
+  "Why is Grandma in it?" He tells her the nights and the border, and
+  keeps the concert. Zurab: May. The deputy has three past amnesties, two
+  of them bad. The first clause is typed and saved.
+
 ## Voice notes
 
 - **Narration:** close third on Davit, past tense, plain and exact. Long

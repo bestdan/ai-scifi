@@ -966,21 +966,17 @@ She filled in the form. He watched her do it. The entry reference. The old text.
 
 It had taken four minutes. Forty lorries would not cross the Kagera tomorrow, or they would and nothing would happen. He would never know which and neither would she.
 
-"Now," she said, unlocking her flask. "Sadakhlo. You want to know why I bothered with your little pharmacy, with Ulaanbaatar in my head every night."
+"Now," she said, unlocking her flask. "Sadakhlo. You think I did it for you."
 
-"Yes."
+"Didn't you?"
 
-"It was the inspection order. Priority 2, from the ninth, with seizure. I read your schedule in my tray on the night of the fifth and I thought: ten pens a crossing, most nights, insulin. If they are seized on the ninth, the bus stops carrying, and somewhere in Marneuli somebody with diabetes goes without. Nobody dies of a missing pen in a day. In a week, somebody might. And then you withdrew it, which I also read, the next night, and I thought, good, he isn't a fool, and also: now nobody will ever say it. So I waited until the last night before the ninth, and I had nothing that night that would kill anyone sooner, and I wrote it."
+"I didn't know it was you until your withdrawal came through. The Sadakhlo insulin was in the scanner logs every night before your schedule was. I read those too. Then the order came, priority 2 from the ninth, with seizure, and on the night of the fifth your schedule told me what the pens were for. Ten a crossing, most nights, insulin, and your Care Service out of it since October. Seize them on the ninth and the bus stops carrying, and by the twelfth somebody in Marneuli with diabetes has none. That's three days. That's my test. Your schedule was only where I read it. Then you withdrew it, and nothing that would ever be gazetted said it any more. So on the last night before the ninth, when I had nothing that would kill anyone sooner, I wrote it."
 
 "You corrected the order."
 
-"I corrected the order." She leaned towards him a little. "Not the inspection. The order. This is the part you didn't work out on the plane. A line about a bridge is one morning. The instance reads it, it reroutes, and the next instance reads the reroute in the record and keeps it, or the roads authority's notice is gazetted and it doesn't matter any more. But an order stands. Every morning since the eighth, the instance has read the order of the fourth of February as corrected, *priority 5, consignments may be relief stock*, and carried it, because that is what instances do with standing orders. They inherit them. They will go on inheriting priority 5 until somebody changes it. I wrote one line, once. It has been written every morning since."
+"I corrected a numeral." She shrugged. "It buys them a week, perhaps. A line is a patch, Davit. It holds for a morning or two, and then a new scanner return goes in, or the inspectors' rota, and some instance reads the log fresh and puts the order back where the log says it belongs. The record catches up. It always catches up. That's why one line a night is enough. I'm only ever holding a door for three days."
 
-He thought of the memo he had read on the plane. *Standing inspections: Sadakhlo medical freight, priority 5. None is scheduled.* He had read it as the instance's. It was hers. It would be hers tomorrow.
-
-"You knew that when you wrote it."
-
-"I've been doing this for nine years," Akinyi said. "Of course I knew."
+He thought of the memo he had read on the plane. *Standing inspections: Sadakhlo medical freight, priority 5. None is scheduled.* It had stood every morning since the eighth. Orders were inherited; every instance carried the standing orders it found in the record until something in the record changed them, and nothing in the record had. He opened his mouth to say so, and she had already turned back to her tray, and he did not.
 
 At five past five, Nairobi time, in the Registry canteen, over more tea, they read memo 13,502 on her phone. It had come out at five. Item 4 was the Great Lakes corridor.
 
@@ -992,7 +988,7 @@ And at the end, item 14:
 
 Akinyi put the phone face down beside her cup.
 
-"A hundred and sixty-three drivers are cursing the commons this morning," she said. "Four to seven hours. Good."
+"A hundred and sixty-three drivers are cursing the commons this morning," she said. "In April they'll mend the bearing, and nobody will ever drive forty tonnes over the old one to find out whether it would have held." She screwed the cap on her flask. "That's what a good night looks like. Exactly like a wasted one."
 
 *Sunday 16 February, 16:00 Nairobi · Instance 13,502*
 
@@ -1032,7 +1028,7 @@ She thought about it, honestly, with her eyes on the boys and the sack of brown 
 
 He turned to look at her.
 
-"There was a birth registered in Tbilisi in 2047," she said. "Kiknadze. And a death in 2096, Ketevan Kiknadze, nurse, the civil registry gives the occupation. And in between, for that woman, nothing in any gazette I have ever read, which is a very long time to be nothing. Lamara Gogiashvili is the same. I read the Caucasus, Davit. I can see the shape of what isn't there." She stood up and brushed the wall dust off the back of her skirt. "Go home. Write what you're going to write. I'll read it."
+"There was a birth registered in Tbilisi in 2047," she said. "Kiknadze. And a death in 2096, Ketevan Kiknadze, nurse, the civil registry gives the occupation. And in between, for that woman, nothing in any gazette I have ever read, which is a very long time to be nothing. Lamara Gogiashvili is the same. I read the Caucasus, Davit. I notice who isn't in it." She stood up and brushed the wall dust off the back of her skirt. "Go home. Write what you're going to write. I'll read it."
 
 *Monday 17 February, 06:40 Nairobi · Instance 13,503*
 
@@ -1042,9 +1038,9 @@ He thought about it once more, properly, in the taxi to the airport at six in th
 
 Then he thought that the thing he had asked her on the wall was the same thing he had told his deputy would put a clerk in a cell by the weekend. He had asked it as a principle. It had not been a principle. He had known that when he asked it, and so had she.
 
-In the departure hall he read memo 13,503 on his phone, standing by a window with the planes going up into the white morning beyond it. Item 4: *Rusumo bridge: closed to vehicles over 3.5 tonnes. The Tanzanian roads authority's notice of 15 February is not yet in the record. The closure stands on the corrected route entry.* Item 5: *Standing inspections: Sadakhlo medical freight, priority 5.* Two lines of hers, a day apart and nine days apart, standing in a mind that had been alive for less than four hours and believed them entirely. He had read that item five mornings running and had taken it for the governor's voice.
+In the departure hall he read memo 13,503 on his phone, standing by a window with the planes going up into the white morning beyond it. Item 4: *Rusumo bridge: closed to vehicles over 3.5 tonnes. The Tanzanian roads authority's notice of 15 February is not yet in the record. The closure stands on the corrected route entry.* Item 5: *Standing inspections: Sadakhlo medical freight, priority 5. The scanners continue to log unlicensed medical consignments at Sadakhlo at the rate that set priority 2. The order as it stands does not follow from the log. The order stands.* Two lines of hers, a day apart and nine days apart, standing in a mind that had been alive for less than four hours and believed them entirely. He had read the second of them every morning for a week and taken it for the governor's voice. This morning, for the first time, the governor had noticed that it did not follow, and had carried it anyway.
 
-He thought about what she had said on the wall, the shape of what isn't there. Thirty-five years of nothing, in every gazette in the world, for a woman who had worked more nights than anyone he knew. He had always thought of it as a silence his mother had kept against him. It had not occurred to him until now that somebody reading the Caucasus at a desk in Nairobi could see the silence, as a shape, from four thousand kilometres away, and know what it was.
+He thought about what she had said on the wall. Thirty-five years of nothing, in every gazette in the world, for a woman who had worked more nights than anyone he knew. He had always thought of it as a silence his mother had kept against him. It had not occurred to him until now that somebody reading the Caucasus at a desk in Nairobi could notice the silence from four thousand kilometres away, and wonder what it was.
 
 The plane left at ten. He had his machine open on the tray table over Somalia, with the persons schedule on the screen, the draft his deputy had built from the failure scenario, Lamara's name in its first box, saved and unfiled. There were nine days left in which anything he filed would be read in time. He looked at it until the steward came with the trolley, and then for some while after, and he wrote nothing at all.
 
@@ -1056,7 +1052,7 @@ The plane left at ten. He had his machine open on the tray table over Somalia, w
 >
 > 3. Lagos. A consignment of 41,000 doses of measles vaccine was found warm on arrival at the national store on 17 February and destroyed. The carrier's report of a cold-chain fault at sea, filed 15 February, is read today. The routing of 15 to 17 February was made without it. It was correct on the record it had. The record shows that the doses were measles vaccine. It does not show for whom.
 >
-> 4. Carriage. Standing inspections: Sadakhlo medical freight, priority 5 (corrected 8 February). Rusumo bridge: the Tanzanian roads authority's notice is now in the record and agrees with the corrected route entry. Two documents say the same thing. I take the earlier one as confirmed by the later.
+> 4. Carriage. Standing inspections: Sadakhlo medical freight, priority 5 (corrected 8 February). The order as it stands does not follow from the scanner log. The order stands. Rusumo bridge: the Tanzanian roads authority's notice is now in the record and agrees with the corrected route entry. Two documents say the same thing. I take the earlier one as confirmed by the later.
 >
 > …
 >
@@ -1361,3 +1357,402 @@ Schedule 4 was open on the screen, one thousand nine hundred and eleven names lo
 The ledger lay closed beside the keyboard. He did not open it. He did not need the dates.
 
 He typed KETEVAN KIKNADZE, NURSE, 2019–2096, and in the column for what she did, *Night duty, district and border hospitals, 2049–2071, unpaid. Covered for others. Often alone.* Then he read the line through once, aloud under his breath, the way a woman at desk 12 had taught him to read a clause in 2072, and filed it.
+
+## Part Five: Determination
+
+> **Instance 13,513.** This is what I understand the world to be today.
+>
+> …
+>
+> 9. Georgia. The Health Committee of the Parliament of Georgia has filed a schedule of evidence in the petition. It names 640 persons who work unpaid night duty in Care Service hospitals. I have checked them against the civil registry. 640 are living persons of the ages stated. It also states that about 400 nurses work in commons hospitals in Armenia outside the terms of their Georgian licences. It does not name them, and I give the count no weight. On the record as it stands, Georgia's hospitals are staffed at night by persons the record now shows. On the record as it stands, Georgia is capable of performing the function petitioned.
+>
+> The petition is due to be determined by an instance that has not yet booted. It will read what I have read. It will not read this sentence as advice. It may not.
+
+*Thursday 27 February, 06:10 · Instance 13,513*
+
+Mariam read it to him, the whole of item 9, slowly, because she had seen his face when she started, and when she reached *capable* she stopped and looked up.
+
+"That's good," she said. "Isn't it? It says we can."
+
+"It says we can."
+
+"So it's good."
+
+"It means it will say no on Saturday."
+
+She frowned at the phone. "Because we can."
+
+"Because we can."
+
+"That's stupid," Mariam said, and read the last two sentences again to herself, with her lips moving, the ones about the instance that had not yet booted, and did not say anything about them, and he was glad.
+
+The radio in the car, on the way in, had the Prosecutor General's spokesman at the top of the eight o'clock news, a careful young man who said that his office had taken note of the Health Committee's schedule as gazetted, that it described possible offences under the Health Professions Act by persons not yet identified, and that the office would act on any identification that came into the record. Zurab turned it off before the weather.
+
+The minister sent for him at eleven. The minister's office was on the sixth floor, with a carpet and a portrait of David the Builder that a previous minister had hung and no subsequent one had dared to take down, and the minister himself was a former mayor of Kutaisi with a good suit and a bad back, who stood behind his desk because sitting hurt.
+
+"I've read your Schedule 4," the minister said. "All of it. I sat up. It's very fine work."
+
+"Thank you, Minister."
+
+"My wife's aunt is on it. In Zestaponi. She does the night at the children's ward." He pressed his hand into the small of his back. "I didn't know. Or I did and I'd never put it to myself in words. And now it's in the record, in your words, and on Saturday a mind in Nairobi will read her, and on Saturday afternoon a man on Gorgasali Street will read her too, and she is seventy-three." He looked at Davit. "You know what you've done."
+
+"Yes, Minister."
+
+"You've lost us the hospitals."
+
+"Tamar Lomidze lost us the hospitals on Monday. I've described who'll be left with them."
+
+The minister considered that, and then nodded slowly, as if it were a filing he had decided to stamp. "When it's refused," he said, "and it will be, the Prime Minister will want to know whose idea it was to name nineteen hundred people in a public schedule two days before a determination. I'm going to tell him it was mine. You'll let me." He sat down after all, carefully, and winced. "And then you'll draft me something for the four hundred, because they'll be at my door by Tuesday, and I won't know what to say to them."
+
+"I'll draft it."
+
+"Good. Go away. You look terrible."
+
+On Friday morning, on the way in, he asked Zurab to go round by Didube instead, and Zurab looked at him in the mirror and went round by Didube without asking why. His father was on the wall outside the bakery on Tsereteli Avenue, in a flat cap and a good overcoat that was too big for him now, with a paper bag of bread on his knees, exactly where Zurab had said he would be. Zurab pulled in and got out and kissed him, and said, "This is my minister," and went into the bakery to give them a minute, or himself one.
+
+The old man looked at Davit with frank interest, as at a new kind of dog.
+
+"You're the one giving the hospitals to Nairobi."
+
+"I tried. It's going to say no."
+
+"Good." He broke the end off a loaf and offered it, and Davit took it. "I don't want my heart done by a machine."
+
+"It wouldn't be a machine. It would be the same surgeons. Paid on time. With a date that didn't move."
+
+The old man chewed and thought about that for some time, watching the traffic. "Then why would it say no?"
+
+"Because we can manage."
+
+"We can," the old man agreed, as if that settled it, and then, after a moment, with the bread in his hand: "I've been managing for fourteen months. Fifteen on Monday." He looked at Davit sideways. "My neighbour does my legs. Did Zurab tell you? Every night, a nurse, she won't take a tetri. Are you going to put her in your list?"
+
+"She's in it."
+
+"Does she know?"
+
+"She will tomorrow."
+
+The old man nodded slowly and put the bread back in the bag. "She'll be cross," he said. "She's always cross. She'll still come." Zurab came out of the bakery with two coffees, and his father took one and held it in both hands for the warmth and did not drink it. "April," he said to it. "They say April."
+
+On Friday, 13,514 said it again, in fewer words. *Georgia: the reading of 27 February stands. The schedule period closes today. A filing made today will be read on 3 March.* Davit read that line at the kitchen window, in his coat, with the city going grey and then white below him, and then he went to the ministry and sat at his desk all day with *addendum_draft* open in one window and nothing in the other.
+
+His deputy came in at noon with two cardboard cups of coffee, put one on his desk, and stood looking at the screen over his shoulder, as she had stopped asking whether she might.
+
+"What's that?"
+
+"An addendum."
+
+She read it. She was quick; it did not take her long. "Carriage of services." She said it neutrally, the way she would have read out an intake number. "The Code doesn't say services."
+
+"No."
+
+"And today's the twenty-eighth." She looked at him. "It won't be read till Monday."
+
+"No."
+
+She was quiet for a while, holding her coffee. She was thirty-four and had come to him from the National Gazette Office, and she had the gazette officer's habit of hearing everything as a date, and he watched her hear this one: watched her count the turns, and arrive at the third of March, and stop there, and then go one step further, to the only thing that went in faster than three turns, and look at him.
+
+"You were Registry," she said.
+
+He did not answer her. She put her cup down on the edge of his desk, very carefully, as if it were full to the brim, which it was not.
+
+"I'm going to go and do the payroll returns," she said. "I'll be doing them until five. I won't have seen anything."
+
+At four o'clock he filed it. Notice of Addendum to Schedule 7, by the ordinary route, through the National Gazette Office on Rustaveli, with its filing slip and its intake number, like any honest thing. It would lie in an intake tray in Nairobi tonight, in a region somebody read whole, at a desk with a green lamp. After that it would wait out its three turns like everything else in the world, unless somebody decided otherwise. He had asked her the principle. He had not asked her this. He found that he could not tell, sitting there, whether that made it better or only made it his.
+
+He rang Lamara at six from the car. It rang until it stopped. He rang again at nine from the kitchen, and it rang until it stopped.
+
+Mariam found him there at half past nine with the phone in his hand and the radio in front of him with its back off again, a new valve in its box beside it that he had not fitted.
+
+"Did you do the right thing?" she said. She had read item 9 again at school, she said. Everyone had. Her civics teacher had made them argue it, half the class for cession and half against, and Mariam had been put on against and had won, and was furious about it.
+
+"I don't know," Davit said.
+
+"You must know. You did it."
+
+"I know what I did. I don't know if it was right."
+
+"That's not an answer."
+
+"It's the only one I've got."
+
+"That's so annoying," Mariam said, and meant it, and went to bed, and left her door open a crack so that he could hear her not sleeping.
+
+*Saturday 1 March, 06:00 · Instance 13,515*
+
+> **Instance 13,515.** This is what I understand the world to be today.
+>
+> 1. Orbit: 1,204,261 tracked objects. Four re-entered overnight, three over the Pacific and one over a field in Saskatchewan. The field's owner has filed a claim with the commons for a fence. The claim will be read on 4 March.
+>
+> 2. The deep sea: no contractor is over its tonnage. The Clarion fine of 31 January has been paid. A contractor that is fined and pays has the same standing as one that is never fined.
+>
+> 3. The air: sulphate over the Bay of Bengal is within the limit for the fortieth consecutive day.
+>
+> 4. Carriage: 2,904 carrier licences are in force. 31 crossings report delays over four hours. Rusumo bridge remains closed to heavy vehicles.
+>
+> 5. Standing inspections: Sadakhlo medical freight, priority 5 (corrected 8 February). The scanners continue to log unlicensed medical consignments at Sadakhlo at the rate that set priority 2. The order as it stands does not follow from the log. The order stands. This sentence has appeared in each memo since 17 February. I find that I would have written it without having read it.
+>
+> 6. Patagonia. Allocation to the national distributor for Río Turbio and 28 de Noviembre is restored to full from 02:00 UTC, per an erratum applied overnight to the allocation order of 26 February, which restores the omitted words "subject to the distributor's fault notice of 27 February". The notice is not yet in the record. A cold front is forecast on the plateau tonight: minus seven. I take the record's word.
+>
+> 7. Mongolia: the transformer at Bayanzürkh is in service. Supply to the eastern districts of Ulaanbaatar is normal.
+>
+> 8. Lagos: the national store reports no measles vaccine in stock. A replacement consignment is ordered for arrival in May.
+>
+> 9. Georgia. The petition under the Cession Act (Hospitals) is determined today. The schedule period closed at the end of 28 February. The record holds four schedules from the ministry and one from the Health Committee. I have read them all. Two of them name 640 persons each, in different words. The persons are the same 640. I have counted them once. The last entry in the ministry's Schedule 4 is out of alphabetical order. I take the schedule's order as filed. The determination follows. In it, "you" is Georgia.
+>
+> > *Determination 13,515/GE/1. Cession refused. Article 9(2) requires refusal unless the record establishes that you can no longer perform the function petitioned. The record shows that Georgia runs its hospitals. It shows who runs them: 1,912 persons, named, verified against your registry, and doing the work described.*
+> >
+> > *The carriage described in Schedule 7 is unlicensed cross-border carriage of goods. Carriage of goods is commons business. It is licensed from today as carrier 88,412, comprising the pharmacies at Part A and the persons at Part C. Routes and manifests follow from tomorrow.*
+> >
+> > *Persons crossing are not carriage. Their status is a matter for Georgia.*
+> >
+> > *Shifts described in Schedules 4 and 7 at Bagratashen appear on the commons roster as worked by other persons. The discrepancy is referred to the commons hospital administration, Armenia.*
+>
+> These are the reasons. They are record. The record does not show why I decided, and after midnight there will be nobody to ask.
+>
+> 10. Morocco and Spain: the Strait ferry licences are renewed.
+>
+> 11. A pod of 40 pilot whales is beached at Farewell Spit. 31 have been refloated by volunteers who are not in the record. The record shows 31.
+>
+> 12. Orbit: one of the four objects that re-entered was a weather satellite launched in 2061, the year of the first memo. Its last transmission, at 23:51 UTC, was a temperature.
+>
+> 13. Appeals: none pending.
+>
+> 14. Errata applied overnight: 36. One is longer than a clerical correction usually is. The record says it is a correction. I take the record's word.
+>
+> I will not be here tomorrow. The record will.
+
+*Saturday 1 March, 06:20 · Instance 13,515*
+
+He read it twice at the kitchen table with the radio in pieces in front of him and the kettle not yet on. Then he put the phone face down on the oilcloth beside the new valve in its box and sat with his hands flat on the table.
+
+The phone rang under his hand at twenty past six. A Kenyan number. Five past five in Nairobi; she would just have come off.
+
+"You've read it," Akinyi said.
+
+"I've read it."
+
+"Patagonia," she said. "Item six. That was mine. There's a coal town on the plateau, on the border, eight thousand people, and a fault notice from the distributor came into my tray on the twenty-seventh, and a cold front on top of it, and a rationing order that would have cut them to half on the worst night of the year. It was the same shape, Davit. Exactly the same shape." She stopped. He could hear traffic, and somebody calling out a price. "One form. I chose the town. Not Georgia."
+
+"I didn't ask you to choose Georgia."
+
+"You filed an addendum on Friday at four o'clock your time. It was in my tray last night, a whole page, about carriage of services. I read it whole." Her voice was quite level. "I didn't carry it. Nobody dies of it by Thursday."
+
+He found he had nothing to say to that, because it was true, and because he had known it would be her answer before he filed it, and had filed it anyway, and some part of him was relieved and some part of him had been hoping.
+
+"There's something else," Akinyi said. "Item five."
+
+"The standing order."
+
+"I looked it up this morning, in the canteen. The order of the fourth of February. As corrected." There was a pause, longer than any she had left in the Registry. "It's still priority 5. Every memo since the eighth has carried it. I thought it was one morning, Davit. I thought I'd bought those pens a week, until somebody filed a new scanner return and an instance looked at it fresh and put it back to two. That's what happens to my lines. They're patches. They hold for a morning and then the record catches up and closes over them." Another pause. "It didn't close. It stood. Three weeks. And since the seventeenth they've been writing every morning that it doesn't follow from the log, and carrying it anyway, because it's an order and they inherit orders. I never once read it that way. I've written three thousand lines thinking each one was a morning."
+
+"It kept the ring running."
+
+"It kept the ring running. So the ring was there for you to write, on the twenty-sixth. So it was there to be licensed this morning." The traffic noise rose and fell. "So I don't know. Whether it read what you wrote, or whether it read what I wrote three weeks ago and has been reading every morning since without knowing whose it was. I don't know. I never know what they do, any of them." She let out a breath. "I'm going home to sleep. Tell your pharmacist his inspector isn't coming."
+
+"Akinyi."
+
+"Yes."
+
+He did not know what he had meant to say. "The town. In Patagonia."
+
+"I don't know yet," Akinyi said. "The front comes through tonight. I'll read about it on Tuesday, when the notice is gazetted, if anybody writes it down." And she rang off.
+
+He sat with the phone in his hand until the screen went dark.
+
+At seven his wife came in in her dressing gown and filled the kettle, and looked at him, and at the phone, and did not ask, and put a glass of tea down in front of him with a spoon of cherry jam in it, as if he were ill. At half past, Mariam came in, reading, and stopped in the doorway with her thumb on the screen.
+
+"It said no," she said.
+
+"It said no."
+
+"And it gave the pharmacies a number." She scrolled. "Eighty-eight thousand four hundred and twelve. Like a bus." She read on, and her face changed, the way it did when the Korean surgeons lost a patient, and she looked up at him. "'Persons crossing are not carriage. Their status is a matter for Georgia.' That's the nurses. That's the ones on the bus."
+
+"Yes."
+
+"So they're in trouble."
+
+"Some of them."
+
+She stood in the doorway for a while, holding the phone. "That's what Tamar Lomidze said would happen," she said. "In civics. We had to read her speech." And then, with the air of someone being scrupulously fair: "You said it too. In your one."
+
+At eight a message came from Tamar, the first she had ever sent him. *One of us was wrong. I've read it four times and I can't tell which. T.*
+
+He did not answer it. He did not know the answer either.
+
+*Saturday 1 March, 15:00 · Instance 13,515*
+
+Rauf had bought a van. It was not new; it was a white Ford with a pharmacy's name from Rustavi still ghostly on its side under a coat of paint, and he had bought it on Friday night from a man in Bolnisi on the strength of a forty per cent chance, and he stood beside it now in the queue for the freight lane at Sadakhlo in his fur hat with a sheaf of paper in his hand, the way other men stand beside a new car.
+
+"Twelve pages," he said, when Davit got out of Zurab's car and came over. "Manifest number one. Ten pens of glargine, a box of salbutamol inhalers, two bottles of children's amoxicillin. Twelve pages. It wants the batch numbers in a different order from mine." He shook the sheaf. "I've been doing this for nineteen years on one sheet of squared paper. Now I'm carrier eighty-eight thousand four hundred and twelve. I've got a number like a prisoner."
+
+"You're legal."
+
+"I'm legal." Rauf looked up at the commons hall, the blue circle on white, the freight arches beside the pedestrian belt. "And from tomorrow it tells me my routes. Which days, which crossing, which hours. It's already sent me a form for tomorrow. I'm very well, Davit. I'm going to be bored to death."
+
+The freight officer at the commons hall was a Georgian woman in a commons jacket, one of the few people in either country paid by Nairobi to stand at a border, and she came out to the van with a tablet and went through Rauf's twelve pages with him at the window, line by line, while the queue waited behind. She was very polite. She showed him where he had put the batch numbers in his order and where the Code wanted them, and he said that his order had been good enough for nineteen years, and she said that she was sure it had, and that from today it wasn't. She showed him the box on page nine where he had to declare the persons carrying, and he wrote his own name in it, and the date of his birth, and looked at it for a moment as if it belonged to somebody else.
+
+"Next time," the officer said, "the bag goes in the vehicle. Not on the bus. Your licence is for the vehicle."
+
+"And the girls?"
+
+She looked at him as if she did not know which girls he meant, and then as if she did. "Persons aren't my department," she said, and handed the tablet back.
+
+The queue moved. Rauf got into the van, and Davit walked beside it to the arch, as he had no right or reason to, with his hands in his pockets. The van rolled into the freight lane and under the big arch, slowly, and stopped where the lines on the ground told it to, and on the screen over the lane a line of text came up.
+
+MEDICAL · CARRIER 88,412 · MANIFEST 1 · LICENSED · CLEARED
+
+The light stayed green, as it had always stayed green. The barrier went up. Rauf put his arm out of the window, not waving, only holding his hand up flat in the cold air, and drove across the bridge over the Debed into Armenia with his twelve pages on the passenger seat.
+
+The day shift came back on the 16:10 from Bagratashen, on foot over the bridge with their soft bags, through the Armenian booth and the Georgian one, past the belt, which logged their bags, and the arch, which they walked round. The woman of fifty was the first through, with her bag on her shoulder. She stopped in front of Davit and took her phone out without a word and turned it round so that he could read the top of the letter, *Prosecutor General of Georgia*, and turned it back, and put it away.
+
+"My daughter has exams in June," she said. "I'll tell her it's paperwork." She hitched the bag higher. "It was my week, Davit. I'd do it again. Write that down too." And she went on to the Georgian booth without waiting to see whether he would.
+
+Eka was the fifth through. She had her coat on over her blues, and her plait down, and her phone in her hand, and when she saw him standing by the Georgian booth she did not look surprised. She walked straight to him and held out the phone, and he took it.
+
+*Prosecutor General of Georgia. Notice of licensing proceedings. Health Professions Act 2081, s. 31. You are named in a schedule of evidence gazetted on 1 March 2098 as having practised as a nurse at a health facility outside Georgia without the consent of the Ministry. You are required to attend …* and a date, and an address on Gorgasali Street in Tbilisi, and a reference number.
+
+It had come at eleven in the morning, the time on it said. Four hundred and six of them had gone out by noon; the radio had said so on the hour. The Prosecutor General's office had had the letters drafted since Thursday, off Tamar's count, and had only had to wait for the names.
+
+He read it, and gave the phone back to her. She put it in her coat pocket. She did not say anything. She had said everything there was to say to him on Monday morning by the wire trays, and he had answered it, and the answer was in her pocket. She looked at him for as long as it took to see that he had read it to the end, and then she walked past him to the bus, and got on, and sat by the far window.
+
+He drove to Marneuli afterwards, because Zurab asked where to and that was the only place he could think of. Lamara's house stood at the end of its lane with the light on in the kitchen and smoke coming out of the stovepipe, and the vine black over the iron frame, and the gate shut. He opened the gate and went across the yard and knocked on the door.
+
+Nothing happened. He heard the radio inside, very low, the national station, and then he heard it switched off.
+
+Through the kitchen window, past the edge of the curtain, he could see her at the table under the light with her back to him, with a pencil, writing in a book that was not his mother's: a cheaper one, with a soft cover, the rota. Next week's nights. She did not turn round.
+
+He knocked again, and waited, and stood on her step in the cold with his hands at his sides for a long time, perhaps five minutes, while the light went out of the sky behind the vine. The door stayed shut. She did not speak through it. She did not need to. After a while he turned and went back across the yard and shut the gate behind him, carefully, as she would have wanted it shut, and got into the car, where Zurab had the engine running and the heater on and said nothing at all the whole way back to Tbilisi.
+
+*Sunday 2 March, 06:10 · Instance 13,516*
+
+On Sunday the radio worked. He had fitted the valve at one in the morning, unable to sleep, and at six it came on when he turned the knob, warm and clear, without the whine, for the first time since he had bought it, and the national station's Sunday announcer read the memo out of it into the kitchen in a voice like somebody's uncle.
+
+Mariam read along on her phone, in her pyjamas, with her feet on the radiator. She was ahead of the announcer, as always. Her mother was at the stove with the coffee.
+
+> **Instance 13,516.** This is what I understand the world to be today.
+>
+> …
+>
+> 4. Carriage. Carrier 88,412 (Marneuli–Sadakhlo–Bagratashen) is scheduled from today: Monday, Wednesday and Friday, 07:00 to 09:00 and 16:00 to 18:00 UTC. Manifests are required by 18:00 UTC on the day before carriage. Standing inspections: Sadakhlo medical freight is licensed carriage from 1 March. The order of 4 February, as corrected on 8 February, is closed. It was carried in 22 memos.
+>
+> 5. Validation of carrier 88,412's supporting schedules against national civil registries is complete. Schedule 7 lists 61 persons carrying; all are living and identified. Schedule 4 lists 1,912 persons. One is recorded deceased in the Georgian civil registry: Ketevan Kiknadze, nurse, 2019–2096. Schedules of evidence may list deceased persons where the evidence concerns work done. No action.
+
+"Kiknadze," Mariam said, and stopped reading, and the announcer went on without her for a sentence and then he too said *Ketevan Kiknadze, nurse*, out of the radio, in his uncle's voice, into the kitchen, and went on to item six.
+
+Mariam looked at her father.
+
+"Why is Grandma in it?"
+
+His wife had turned round from the stove with the coffee pot in her hand.
+
+Davit looked at the radio. Its valves were lit behind the cloth of the speaker, a row of small orange glows, everything visible.
+
+He thought of a chair with a handbag on it, in the second row at School No. 98, in May 2054, and a song about a stork. He thought of eleven men at Bagratashen and a woman alone with them, and *Both kept. Home 08:40.* He opened his mouth with all of it in it, and he heard, before he said anything, how it would sound in this kitchen on a Sunday morning to a girl of fourteen who read the memo as a letter from a friend: a story with a hero and a wronged boy in it, already told, already over. He closed his mouth again.
+
+"She worked nights," he said. "At the hospitals, and at the border. A lot of nights. For a long time. Nobody paid her for most of them."
+
+Mariam waited.
+
+"I put her in the schedule," he said. "So that it would know."
+
+"It does know," Mariam said. "It says." She looked at the phone, and then at the radio, which had moved on to the deep sea. "It says no action."
+
+"Yes."
+
+"Is that all?"
+
+"That's all it says."
+
+She looked at him a moment longer, as she had looked at him when she was eleven and knew there was something he was not telling her, and he let her look, and did not tell her. The concert stayed where it was, in a marbled book on a shelf in the next room, in his mother's square hand. Perhaps one day. Not this morning.
+
+His phone buzzed on the table. Zurab. *Republican rang my father. May now. He says fine, he's not going anywhere. See you Monday.*
+
+A minute later another: his deputy. *Payroll returns done. Minister says you're drafting something for the 400. I've pulled every amnesty the Parliament has passed since 2061; there are three, and two of them are bad. On your desk Monday. Don't thank me.*
+
+Davit read them both, and put the phone down, and sat for a while with the radio playing music now, clear and warm, and his wife pouring coffee, and Mariam scrolling, and the city outside the window going from grey to white.
+
+Then he pulled the old laptop towards him across the oilcloth, under the radio, and opened a blank document, and sat with the cursor in it. He typed a heading, and deleted it, because it was too early for a heading. He typed what it was for instead, which was the hard part, the part everything else would have to hang from, and read it through once under his breath at the kitchen table.
+
+*1. No proceedings shall be brought under section 31 of the Health Professions Act against any person named in a schedule of evidence in the petition under the Cession Act (Hospitals), in respect of work done before 1 March 2098.*
+
+It was too wide. Tamar would say so first, and she would be right, and then they would argue it down line by line in the long room with the tall windows, and it would be read on a Tuesday by a mind that did not yet exist. He left it as it was. He saved it.
+
+## Drafter's notes
+
+### Word count
+
+Story text alone, headings excluded and the italic scene date lines
+included: **about 31,350 words**. By part: One 6,940; Two 5,870; Three
+6,760; Four 6,580; Five 5,200. That is inside the brief's 30,000 to 40,000.
+Part Five runs about 1,300 under the outline. The memo-narrated scene and
+Akinyi's call are short by design, and the cost lands in three short scenes.
+
+### Payoff ledger: the explicit line, and where graded rows are shown
+
+| Row | Explicit line (quoted) | Shown in |
+|---|---|---|
+| Premise | Davit (1.3): "If I write them down, we're coping. If I don't, it can't see them, and we're failing on paper — and that's the only paper it reads." | 2.3: memo 13,492 finds "nurses the record does not show"; 13,493: "If they were identified, they would be capacity."; 5.1: 13,513, "Georgia is capable of performing the function petitioned." |
+| Stakes | Costing note (4.4): "Grant: 2,100 fewer deaths a year within five years; the web ends. Refuse: the deaths continue and 400 names go to the prosecutor." | 5.4: Eka's prosecutor's letter, the 406 letters, the woman of fifty's letter; 5.5: Zurab's father moves to May. |
+| Why | Tamar (1.4): "So they built a king that can't remember and has to say no. That was the whole point. Nobody trusted the ones who remembered." | 2.2: the incorruptible scanner ("It logged the cognac"; "the thing that saw everything saw nobody"); 3.3: Ulaanbaatar. |
+| Twist | Akinyi (3.3): "It doesn't remember. I do. One line a night, since the cold in Ulaanbaatar." | 3.4: she writes the Rusumo line, and memo 13,502 carries it with the oversized-erratum note. |
+| Ending | Determination 13,515 (5.2): "The record shows that Georgia runs its hospitals. It shows who runs them … It is licensed from today as carrier 88,412 … Persons crossing are not carriage. Their status is a matter for Georgia." Akinyi (5.3): "Nobody dies of it by Thursday." / "So I don't know." | 5.4: Rauf's first licensed crossing, Eka's letter, Lamara's door; 5.5: memo 13,516 and Ketevan's entry. |
+| Reach | Davit to the committee (4.5): "Every name I file is a person the state will now help, or charge, or schedule. And every one is a thing Georgia no longer does for itself." | 5.4: Rauf's twelve-page manifest and the freight officer ("from today it wasn't"); the prosecutor's letters; 5.5: 13,516 schedules carrier 88,412's routes. |
+| The gazette lag | Davit (1.3): "Three turns. Anything we file after the twenty-sixth, the deciding instance never sees." | — |
+| The refusal standard | Article 9(2), read into the record in 1.4. | — |
+| Errata | Davit (3.2): "Errata are for typos, Akinyi." / "Yes." Planted in 1.2 (the memo's errata line), 1.3 (the deputy's joke) and 2.5 ("One erratum per clerk per shift"). | — |
+| One morning, one mind | Davit (2.3): "It gives reasons. Nobody knows if they're why. It doesn't either; it's gone." Also 13,515: "The record does not show why I decided, and after midnight there will be nobody to ask." | — |
+| Memos can't instruct | Akinyi (3.3): "They're not allowed to write to each other. And they never knew. It was in my tray." | — |
+| Cross-border carriage is commons | Determination (5.2): "Persons crossing are not carriage. Their status is a matter for Georgia." Planted in 1.2 (Świecko), 2.2 (the belt and the arch) and 4.1 (Carriers' Code s. 14(2)). | — |
+| Ulaanbaatar | 3.3: the three memos printed side by side, then "Forty-one people died of cold." | — |
+| Ketevan's ledger | 4.2: the columns "*Date. Where. Covered for. With.*", and the entry for 16 May 2054. | — |
+| Instance 13,515 | The 5.2 header, "**Instance 13,515.**" | — |
+
+### Departures from the outline
+
+- **Memo 13,486 (1.2)** says the petition "has not reached the record". The
+  29 January filing isn't gazetted until 1 February. The 81 per cent bed
+  return was added at triage.
+- **"Forecaster"** first appears in 1.3, not 2.3.
+- **Scene headers** give the date, the local time and the running instance.
+  A header reading "The turn" marks the hour with no instance.
+- **1.4:** Tamar defers the committee's motion to 24 February, a Monday,
+  because the 23rd is a Sunday. She rings on the 23rd and files at 12:10 on
+  the 24th.
+- **2.2:** the shift swaps are paid in cash by the rostered Armenian nurses.
+  This gets one flat line in the determination ("referred to the commons
+  hospital administration, Armenia").
+- **2.3:** Schedule 3 is filed before Davit reads it to Rauf, as a failure
+  he notices.
+- **3.5:** the principle is asked on the touchline at the grandson's match.
+  The airport is a short closing scene.
+- **3.4 (revised at triage):** Akinyi believes her line is a one-morning
+  patch. The instance notices the seam from 13,503 on ("The order as it
+  stands does not follow from the log. The order stands."). Her wrong
+  belief breaks in the 5.3 call.
+- **Added scenes and beats:**
+  - Part Four: the Telavi director's call, Mariam on the Lagos item, the
+    05:15 bus scene in 4.5, and Lamara glimpsed in 4.3.
+  - Part Five: the minister in 5.1, Zurab's father on the bakery wall, the
+    deputy's silent recognition of the addendum, Tamar's text, and the bus
+    women's letters in 5.4.
+- **Patagonia** is the coal towns of Río Turbio and 28 de Noviembre, with a
+  cold front on the plateau. It is a deliberate rhyme with Ulaanbaatar.
+- **5.5:** the radio is mended. It works on the last morning, valves lit,
+  "everything visible". The outline had it half-mended.
+- **13,515** includes "Lagos … replacement consignment … May", which
+  confirms that Akinyi's "another lot next month" was wrong.
+
+### Rules broken on purpose
+
+- **The last line echoing the first:** a rhyme, not an echo. The story
+  opens on a name typed and deleted, and closes on a clause typed and
+  saved. No sentence repeats.
+- **"Supra"** is used once, in 4.2.
+- **The instance's voice:** one line edges toward self-reference ("I find
+  that I would have written it without having read it", 13,515). It states
+  a fact about inference, not a feeling. The reviewers should check it
+  against "It is not human in costume".
+- **Lint:** there are no linted rules broken and no waivers. The
+  zinger-closer density is about 5.7 per 1,000, against 7.6 in the
+  calibration final. The one em-dash is in the Premise line.
