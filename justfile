@@ -20,7 +20,9 @@ kindle SLUG:
     title="$(sed -n 's/^# //p' "$src" | head -n 1 | tr '/' '-')"
     [ -n "$title" ] || { echo "kindle: no '# Title' heading in $src" >&2; exit 1; }
     epub="stories/{{SLUG}}/$title.epub"
-    [ "$epub" -nt "$src" ] || python3 scripts/make_epub.py "$src" "$epub"
+    [ "$epub" -nt "$src" ] && [ "$epub" -nt scripts/make_epub.py ] \
+        && [ "$epub" -nt scripts/make_cover.py ] \
+        || python3 scripts/make_epub.py "$src" "$epub"
     python3 scripts/send_to_kindle.py "$epub"
 
 # Install the pre-commit shim into the shared git dir (covers every worktree).
