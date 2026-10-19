@@ -17,6 +17,8 @@ Don't pass `model:`. The agent definition sets it.
 **Read:**
 - `stories/<slug>/00-brief.md`. It sets the number of cards (3 unless the
   brief says otherwise), the length range, the Futurity floor and any seed.
+- `process/reader-profile.md`, the *What pulls* and *What disappoints*
+  sections. Aim at least one card at a pull, through your lens.
 
 **Task:**
 - Write exactly the brief's number of idea cards, working from the "In
