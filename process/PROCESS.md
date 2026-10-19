@@ -103,8 +103,8 @@ again on `final.md`. The orchestrator never grades comprehension itself.
 **A structural problem found at stage 9,** or a comprehension miss on
 `final.md`, sends the story back to stage 8. The exception is a story the
 stage 8 loop cap let through: a miss on `final.md` is then logged, and if
-polish changed the row's lines, draft N's lines are restored
-(`process/stages/09-polish.md`).
+the row passed on draft N and polish changed its quoted text, draft N's
+text is restored (`process/stages/09-polish.md`).
 
 ## Default panels
 
