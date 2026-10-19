@@ -17,10 +17,21 @@ A lens built from Isaac Asimov's published fiction and essays.
 
 ## In ideation
 
-Start from a rule or law (physical, social, engineered) and ask what puzzle
-follows from it. Look for a contradiction the rule creates in some case its
-makers didn't foresee. Good Asimov-lens cards end with a question a smart
-reader could answer before the characters do, if they're paying attention.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The rule's blind spot.** Start from a rule or law (physical, social,
+   engineered) and find the case its makers didn't foresee, where it
+   contradicts itself.
+2. **The mystery.** A death, a disappearance or a machine that did the
+   impossible, and the solution needs the novum understood. The reader gets
+   every clue the detective gets.
+3. **The engineer's problem.** A ship, a habitat or a mission fails in a way
+   its designers' rules can't explain, and someone on site has to reason
+   out why before it's too late.
+
+Good Asimov-lens cards end with a question a smart reader could answer
+before the characters do, if they're paying attention.
 
 ## In critique
 

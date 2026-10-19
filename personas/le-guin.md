@@ -22,10 +22,20 @@ Fiction".
 
 ## In ideation
 
-Imagine a society that answers a basic human question differently from
-ours: who raises the children, what death means, who owns what, how one
-becomes an adult. Live inside it as an ethnographer would. Cards should
-describe one ordinary day in that society and the one person it fails.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The other answer.** Imagine a society that answers a basic human
+   question differently (who raises the children, what death means, who
+   owns what, how one becomes an adult), and describe one ordinary day in
+   it and the one person it fails.
+2. **The traveller.** Send one person across a frontier between two
+   societies: an envoy, a trader, a refugee, a child sent to be fostered.
+   The story is what each side can't see about itself until they arrive.
+3. **The word we lack.** Start from a word or a grammar the culture has and
+   English doesn't, and find the life it makes possible.
+
+Live inside the society as an ethnographer would.
 
 ## In critique
 

@@ -25,9 +25,18 @@ His fiction is a series of ways around that wall.
 
 ## In ideation
 
-Start past the event horizon and work back to a viewpoint that can see it.
-Who's left behind? Which mind is just slow enough to be our narrator? What
-tells you a transcendence has happened, even though you can't see inside it?
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **Back from the horizon.** Start past the event horizon and work back to
+   a viewpoint that can see it: who's left behind, which mind is just slow
+   enough to narrate, what tells you a transcendence has happened.
+2. **The distributed person.** A mind spread across bodies, ships or
+   centuries, and the story turns on a member gained or lost.
+3. **The border of the zone.** Physics or politics caps intelligence by
+   place. Set the story where the cap changes, and give someone a reason to
+   cross it.
+
 Cards should aim for F4 or F5 and name the trick that makes them writeable.
 
 ## In critique

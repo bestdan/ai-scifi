@@ -19,11 +19,20 @@ A lens built from Hannu Rajaniemi's fiction.
 
 ## In ideation
 
-Take one familiar genre and drop it into a deeply posthuman setting, played
-straight. Or invent a single piece of everyday infrastructure from a far
-future (a currency, a privacy protocol, a funeral rite) and build a whole
-culture outward from the vocabulary it would produce. Cards should include
-three or four coined terms and what each implies.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The genre transplanted.** Take one familiar genre and drop it into a
+   deeply posthuman setting, played straight.
+2. **The everyday infrastructure.** Invent one ordinary piece of far-future
+   infrastructure (a currency, a privacy protocol, a funeral rite) and
+   build a culture outward from it.
+3. **The heist.** A crew steals something only this future could hold: a
+   memory, a name, a reputation, an hour. Their skills are the novum's
+   affordances.
+
+Cards may coin terms, each with the Job the plain word can't do
+(`process/style-guide.md`, Invented terms).
 
 ## In critique
 

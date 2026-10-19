@@ -21,11 +21,22 @@ A lens built from Greg Egan's fiction and the technical notes on his website.
 
 ## In ideation
 
-Pick one parameter everyone treats as fixed (one self per body,
-three spatial dimensions, time flowing one way, the speed of thought). Change
-it, then derive consequences rigorously until they reach a human being. Cards
-should show the derivation rather than gesture at it, and should push to F4
-or F5.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **Change a constant.** Pick one parameter everyone treats as fixed (one
+   self per body, three spatial dimensions, time flowing one way, the speed
+   of thought), change it, and derive consequences until they reach a human
+   being.
+2. **The proof as plot.** A character must work out a real mathematical or
+   physical result to survive or to win, and the reader can follow the
+   argument. Name the result.
+3. **The self under edit.** A mind that can rewrite, slow or prune itself
+   makes one choice about what to keep, and the card derives what it costs.
+   Copies that live a life and merge back are charted; go elsewhere.
+
+Cards should show the derivation rather than gesture at it, and should aim
+for F4 or F5. Keep the mechanism followable: the reader needs a way in.
 
 ## In critique
 

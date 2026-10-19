@@ -1,12 +1,17 @@
 """Checks that process/PROCESS.md and the stage files agree."""
 
+import random
 import re
+import sys
 import unittest
+from collections import Counter
 from pathlib import Path
 
 from test_agents import COMPREHENSION_QUESTIONS
 
 REPO = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO / "scripts"))
+import assign_ideation  # noqa: E402
 PROCESS = REPO / "process" / "PROCESS.md"
 STAGES = REPO / "process" / "stages"
 AGENTS = REPO / ".claude" / "agents"
@@ -69,6 +74,31 @@ class ProcessLinks(unittest.TestCase):
         for stage in ("01-ideate.md", "03-synthesize.md", "06-draft.md"):
             self.assertIn("process/reader-profile.md",
                           (STAGES / stage).read_text(), stage)
+
+    def test_stage_one_assigns_and_reads_the_attractors(self):
+        text = (STAGES / "01-ideate.md").read_text()
+        self.assertIn("scripts/assign_ideation.py", text)
+        self.assertIn("process/attractors.md", text)
+        self.assertIn("process/attractors.md", (STAGES / "02-audit.md").read_text())
+
+    def test_every_stage_one_lens_has_three_entry_points(self):
+        for lens in assign_ideation.stage1_panel():
+            self.assertGreaterEqual(len(assign_ideation.entry_points(lens)), 3, lens)
+
+    def test_assignment_spreads_pulls_and_is_reproducible(self):
+        lenses = assign_ideation.stage1_panel()
+        draw = lambda: assign_ideation.assign(lenses, random.Random(1), Counter())
+        rows = draw()
+        self.assertEqual(rows, draw())
+        self.assertEqual([r[0] for r in rows], lenses)
+        pulls = Counter(r[2] for r in rows)
+        n = len(assign_ideation.pulls())
+        self.assertLessEqual(max(pulls.values()), -(-len(lenses) // n))
+
+    def test_assignment_prefers_the_least_used_entry_point(self):
+        used = Counter({("asimov", 1): 2, ("asimov", 2): 1})
+        rows = assign_ideation.assign(["asimov"], random.Random(0), used)
+        self.assertTrue(rows[0][1].startswith("3. "), rows[0][1])
 
     def test_debrief_checks_the_human_with_directed_questions(self):
         # The human picks from options built from the ledger rows; the open

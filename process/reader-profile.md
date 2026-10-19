@@ -17,12 +17,13 @@ human's own words, it says so.
 
 ## Who reads it
 
-- **Ideators (stage 1)** read *What pulls* and *What disappoints*, and aim at
-  them. A card in one of the pulls still has to clear the Cartographer:
-  these are the human's favourite territories, so they are also the most
-  charted.
+- **Ideators (stage 1)** read *What pulls* and *What disappoints*. Each lens
+  is assigned one pull (`scripts/assign_ideation.py`), so the pulls spread
+  the cards rather than drawing every lens to the same one. A card in a pull
+  still has to clear the Cartographer: these are the human's favourite
+  territories, so they are also the most charted.
 - **The orchestrator at stage 3** uses the whole profile, after the brief's
-  seed, to judge which premise this reader would enjoy most.
+  seed and ambition, to judge which premise this reader would enjoy most.
 - **The drafter (stages 6 and 8)** reads *How the best-loved stories
   are built*.
 
