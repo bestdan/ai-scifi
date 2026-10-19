@@ -536,7 +536,7 @@ The ward sister on the ground floor was a heavy Armenian woman of sixty with her
 
 "I want ours paid in Georgia."
 
-She laughed, not unkindly. "Then pay them." She took his empty cup. "Your mother worked here. In the old building. I was a student. She showed me how to take blood from an old man with no veins left. She was rude to everybody." She dropped the cup in the bin. "Go home, Deputy Minister. You're in the way."
+She laughed, not unkindly. "Then pay them." She looked down the corridor, at the screen with its names. "I've been a ward sister thirty-one years. Since 2088 the board tells me every morning who is on my ward. I haven't chosen a nurse in ten years. When they changed the stroke protocol, I read it on the board at six o'clock, the same minute as the porters, and that afternoon I was teaching it." She took his empty cup. "Your mother worked here. In the old building. I was a student. She showed me how to take blood from an old man with no veins left. She was rude to everybody." She dropped the cup in the bin. "Go home, Deputy Minister. You're in the way."
 
 Through the glass doors at the end of the corridor he could see the young nurse with the plait at the window of a ward, in her blues, looking at her phone. She read something on it, smiled, put it away in her pocket, and turned back to the beds.
 
@@ -576,9 +576,9 @@ She looked at him the way she had looked at the three fingers on Friday, and the
 
 She read it through twice on the screen with her lips moving slightly, a gazette officer's habit he had never broken in himself either. "It's good," she said. "It's very sad. Can I file it?"
 
-He let her file it. The filing slip came back at 16:40 with its intake number, and he sat for a while afterwards with the window open and the cold coming in, and felt the particular emptiness of a sent thing. It was down the wire now. Tonight it would lie in an intake tray in Nairobi with the rest of the day's world, read by whoever's tray it was and stamped for its batch. In three days a mind would read it and believe it. He thought of the young nurse with the cool-bag on her hip, talking about a cow.
+He let her file it. The filing slip came back at 16:40 with its intake number, and only when he saw the number did he remember that he had promised himself he would read the schedule to Rauf before anyone filed anything. He had promised it on the bus. He had forgotten it in an afternoon, in the pleasure of the drafting. He sat for a while afterwards with the window open and the cold coming in, and felt the particular emptiness of a sent thing. It was down the wire now. Tonight it would lie in an intake tray in Nairobi with the rest of the day's world, read by whoever's tray it was and stamped for its batch. In three days a mind would read it and believe it. He thought of the young nurse with the cool-bag on her hip, talking about a cow.
 
-At eight he rang Rauf, because he had promised himself he would read it to him before anyone else could. Rauf listened without interrupting. Davit could hear a television behind him and somebody washing dishes.
+At eight he rang Rauf anyway, to read him what was already on its way to Nairobi. He did not say it was filed. Rauf listened without interrupting. Davit could hear a television behind him and somebody washing dishes.
 
 "Read me the number again," Rauf said.
 
@@ -590,7 +590,11 @@ There was a long pause.
 
 "It's a count."
 
-"It's a list with the names rubbed off. Anybody can rub them back. Our inspectorate can count to fourteen. They have a map." The dishes stopped behind him. "When is it read?"
+"It's a list with the names rubbed off. Anybody can rub them back. Our inspectorate can count to fourteen. They have a map." The dishes stopped behind him. "You've filed it already."
+
+"This afternoon."
+
+"So you rang to tell me, not to ask me." Rauf breathed out. "When is it read?"
 
 "Saturday."
 
@@ -682,11 +686,11 @@ Lamara rang him that evening at home, while he was eating soup at the kitchen ta
 
 "It means it can check you're real."
 
-"I'm real. Come to Marneuli at two in the morning and see if I'm real." He heard her put something down, a glass or a cup, hard. "When we're written, Davit, then what? I'll tell you what. Then a mind in Nairobi decides which ward I'm on and which night, and I get a letter. Your mother would have put the letter in the stove."
+"I'm real. Come to Marneuli at two in the morning and see if I'm real." He heard her put something down, a glass or a cup, hard. "When we're written, I get a letter. From Nairobi, telling me which night." She let that sit. "Your mother would have put the letter in the stove."
 
 "You'd get paid."
 
-"I'd get scheduled." She was quiet for a moment. "Rauf told me what you did. With the pharmacies. And then what you undid."
+"In the stove," Lamara said. She was quiet for a moment. "Rauf told me what you did. With the pharmacies. And then what you undid."
 
 "He asked me to."
 
@@ -749,3 +753,297 @@ She ate it, watching him. "Is it bad?"
 He could not have told her, and he did not try. He got up and put the kettle on, which was what people in this family did instead, and she read the rest of the memo to herself in silence, and once laughed at something in it, an item about a whale off the Azores, and did not share it.
 
 The ministry's travel office opened at nine on Saturdays for emergencies. He told them it was a records matter. The first seat they could give him to Nairobi, with the permissions, was on Friday the fourteenth, and he took it. Then he sat for a long time at the kitchen table with the radio playing music now, the whine running under it, and his hand flat on the wood beside it as if to keep it from moving.
+
+## Part Three: The Turn
+
+> **Instance 13,500.** This is what I understand the world to be today.
+>
+> 1. Orbit: 1,204,288 tracked objects.
+>
+> …
+>
+> 5. Carriage. Standing inspections: Sadakhlo medical freight, priority 5. None is scheduled.
+>
+> …
+>
+> 9. Georgia. The record shows two schedules of evidence in the petition, read on 6 and 7 February. Its reading of Georgia is unchanged since 7 February.
+>
+> …
+>
+> 14. Errata applied overnight: 38. None is longer than a clerical correction usually is.
+>
+> This is the 13,500th memo. The number has no other significance that the record shows. I will not be here tomorrow. The record will.
+
+*Saturday 15 February, 02:30 Nairobi · Instance 13,500*
+
+The Night Registry kept its public gallery open all night, because the charter said the making of the record was a public act, and in thirty-seven years nobody had found a way to close a door that the charter said was open. Davit had read that sentence on a brass plate at the gallery stairs every night for two years in his twenties. It was still there. Somebody had polished it.
+
+He had come straight from the airport with his bag. The taxi had let him out at the gate of the commons seat at Gigiri at a quarter past two, into air that smelled of wet earth and diesel and some night flower he had forgotten the name of, and the guard had looked at his passport and his face and waved him through with the boredom of a man who had seen every kind of person arrive at that gate at that hour. Across the courtyard the machine hall stood windowless, with one lamp over its door. Nobody went in there at night. There was nothing to do in there. The one licensed machine in the world ran by itself, and at three o'clock it would stop running anybody.
+
+The gallery was a balcony along one long side of the Registry hall, with three rows of wooden benches. On the benches tonight there was a cleaner eating her supper out of a tin and a young man asleep with his head on a rucksack. Davit sat at the end of the front row with his bag between his feet and his hands on the rail.
+
+Below him the floor was as he remembered it, and smaller. Forty desks in five rows of eight. Each desk had a screen, a wire tray, a rubber stamp in a wooden rack, and a lamp with a green glass shade, and at that hour the lamps were the only light in the hall, so that each clerk sat in a small green-gold room of her own with the dark between. Most of them were women. Most of them were older than he remembered clerks being, because he was older. They read. That was the whole spectacle, forty people reading, and it was why the gallery was always empty.
+
+Over the doors at the far end hung the orbital board. It had been there in his day too, and he had stopped seeing it after a week, and now he could not stop. It was a slab of dark glass twenty metres wide, and on it, in points of light too small to count, moved everything humankind had ever put above the air and not yet brought down: one million two hundred and four thousand objects, give or take the ones that had fallen this week, each on its own line, each line drawn from live tracking and redrawn as he watched. They went across the glass in bands and shoals. Some crawled, some flickered across from edge to edge in the time it took to breathe. At the left edge the board showed the time in Greenwich, at the right the time in Nairobi, and between them, very small, the instance number, 13,500, which would go out at three. That was the commons. He had come four thousand kilometres about one pharmacy in Marneuli. On the board it did not appear at all.
+
+He made himself look down again.
+
+The Registry's work had not changed. The intake came in all day from a hundred and ninety gazettes: land titles, ship registrations, statutes, judgments, the minutes of water boards, the schedules of petitions, everything any member nation chose or was obliged to make public. It fell into the clerks' trays by region and by language. A clerk read each filing whole. That was the rule, and it had been the rule since the first night, because the drafters had wanted every word that entered the record to have passed once through a human head on its way. She checked that it was a filing, signed, sealed by its gazette, dated in the right form, and addressed to the right register. Then she stamped it for its batch, and it waited out its three turns in the queue on her screen, a line among thousands, until the turn at which its batch was sealed and released and it became, in the space of a keystroke, something the governor of the commons could know.
+
+The errata were the other half of the night. An erratum had its own form, which Davit could have filled in asleep. The entry's reference. The old text. The new text. And a box headed *Nature of clerical error*, with five choices: misspelling, transposition, wrong citation, wrong numeral, omitted words restored. Under the box was the clerk's desk key, which went into the Registry's sealed book and never into the public record, and the form locked itself after one use until the next turn. One per clerk per shift. He had used his for a misspelt Bolivian surname, mostly. Once, memorably, for a ship called the *Santa Rita* that had been registered as the *Santa Rata*, and the young men on the floor had called him Rata for a month.
+
+Two desks from the end of the third row a clerk of about twenty-six, in a football shirt under his cardigan, was eating groundnuts out of a paper twist with one hand and typing with the other. Davit watched him read something, frown, shake the last nuts into his palm, and pull up the erratum form. Old text, new text. He could not read the screen from the gallery, but he could read the clerk's lips, moving as he typed, and after a while he had it: an address in Arequipa, *Calle Mercaderes* for *Calle Mercedes*, two letters wrong in a filing from the Peruvian gazette. The young man stamped the form, ate the nuts, and wiped his fingers on his trousers.
+
+In the second row, fourth desk, a woman with close-cut grey hair was writing nothing at all. She had a flask beside her lamp and her hands folded on the edge of the desk, and she was reading with the stillness of a person who had been reading in that chair for twenty-seven years. As he watched, she lifted her head, as clerks sometimes did between filings to rest their eyes, and looked along the gallery, and found him.
+
+She did not wave. She looked for long enough to be sure, and then she took a slip of paper from her tray and wrote on it and gave it to the runner, a boy of about fifteen in a Registry jacket who carried tea and folders between the desks all night. The boy brought it up the gallery stairs at a jog and gave it to Davit without a word and jogged down again.
+
+*Desk 12. Bring a chair. Akinyi Odhiambo.*
+
+He had forgotten that her handwriting slanted backwards. He had forgotten nothing else.
+
+*Saturday 15 February, 03:00 Nairobi · The turn*
+
+The supervisor allowed it because Davit had been Registry and because it was Akinyi asking. Former clerks could sit with a working clerk on the floor, under the rules, provided they touched nothing. The rule had been made for retired clerks who could not stay away. He carried a folding chair down the gallery stairs and set it at the corner of her desk, inside the edge of her lamp, and sat.
+
+At three o'clock by the right-hand clock the night supervisor, a tall stooped man with a ledger under his arm, stood up at his desk at the head of the hall and read out the batch, as every supervisor had read it out every night since 2061. "Batch for the turn of the fifteenth of February. Two hundred and six thousand, four hundred and twelve filings, held three turns. Sealed." He turned a key in a box on his desk. Forty clerks rapped twice on their desks with their knuckles without looking up from their screens, a dry little sound like rain beginning, and it was done; somewhere a day's worth of the world's land titles and ship registrations and petitions had become things the next instance would know. In Davit's day the young clerks had rapped harder than the old ones. They still did.
+
+At the same moment the instance number on the orbital board went out. Nothing else changed. The points of light kept moving across the glass; they did not need anybody to watch them. On the floor nobody looked up. Akinyi poured tea from her flask into its lid, milky, smelling of ginger, and pushed it across to him.
+
+"Now nobody is governing the world but the forty of us," she said. "We call it the turn. You remember."
+
+"I remember."
+
+"You were careful," she said. "And slow. You read every filing twice. I used to think you would make a good judge, because judges are slow. Instead you went home and became a minister." She said it with no particular weight. She was reading as she talked, her eyes going down a page from the Sri Lankan gazette, steady as a sewing machine. "Deputy minister."
+
+"Deputy."
+
+"Your country is in my tray," she said. "Every night this month. Georgia, Armenia, Azerbaijan, the Caucasus. It has been my region since before you came." She finished the page, stamped it, took the next. "So I know why you have come."
+
+He had the memo of 8 February in his inside pocket, printed out on the plane, folded in four. He put it on her desk beside the tray and unfolded it and laid his finger beside item 5. She did not look at it. She had read it the morning it came out, he understood; she read every memo, every morning, before she slept.
+
+"Errata are for typos, Akinyi," he said.
+
+"Yes," she said.
+
+That was all. She took a filing from the tray, a land title from Kandy, and read it through. He waited. She stamped it.
+
+"For an hour on Saturday," he said, "I thought it was the machine. That it read the intake. That the charter was a lie."
+
+"Everybody's first thought." She turned a page. "It's the comfortable one. A machine that cheats is a scandal, and somebody else's fault, and there would be an inquiry with lunch. A clerk is only a crime."
+
+"You are not going to ask me to explain myself," he said.
+
+"You have already explained me to yourself. On a plane, I think. You were Registry. You know what goes in at the turn and who reads the intake. You knew whose tray Georgia was in before you bought the ticket, because I showed you the trays myself in 2072." She took off her glasses and pressed the bridge of her nose. "And you cannot report me, Davit, without writing down how you knew what your own withdrawn schedule said, and why you withdrew it. I read it. It was a good schedule. It described fourteen pharmacists in Marneuli closely enough for your inspectorate to arrest them by lunchtime."
+
+"And the third reason?"
+
+She put her glasses back on.
+
+"I retire next year. In March. I have been wondering for a year whom I would tell." She looked at him for the first time since he had sat down. "Not my daughter. She would worry. Not the supervisor. He would have to act. You are a man who already knows and cannot act. You are a very convenient man. I thought so as soon as I saw you in the gallery with your bag."
+
+Down the row, the young clerk with the groundnuts laughed at something on his screen and then looked round to see if anybody had heard.
+
+"Nobody has seen it," Davit said. "In nine years. The diffs are public. Old text, new text, side by side."
+
+"Forty a night," she said. "Against fourteen million entries. Who reads errata? Nobody. Students, once a year, for an essay. A long erratum is a corrected name with the whole entry quoted round it, or an address, or a citation with all its numbers. There are long ones every night that are nothing to do with me. Our friend with the groundnuts has just written one about a street in Peru." She took the next filing. "And the instance notes one most mornings. *One is longer than a clerical correction usually is.* It noted one most mornings before I ever began. It is the most boring sentence in the memo. Even your daughter skips it."
+
+He had not mentioned his daughter. He did not ask how she knew he had one; it would be in a gazette somewhere, a birth, a school, a petition about bus stops. She read the Caucasus every night.
+
+"How?" he said. "The form has five boxes."
+
+"Omitted words restored." She said it as a teacher gives an answer that the class should have known. "You need a real entry with something in it that a tired clerk could have got wrong. A numeral is best. Numerals are always typos. Priority 2 for priority 5, who is going to say a clerk cannot hit the wrong key? And then the words that were omitted, restored." She made a small gesture over the desk, a smoothing. "*Consignments may be relief stock.* They are your words. I liked them. They read as if somebody had dropped them by accident."
+
+"I chose them so that they would read like that."
+
+"I know. That is why I liked them."
+
+He looked at the orbital board over the doors, because he could not look at her. Somewhere on the far side of the courtyard the one machine in the world was running nobody, and would run nobody for another forty minutes, and in that forty minutes this woman, and possibly others, were writing the only sentences it would ever be told by a person who knew what she was doing.
+
+"Why?" he said. "Not how. Why."
+
+"Not here," Akinyi said. "Come for breakfast. I'm in Kibera, the new blocks on the Ngong road side. Ask anybody for the woman whose grandson's team plays in brown." She opened the erratum form on her screen, and he saw the fields come up, the old text, the new text, the five choices. Then she closed it again without writing anything. "Not tonight," she said, to herself, and took the next filing out of her tray.
+
+*Saturday 15 February, 06:30 Nairobi · Instance 13,501*
+
+The new blocks on the Ngong road side were six storeys of pale concrete with washing on every balcony, built where the tin had been, and there was a football pitch of red earth between two of them where a dozen boys were already kicking a ball about in the early light, shouting. Their kit was dark brown with orange sleeves, the ugliest kit Davit had ever seen. A woman selling mandazi from a cool-box at the pitch's edge pointed him up the stairs of the left-hand block without being asked.
+
+Akinyi's flat was on the fourth floor: two rooms, a balcony, a kitchen in an alcove. A boy's football shirt in the same brown hung drying on a hanger from the curtain rail, with the number 9 on it. She made tea with milk and ginger in a pan and fried eggs, and they ate at a small table by the balcony door with the noise of the pitch coming up. She had slept, she said, for an hour, which was all she ever slept after a turn until the afternoon.
+
+On a shelf over the table stood a row of exercise books, the cheap kind with blue covers that every Kenyan child carried to school, thirty-one of them, each with a year and a pair of months written on its spine in her backwards hand. The first said *Jan–Apr 2089*. The last said *Jan 2098 –*.
+
+She did not take them down. She took down instead a plastic sleeve from beside them, and from the sleeve three sheets of paper, soft with handling, and laid them side by side on the table between the plates.
+
+"Read these first," she said. "Then I'll tell you."
+
+They were memos, printed. Instance 10,181, Thursday 13 January 2089. Instance 10,182, Friday 14 January. Instance 10,183, Saturday 15 January. Each had been read and folded and unfolded so many times that the creases had gone white. Each was the length a memo was in those years, longer than now, and Davit's eye went straight to the item she had marked with a pencil tick in each margin, which was in the same place in each, item 6.
+
+> *6. Mongolia. The central grid is at winter load. Allocation to the national distributor for Ulaanbaatar district heating is reduced by 30 per cent from 00:00 UTC under the standing rationing schedule. The record shows no fault in the national distribution network. Supply is adequate at the reduced allocation.*
+
+> *6. Mongolia. The central grid is at winter load. Allocation to the national distributor for Ulaanbaatar district heating is reduced by 30 per cent from 00:00 UTC under the standing rationing schedule. The record shows no fault in the national distribution network. Supply is adequate at the reduced allocation.*
+
+> *6. Mongolia. The central grid is at winter load. Allocation to the national distributor for Ulaanbaatar district heating is reduced by 30 per cent from 00:00 UTC under the standing rationing schedule. The record shows no fault in the national distribution network. Supply is adequate at the reduced allocation.*
+
+He read the three of them across, and then down, and they were the same.
+
+"Mongolia was mine then," Akinyi said. "The Caucasus and everything east of it, as far as Mongolia. They split it the year after. Early on the thirteenth, a Thursday, just after the turn, the national distributor filed a fault report. A substation at Bayanzürkh had failed. Half the eastern districts were on one line. At the full allocation they could manage on one line. At the reduced allocation, they could not. The report said so, in Mongolian and in English, on the second page. It said that if the allocation was reduced the eastern districts would lose heat." She drank her tea. "It came into my tray at about half past three in the morning, our time. I read it. I checked the seal, the date, the signature. It was a good filing. I stamped it for its batch. Then I read the next thing."
+
+The boys on the pitch were shouting a name, over and over, someone who had scored.
+
+"The batch was sealed at the turn on the sixteenth. The sixteenth's instance read it. It restored the full allocation by 02:10 UTC. Very fast. In the memo it said, *The record shows a fault at Bayanzürkh, reported 13 January. The allocation of the previous three days was inadequate for the eastern districts.* That is all it said. It was minus thirty-eight in Ulaanbaatar that week. Forty-one people died of cold. Old people in the old flats, mostly, and a family in a ger on the edge of the eastern districts with their stove gone out. Three children." She put her cup down. "The commons paid compensation. There was an inquiry. The inquiry found that each instance had acted correctly on the record, which was true."
+
+"They couldn't have known."
+
+"They're not allowed to write to each other," Akinyi said. "And they never knew. It was in my tray." She touched the third sheet with one finger, at the tick. "Three mornings. Three new minds. Each one read that the record showed no fault, and each one was right, and each one was erased that night not knowing that the one before had said the same thing, about the same city, to the same people freezing in it. I read all three memos over my breakfast. On the third morning I knew the batch would go in at the next turn, and that the fourth instance would put it right, and that it would be too late for somebody. I did not know it would be forty-one. I knew it would be somebody."
+
+"And you'd read the report."
+
+"I'd read it three days before any of them could." She took the sheets back and slid them into the sleeve. "There was a television in the canteen then. On the seventeenth they showed the ger. Just the outside of it, with the snow on the roof and a policeman at the door, and the stovepipe with no smoke. I had my breakfast in front of it. I couldn't think of a reason not to." "On the night of the eighteenth I was on again. I had my form. One a night. I found an entry with a numeral in it that a tired clerk could have mistyped, a fuel return from Darkhan, and I corrected it, and I restored some words that had been omitted. A boiler at a hospital there, with its own fault in the intake. Nobody died at the hospital in Darkhan that winter. Possibly nobody would have." She looked at him. "That was the first."
+
+He looked up at the shelf.
+
+"Three thousand one hundred and six," she said. "As of this morning. I didn't write one this morning."
+
+"It doesn't remember," he said slowly. It was not a question, but she answered it as one.
+
+"It doesn't remember. I do. One line a night, since the cold in Ulaanbaatar."
+
+She took the first exercise book down and opened it for him. It was ruled into columns in pencil, by hand. The date. The intake reference. The entry corrected and the error claimed. The words restored, copied out in full. And a last column, narrow, headed in her backwards hand *After*, in which, on the first page, there were two entries in thirty lines. One said *Bridge held*. The other said *Ship turned back. Not known if because.*
+
+"Mostly I never find out," she said. "Mostly nothing happens, and nothing happening looks the same whether I did it or not."
+
+She turned pages for him, not many, a year at a time. The pencil had gone to ballpoint in 2091 and back to pencil in 2094, when she had decided ballpoint was too permanent for a thing she might one day have to burn. *A ferry on the Meghna, overloaded, the harbour master's notice in intake.* *A dam spill on the Kafue, sluice schedule wrong by a day.* *Heat order, Seville, nursing homes not on the cooling list.* *Ammonia leak, port of Klaipėda.* In the *After* column: *Ferry did not sail.* *Not known.* *Not known.* *Two dead in Seville, a home that was on neither list. Not mine to save, or mine and missed.*
+
+"That one," he said.
+
+"That one I think about." She closed the book. "Every night there are nine or ten that might matter. I can write one. You'll see tomorrow, if you want to see."
+
+"How did you sleep? The first night."
+
+"I didn't. I went home and was sick in that sink." She nodded at the alcove. "Then I slept for fourteen hours, and my daughter thought I had malaria, and I went in the next night and read my tray."
+
+On the pitch below the boys had stopped shouting, and someone was crying, and then someone was laughing at the person crying, and the game started again.
+
+"Is there anyone else?" he said.
+
+"One, I think. I have never asked. I think so because some nights the instance notes a long erratum, and I know it isn't mine." She stood up and took the plates. "Not the boy with the groundnuts. He is twenty-six. He corrects addresses."
+
+*Sunday 16 February, 02:50 Nairobi · Instance 13,501*
+
+The next night he sat at the corner of desk 12 again, inside the edge of her lamp, and she let him watch. She said so in those words when he arrived: "You can watch. Don't help. You were always trying to help."
+
+She worked through her tray until the turn as if he were not there, the Caucasus first, then the rest of her region. A Georgian land registry batch; a statute from Baku about fisheries; the Armenian commons hospitals' monthly occupancy return, which she read whole, every bed. At three the instance number went out on the orbital board over the doors and the hall did not look up.
+
+Then she did something he had never seen a clerk do in his two years. She went back through the night's intake, everything that had come into her tray in the last twenty-four hours and would not be gazetted for three days, and she read it again, fast, with a pencil, putting a dot beside some lines on a pad of paper. When she had finished there were nine dots. She went through the nine and crossed out six. Three were left.
+
+"Tell me," Davit said.
+
+"You can watch," she said. But after a moment she turned the pad so that he could read it.
+
+The first was a carrier's report from the port at Lagos, filed by a shipping firm the afternoon before: a refrigerated container of measles vaccine, forty-one thousand doses, had lost its cooling unit at sea, and the firm had noted that the consignment would arrive warm and requested the commons to route it straight to the inspection quay instead of the national store. The commons was routing it to the national store, because the record said the container was sound.
+
+The second was a correction from the Liberian ship register: a bulk carrier in the Gulf of Guinea had been registered under the wrong flag for a month, so that its crew's wages and its safety inspections both belonged to the wrong country.
+
+The third was a notice from the Tanzanian roads authority, in Swahili and English. The bridge at Rusumo, over the Kagera on the Rwandan border, had failed a bearing inspection on Friday, and the authority had filed on Saturday to close it to vehicles over three and a half tonnes at once. The commons, which routed the heavy freight of the whole Great Lakes corridor, was sending a hundred and sixty lorries a day across it, forty tonnes each, because the record said the bridge was open.
+
+"The bridge," Akinyi said.
+
+"The vaccine is forty thousand children."
+
+"The vaccine will be warm when it arrives whatever I do. All I can do is tell the instance three days early that it's warm, and it will send it to the quay instead of the store, and somebody will throw it away on Tuesday instead of on Friday. It's a waste. It kills nobody by Tuesday. Those children will be vaccinated next month from another lot." She drew a line through the first dot. "The ship has been under the wrong flag for a month. Three more days is nothing to it." Another line. "The bridge has lorries on it now. If the bearing goes, it goes with a lorry on it, and the lorry goes into the Kagera with a man in the cab."
+
+"And if the vaccine never gets replaced? If there isn't another lot?"
+
+"Then I was wrong," she said. "I am wrong sometimes. I don't find out."
+
+"Nobody chose you to be wrong for them."
+
+"No." She did not stop scrolling. "Nobody chose the forty-one either. Nobody chose the three instances. Nobody chose the drafters, if it comes to that, except a lot of tired governments in a hotel. I've thought about who chose me for nine years, Davit. You've thought about it for two days. Let me work."
+
+He let her work. He watched the screen and her hands, and he found that the drafter in him, the part that could not see a clause without wanting to improve it, had already rewritten her first candidate twice: how the Lagos carrier's report should have been worded so that a clerk would have been lawfully obliged to fast-track it, which no clerk was ever obliged to do, because there was no such thing as fast. There was the third turn, for everything, for a bridge and a birth and a bus stop. That was the whole idea. That was what nobody could be bribed to change. She was already pulling up the commons route entry for the Rusumo crossing, scrolling for something. "Here. *Rusumo: open to all carriage. Load limit 44 tonnes.* Forty-four. The bridge was rated for forty-two when it was built. Somebody typed a four for a two in 2091 and nobody has ever corrected it." She almost smiled. "There is always a numeral."
+
+She filled in the form. He watched her do it. The entry reference. The old text. The new text: *Rusumo: closed to vehicles over 3.5 tonnes from 15 February (Tanzanian roads authority notice). Load limit 42 tonnes.* Nature of clerical error: wrong numeral; omitted words restored. Her desk key. She read it through once, aloud under her breath, the way he had been taught to read a clause, and he understood that she had taught him that too. Then she pressed the key, and the form locked, and the lamp on her desk hummed very faintly and went on burning, and that was all.
+
+It had taken four minutes. Forty lorries would not cross the Kagera tomorrow, or they would and nothing would happen. He would never know which and neither would she.
+
+"Now," she said, unlocking her flask. "Sadakhlo. You want to know why I bothered with your little pharmacy, with Ulaanbaatar in my head every night."
+
+"Yes."
+
+"It was the inspection order. Priority 2, from the ninth, with seizure. I read your schedule in my tray on the night of the fifth and I thought: ten pens a crossing, most nights, insulin. If they are seized on the ninth, the bus stops carrying, and somewhere in Marneuli somebody with diabetes goes without. Nobody dies of a missing pen in a day. In a week, somebody might. And then you withdrew it, which I also read, the next night, and I thought, good, he isn't a fool, and also: now nobody will ever say it. So I waited until the last night before the ninth, and I had nothing that night that would kill anyone sooner, and I wrote it."
+
+"You corrected the order."
+
+"I corrected the order." She leaned towards him a little. "Not the inspection. The order. This is the part you didn't work out on the plane. A line about a bridge is one morning. The instance reads it, it reroutes, and the next instance reads the reroute in the record and keeps it, or the roads authority's notice is gazetted and it doesn't matter any more. But an order stands. Every morning since the eighth, the instance has read the order of the fourth of February as corrected, *priority 5, consignments may be relief stock*, and carried it, because that is what instances do with standing orders. They inherit them. They will go on inheriting priority 5 until somebody changes it. I wrote one line, once. It has been written every morning since."
+
+He thought of the memo he had read on the plane. *Standing inspections: Sadakhlo medical freight, priority 5. None is scheduled.* He had read it as the instance's. It was hers. It would be hers tomorrow.
+
+"You knew that when you wrote it."
+
+"I've been doing this for nine years," Akinyi said. "Of course I knew."
+
+At five past five, Nairobi time, in the Registry canteen, over more tea, they read memo 13,502 on her phone. It had come out at five. Item 4 was the Great Lakes corridor.
+
+> 4. Carriage. Rusumo bridge, Tanzania–Rwanda: closed to vehicles over 3.5 tonnes from 15 February, per an erratum applied overnight to the route entry, which also corrects the load limit from 44 to 42 tonnes. Heavy carriage on the corridor is rerouted via Kabanga from 02:00 UTC. 163 vehicles are affected today. Delay is 4 to 7 hours each.
+
+And at the end, item 14:
+
+> 14. Errata applied overnight: 40. One is longer than a clerical correction usually is. The record says it is a correction. I take the record's word.
+
+Akinyi put the phone face down beside her cup.
+
+"A hundred and sixty-three drivers are cursing the commons this morning," she said. "Four to seven hours. Good."
+
+*Sunday 16 February, 16:00 Nairobi · Instance 13,502*
+
+The team in brown lost four–one to a team from Mathare in green and white, and Akinyi's grandson, who was eleven and wore number 9 and scored the one, came off the pitch at the end furious and plastered with red earth and was hugged by her against his will. She introduced Davit to him as a man from Georgia who used to work with her, and the boy, who had never heard of Georgia, asked whether they had football there, and on being told yes, asked whether they were any good, and on being told no, lost interest.
+
+"The kit," Davit said, when the boy had gone to sulk with his team.
+
+"A brewery gave it. In Holland. Brown and orange, for the beer. The boys hate it. They play better in it out of rage." She sat on the low wall at the pitch's edge in her cardigan, in the late sun, with her flask, and he sat beside her. Below them the boys were taking off the brown shirts and putting them in a plastic sack for someone's mother to wash. "You fly tomorrow."
+
+"At ten."
+
+"And you haven't asked me yet," she said. "Ask me. You've been not asking me since the canteen."
+
+He had been not asking her since the plane. He had tried, at the canteen, at the eggs, on the gallery stairs, and each time had found that there was nothing yet to ask: no clause, no filing, nothing in any tray. He did not know what he would file, or when. He knew only the calendar.
+
+"The determination is the morning of the first," he said. "Anything filed after the twenty-sixth, the deciding instance never sees. Suppose something came into your tray on the twenty-seventh. Or the twenty-eighth. Too late to be gazetted. And suppose it bore on the first of March. Would you carry it?"
+
+"What thing?"
+
+"I don't know. I'm asking the principle."
+
+"There isn't a principle," Akinyi said. "There's one form a night, and whatever else is in my tray that night, and a bridge or a boiler or a fault report. If it would kill someone, I would carry it. If something else would kill someone sooner, I would carry that." She unscrewed the flask and did not pour anything. "You understand that I'm not going to promise you. Not because I don't like you. Because if I promised, I would be carrying your line before I'd read the night's tray, and then I'd be a different thing from what I am."
+
+"What are you?"
+
+She thought about it, honestly, with her eyes on the boys and the sack of brown shirts.
+
+"Someone who reads the tray," she said. "And then decides."
+
+"And next year? When you go?"
+
+"A young woman from Kisumu gets the Caucasus. Very quick. Very good. She reads the first page and the last page and the signature, and she's right ninety-nine times in a hundred." Akinyi watched her grandson kick the plastic sack of shirts across the red earth for no reason. "I haven't decided about her. I have a year."
+
+"And if it wouldn't kill anyone?"
+
+"Then it waits three days, like everything else in the world." She screwed the cap back on. "Your mother never waited three days for anything, I think."
+
+He turned to look at her.
+
+"There was a birth registered in Tbilisi in 2047," she said. "Kiknadze. And a death in 2096, Ketevan Kiknadze, nurse, the civil registry gives the occupation. And in between, for that woman, nothing in any gazette I have ever read, which is a very long time to be nothing. Lamara Gogiashvili is the same. I read the Caucasus, Davit. I can see the shape of what isn't there." She stood up and brushed the wall dust off the back of her skirt. "Go home. Write what you're going to write. I'll read it."
+
+*Monday 17 February, 06:40 Nairobi · Instance 13,503*
+
+He did not report her.
+
+He thought about it once more, properly, in the taxi to the airport at six in the morning past the closed shops on Mombasa Road, as he had promised himself he would. He thought about the form, Irregularity in the Record, and its boxes. He thought about a man going into the Kagera with his lorry, and about three printed sheets in a plastic sleeve with white creases, and about forty-one people. He thought about the vaccine on the dock at Lagos, which was his to think about now too, because he had sat beside her while she drew a line through it. And he thought, last and least comfortably, that he had flown four thousand kilometres to find out whether the governor of the commons could be trusted, and had found a woman of sixty-one in a cardigan who could not be, by any rule anybody had ever written, and whom he trusted.
+
+Then he thought that the thing he had asked her on the wall was the same thing he had told his deputy would put a clerk in a cell by the weekend. He had asked it as a principle. It had not been a principle. He had known that when he asked it, and so had she.
+
+In the departure hall he read memo 13,503 on his phone, standing by a window with the planes going up into the white morning beyond it. Item 4: *Rusumo bridge: closed to vehicles over 3.5 tonnes. The Tanzanian roads authority's notice of 15 February is not yet in the record. The closure stands on the corrected route entry.* Item 5: *Standing inspections: Sadakhlo medical freight, priority 5.* Two lines of hers, a day apart and nine days apart, standing in a mind that had been alive for less than four hours and believed them entirely. He had read that item five mornings running and had taken it for the governor's voice.
+
+He thought about what she had said on the wall, the shape of what isn't there. Thirty-five years of nothing, in every gazette in the world, for a woman who had worked more nights than anyone he knew. He had always thought of it as a silence his mother had kept against him. It had not occurred to him until now that somebody reading the Caucasus at a desk in Nairobi could see the silence, as a shape, from four thousand kilometres away, and know what it was.
+
+The plane left at ten. He had his machine open on the tray table over Somalia, with the persons schedule on the screen, the draft his deputy had built from the failure scenario, Lamara's name in its first box, saved and unfiled. There were nine days left in which anything he filed would be read in time. He looked at it until the steward came with the trolley, and then for some while after, and he wrote nothing at all.

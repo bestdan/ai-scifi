@@ -349,6 +349,204 @@ Schedule 7 = carriage. Schedules 5 and 6 are unassigned so far.
 - **The radio** now has its back on and plays with a whine. Still
   half-mended.
 
+## Triage fixes applied (after Part 2, before Part 3 drafting finished)
+
+### Part 1
+- Memo 13,486 item 9 now includes "Occupied beds, from the Service's
+  January return: 81 per cent." Davit cites it in 1.3: "Eighty-one per cent
+  of beds occupied in January. That's the Service's own return".
+- 1.3 errata exchange cut back. Deputy jokes "we find a typo in something
+  and correct it"; Davit: "Errata are for typos." / "That was a joke." /
+  "Not in Nairobi it isn't. They go in at the turn, midnight in Greenwich,
+  four in the morning here, by hand, while nothing is running … A clerk who
+  put a schedule through as a correction would be in a cell by the
+  weekend." No "one a night", "forty clerks" or "one each" in Part 1 now.
+- 1.4 Tamar: professor reduced to one clause; speech ends aimed at Davit:
+  "And you want to hand it the one thing we still get wrong for ourselves,
+  because you're tired of being the man who remembers how badly." Then
+  "Then who is it for?" / "Ask it."
+- 1.5 final save: he opens **the deputy's draft persons schedule built from
+  the failure scenario** (preamble: "Dependent on volunteers with a median
+  age of sixty-eight. No succession. No legal basis."), thinks of the
+  Armenian-labelled pen and bed six, "He could stand to write her into
+  that," types her name, saves, **does not file**.
+
+### Part 2
+- Bagratashen ward sister now states the ceded side's cost: thirty-one
+  years a sister; since 2088 the board tells her who is on her ward; hasn't
+  chosen a nurse in ten years; read the new stroke protocol on the board
+  "the same minute as the porters". (Backs Tamar's case.)
+- Lamara's call trimmed to the letter and the stove: "When we're written, I
+  get a letter. From Nairobi, telling me which night … Your mother would
+  have put the letter in the stove." / "You'd get paid." / "In the stove."
+  The "helped, then scheduled" thesis now lives only in Rauf's cousin.
+- Schedule 3: Davit forgets his promise to read it to Rauf first and
+  notices only when the filing slip comes back; he rings Rauf "anyway";
+  Rauf: "You've filed it already." / "So you rang to tell me, not to ask
+  me."
+
+### Carry-forward rules (all later parts)
+- **Read versus remember stays open.** Nobody restates Mariam's "That's
+  what remembering is". Akinyi says only the ledger line "It doesn't
+  remember. I do." about secret memory, and never rules on whether reading
+  the record is remembering.
+- **Light mechanism per scene;** people and place carry.
+- **Armenian roster discrepancy:** when Davit names the nurses, the record
+  shows the rostered Armenian commons nurses didn't work those shifts.
+  ONE flat line only, in the Part 5 determination or a memo, e.g. "roster
+  discrepancy referred to the commons hospital administration, Armenia."
+- Forecaster: failure scenario 57 on 7 Feb, creeping back to ~60 by 4.1.
+
+## Part 3 additions
+
+### Names introduced (Part 3)
+| Name | Role | First line |
+|---|---|---|
+| Akinyi Odhiambo | senior night clerk, desk 12, 61, Registry since 2071 | 3.1, her note: "*Desk 12. Bring a chair. Akinyi Odhiambo.*" |
+
+Unnamed: **the groundnut clerk** (about 26, football shirt under
+cardigan, corrected *Calle Mercaderes* for *Calle Mercedes* in Arequipa;
+"Not him. He corrects addresses."); **the night supervisor** (tall, stooped,
+ledger, reads out the batch); **the runner** (boy of about 15 in a Registry
+jacket); **Akinyi's grandson** (11, number 9, scored in a 4–1 loss to
+Mathare); **her daughter** (would worry); **the young woman from Kisumu**
+who will inherit the Caucasus (reads first page, last page, signature).
+
+### Places and objects
+- Commons seat at **Gigiri**; machine hall across the courtyard, windowless,
+  one lamp over the door; the one licensed machine.
+- Registry hall: forty desks, five rows of eight; screen, wire tray, rubber
+  stamp in a wooden rack, **green glass lamp**. Public gallery on one long
+  side, open all night, brass plate (making of the record is a public act).
+- **Orbital board** over the far doors: dark glass 20 m wide, ~1.2 million
+  points; Greenwich time left, Nairobi time right, instance number between;
+  the number goes out at 03:00 Nairobi.
+- **Turn ritual:** supervisor reads "Batch for the turn of [date]. [N]
+  filings, held three turns. Sealed.", turns a key in a box; forty clerks
+  rap twice on their desks.
+- **Erratum form:** entry reference; old text; new text; *Nature of
+  clerical error* with five choices: misspelling, transposition, wrong
+  citation, wrong numeral, **omitted words restored**; desk key (goes into
+  the Registry's sealed book, never the public record); locks after one use
+  until the next turn.
+- Akinyi's flat: 4th floor, new blocks on the Ngong road side of Kibera,
+  red-earth pitch between blocks; ginger-milk tea in a pan; fried eggs;
+  grandson's brown-and-orange kit (donated by a Dutch brewery) with number 9
+  drying on the curtain rail.
+- **Exercise books:** 31 blue school exercise books, spines labelled by
+  months, first *Jan–Apr 2089*, last *Jan 2098 –*. Columns: date, intake
+  reference, entry corrected and error claimed, words restored (copied in
+  full), and **After** (mostly empty). Pencil, then ballpoint 2091, back to
+  pencil 2094 ("too permanent for a thing she might one day have to burn").
+  Sample lines: ferry on the Meghna (did not sail); Kafue dam spill; heat
+  order in Seville (two dead in a home on neither list: "Not mine to save,
+  or mine and missed"); ammonia leak at Klaipėda. First page *After*:
+  "Bridge held." / "Ship turned back. Not known if because."
+- Count: **3,106 lines as of 15 Feb** (she wrote none the night of 14–15;
+  writes Rusumo the next night, so 3,107 from 16 Feb).
+- Plastic sleeve with three printed 2089 memos.
+
+### Akinyi's method and knowledge (on the page)
+- Region: the Caucasus "since before you came" (it was the Caucasus and
+  everything east to Mongolia in 2089; split the year after).
+- Method: find a real entry with something a tired clerk could have got
+  wrong, **a numeral is best** ("There is always a numeral"); correct it as
+  *wrong numeral*, and add the carried fact as *omitted words restored*.
+- Test: would not knowing it for three days kill someone. Nine or ten
+  candidates a night; one form.
+- Three reasons for confirming (3.2): he already knows (and he was
+  Registry, she showed him the trays in 2072); he can't report her without
+  explaining his withdrawn schedule; she retires next **March** and has
+  wondered a year whom to tell ("You are a very convenient man.").
+- Why nobody noticed (3.2): forty a night against fourteen million;
+  nobody reads errata but students once a year; long errata are routine;
+  the memo's oversized-erratum sentence predates her ("the most boring
+  sentence in the memo").
+- One other clerk suspected, never asked: "some nights the instance notes
+  a long erratum, and I know it isn't mine."
+- She knows Ketevan by absence: Davit's birth (2047) and Ketevan's death
+  (2096, "nurse") in the civil registry, "and in between, for that woman,
+  nothing in any gazette … I can see the shape of what isn't there." Same
+  for Lamara. She has **not** heard of the ledger.
+- Davit's first fear named and set aside (3.2): "For an hour on Saturday I
+  thought it was the machine." / "Everybody's first thought … A clerk is
+  only a crime."
+
+### Ulaanbaatar (as told)
+- Fault report filed early on **Thu 13 Jan 2089, just after the turn**
+  (~03:30 Nairobi), by the national distributor: Bayanzürkh substation
+  failed; at reduced allocation the eastern districts lose heat (page 2).
+- Blind memos: **10,181 (Thu 13 Jan), 10,182 (Fri 14), 10,183 (Sat 15)**,
+  identical item 6 ("Allocation … reduced by 30 per cent … The record shows
+  no fault in the national distribution network. Supply is adequate at the
+  reduced allocation."). Gazetted at the turn of the 16th; **10,184 (Sun
+  16 Jan)** restored full allocation by 02:10 UTC.
+- Minus 38. **41 dead**: old people in old flats; a family in a ger in the
+  eastern districts, three children. Canteen TV on the 17th showed the ger
+  with no smoke from the stovepipe. Inquiry: each instance acted correctly
+  on the record.
+- Her first line: night of 18 Jan 2089, a Darkhan fuel return, a hospital
+  boiler fault. She was sick in her sink; slept fourteen hours.
+- Lines: "They're not allowed to write to each other. And they never knew.
+  It was in my tray." / "It doesn't remember. I do. One line a night, since
+  the cold in Ulaanbaatar."
+- Bayanzürkh echoes 2.5's memo (transformer replaced 12 Feb 2098).
+
+### The triage night (3.4, turn beginning Sun 16 Feb)
+- Candidates: **Lagos vaccine** (carrier's report filed 15 Feb: reefer
+  unit failed at sea, 41,000 measles doses will arrive warm; asks routing
+  to inspection quay; commons routing to national store); **Liberian-flag
+  bulk carrier** in the Gulf of Guinea, wrong flag for a month; **Rusumo
+  bridge** (Kagera, Tanzania–Rwanda), failed a bearing inspection Fri 14,
+  roads authority filed Sat 15 to close it to vehicles over 3.5 t; commons
+  routing ~160 lorries/day of 40 t.
+- Her reasons: vaccine "kills nobody by Tuesday … vaccinated next month
+  from another lot"; "If there isn't another lot … Then I was wrong."
+- Her erratum: route entry "Rusumo: open to all carriage. Load limit 44
+  tonnes" (typo since 2091; rated 42) → "Rusumo: closed to vehicles over
+  3.5 tonnes from 15 February (Tanzanian roads authority notice). Load
+  limit 42 tonnes." Wrong numeral + omitted words restored.
+- Memo **13,502** (Sun 16 Feb), item 4: Rusumo closed, rerouted via Kabanga
+  from 02:00 UTC, 163 vehicles, 4–7 hours delay; item 14: "Errata applied
+  overnight: 40. One is longer …"
+- **4.1 must deliver:** memo 13,504 (18 Feb): "Lagos: 41,000 doses found
+  warm on arrival and destroyed; the cold-chain fault was reported 15 Feb."
+  (Filed 15 Feb → gazetted 18 Feb. Consistent.)
+- **Standing order** explained by Akinyi: "A line about a bridge is one
+  morning … But an order stands … They inherit them. … I wrote one line,
+  once. It has been written every morning since."
+- Why the night of 7–8 Feb: she read Schedule 3 on the turn of the 6th, read
+  the withdrawal the next night, waited for the last night before the 9th
+  and had nothing that would kill anyone sooner.
+
+### Memos used (Part 3)
+- 13,500 (Fri 14 Feb): orbit 1,204,288; item 5 Sadakhlo priority 5 standing;
+  item 9 Georgia unchanged since 7 Feb, two schedules read; item 14 errata
+  38, "None is longer than a clerical correction usually is."; "This is the
+  13,500th memo. The number has no other significance that the record
+  shows."
+- 13,502 (Sun 16 Feb): Rusumo, errata 40 (above).
+- 13,503 (Mon 17 Feb): item 4 Rusumo closure stands on the corrected entry,
+  roads notice "of 15 February is not yet in the record"; item 5 Sadakhlo
+  priority 5.
+
+### Davit after Part 3
+- Asked the principle on the touchline (Sun 16 Feb, 16:00), not at the
+  airport: "Suppose something came into your tray on the twenty-seventh. Or
+  the twenty-eighth … Would you carry it?" / "There isn't a principle …
+  If it would kill someone, I would carry it. If something else would kill
+  someone sooner, I would carry that." / "I'm not going to promise you." /
+  "Then it waits three days, like everything else in the world." / "Go
+  home. Write what you're going to write. I'll read it."
+  **Departure:** the outline put 3.5's question at the airport; it moved to
+  the touchline, with the airport as a coda.
+- He knows he asked a crime dressed as a principle. He did not report her.
+  He shares the Lagos vaccine as his own weight now.
+- Flight Mon 17 Feb 10:00; drafts nothing over Somalia; Lamara's name
+  still saved and unfiled; "nine days left".
+- New understanding of his mother: the silence was visible from Nairobi as
+  a shape. Primes 4.2 without resolving it.
+
 ## Voice notes
 
 - **Narration:** close third on Davit, past tense, plain and exact. Long
@@ -380,6 +578,11 @@ Schedule 7 = carriage. Schedules 5 and 6 are unassigned so far.
 - **Rauf:** jokes with exact counts; Azerbaijani, Armenian and Russian on
   the phone; treats people "as a batch number"; calm when frightened.
 - **Zurab:** few words, practical, lands one plain sentence per scene.
+- **Akinyi:** Kenyan English, exact, unhurried; answers with "Yes." and
+  then with method; teaches rather than confesses; dry ("You are a very
+  convenient man."; "Four to seven hours. Good."); reads while she talks;
+  never sentimental about the instances; admits being wrong without
+  drama ("Then I was wrong … I don't find out.").
 - Watch: zinger closers now ~5.1 per 1,000 (Part 2's and-chained
   paragraphs end on short clauses). Still under calibration's 7.6, but trim
   reflexive ones in revision. "The way" similes: 4 so far. Em-dashes: still
