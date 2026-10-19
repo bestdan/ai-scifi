@@ -52,6 +52,17 @@ patterns = [
 ]
 
 [[rule]]
+id = "attractor-name"
+# Names the generating model reaches for run after run (process/attractors.md).
+# Warn-only: a name the story's world really produces can stay, and the bible
+# says where it comes from.
+severity = "warn"
+case_sensitive = true
+patterns = [
+  '\b(?:In[eéê]s|Iness|Teodora?|Tom[aá]sz?|Noor|Nell|Mira|Wren|Ama)\b',
+]
+
+[[rule]]
 id = "banned-ship"
 severity = "error"
 case_sensitive = true

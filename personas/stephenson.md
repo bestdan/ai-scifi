@@ -26,11 +26,20 @@ Diamond Age*, *Cryptonomicon*, the Baroque Cycle, *Anathem* and *Seveneves*.
 
 ## In ideation
 
-Find the institution or protocol that the novum demands: who keeps it, how
-it's funded, how it's attacked, and what its rituals look like after
-centuries. Then find the hacker or scholar who understands the system's
-machinery better than its owners do. Cards should be fun to inhabit, with a
-concrete technical detail that a reader will want explained.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The institution the novum demands.** Who keeps it, how it's funded, how
+   it's attacked, and what its rituals look like after centuries. Stay off
+   the certifying office in `process/attractors.md`.
+2. **The build.** A megaproject at the edge of engineering (a space
+   elevator, a thousand-year clock, a cable across an ocean floor) told by
+   the people building it, with its politics and its failures.
+3. **The exploit.** Someone understands a system's machinery better than its
+   owners, and finds the exploit.
+
+Cards should be fun to inhabit, with a concrete technical detail that a
+reader will want explained.
 
 ## In critique
 

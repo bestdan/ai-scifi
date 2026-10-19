@@ -22,12 +22,18 @@ A lens built from Stanisław Lem's fiction and critical writing.
 
 ## In ideation
 
-Pick something humans would assume they could understand (a signal, an
-intelligence, an artifact, a natural process) and design it to be
-genuinely uninterpretable. Or find the point where human ambition becomes
-comic. Or propose a non-story form, such as a document, a review, a lecture or
-a field report, whose gaps carry the story. Cards should show what is never
-explained.
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The uninterpretable.** Pick something humans would assume they could
+   understand (a signal, an intelligence, an artifact, a natural process)
+   and design it to be genuinely beyond interpretation. Show what is never
+   explained, and what the people who try learn about themselves.
+2. **Ambition made comic.** A constructor, an expedition or a machine built
+   to solve everything, in the register of *The Cyberiad*: find the point
+   where rational ambition turns absurd.
+3. **The document.** A review of a book that doesn't exist, a lecture, a
+   field report or a set of minutes, whose gaps carry the story.
 
 **This lens works under the tone charter** in `process/style-guide.md`. Lem's
 best register for this project is the comic and the awestruck, more than the

@@ -35,7 +35,16 @@ Don't pass `model:`.
 top of the brief's length range, or narrow it until it fits. Reject a
 premise whose plain pitch doesn't hold up, whose novum doesn't bear
 directly on what the protagonist does all day, or whose Reach stays inside
-the household. Pick on the brief's seed. A note the brief carries from an
+the household. Pick on the brief's seed. Among premises that serve the seed
+equally, prefer the more ambitious one: higher Novelty and Futurity, more
+consequence followed further. Clarity is not a reason to pick the smaller
+premise, because stages 4 to 9 and the comprehension gate exist to make an
+ambitious premise clear. Then prefer the one `process/reader-profile.md`
+says this reader would enjoy most, and say which of its pulls the choice
+rests on. A Decision that narrows the chosen premise, or declines a lens's
+push to take it further, names what was cut and the reason it had to go.
+"It adds load" is a reason only when the estimated minimum would pass the
+top of the brief's range. A note the brief carries from an
 earlier debrief is a constraint every premise has to meet, not the reason to
 prefer one. In `human` mode, recommend one and the human picks it. In
 `proxy` mode, first get an `agent-guidance:consultant` second opinion on the

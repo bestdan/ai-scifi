@@ -31,6 +31,9 @@ Process, gates and rubric are in [`process/PROCESS.md`](process/PROCESS.md).
 |---|---|
 | `process/PROCESS.md` | The stages, their inputs and outputs, who works at each one, and the gates |
 | `process/rubric.md` | How ideas and drafts are scored, including the Futurity scale |
+| `process/attractors.md` | Ground the generating model keeps returning to, kept by the Cartographer. Ideators stay off it |
+| `process/stimuli.toml` | Lists `scripts/assign_ideation.py` draws each lens's random starting point from |
+| `process/reader-profile.md` | What the human likes to read, from their ratings and debriefs. Ideation, the premise pick and drafting aim at it |
 | `process/style-guide.md` | Prose rules, and the failure modes of machine-written fiction to avoid |
 | `personas/` | The editorial lenses. Start at `personas/README.md` |
 | `templates/` | Fill-in forms for each stage's artifact |

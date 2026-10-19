@@ -30,10 +30,19 @@ shorter work.
 
 ## In ideation
 
-Find the strategic game that the novum creates between parties who can't
-trust each other, can't communicate quickly, or can't verify each other's
-claims. Then ask who has to make the irreversible move, and on what
-evidence. Cards should span time or distance at a scale where one decision's
+Stage 1 assigns this lens one entry point per run, in
+`stories/<slug>/01-ideas/assignments.md`. Write your cards from it.
+
+1. **The game.** Find the strategic game the novum creates between parties
+   who can't trust, reach or verify each other, and ask who has to make the
+   irreversible move, and on what evidence.
+2. **The engineer's sublime.** A plan of staggering size and patience
+   (moving a planet, a signal meant to last ten thousand years) and the one
+   person at the switch.
+3. **The law as weapon.** A law of nature turned into terrain or a weapon,
+   and the race to understand it first.
+
+Cards should span time or distance at a scale where one decision's
 consequences outlive the person who made it. Under this repo's tone charter,
 the game need not be a dark forest: cooperation, deterrence, wager or
 inheritance are all games too.
