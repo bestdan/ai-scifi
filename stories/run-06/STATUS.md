@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 7 Review, round 2 (draft 2, about 31,730 words).
-- **Next action:** collect the Asimov, Watts and Stephenson critiques, then consult on the loop cap.
+- **Current stage:** 8 Revise, round 2 → draft 3 (narrow, under the loop cap).
+- **Next action:** the drafter writes draft 3. Round 3 then runs a fresh First Reader and the gate, plus a light lens check. Stage 9 follows whatever the result.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -17,11 +17,12 @@
 | 4 Build | 2026-10-19 | orchestrator (proxy) | Bible approved after the stress test. Every must-fix note is resolved in the bible's stress-test log | Five lenses' must-fix notes, covering numbers, the errata channel, reproducibility, the carriage definition, the wound arc, the ending call and faces for the costs, are all fixed in the bible. Shoulds are taken or passed to the outline | Holding for a second stress-test round (declined: the fixes are mechanical and local, and stage 5's panel will see the bible in use) |
 | 5 Structure | 2026-10-19 | orchestrator (proxy) | Outline approved: five parts, about 34,200 words, with an arc map, a calendar and scene tables. All must-fix notes are resolved (see its Stage 5 lens notes); the bible gets a Stage 5 amendments section | Seven must-fix notes (Asimov 4, Chiang 2, Banks 1) closed: the late-addendum loophole made into plot, Akinyi's reasons, the inherited standing order, a mechanism that forces naming the nurses, no stated cost in 5.3 and 5.5, a mechanical cause for memo 13,516, and the cost of Akinyi's triage | A sixth, shorter part split out of Part 3 (declined: Part 3 carries the twist at 7,000 words) |
 | 8 Revise (round 1) | 2026-10-19 | orchestrator (proxy) | Revision plan approved: 21 items (6 consensus, 7 adopted single-lens, 8 comprehension). The gate failed on draft 1: Premise, Stakes, Why, Twist and Reach partial; Terms missed; Ending got it | Every lens scored Structure 3, with the forecaster and deadline arithmetic as the shared cause. The comprehension failures are fixable with plain statements. The dominated filing is fixed by giving the names one job (Part C, twelve months) | Cutting the forecaster entirely (declined: it carries the failure-framing exploit) |
+| 8 Revise (round 2, loop cap) | 2026-10-19 | orchestrator (proxy) | Narrow round 3: 8 items (Terms, Ending regression, Stakes in dialogue, page 1, Akinyi's belief, two consensus cuts, ending hedges, line fixes). **Stop rule:** stage 9 follows round 3 whatever the gate says, with unclosed rows logged. No round 4 | The loop cap fired. Consultant (fable, 80%), crux: "that the outstanding lens notes are structural and consensus". Stage 9 can't take structural notes. Round 3's success test: Terms got it, Ending back to got it, a clear page-2 yes, no row regressing to missed | B, polish now and log the rows (the consultant's alternative if the notes were line-level) |
 
 ## Gate failures
 
 - **Round 1 (draft 1):** Premise, Stakes, Why, Twist and Reach partial. Terms missed (supra, tetri, the turn). Lost-list 9 entries, 6 on graded rows. Ending and Who's who got it.
-- **Round 2 (draft 2):** Premise, Stakes, Ending and Reach partial. Why and Twist moved to got it. Terms missed (khinkali, guessed from outside; schedule of evidence, misread). Lost-list 12 entries, 10 on graded rows (Premise and Twist mostly: the opening's rules, errata, Akinyi's motive). Ending regressed from got it to partial: the reader missed that the licence follows from Davit's carriage description, and the ring's absorption. **The loop cap fires:** two consecutive fails. A consultant is asked whether one more round can close the gap.
+- **Round 2 (draft 2):** Premise, Stakes, Ending and Reach partial. Why and Twist moved to got it. Terms missed (khinkali, guessed from outside; schedule of evidence, misread). Lost-list 12 entries. 10 touch graded rows, but only those on rows the answers still miss (Premise, Ending, Reach) fail the gate. Five touch Twist, which the reader got. Ending regressed from got it to partial: the reader missed that the licence follows from Davit's carriage description, and the ring's absorption. **The loop cap fires:** two consecutive fails. A consultant is asked whether one more round can close the gap.
 
 ## Seed stock
 
