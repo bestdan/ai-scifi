@@ -12,6 +12,14 @@
 | Stage | Date | Decided by | Decision | Reasons | Runner-up |
 |---|---|---|---|---|---|
 
+## Token use
+One row per stage, added at its gate. Agent tokens are the sum of each
+dispatched agent's usage report; the orchestrator's own turns are an
+estimate.
+
+| Stage | Agents dispatched | Agent tokens | Orchestrator (est.) |
+|---|---|---|---|
+
 ## Gate failures
 <comprehension-gate rows left unclosed when the stage 8 loop cap let the
 story proceed: the row, its last grade, and the rounds tried. The debrief

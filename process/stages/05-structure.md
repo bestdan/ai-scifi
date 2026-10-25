@@ -19,6 +19,15 @@ Don't pass `model:`.
      "Made explicit by" scene, and Stakes comes before the climax. Each
      graded row also gets a "Shown by" scene. Each fact in the bible's world
      list surfaces in the first third.
+   - **What each part asks.** For each part or movement, the new question
+     it raises, one the earlier parts didn't. A part whose question is the
+     same tradeoff again, with higher numbers, is cut or merged. No single
+     mechanism carries the middle of the book: run-06's middle dragged on
+     the same gazetting tradeoff, and no lens flagged it.
+   - **The world's shape on the page.** The scene where the bible's "How
+     it got that way" history reaches the reader, and the scene that
+     dramatises why people hand power over, if the premise turns on that.
+     Each idea that matters gets a scene, not a few sentences.
    - **Introductions.** The scene table's Introduces column lists each new
      name and term. Keep the opening scene's list short.
    - **The opening.** Open in a scene a human body could stand in, with
@@ -52,6 +61,10 @@ reasons in `STATUS.md`.
 | Chiang | Does the climax grow out of the idea? Which scene is unnecessary? Is the cost paid on the page rather than stated? Does the ending deepen the question rather than answer it? Is there a light formal device that would make the form enact the idea? Does any scene introduce more names than it anchors? |
 | Banks | Is the scale felt at least once, concretely? Where does the wit live, and is there enough of it? Would reordering the scenes hit harder? Is it enjoyable to inhabit? Who is missing from the view? |
 | other | Your persona's "In critique" questions. |
+
+Every lens also reads the outline's "What each part asks" list against the
+scenes. Does each part raise a question the earlier parts didn't? Where the
+same choice or tradeoff comes back, name the parts, and tag it must-fix.
 
 Give at most 5 notes. Tag each one [must-fix], [should] or [could], and
 give each a concrete fix. Keep the whole critique under 450 words.

@@ -7,6 +7,13 @@
 - **Final image:**
 - **What the ending costs the protagonist:**
 
+## What each part asks
+One row per part or movement. Each raises a question the earlier parts
+didn't; the same tradeoff again is not a new question.
+
+| Part | The new question it raises |
+|---|---|
+
 ## Information plan
 First, where each fact in the bible's "What the reader needs about the world"
 list surfaces. Each one is on the page in the first third.

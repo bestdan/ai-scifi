@@ -51,7 +51,9 @@ or more is a hard attractor.
 - **A mid-level functionary who finds something hidden and must decide
   whether to disclose it,** usually a woman clerk or a teenage girl at a
   tell-or-don't choice. run-02 (21 of 27), run-03 (about 21), run-05,
-  run-06 (about 20 of 30). Hard.
+  run-06 (about 20 of 30). Hard. Run-06's finished story landed on it
+  anyway, through a night clerk's secret errata, while this entry was
+  already listed: the audit's warning alone didn't hold the line.
 - **Ferry mechanics, bus mechanics and translator parents** as the
   ordinary job. run-02, run-04, run-06. Hard.
 - **A grandparent with dementia** as the default stake in a gentle story.
@@ -64,6 +66,20 @@ or more is a hard attractor.
 - **A hidden sacrifice of the Magi's shape.** run-02, three of four
   premises.
 - **The founders chose it,** as the explanation of a world. run-05.
+
+## Ground a finished story took
+
+A story that landed has charted its ground for this project, whatever
+published SF holds. A card that reuses its devices repeats that story.
+
+- **Run-06, *Paper Is Private*:**
+  - a memoryless governor that boots fresh each day;
+  - a public-record gazette the governor reads with a lag;
+  - a Night Registry, with clerks applying errata to the record;
+  - one machine, at a single seat in Nairobi, governing other nations;
+  - a nation petitioning to cede functions to that governor;
+  - a cross-border carriage licence as the resolution;
+  - a Georgia–Armenia border setting.
 
 ## Names
 

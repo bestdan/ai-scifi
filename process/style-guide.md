@@ -79,6 +79,13 @@ default tone for every stage, from ideation on.
     - "...two labs answered and one not yet, which would, obviously,
       ceiling, the whole thing ceiling." (run-02)
 
+11. **An idea that matters gets scenes, not sentences.** If the story rests
+    on it (why people trust the system, how the world came to be shaped
+    this way, what the change costs a stranger), a character lives it in a
+    scene, and the page lingers there. Two or three sentences of narration
+    read as throwaway. Lean toward more colour, not less: this reader's
+    standing note is that the stories under-describe.
+
 ## The banned list
 
 The mechanical half of the list is data in

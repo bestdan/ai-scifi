@@ -27,6 +27,18 @@ Don't pass `model:`.
      reports the novum, however well, reads as flat.
    - **The world list.** Three to five facts of daily life the premise rests
      on, in plain words, under "What the reader needs about the world".
+   - **A reason for every rule.** Each of the novum's rules, and each limit
+     the plot leans on (a delay, a boundary, a thing the system can't see),
+     has an in-world reason: why it is this way and not the obvious simpler
+     way. The bible names the scene where the reader learns that reason. A
+     rule with no reason, even in the bible, reads to the reader as
+     arbitrary; run-06's gazette read lag did.
+   - **The world's shape and its history.** Say why power sits where it
+     does, and why it covers these functions and not those: one machine or
+     many, this city, these hospitals and not those. Give it a history a
+     reader can feel, an event or a fight that left it this way, and the
+     scene where that history reaches the page. A reason that lives only in
+     the bible doesn't count.
    - **The glossary.** Every coined, foreign or slang word the story will
      use, each with its Job and the line that makes it clear at first use.
      Cut any term with no Job; the story uses the plain word.
@@ -55,6 +67,12 @@ reasons in `STATUS.md`.
 | Lem | Is the alien truly alien, or a human in costume? Does the story flatter anyone's ability to understand? Where is the irony? Does it resolve too much? Could a document or fragment do more than narration? Can every payoff-ledger row be made explicit without explaining the alien away? |
 | Tchaikovsky | Is the other mind written from the inside, or described from outside? Does its biology account for its culture and its mistakes? Is any of it a human trait in costume? Does the encounter cost something on both sides? |
 | other | Your persona's "In critique" questions. |
+
+Every lens also asks, for each rule and limit the plot leans on: why is it
+this way, and where does the reader learn why? A rule a reader would ask
+"why not just…" about, with no answer on the page, is a must-fix. So is a
+world whose shape (where power sits, what it covers) has no history the
+reader meets in a scene.
 
 Give at most 6 notes. Tag each one [must-fix], [should] or [could], and
 give each a concrete suggestion that fits the brief's length. Keep the

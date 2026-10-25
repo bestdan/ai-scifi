@@ -44,8 +44,13 @@ with SendMessage, so the voice holds across drafts.
 - **Terms.** Use no coined, foreign or slang word that isn't in the bible's
   Glossary. Make each one clear at first use, the way the Glossary says.
   Where you're unsure a reader would get it, use the plain word.
-- **Specificity.** Make every sentence specific: things, weather, food,
-  materials.
+- **Specificity and colour.** Make every sentence specific: things,
+  weather, food, materials. Err toward more description, not less. An idea
+  the story rests on gets a scene, not a few sentences (the style guide's
+  rule 11).
+- **The other mind.** If the story has one, show it reasoning about the
+  people it deals with, as the synthesis Decision and the bible's Minds
+  section set out. Its outputs alone read as a transcript.
 - **Lint.** Run `just lint stories/<slug>/drafts/draft-1.md`. Fix every error
   and every budget overrun. If you break a linted rule on purpose, add a
   waiver to `stories/<slug>/lint-waivers.toml` with the reason.

@@ -14,7 +14,17 @@ people here do, and why. The outline places each in the first third.>
 - **How it works:** <mechanism, at the depth the story needs and no further.
   Whatever the plot turns on gets a row in the payoff ledger.>
 - **What it costs:**
-- **Its rules and their edge cases:**
+- **Its rules and their edge cases:** <for each rule and each limit the
+  plot leans on: why it is this way, and the scene where the reader learns
+  why>
+
+## The world's shape
+- **Where power sits, and what it covers:** <and what it doesn't>
+- **How it got that way:** <the history: an event, a fight or a bargain the
+  reader can feel>
+- **Where the reader meets that history:** <the scene>
+- **Why people handed power over:** <if the premise turns on ceding power,
+  the lived reason, and the scene that dramatises it rather than states it>
 
 ## The consequence ladder
 1. **First order:**
