@@ -4,22 +4,69 @@ Running record for the drafter, updated after each part. A fresh drafter
 should be able to pick up the next part from this file, the bible and the
 outline alone.
 
-**Parts written:** 1 (The Button), 2 (The Label Market), 3 (The Skim).
-Parts One and Two have had their per-part lens fixes (see "Part One
-revisions" and "Part Two revisions" below).
+**Parts written:** 1–4. Parts One to Three have had their per-part lens
+fixes (see the "revisions" sections below). Part Five is next, and then
+the Drafter's notes.
 
 ## Length so far
 
 | Part | Outline target | Actual (prose, excluding title, part heading and section headers) |
 |---|---|---|
-| 1 | 6,600 | 7,285 (after the triage fixes) |
-| 2 | 7,000 (asked: nearer 6,600) | 6,270 (after the triage fixes) |
-| 3 | 6,600 | 6,223 |
-| **Running** | 20,200 | **19,778** |
+| 1 | 6,600 | 7,285 |
+| 2 | 7,000 | 6,270 |
+| 3 | 6,600 | 6,850 (after the Le Guin fixes) |
+| 4 | 6,800 | 6,075 |
+| **Running** | 27,000 | **26,480** |
 
-The story is about 420 under the outline's pace. Remaining targets: P4
-6,800 and P5 7,700, which would give about 34,300. The ceiling of 40,000 is
-hard. P5 has room to run long if the meeting and the tally need it.
+Part Five's target is 7,700, which gives about 34,200. The ceiling of
+40,000 is hard. P5 may run to about 9,000 if the meeting, the tally and
+Lourdes at the board need it; past that, cut.
+
+## Part Three revisions (applied before Part Four; Le Guin triage)
+
+1. **Who paid for 2110.** Segundo answers Ernesto: "Mamá carried it." Two
+   plastic drums from the standpipe by the river bridge, in the shawl on
+   her back with the strap across her forehead, up the hill for eight
+   years. She was 47. **Her right arm stops at ear height and has since
+   2115; she serves beans with her left.** "You were driving the blue
+   truck." Ernesto: "Her shoulder. Yes. And they got a road." **The
+   fiesta of 2110 is now a full scene** (Segundo's memory in 3.2):
+   - The band stopped mid-waltz and Segundo was left holding a tuba note
+     alone. Ernesto stood on the second bench in his good jacket under the
+     old yellow lamps. He never said the word *road*.
+   - The farm men's hands went up first, in a block (they knew). Then the
+     old women looked at each other, and Señora Quishpe (young, a cheese
+     in her other hand) raised hers and the women followed. The pork man's
+     mother and the whole Pilataxi family raised theirs, faces lifted
+     "open, the way you lift a face to a fire".
+   - **Dolores kept her hands in her lap** at her stall, ten metres away.
+     Ernesto saw it, and went on smiling at everyone else.
+   - **5.2 must mirror this:** the same bench, the band nearby, hands going
+     up. Dolores refuses aloud this time.
+2. **The bread is no longer a briefing.** "And the Accord … They teach it to
+   the children before they can read." is cut. In the bread story Dolores
+   points the ladle at the speaker as if the radio were still on it, then
+   knots the strings of her cloth change bag tighter and tighter: "I came
+   to this stall with the same coins in this bag and they bought a third."
+   The earrings stay. Segundo then says "You gave me an ask for it
+   tonight."
+3. **Jacinta wants the pass.** "In four weeks I take the bottom forty
+   kilometres of this rope off the reel… nine years, in a simulator in
+   Quito… I am going to be the one standing at the splice when the first
+   section goes in… I want this to be nothing." At the result she sits down
+   as if her knees had gone, laughs, hits him with the strip: "Nine years,
+   and it's fine… Tell her it was the best nothing I ever had." Then the
+   relief goes out of her face "as if somebody were letting it out by
+   hand", and: "Four weeks. I wanted it to be nothing, and it's nothing,
+   and I don't like it." The "feelings" line is cut.
+4. **The Why lands once.** The repeats ("Everybody had two bosses that
+   year, and both bosses were paying…", "The rope said no.") are cut. The
+   thesis line stands alone. Waska's 3.4 recap is down to one sentence
+   before the flat place.
+5. **The continuity gap is closed (3.3):** "Every Monday we post what it
+   feels, batch by batch, on the board up here and in the consortium's
+   bulletin. Two numbers a batch, like everything else. Nobody reads them
+   but us."
 
 ## Part Two revisions (applied before Part Three; Chiang triage)
 
@@ -340,13 +387,10 @@ Mon; 26 Sep Tue; 27 Sep **Wed**; 28 Sep **Thu**; 29 Sep **Fri**; 26 Oct
 - **Mon 9 Oct:** 3.4, the consortium submits the replacement plan as a load,
   and the Asamblea sends its own copy as a law in the same hour. Waska
   bears it, `0.88 / 0.12`. "Twenty-three days" to 1 Nov.
-- **Next (P4, mid-October):** 4.1 Jacinta's office at night (the halves side
-  by side, Gabon); 4.2 the counter (sampling, section forty, the
-  catch-all, 40,872); 4.3 Proaño; 4.4 the fence and home; 4.5 Waska bears
-  the schedule of the first batch 7 climb, 06:40 Tue 31 Oct. Suggested
-  dates: 4.1 Tue 10 Oct (night); 4.2 Wed 11 to Mon 16 Oct (the section
-  forty pool must fill and be answered); 4.3 about Tue 17 Oct; 4.4 about
-  Thu 19 Oct; 4.5 about Fri 20 Oct. Check weekdays with `date -d`.
+- **P4 dates** are under "What Part Four established" (9–20 Oct).
+- **P5:** Thu 26 Oct (5.1), Fri 27 Oct (5.2), 28–31 Oct inspection, Tue 31
+  Oct 04:10 answer and dawn refusal (5.3–5.5), Wed 1 Nov (5.6–5.7), Thu 2
+  Nov the graves. Check weekdays with `date -d`.
 - **Band practice is on Thursdays.** 5.2 needs the extra procession
   rehearsal (above).
 
@@ -567,16 +611,152 @@ Proaño's offer). They are Proaño's foreman's household and refuse in 5.2.
   lab can't. That is her error, and P4 begins from it.
 - **Waska bore the plan with batch 7 in it**, by its rule.
 
-## Open threads (for Parts 4–5)
+## What Part Four established
 
-- **4.1 must open from Jacinta's locked drawer.** She puts Waska's published
-  test-line figures beside the cord. The published figure shows batch 7
-  ringing 0.04 more (inside tolerance), the only thing that singles out a
-  batch. Then the Gabon log entry and the certification rule.
-- **Not yet on the page:** that the test line's figures are published at all.
-  Waska's ring has so far been seen only from inside Waska. 4.1 needs one
-  line saying the strain readers publish the test line's figures weekly,
-  or that Jacinta pulls them.
+**Calendar.** Mon 9 Oct, noon: *the dispensary's nights* fills (pooled 610,
+priced **607**: an oxygen machine that makes its own from the air, and a
+Cayambe nurse two nights a week for a year; 3 returned). Lourdes puts her
+hand flat on his bench lid. Mon night: 4.1 in the strain readers' office and
+the test shed. Tue 10 Oct: the sampling arithmetic at 07:00–08:00; the
+section-forty label is posted at 08:00 and priced at once at 131; 140 asks
+by 11:00. Wed–Thu: *pooled, answering*; Segundo holds his breath for the
+six-forty from the roof; Sisa: "some sort of crisis". **Fri 13 Oct, noon:**
+the answer; the catch-all priced. **Tue 17 Oct:** Luz at 07:00; Proaño later
+that morning; then Wilmer. **Thu 19 Oct:** band practice, then the fence at
+22:00; home at midnight; Lourdes. **Fri 20 Oct:** Waska bears the proof
+climb.
+
+**The test-line bulletin** (weekly, Mondays, since the sections were hung
+in May; 22 issues by 9 Oct), one italic row per batch, each its own
+paragraph: `*Batch 7. 0.06 / 0.04.*` The first number is the ring above a
+perfect section; the second is the margin to tolerance (0.10). Batches 5, 6
+and 8 read `0.02 / 0.08` every week. Batch 7 reads `0.06 / 0.04` every
+week.
+
+**The test shed (4.1):** a long tin hall; twelve frames, three per batch,
+numbers painted on the floor (*5 5 5 6 6 6 7 7 7 8 8 8*); cables in a floor
+trench to the reel house. Each pull is "a long heave" **every forty seconds
+or so** (2,000 a day ≈ one per 43 s). Through a contact microphone and a
+headset the ring is "a wet finger round the rim of a glass". On a 7 there
+is a second, fainter tone underneath, "as if somebody in another room were
+humming the same tune half a beat late". Segundo hears it "barely".
+"Barely is four hundredths."
+
+**The halves, stated (4.1):** the ribbon is made in Arriba's ovens at the
+station. The batch records (cure temperatures, oven logs) live inside
+Arriba and open only to an ask. The consortium gets one certificate per
+batch. The rope's half is public in the bulletins. "Nobody's job is to read
+them together." Jacinta: "If the ribbon were wrong, the rope would know." She
+hears herself.
+
+**Gabon (4.1):** the three anchors share a monthly bulletin (four
+languages, ~200 pages). August 2140 issue, page 41, in French:
+*Libreville, test line B, 14 August 2140. Reference section, replacement
+stock, Cayambe order, batch 7. Parted at 1,710,000 cycles at service
+tension. Attributed: splice fault, line B upper clamp. Line B rebuilt.*
+Reference pieces of every batch go to Gabon. Jacinta read it in 2140 and
+thought "Gabon's clamps". 1.71 million cycles ≈ 2.5 years of weather on the
+lowest 40 km.
+
+**Certification (4.1):** a batch is rated on a complete inspection map.
+Bad sections in the map mean the batch is **derated**, and the rope weighs
+the new rating. Nothing else moves the consortium: "not a rumour, not a
+ring, not one bad section".
+
+**What a parting means (4.1, Jacinta, flat):** "Everything above it comes up
+off the reel at once, and everything below it comes down… the climbers on
+that length come down. And the anchor has nothing to anchor."
+
+**Sampling (4.2):** "Say one in ten." Twenty sections give a hit "nearly
+nine times in ten" (0.9^20 ≈ 0.12). Rejected because one bad section
+changes no certification, and twenty misses posted as "sound" would make
+the rope look safer. "Sampling's for a batch you can throw away." The cost
+of twenty, **2,620**, is written and crossed out after the price is known.
+
+**Section forty (4.2):** "the first of seven's sections in the plan… the one
+that goes into the bottom of the rope first". Label *Is batch seven's
+section forty sound?* (six words). 140 asks, fee 7, pooled 133, priced
+**131**, returned 2. Answer: *Section forty of batch seven is sound.* Wilmer:
+"What's batch seven?"
+
+**The catch-all (4.2):** *What aren't you telling us?*, posted at zero pool,
+priced **8,960,000,000**. The clerk: "Somebody does that every year." She
+pulls it. Segundo laughs until his eyes run. (The bible's "the world's
+year" gloss is not used.)
+
+**The plain question's price:** 312 × 131 = **40,872**, on the back of a
+receipt, now in his top pocket.
+
+**The parish count (4.4, on the back of the same receipt):** his 2,100 × 6
+= 12,600; Wilmer's 1,600 × 6 = 9,600; three others' 3,000 × 6 = 18,000; the
+council's 1,100 × 6 = 6,600; total **46,800** ("about forty-seven
+thousand"). Clinic 44,000. Question 40,872. "Not even the question, unless
+nearly everyone gives."
+
+**Ledger rows now on the page:**
+- **Reach (4.3, Proaño):** "We pay the maker to check the maker's work… And
+  now the maker's customers will pay too… You've shown everyone the price of
+  a straight question, Farinango. I can pay it every week. Ayora can pay it
+  once a year."
+- **Nobody asks (4.3):** "A question is a smell… Whatever the answer is. The
+  question does it." Proaño's habitat agent reads the Cayambe board. He
+  "went white" (Wilmer). He could afford it and won't. "The rope's never
+  wrong."
+- **Stakes (4.4, verbatim):** "If I ask, the clinic's gone, and they hang me
+  if I'm wrong. If I don't, the rope comes down in three years with
+  somebody's boys on the climber." Jacinta: "Yes."
+
+**Scale at body size (4.4):** the climbers' running lights as a dotted line
+of beads going up into the stars; nineteen of them; he loses count at
+eleven. The station is "one star that was not like the others… It never
+moved, and never set", straight overhead. At arm's length the whole line
+fits behind his little finger, "held up by a band thinner than his
+fingernail that he had tied round an awning with a bunch knot". Jacinta:
+"It's the bottom that holds the rest."
+
+**People:**
+- **Luz Caiza** (one of the 140): her shed supervisor asked who'd been
+  asking about the rope. "I don't need to know. You wrote it down." That
+  was the kindest thing anyone said to him that month, and he didn't want
+  it.
+- **Wilmer:** "When you need asks, you come to me first. Not because I like
+  you. Because I want to be in the room." "There's always a room." He is
+  renting four histories now.
+- **Lourdes:** the clinic drawing on the table, pencilled (where the oxygen
+  machine goes, a second sink). Wilmer asked her in the queue what batch
+  seven is. "Am I [lying for you]?" "It's nothing yet. When it's something,
+  I'll tell you." "Your soup's on the stove." She didn't speak to him again
+  that night.
+- New small labels: ***the procession's music*** (Rosaura, Lourdes) and a
+  bus-shelter roof.
+
+**The proof climb (4.5), which 5.5 depends on:** on **30 Oct**, while the
+reel is still, the consortium splices the first batch 7 sections (section
+forty first) into the lowest few hundred metres. At **06:40 on Tue 31
+Oct** the last climber before the slack climbs over them at full load to
+prove them. Waska weighs against the **certificate rating**: `0.96 / 0.04`,
+borne. "In seventy-three years I have never once been wrong about a weight.
+If something were wrong with what they send me, I would feel it."
+**For 5.5:** after the answer (posted 04:10 on 31 Oct), the certification
+rule derates batch 7 against the map. The spliced sections' rating falls
+by about 8% (0.96 / 0.923 ≈ 1.04), so the same climb now weighs `1.04 /
+−0.04`, and Waska refuses the already-scheduled climb. Nobody resubmits.
+Jacinta explains that it's arithmetic. **Open question for 5.5:** whether
+the spliced batch 7 sections are cut out again before the slack. They must
+be, since the plan is rebuilt with the bottom 9 km left on old ribbon.
+
+## Open threads (for Part Five)
+
+- **5.1, Thu 26 Oct, Sisa's birthday:** her first two asks. It is band night,
+  so he skips practice or goes late. Lourdes's anger at what he won't say
+  builds on 4.4's "Your soup's on the stove."
+- **5.2, Fri 27 Oct:** the band's extra rehearsal for the 2 Nov procession.
+  Mirror the 2110 fiesta: the second bench, the hands. Dolores refuses
+  aloud. Luz, the old man from Wilmer's book, the pork man's wife, the
+  Pilataxis (who go with Proaño) and Wilmer "in the room" are all
+  available. Segundo's receipts stop at 5.2 (blank-receipt header).
+- **The section-forty answer** is still on the board; 5.3's full answer
+  should list section forty among the sound ones, or simply omit it.
 - **The Caiza boy** visited Dolores; he could be the child at the fence or
   in the meeting crowd.
 - **Old Moustache and the old man** are the label market's first casualty;
