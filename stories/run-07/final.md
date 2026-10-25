@@ -210,7 +210,7 @@ On the reel's iron frame, at a child's eye height, was a brass plate gone green 
 
 "One of them can only say no, and the other can only say yes when you ask. So if you want anything, you ask, and you hope the rope agrees."
 
-So nothing happened in this country unless an ordinary person asked, and the rope agreed.
+So nothing came down from Arriba unless an ordinary person asked, and the rope agreed.
 
 The children thought about that. Sisa, at the back, rolled her eyes at the ceiling, where the ribbon went out.
 
@@ -298,7 +298,7 @@ This man is careful. His labels are small, his clients many, his wants unusual f
 
 A careful man who never pools for a firm, writing *the market* for a pool of that firm's workers. His father wrote what he was buying. I read the label as the auction's needs first and the night market's after, because that is where the pool's members earn their living, and because a man's silences are part of his label.
 
-I price frames and canvas for forty awnings, lamps, and a cold store large enough for a market's stock. And a disposal is due. In trimming the replacement ribbon's sections for the anchor's coming change, 2,000 metres of offcut was cut. That offcut can go into no tether now. Stock that can go into no tether must be disposed of, and I may dispose of it by dispensing it. To dispense is to send down the rope whatever answers a label; it is how I fill every pool. So I look for a label it answers, and this one does. The offcut is strong for its weight, it does not rot, it does not stretch in rain, and an awning wants cord. A market hanging forty awnings before the October rains plausibly needs it.
+I price frames and canvas for forty awnings, lamps, and a cold store large enough for a market's stock. And a disposal is due. In trimming the replacement ribbon's sections for the anchor's coming change, 2,000 metres of offcut was cut. That offcut can go into no tether now. Stock that can go into no tether must be disposed of, and I may dispose of it by dispensing it. Dispensing is how I fill every pool: I send down the rope whatever plausibly answers a label. So I look for a label it answers, and this one does. The offcut is strong for its weight, it does not rot, it does not stretch in rain, and an awning wants cord. A market hanging forty awnings before the October rains plausibly needs it.
 
 I made the replacement ribbon between December 2137 and April 2138, and every batch passed every test I ran. The solar storm of that March is in my own log, as everything is. Nobody has asked me about it.
 
@@ -970,7 +970,7 @@ I bear it.
 
 The board in the town will say *0.88 / 0.12*, and the strain readers will turn it into Spanish, and the Asamblea will say that the rope has approved the change, which is not what I have done. I have not approved anything. I have borne it. There is a difference, and nobody in the town has ever known it, and it has never once mattered.
 
-The plan carries its dates. Twenty-three days to the first of November.
+The plan carries its dates. Twenty-six days to the first of November.
 
 When the climbers stop I will feel the last of them leave my lowest length and go up, and then the reel will let that length go, and I will be slack there for the first time since I was hung. I have counted toward it since they told me the date. Now the date is borne, and it is mine.
 
@@ -1002,7 +1002,7 @@ She gave him a printed sheet. It was the anchor's weekly test-line bulletin, whi
 
 "It's inside."
 
-"It's inside. It's always been inside. I've posted it myself every Monday since they hung the sections in May." She pushed a stack of the bulletins across at him, twenty-two of them, every one with its corner stapled, and he leafed through. *Batch 7. 0.06 / 0.04.* May. June. July. August. The same four hundredths, week after week, on the same line. "Twenty-two weeks. I read that number every Monday and I thought, seven's a bit lively, and I posted it, and I went home. It's inside tolerance. The rope bore the plan this morning, with seven in it. It's fine."
+"It's inside. It's always been inside. I've posted it myself every Monday since they hung the sections in May." She pushed a stack of the bulletins across at him, twenty-two of them, every one with its corner stapled, and he leafed through. *Batch 7. 0.06 / 0.04.* May. June. July. August. The same four hundredths, week after week, on the same line. "Twenty-two weeks. I read that number every Monday and I thought, seven's a bit lively, and I posted it, and I went home. It's inside tolerance. The rope bore the plan on Friday, with seven in it. It's fine."
 
 "So why am I here?"
 
@@ -1066,7 +1066,7 @@ There were two other tethers in the world: Gabon's, at Libreville, built in 2091
 
 "Why would they? It was a clamp. And they scrapped the piece with the clamp, so nobody can ask now why it parted. Arriba can only inspect what it holds, and that piece went into a furnace in Libreville two years ago." She put the cord in her lap and turned it over and over in her fingers. "A million seven hundred thousand cycles. On our line, that's about two and a half years of weather on the lowest forty kilometres. And it held perfectly until it parted. Inside tolerance the whole way, I'd bet. Ringing a little. Ringing four hundredths more."
 
-Segundo sat with the bulletin on his knee. *One of them can only say no, and the other can only say yes when you ask.* He had said it to thirty-one nine-year-olds a month ago. Nothing happened in this country unless somebody asked. Nobody had asked about seven. Gabon hadn't, the consortium hadn't, Jacinta hadn't, in twenty-two Mondays. So nothing would happen. The rope would carry seven into its own foot, because the rope only weighed what it was sent, and nobody had sent it the question.
+Segundo sat with the bulletin on his knee. *One of them can only say no, and the other can only say yes when you ask.* He had said it to thirty-one nine-year-olds a month ago. Nothing came down from Arriba unless somebody asked. Nobody had asked about seven. Gabon hadn't, the consortium hadn't, Jacinta hadn't, in twenty-two Mondays. So nothing would happen. The rope would carry seven into its own foot, because the rope only weighed what it was sent, and nobody had sent it the question.
 
 The reel house was very quiet. Somewhere below them in the dark a pump cycled on and off.
 
@@ -1402,7 +1402,7 @@ Dolores ate a piece of cake.
 
 "Your father," she said, "would have told her it was a road."
 
-Sisa was looking at the stairs. She was sixteen and had been for nineteen hours and had two asks of her own on the screen in her pocket. She took the screen out and looked at it.
+Sisa was looking at the stairs. She was sixteen and had been for twenty hours and had two asks of her own on the screen in her pocket. She took the screen out and looked at it.
 
 "I'll give you mine," she said.
 
@@ -1558,7 +1558,7 @@ Then Lourdes gave the cup back to Dolores, and turned, and walked home up the hi
 
 At five on the thirty-first of October, by the date on the certificate, the consortium lowers batch seven's rating, and the new number reaches the rope, me, as every number does.
 
-The rule that lowers it is not mine. It belongs to the consortium, and it is simple: a batch is rated on its map, the list of every section checked and what was found, and when the map is complete the rating follows it. The map of seven is complete. Thirty-five sections of three hundred and twelve are bad. The rating of seven comes down by that share, all of it, every section, and the new rating comes to me as every rating does, a number in a certificate.
+The rule that lowers it is not mine. It belongs to the consortium, and it is simple: a batch is rated on its map, the list of every section checked and what was found, and when the map is complete the rating follows it. The map of seven is complete. Thirty-five sections of three hundred and twelve are bad. The rating of seven comes down by that share, every section of it.
 
 At my foot, in the lowest few hundred metres, are the sections of seven they spliced in yesterday while the reel was still. Section forty is among them. I feel them as I feel the rest of my foot. They are the same ribbon they were at midnight. They ring as they rang. Nothing in them has changed. Only their number has changed.
 

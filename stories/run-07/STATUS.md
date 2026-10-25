@@ -33,6 +33,12 @@
 | 7 Review (draft 1) | 6 `lens-critic`, `first-reader` (two turns), `comprehension-grader` | 3,201,215 | ~60k |
 | 8 Revise (round 1) | 1 `drafter` (resumed) | 15,315,052 | ~40k |
 
+## Polish spot-check decisions
+
+- **Asimov:** applied all five (the plan borne "on Friday"; "Twenty-six days"; "nothing came down from Arriba unless an ordinary person asked", twice, since the Asamblea passes laws unasked; "twenty hours").
+- **Rajaniemi:** applied 2 (the double delivery in the rope's section) and 4 (dispensing folded into Arriba's practice). **Declined 1** (the narration line as a picture): Asimov's fix to the same line corrects a false claim, and accuracy wins over texture on a Premise line. **Declined 3** ("The bottom parts under a loaded climber, with the crew in it."): it drops "dies", which is the clause the gate graded missing on Stakes in all three rounds.
+- `dli check` passed.
+
 ## Gate failures
 
 - **Round 1 (draft 1):** Premise, Why and Reach partial. Terms missed (the Accord, the Day of the Dead items, lupin beans). Stakes, Ending and Who's who got it. Lost-list 11 entries, 7 on graded rows.
