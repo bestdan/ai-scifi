@@ -4,23 +4,130 @@ Running record for the drafter, updated after each part. A fresh drafter
 should be able to pick up the next part from this file, the bible and the
 outline alone.
 
-**Parts written:** 1–4. Parts One to Three have had their per-part lens
-fixes (see the "revisions" sections below). Part Five is next, and then
-the Drafter's notes.
+**Draft 1 is complete:** Parts 1–5 and the `## Drafter's notes`. Parts One
+to Four have had their per-part lens fixes (see the "revisions" sections
+below). Draft 2 (stage 8) revises from the full-draft review. This file
+stays the reference for voices, numbers and dates.
 
-## Length so far
+## Length
 
 | Part | Outline target | Actual (prose, excluding title, part heading and section headers) |
 |---|---|---|
 | 1 | 6,600 | 7,285 |
 | 2 | 7,000 | 6,270 |
-| 3 | 6,600 | 6,850 (after the Le Guin fixes) |
-| 4 | 6,800 | 6,075 |
-| **Running** | 27,000 | **26,480** |
+| 3 | 6,600 | 6,850 |
+| 4 | 6,800 | 6,326 (after the Egan fixes) |
+| 5 | 7,700 | 7,520 |
+| **Total** | 34,700 | **34,251** (34,591 with title and headers) |
 
-Part Five's target is 7,700, which gives about 34,200. The ceiling of
-40,000 is hard. P5 may run to about 9,000 if the meeting, the tally and
-Lourdes at the board need it; past that, cut.
+Revision headroom against the 40,000 ceiling is about 5,400 words.
+
+## Part Four revisions (applied before Part Five; Egan triage)
+
+1. **The proof climb is planted early.** 4.1, Jacinta: "Seven starts going
+   into the foot on the thirtieth… a proof climb at six-forty the next
+   morning, full load, straight over them. Once it's carried a climb,
+   nobody unhangs it." 4.4, at the fence: "Eleven days. They splice seven
+   in on the thirtieth." 4.2: "An inspection always took three days,
+   whatever was paid." 4.5: "When the six-forty leaves on the thirty-first
+   I will weigh it again as it leaves, against whatever the rating is
+   then."
+2. **1.04 is derived.** 4.5 is now `0.92 / 0.08` ("ninety-two
+   hundredths… Eight hundredths left"). Jacinta's rule in 4.1: "take its
+   rating down by the share the map finds bad". 0.92 ÷ (277/312) = 1.036,
+   which gives `1.04 / −0.04`.
+3. **Proaño's affordability:** "Not my own workers; the association. Forty
+   export firms, their workers and their workers' households, three
+   provinces, all pooling behind the association's labels." His agent
+   congratulated him "on section forty".
+4. **Cheaper routes closed.** The oven logs "say what the oven did. They
+   don't say what it made." The plain question can't be posted even at zero
+   pool to read its price ("on every screen in the valley, and in every
+   habitat that bought its roses here"). The catch-all is "a year of the
+   world's asks".
+
+## Part Five, as written
+
+**Calendar.**
+- **Thu 26 Oct:** Sisa's asks arrive at midnight. He gives her a receipt
+  book. He skips band night. Cake with Dolores. He tells Lourdes he'll ask
+  for December, and won't say why; she washes her cup and goes upstairs.
+  Sisa: "I'll give you mine… But Mamá will hate it."
+- **Fri 27 Oct**, from 18:00: the meeting, moved from the hall to the
+  portico; the band is there for the extra procession rehearsal; tally to
+  42,300; fee waived.
+- **Sat 28 Oct**, 08:00: label posted; Proaño's buyers cut him to half
+  within two hours. **Mon 30 Oct:** batch seven's first sections spliced into
+  the foot; Jacinta at the splice.
+- **Tue 31 Oct:** 04:10 the answer; 05:00 the derating; 06:40 the refusal (no
+  rattle); 07:05 the new plan borne at `0.71 / 0.29`; the spliced sections
+  cut out before noon.
+- **Wed 1 Nov:** the slack begins at midnight. 06:40 no rattle. Bread dolls.
+  Proaño at 08:00. The clerk's question at about 10:00.
+
+**Headers:**
+- 5.1: `*Received: 2 asks, by Sisa Farinango, on her sixteenth birthday.
+  Label: her own. Fee: none. Pooled: none.*` This is the receipt he
+  writes her inside the book.
+- From 5.2 on, Segundo's sections open with the blank receipt.
+- Arriba: `*Is batch seven sound? 40,872 asks.*` and `*Label to follow. 0
+  asks.*`
+- Waska: `*1.04 / −0.04*` and `*0.00 / 1.00*`.
+
+**The tally:**
+- **Givers, in order:** Lourdes 6 (silent, the first), Sisa 2, Señora
+  Quishpe, the pork man's wife, then her husband, the baker, the oldest
+  cheese woman, Luz Caiza and the cutters beside her, the old man direct,
+  then the fifth bench.
+- **Wilmer** tells his clients to give direct, with no fee: "Neither should
+  you."
+- **The council** holds a show of hands for its 1,100.
+- **Refusals:** Dolores aloud ("Not for you either. I'm sorry, my love. Not
+  for anybody."); the Pilataxis ("hold ours for the farm"); about 700
+  others.
+- **The count:** 42,300 from 7,050 people; with the fee 2,115, 40,185 is 687
+  short; fee waived; 1,428 over. The clerk changes the row to *Fee
+  waived.*
+
+**Segundo's motive (5.2):** a "hard, bright satisfaction" of being right,
+and wanting his father to have been wrong "for this, the bench, the face,
+the method". He notices it, can't make it go away, and goes on standing
+there. Unsettled.
+
+**The answer (5.3, 149 words).** The 35 unsound sections are every ninth,
+from 9 to 306, plus 312. Section forty is not among them.
+
+**Lourdes (5.4):** she reads every word at the front by the pillar. Dolores
+brings her hot maize drink and stands beside her, bad arm at her side.
+Lourdes says something low that he doesn't hear, gives back the cup and
+walks home alone. **5.7:** "There's oxygen in the second room now. At least
+there's that." Dolores: "Give her a year. Then give her another one."
+
+**Jacinta (5.5):** explains the arithmetic. "Nine years to put the first one
+in. One day to take it out." Her boys asked whether roses are worth it.
+
+**The certifier (5.5):** a thin man from the station with a Quito accent. The
+277 sound sections go higher; the bottom 9 km stays on old ribbon,
+derated; half loads for two years.
+
+**The Asamblea (5.6):**
+- **The board notice** quotes the slack rule.
+- **Two laws:** half pay for the climber crews (proposed by Proaño at 01:00,
+  passed at 02:00), and freight relief for the exporters (04:00, his).
+  Proaño: "It's dressed up as something lighter than it is. The rope will
+  notice."
+- **The clinic:** the association pools its December for it, and Segundo
+  writes the label, *Ayora's clinic, from the farms*.
+
+**The final image (5.7):**
+- **The roof and the kitchen:** no rattle at 06:40; a dog barks once; bread
+  dolls with sugar faces, purple maize drink.
+- **The counter:** the test-line column still up, with batch seven struck
+  through and batch eight `0.02 / 0.08`, ringing true. Batch eight was
+  cured in April 2138, in the same oven season. Nobody will ask about it.
+  The clerk asks, "January. What label do I write?"
+- **Arriba's last note:** "Asked: nothing. Dispensed: nothing."
+- **Waska:** slack; "For forty days nothing rings."
 
 ## Part Three revisions (applied before Part Four; Le Guin triage)
 
@@ -734,18 +841,18 @@ fingernail that he had tied round an awning with a bunch knot". Jacinta:
 reel is still, the consortium splices the first batch 7 sections (section
 forty first) into the lowest few hundred metres. At **06:40 on Tue 31
 Oct** the last climber before the slack climbs over them at full load to
-prove them. Waska weighs against the **certificate rating**: `0.96 / 0.04`,
-borne. "In seventy-three years I have never once been wrong about a weight.
+prove them. Waska weighs against the **certificate rating**: `0.92 / 0.08`
+(revised from 0.96 by the Egan triage), borne. "In seventy-three years I have never once been wrong about a weight.
 If something were wrong with what they send me, I would feel it."
-**For 5.5:** after the answer (posted 04:10 on 31 Oct), the certification
-rule derates batch 7 against the map. The spliced sections' rating falls
-by about 8% (0.96 / 0.923 ≈ 1.04), so the same climb now weighs `1.04 /
-−0.04`, and Waska refuses the already-scheduled climb. Nobody resubmits.
+**For 5.5 (as written):** after the answer (posted 04:10 on 31 Oct), the
+certification rule derates batch 7 by the share the map finds bad (35/312).
+The same climb now weighs 0.92 ÷ 0.888 ≈ `1.04 / −0.04`, and Waska refuses
+the already-scheduled climb. Nobody resubmits.
 Jacinta explains that it's arithmetic. **Open question for 5.5:** whether
 the spliced batch 7 sections are cut out again before the slack. They must
 be, since the plan is rebuilt with the bottom 9 km left on old ribbon.
 
-## Open threads (for Part Five)
+## Open threads before Part Five (all closed in draft 1; kept for the record)
 
 - **5.1, Thu 26 Oct, Sisa's birthday:** her first two asks. It is band night,
   so he skips practice or goes late. Lourdes's anger at what he won't say

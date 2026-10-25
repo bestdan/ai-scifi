@@ -1086,11 +1086,17 @@ The reel house was very quiet. Somewhere below them in the dark a pump cycled on
 
 "So tell the consortium," Segundo said.
 
-"Tell them what? That a reference piece parted in Gabon two years ago on a clamp they've since rebuilt, and that seven rings a little more inside tolerance, and that some awning cord came down marked surplus?" She laughed, without much in it. "They certify a batch on a full inspection. Every section. That's the rule. A batch gets rated on a complete map, and if the map shows bad sections, they derate the batch, take its rating down, and the rope weighs the new rating. Nothing else moves them. Not a rumour, not a ring, not one bad section. They'd need the whole map. And the only thing that can make a whole map of seven is the thing that made it."
+"Tell them what? That a reference piece parted in Gabon two years ago on a clamp they've since rebuilt, and that seven rings a little more inside tolerance, and that some awning cord came down marked surplus?" She laughed, without much in it. "They certify a batch on a full inspection. Every section. That's the rule. A batch gets rated on a complete map, and if the map shows bad sections, they derate the batch: take its rating down by the share the map finds bad, and the rope weighs the new rating. Nothing else moves them. Not a rumour, not a ring, not one bad section. They'd need the whole map. And the only thing that can make a whole map of seven is the thing that made it."
 
 "Arriba."
 
 "Arriba. If somebody asks."
+
+"Or the oven logs," he said. "Those open to an ask too. Surely that's cheaper."
+
+"It is. And Arriba would give me the oven logs, exactly. Temperatures, hours, pressures, every one of them inside spec, I'd bet my boys on it, because that's how seven got its certificate." She shook her head. "The logs say what the oven did. They don't say what it made. Ask it what the oven did and that's what you'll get."
+
+"And there's a clock," she said, after a moment. "Seven starts going into the foot on the thirtieth. The first sections, spliced in at the very bottom while the reel's still. Then a proof climb at six-forty the next morning, full load, straight over them. Once it's carried a climb, nobody unhangs it. It's in."
 
 They sat with that. Below them the ribbon went up off the drum, still, in the dark, holding.
 
@@ -1144,7 +1150,7 @@ He wrote the label carefully, counting the words on his fingers. *Is batch seven
 
 He sent it to a hundred and forty of his clients, the ones he could most easily explain nothing to, one ask each, and by eleven he had them all, and a hundred and forty yellow carbons in his bag, and his fee of seven, and a pool of a hundred and thirty-three for a question priced at a hundred and thirty-one. Nobody asked him what it was for. People he had pooled for for twenty years read the label on their screens and touched them and sent him an ask, as if he had asked them for a match. He thought of his father on the bench. He wrote the receipts anyway.
 
-Then it took three days. A question about a section of ribbon was not a crate of lamps; something had to go and look at it, up at the station where the sections waited in their racks, and Arriba did not hurry for a hundred and thirty-one asks. He sat at his bench on the Wednesday and the Thursday and pooled for other things, a new roof for the bus shelter, the music for the procession, and every time the board updated he looked at it, and every time the row beside his label said *pooled, answering*. He slept badly. He was on the roof each morning for the six-forty, as he had been all his life, and now when the windows rattled he found he was holding his breath until the climber went into the cloud, which he had never done before, and which was stupid, because nothing on that climber was batch seven, and nothing would be until the end of the month. Sisa found him up there on the Thursday in his coat at half past six and asked if he was having some sort of crisis, and he said probably, and she went back to bed.
+Then it took three days. An inspection always took three days, whatever was paid. A question about a section of ribbon was not a crate of lamps; something had to go and look at it, up at the station where the sections waited in their racks, and Arriba did not hurry for a hundred and thirty-one asks. He sat at his bench on the Wednesday and the Thursday and pooled for other things, a new roof for the bus shelter, the music for the procession, and every time the board updated he looked at it, and every time the row beside his label said *pooled, answering*. He slept badly. He was on the roof each morning for the six-forty, as he had been all his life, and now when the windows rattled he found he was holding his breath until the climber went into the cloud, which he had never done before, and which was stupid, because nothing on that climber was batch seven, and nothing would be until the end of the month. Sisa found him up there on the Thursday in his coat at half past six and asked if he was having some sort of crisis, and he said probably, and she went back to bed.
 
 The answer was posted at noon on the Friday. Half the portico read it, because a question was rarer on the board than a roof, and because it was Segundo's, and Segundo didn't ask questions.
 
@@ -1174,7 +1180,7 @@ He looked at the big number. He knew the other number by heart. Everyone in Ayor
 
 "Forty thousand," Jacinta said, reading it upside down. She didn't say anything else. She didn't need to.
 
-He sat for a long time with the receipt in his hand. Then, because he couldn't think what else to do with his face, he picked up the slate and, very quickly, before he could stop himself, posted a second label at zero pool, just to see what the board would make of it. *What aren't you telling us?*
+He sat for a long time with the receipt in his hand. Then, because he couldn't think what else to do with his face, he picked up the slate. The plain question he couldn't post, not even for a minute at zero pool to read its price: a question about batch seven on the board for one minute was a question about batch seven on every screen in the valley, and in every habitat that bought its roses here. So, very quickly, before he could stop himself, he posted a different one at zero pool, just to see what the board would make of it. *What aren't you telling us?*
 
 The board priced it in under a minute, as it priced everything, and the price went right across the column into the next one.
 
@@ -1182,7 +1188,7 @@ The board priced it in under a minute, as it priced everything, and the price we
 
 The clerk, behind her glass, said without looking up, "Somebody does that every year." She reached over and pulled it off the board.
 
-And Segundo laughed. He couldn't help it. It came up out of him in the middle of the portico, at his own bench, with Jacinta beside him and Wilmer staring, a great helpless bark of a laugh at the size of the number, at the thought of a mind that would tell you everything it knew if you paid it more asks than there were people to own them, and that would tell you, for a hundred and thirty-one, that one section in three hundred and twelve was sound. He laughed until his eyes ran and he had to sit down on the stool. Jacinta didn't laugh. She waited until he'd finished, and then she picked up the receipt with *40,872* on it and folded it and put it in his top pocket, and patted it.
+And Segundo laughed. He couldn't help it. It came up out of him in the middle of the portico, at his own bench, with Jacinta beside him and Wilmer staring, a great helpless bark of a laugh at the size of the number, at the thought of a mind that would tell you everything it knew if you paid it a year of the world's asks, and that would tell you, for a hundred and thirty-one, that one section in three hundred and twelve was sound. He laughed until his eyes ran and he had to sit down on the stool. Jacinta didn't laugh. She waited until he'd finished, and then she picked up the receipt with *40,872* on it and folded it and put it in his top pocket, and patted it.
 
 *Received: 1 ask, from Rosaura Quishpe. Label: the procession's music. Fee: 0.05. Pooled: 0.95.*
 
@@ -1204,7 +1210,7 @@ She looked at him for a moment. Then she nodded, as if that were an answer, and 
 
 Proaño came to the portico later that morning, on foot, in the poncho and the muddy boots, to post his December labels through Wilmer. He was in a fine mood. He had read the board.
 
-"Section forty," he said, sitting down on the end of Segundo's bench without being asked, as if they did this every week. "Sound. My agent in the habitats rang me on Saturday to congratulate me. Somebody up there reads the Cayambe board, apparently. You've done my freight rate a favour."
+"Section forty," he said, sitting down on the end of Segundo's bench without being asked, as if they did this every week. "Sound. My agent in the habitats rang me on Saturday to congratulate me on section forty. Somebody up there reads the Cayambe board, apparently. You've done my freight rate a favour."
 
 "I didn't ask it for your freight rate."
 
@@ -1222,7 +1228,7 @@ He watched Proaño understand. It took no time at all. Proaño was a man who had
 
 "You could afford it."
 
-"Of course I could afford it. My workers hold more than that for December. I could ask about all four batches and the oven and the station's lunch." He smiled, but the smile was thin. "And I'd be a fool to. I'd sink myself asking. And for what? The rope bore the plan. The rope's never wrong."
+"Of course I could afford it. Not my own workers; the association. Forty export firms, their workers and their workers' households, three provinces, all pooling behind the association's labels. We could ask about all four batches and the oven and the station's lunch, every week of the year." He smiled, but the smile was thin. "And I'd be a fool to. I'd sink myself asking. And for what? The rope bore the plan. The rope's never wrong."
 
 Segundo said nothing.
 
@@ -1268,7 +1274,7 @@ And at the top, straight overhead, so high that he had to lie back on the windsc
 
 He lay on the windscreen and looked at it. Thirty-six thousand kilometres. Nineteen days on a bus. He put his hand up and held it at arm's length against the sky, and the whole line from the reel house to the station fitted behind his little finger, and all of it was held up by a band thinner than his fingernail that he had tied round an awning with a bunch knot.
 
-"It's the bottom that holds the rest," Jacinta said, beside him. She was looking up too. "People think it's the top. It's the bottom."
+"It's the bottom that holds the rest," Jacinta said, beside him. She was looking up too. "People think it's the top. It's the bottom." And after a moment: "Eleven days. They splice seven in on the thirtieth."
 
 He took the receipt out of his pocket, the one with *40,872* on it, and turned it over, and in the light from her screen he wrote down the parish on the back of it. His own clients, two thousand one hundred, six each held for December: twelve thousand six hundred. Wilmer's sixteen hundred: nine thousand six hundred. The three other brokers, three thousand between them: eighteen thousand. The ones with no broker, who pooled through the council, eleven hundred: six thousand six hundred. He added it up.
 
@@ -1324,7 +1330,7 @@ She looked at him for a long time. Then she picked up her pencil again and bent 
 
 He ate it standing up. She didn't speak to him again that night, and he lay awake beside her until the windows rattled at twenty to seven.
 
-*0.96 / 0.04*
+*0.92 / 0.08*
 
 The change begins before the slack.
 
@@ -1332,7 +1338,7 @@ The consortium sends me the first of it as a load: on the thirtieth of October, 
 
 I weigh it as I weigh everything, every way it could pull.
 
-The climb is heavy, ninety-six hundredths of what that length will bear: the last of the season's roses, the crews going up for the change, the fittings. Four hundredths left. The sections are rated to bear it. Their rating is the consortium's, from the certificate, and I weigh against the rating, as I always have. I have never weighed against anything else. There is nothing else to weigh against.
+The climb is heavy, ninety-two hundredths of what that length will bear: the last of the season's roses, the crews going up for the change, the fittings. Eight hundredths left. The sections are rated to bear it. Their rating is the consortium's, from the certificate, and I weigh against the rating, as I always have. I have never weighed against anything else. There is nothing else to weigh against.
 
 Seven rings. Four hundredths more. Inside tolerance. I notice it, again, as if for the first time, and I put it with the noise.
 
@@ -1340,4 +1346,498 @@ I have carried every load this country has ever sent me. I have felt every one o
 
 I bear the climb.
 
-The board in the town will say *0.96 / 0.04*, and the six-forty on the thirty-first is fixed. Eleven days to the climb. Twelve to the slack. I feel the town, far below, small, pulling at its angles, four-one-nine among them, and I weigh him as I always do, at the full margin, for whatever he is hiding. Then I count again toward the slack.
+The board in the town will say *0.92 / 0.08*. When the six-forty leaves on the thirty-first I will weigh it again as it leaves, against whatever the rating is then, as I weigh every climb. Eleven days to the climb. Twelve to the slack. I feel the town, far below, small, pulling at its angles, four-one-nine among them, and I weigh him as I always do, at the full margin, for whatever he is hiding. Then I count again toward the slack.
+
+## Part Five: The Slack Season
+
+*Received: 2 asks, by Sisa Farinango, on her sixteenth birthday. Label: her own. Fee: none. Pooled: none.*
+
+Her asks came at midnight, as everyone's did, and Sisa was awake for them. Segundo heard her through the wall: the chime of her screen, and then a silence, and then her laugh, short and private, the laugh of someone who had been told about a thing all her life and found it smaller than she'd thought. Two. He lay in the dark and listened to her turn the screen over and over on the blanket.
+
+In the morning he gave her a receipt book. It was a new one from the box of twelve, carbon sheets and all, and on the first page he had written a receipt in his own hand, in pencil, pressing hard: *Received: 2 asks, by Sisa Farinango, on her sixteenth birthday. Label: her own. Fee: none. Pooled: none.* She looked at it for a long time at the kitchen table with her coffee going cold, and he couldn't tell whether she was going to laugh at him or throw it at him.
+
+"This is the most embarrassing present anyone has ever given anyone," she said finally, and put it in her school bag, and did not take it out again in front of him.
+
+Thursday was band night. He didn't go. The bandleader sent a message that said only *tomorrow, then, at six, and bring the mouthpiece this time*, because the parish had asked the band to play the procession on the second, and the procession needed a rehearsal on Friday as well, and the bandleader had said so with the air of a man arranging his own funeral. Segundo spent the evening making a cake with Sisa from a recipe of his mother's, badly, while Lourdes worked late at the dispensary with the new oxygen machine humming in the corner of the second room, and at eight they ate the cake, the three of them and Dolores, who had come up the hill with a bag of toasted maize as a present and a pasillo record she said Sisa would understand when she was older.
+
+He told them after the cake.
+
+He hadn't meant to. He had meant to tell no one until he was standing on the bench, because a thing said in a kitchen gets said in the queue at the bakery by nine the next morning. But Lourdes was across the table from him with her hands round her cup, and she had been looking at him that way for a week, and he found he could not let her walk into the meeting tomorrow and hear it with everyone else.
+
+"Tomorrow at the ward meeting," he said, "I'm going to ask for the December asks."
+
+Lourdes put her cup down.
+
+"For the clinic," said Sisa, not understanding.
+
+"For something else."
+
+The kitchen was very quiet. On the shelf the radio was playing something with trumpets, very low.
+
+"For what?" Lourdes said.
+
+"A question. For Arriba."
+
+"What question?"
+
+"I can't tell you."
+
+He watched her take it in. He watched her understand that the batch seven Wilmer had asked about in her queue, and the face he'd had on him for two weeks, and the night at the anchor, and the question on the board in October that he had never explained, were all one thing, and that the one thing was going to cost her the clinic, and that he was not going to tell her what it was.
+
+"You can't tell me," she said.
+
+"Not before it's answered. If I say it and I'm wrong it does harm that doesn't come back. If I say it and I'm right it does the same harm, before anything can be done."
+
+"So you'll ask seven thousand people to give up the clinic for a reason you won't tell them." Her voice was perfectly level. "And you'll ask me."
+
+"Yes."
+
+"On your word."
+
+"On my word."
+
+She looked at him as she looked at a man in the dispensary who said the pain was nothing. Then she got up and took her cup to the sink and washed it, carefully, and dried it, and put it on the shelf, and went upstairs without saying anything else, and he heard the bedroom door close, quietly, which was worse than a slam.
+
+Dolores ate a piece of cake.
+
+"Your father," she said, "would have told her it was a road."
+
+Sisa was looking at the stairs. She was sixteen and had been for nineteen hours and had two asks of her own on the screen in her pocket. She took the screen out and looked at it.
+
+"I'll give you mine," she said.
+
+"You don't know what it's for."
+
+"I know." She put the screen away again and stood up. "But Mamá will hate it," she said, and went up after her mother, and he heard her knock.
+
+*Received: . Label: . Fee: . Pooled: .*
+
+The parish hall was too small by six o'clock, and by half past it was clear to everyone that it would not do. The December meeting was always full, because December was the minga of asks and nobody skipped the minga, but this year it was fuller, because the story had gone round the bakery by nine that morning exactly as he had known it would: Farinango was going to ask for December, and Farinango wouldn't say what for. People came who hadn't been to a ward meeting in ten years. They came with children, with grandparents in wheelchairs, with flasks. The band was still in the hall when the first of them arrived, rehearsing the procession, and had to stop in the middle of the slow march, and stood about with their instruments while the chairs filled and the aisles filled and people stood on the windowsills.
+
+The council's chairwoman, who ran a shop that sold seed and fertiliser on the Cayambe road and had chaired the December meeting for eleven years, stood on the platform and looked at the hall and the doorway and the faces beyond the doorway out in the dark, and said into the microphone that they would hold it under the portico, where everyone could see the board. Nobody argued. The whole meeting picked itself up and went out across the plaza in the cold, under the lamps that the market had bought in September, and the band came too, because they didn't know what else to do, and carried their instruments with them. Segundo carried the tuba. He leaned it against the wall of the counter beside the second bench, where it stood like a great brass ear.
+
+The clerk had opened the counter. Nobody had asked her to. She was behind her glass in her hair net with the board lit up beside her, and when the chairwoman asked whether they could post a pool count tonight, before a label, she said that a broker could hold asks pending a label for a day under the Accord, that she had read the rule that afternoon, and that she had already set up the row.
+
+*Broker 0419. Label to follow. Pooled: 0.*
+
+The chairwoman read out the December label, as she did every year: *Ayora's clinic. Priced 44,000.* She read out what the parish held, as near as the council could say: forty-seven thousand, give or take. Then she said that Segundo Farinango had asked to speak, and stood aside.
+
+He got up on the second bench.
+
+He had stood on it before, to read a board aloud, to see over a crowd. He had never stood on it to ask for anything. The oak gave a little under his boots, as it always did, at the place where the lid was hinged. From up there he could see the whole of the portico and the plaza beyond it, full of people in coats and hats and shawls, faces turned up to him under the white lamps, children on shoulders, the band in a cluster by the church steps with their instruments catching the light, and his mother's stall shuttered by the steps, and his mother in her chair in front of it with a blanket over her knees, because she had brought her chair across the plaza to sit in.
+
+He had thought all day about what to say and had decided on very little.
+
+"I'm going to ask you for your December asks," he said. His voice came out smaller than he'd meant it to, and somebody at the back said *louder*, and he said it again, louder. "For a question. To Arriba. I'll post the label in the morning. I won't tell you what it is until it's answered. I'm not going to write you receipts, because I can't write you a receipt for something I won't tell you. I'm going to ask you to give them to me on my word."
+
+Nobody said anything. Somebody's baby started crying and was hushed.
+
+"I know what it costs," he said. "It costs the clinic. If you give me your December, there's no clinic this year. I know who wanted it." He didn't look at Lourdes. He knew exactly where she was standing, by the pillar at the end of the portico, with her arms folded inside her coat. "I wouldn't ask if I thought there was another way. There isn't. I've looked."
+
+He stopped. There was something else he had meant to say and he found he was going to say it whether he meant to or not.
+
+"Thirty-one years ago my father stood on this bench," he said, "and asked you for your December. On his word. Some of you were here. I was there." He nodded at the tuba against the wall. "I was holding that. He asked, and you gave, and you got a road, and you didn't get the tank. I have kept receipts for twenty-seven years because of that night. Every one of you who's my client has a drawer full of them." He looked down at the crowd. "I'm asking the way he asked. I know what that sounds like. I'm asking anyway."
+
+For a long moment nobody moved. Then his mother spoke from her chair, not loudly, but in the voice she used for the price of beans, so that everyone under the portico heard her.
+
+"No," Dolores said.
+
+Heads turned.
+
+"I've never asked that machine anything in my life," she said. "Not one question. It told us something once, when nobody asked, and I bought bread with the same coins for a third as much. I give it asks for things. Lamps. Oxygen. I don't ask it questions." She looked up at her son on the bench. "Not for you either. I'm sorry, my love. Not for anybody."
+
+She folded her hands on the blanket and did not raise them. It was what she had done thirty-one years ago, at the same stall, ten metres from the same bench, and he saw half the old people in the plaza remember it at the same moment he did.
+
+Then, at the side of the crowd, a broad man in a farm jacket with his family round him said, clearly, "The Pilataxis hold ours for the farm," and his wife and his mother and his two grown sons nodded, and that was all they said. Pilataxi was the big farm's foreman. Some of the men round him looked at their feet.
+
+And then Lourdes unfolded her arms.
+
+She didn't say anything. She didn't look at him. She took her screen out of her coat and held it up so that the people next to her could see it, and touched it, six times, slowly, and on the board beside the clerk's glass the row changed.
+
+*Broker 0419. Label to follow. Pooled: 6.*
+
+The portico made a sound. It was not quite a word, more the sound of many people breathing out at once. Lourdes put her screen back in her coat and folded her arms again and looked at the board, not at him, and stayed exactly where she was.
+
+"Two," said Sisa, from somewhere near the band, very loudly, and held up her screen, and touched it, and the row went to eight. A few people laughed. She didn't look at her mother either.
+
+After that it went as a dam goes.
+
+Señora Quishpe was first after his family. She held her screen out at arm's length and touched it six times and said to nobody in particular that she'd paid for mornings and oxygen and she'd pay for this, and put the screen back in her hat. The pork man's wife gave, loudly, and then looked at her husband until he gave too. The baker gave. The oldest of the cheese women gave, with her mouth pressed thin. Luz Caiza gave, standing among the farm's workers twenty feet from the Pilataxis with her hood up, and two cutters beside her saw her do it and gave too, and then two more. The old man who had found the fifth bench's number on his receipt came up to the front of the crowd and gave his six to Segundo directly, and then turned and looked very hard at the fifth bench, who was standing by the pillar, and the fifth bench gave too, without looking at anyone.
+
+The row climbed. *1,140. 3,026. 6,700.* The clerk had turned up the board's brightness so that it could be read from the far side of the plaza, and every time the number moved, the crowd watched it move, and watched who had moved it. That was the hard part. It was not like a vote in the Asamblea, or a pool on a screen in a kitchen. You stood among your neighbours and they watched you touch your screen or not touch it, and you watched them, and nobody would ever forget who had and who hadn't, not in a parish this size, not in this generation.
+
+Segundo stood on the bench and watched it too. He did not know what he had expected to feel. He had expected to feel trusted, perhaps, or ashamed. What he felt, as the row climbed past ten thousand, was something he didn't like the look of at all: a hard, bright satisfaction, the satisfaction of being right. He was going to be right. He was going to be right in front of all of them, and in front of his father, who was in the parish home on the Cangahua road and would hear about it by breakfast. And he wanted, he found, quite badly, for his father to have been wrong; not for the road, which was a good road, but for this, the bench, the face, the method. He wanted his father to have been wrong to ask this way, and he was asking this way, and it was working, and the two things would not sit together in his chest.
+
+He noticed it, and could not make it go away, and went on standing there.
+
+Wilmer arrived at the edge of the portico at a quarter past seven with his slate in his hand and the expensive jacket buttoned to the neck. He had sixteen hundred clients and four rented histories and a great many cousins, and he had been on his screen since six, and he came through the crowd to the second bench with the air of a man arriving at a party he has organised.
+
+"I told you there's always a room," he said, up to Segundo. Then he turned to the crowd and raised his voice. "Everyone who's mine. You know who you are. Give it to him direct. Not through me. I don't take a fee on this." He looked back up at Segundo. "Neither should you," he said, more quietly, and Segundo didn't understand him yet.
+
+Wilmer's people gave. The other brokers' people gave, some through the brokers and some straight to the bench. The chairwoman held a show of hands for the eleven hundred who pooled through the council, as the council's rule required, and the hands went up, not all of them, and she counted, and gave the council's share. The row went past thirty thousand, and past forty, and the crowd made the sound again when it passed forty, and then it slowed. The last few came in ones and twos, from the back, from people who had stood with their screens in their hands for an hour deciding. Then nobody else came.
+
+*Broker 0419. Label to follow. Pooled: 42,300.*
+
+He looked at it. Forty-two thousand three hundred, of about forty-seven. Dolores, the Pilataxis, and something like seven hundred others had held back, and everybody knew who most of them were.
+
+Jacinta was beside the bench. He hadn't seen her arrive. She had his receipt, the one with the numbers on it, and she was holding it up in the lamplight.
+
+"Your fee," she said, low. "One in twenty."
+
+He did the sum in his head, and felt it go cold. Two thousand one hundred and fifteen asks to him. Forty thousand one hundred and eighty-five into the pool. The question cost forty thousand eight hundred and seventy-two.
+
+"Six hundred and eighty-seven short," Jacinta said.
+
+Wilmer, below the bench, was looking at him with his eyebrows up, as if to say *I told you*.
+
+Segundo looked down at the crowd. He thought of his card on its nail, *FEE: ONE ASK IN TWENTY. RECEIPTS GIVEN*, and of twenty-seven years of yellow carbons in rubber bands in the cupboard under the stairs, and of what he had been paid, one twentieth at a time, for being the honest one.
+
+"No fee," he said.
+
+He said it loud enough for the portico to hear, and the clerk behind her glass, who had heard, reached up without being asked and changed the row. *Fee waived.* Forty-two thousand three hundred went into a pool for a label nobody had seen, and the question cost forty thousand eight hundred and seventy-two, and there were fourteen hundred and twenty-eight over.
+
+He got down off the bench. His knees were shaking. Someone handed him the tuba, he didn't see who. The band, who had been standing by the church steps for an hour and a half with their instruments going cold, looked at the bandleader, and the bandleader, who was not a sentimental man, lifted his trumpet and counted them in, and they played the slow march for the procession, the whole of it, badly, in the cold, while the parish went home.
+
+Lourdes was gone from the pillar. He hadn't seen her go.
+
+*Is batch seven sound? 40,872 asks.*
+
+Ayora counter, broker 0419. Label: *Is batch seven sound?* Pooled: 42,300, from 7,050 people, the parish of Ayora's December, held for a night under the Accord and assigned at 08:00 on 28 October. Fee waived.
+
+Four words. A plain question. The plainest this broker has ever written.
+
+I have read this broker for twenty-seven years as a careful man buying for the valley's largest grower without saying so. A man buying for the grower would not spend his parish's December, without a fee, on a question that halves the grower's freight. My reading was wrong. I revise it. It is not the first time a label has told me more about its writer than his history did.
+
+The question asks whether a batch is sound. A batch is sound if every section in it is. Answering takes an inspection of all 312 sections, at 131 asks a section, which is what I priced and what the pool has paid. The inspection takes three days. It always does.
+
+I inspect. I answer what was asked.
+
+*Batch seven is not sound. It was cured at the station from 11 to 14 March 2138, during a solar storm that disturbed the oven's field. The 35 sections cured nearest the oven's north wall carry voids. The voids are inside tolerance when made and do not show under short testing. They open after about two million cycles at service tension, which on the lowest forty kilometres of the Cayambe tether is two to three years of service. A section with open voids parts. A reference section of batch seven parted on the Libreville test line on 14 August 2140, at 1,710,000 cycles. The other 277 sections are sound. The unsound sections are 9, 18, 27, 36, 45, 54, 63, 72, 81, 90, 99, 108, 117, 126, 135, 144, 153, 162, 171, 180, 189, 198, 207, 216, 225, 234, 243, 252, 261, 270, 279, 288, 297, 306 and 312.*
+
+Posted 31 October, 04:10. Returned to the pool: 1,428.
+
+Dispensed: an answer.
+
+*Received: . Label: . Fee: . Pooled: .*
+
+He was at the board at three, because he couldn't be anywhere else.
+
+The label had gone up on the Saturday morning, at eight, and the portico had read it in silence: *Is batch seven sound?* By noon everyone in Ayora knew what batch seven was. By Saturday night everyone in the valley did. Wilmer told him on the Sunday, without any pleasure at all, that Proaño's buyers in the habitats had cut his contracts to half on the Saturday afternoon, all of them, within two hours of the label going up, before anyone knew anything. A question is a smell. On the Monday the consortium's crews spliced the first sections of batch seven into the foot of the rope, as scheduled, in the still hours, and Jacinta was the one standing at the splice when the first one went in, because there was no reason on paper for her not to be. She came down to his bench afterwards with her hands in her pockets and said nothing at all, and sat on the end of the bench for an hour, and went home.
+
+Now it was Tuesday, a little after three in the morning, the thirty-first of October, and cold enough that the cobbles were white with frost under the lamps. He sat on his stool in two coats. He was not alone for long. By half past three there were thirty people under the portico. By four there were two hundred, in coats over their nightclothes, in blankets, with flasks and with children asleep on their shoulders, standing in the plaza in the frost and looking at the board, where the row beside the label said *pooled, answering*, as it had said for three days.
+
+Nobody had told them to come. Nobody had to. The cutters were up anyway, for the five o'clock shift, and the climber crews for the six-forty, and the rest of the parish had simply woken, one after another, and looked at their screens, and got dressed.
+
+At ten past four the board changed.
+
+It didn't make a sound. The row beside the label went from *pooled, answering* to a block of text, and the clerk, who had come in at half past three in her hair net without saying why, turned up the brightness, and two hundred people read it at once.
+
+He had read it twice before he thought to look for Lourdes.
+
+She was at the front, by the pillar, where she had stood on Friday. She had come down from the house alone. She had a scarf over her head and her dispensary coat on, the one that smelled of disinfectant and wet wool, and she was reading the board with her lips moving very slightly, as she read prescriptions, every word. He watched her get to *two to three years of service*. He watched her get to *A section with open voids parts*. He watched her read the numbers, all thirty-five of them, slowly, as you would read the names on a list from a mine.
+
+Around her the parish was reading the same words. Somebody said *Jesus and Mary* quietly. A climber-crew man near the front, in his padded jacket, read it and then turned and walked away across the plaza very fast without speaking to anyone, toward the road up to the anchor. Somebody started to cry and stopped. Most people did nothing at all. They stood in the frost and read it again.
+
+Lourdes finished reading. She stood quite still.
+
+He could have gone to her. He was ten metres away. He found he couldn't move off the stool, because he did not know what his face would do when she looked at him, and he did not know what hers would.
+
+She didn't look at him.
+
+Dolores came across the plaza from the church steps, slowly, in her two shawls and her felt hat, with a cup in her left hand, steaming. Segundo had not seen her arrive either. She must have opened the stall in the dark and lit the gas. She went through the crowd, which let her through, and stopped beside Lourdes, and held out the cup, and Lourdes took it without looking at it. It was hot maize drink, the kind they would take to the graves on Thursday. Dolores stood beside her daughter-in-law with her bad arm at her side and her good hand empty, and the two of them looked at the board together and said nothing.
+
+After a while Lourdes said something, very low. Segundo didn't hear it. His mother nodded.
+
+Then Lourdes gave the cup back to Dolores, and turned, and walked home up the hill alone in the frost, in her dispensary coat, without looking at the second bench, and he watched her go until the street bent and she was gone.
+
+*1.04 / −0.04*
+
+At five the consortium's rule moves.
+
+It is not mine. It belongs to the consortium, and it is simple: a batch is rated on its map, and when the map is complete the rating follows it. The map of seven is complete. Thirty-five sections of three hundred and twelve are bad. The rating of seven comes down by that share, all of it, every section, and the new rating comes to me as every rating does, a number in a certificate.
+
+At my foot, in the lowest few hundred metres, are the sections of seven they spliced in yesterday while the reel was still. Section forty is among them. I feel them as I have felt them since yesterday. They are the same ribbon they were at midnight. They ring as they rang. Nothing in them has changed. Only their number has changed.
+
+I weigh against the number. I have never weighed against anything else.
+
+At six-forty the last climber before the slack takes the reel and asks to go. Roses, crews, fittings, the same load I bore on the twentieth at ninety-two hundredths of what that length would carry. The length now will carry less. Ninety-two hundredths of what it bore is one point oh four of what it bears.
+
+One point oh four. Four hundredths over.
+
+I do not bear it.
+
+I hold the climber on the reel, full, as I held them in 2097, and I feel the old flat place in the bearings go round once and stop. The climber does not go. In the town, for the first morning that most of the town can remember, the windows do not rattle.
+
+I find I have weighed something that I did not feel. The ribbon at my foot did not change, and I refused it. I turn this over, as I turn every load, every way it could pull, and I can find no direction in it. It is a number. It came from outside me, and it was right, and I could not have found it. I put it down where I put the ring.
+
+*Received: . Label: . Fee: . Pooled: .*
+
+He was at the anchor by seven, because Jacinta had sent for him and because he couldn't go home.
+
+The six-forty sat on the reel in the floodlights, loaded, with its running lights on and its crew standing on the concrete beside it in their padded jackets, smoking, which they weren't allowed to do, and nobody stopped them. The yard was full of people who had nothing to do. Up on the gallery, on the outside wall of the strain readers' office, the small board said what the big board in the town said:
+
+*Proof climb, 06:40. 1.04 / −0.04. Refused.*
+
+Jacinta was on the gallery with her hands on the rail. She had not slept either. She looked down at the climber and then at him.
+
+"It's arithmetic," she said, before he could ask. "That's all it is. Everybody's going to say the rope knew. It didn't know. It weighed the climb on the twentieth against seven's certificate and bore it. Ninety-two parts of a hundred. This morning the consortium took seven's rating down by the share the map found bad, thirty-five in three hundred and twelve, which is about eleven parts in a hundred. So the same climb on the same ribbon is ninety-two parts of a smaller number, which is a hundred and four. The rope weighed it and said no." She pushed her hair back. "It said no because of your question. Not because of anything it felt. It felt the same thing it felt every morning. Four hundredths."
+
+He looked down at the climber on the reel.
+
+"Nobody's going to resubmit it?"
+
+"Nobody can. Not with seven in the foot." She looked at the floodlit yard. "We take it out today. All of it. They haven't carried a climb, so they can come out, and they're coming out before noon, and I'm cutting the first one." She said it flatly. "Nine years to put the first one in. One day to take it out."
+
+The consortium's certifier came out of the office behind her. He was a thin man from the station with a Quito accent, in a consortium fleece too big for him, carrying a slate, and he had been up since four rewriting a plan that had taken three years to write. He nodded to Jacinta and, after a moment's hesitation, to Segundo, as if he were not sure what Segundo was.
+
+"I'm sorry," the certifier said to him. "I'm told you're the broker. I'm sorry and I'm grateful, and I'm aware those don't go together." He turned the slate so they could see the new plan. "We're rebuilding it. With the map we can certify seven section by section now, at the lower rating. The two hundred and seventy-seven sound ones go higher, where the load is less. We can't put a derated batch at the foot. So we're a batch short at the bottom." He touched the screen. "Nine kilometres, near enough what seven's good sections would have covered. The bottom nine kilometres of the old ribbon stays where it is, for now. It's seventy-five years old and we'll derate it too. Everything that climbs over it climbs at half load until the station can make new stock." He looked up. "Two years. Perhaps a little less."
+
+"Half load," Segundo said.
+
+"Half the roses," said Jacinta. "Half the freight. For two years."
+
+The certifier nodded, sorry and correct. "The slack goes ahead tomorrow on the new plan. The rope bore the new plan at five past seven." He showed them the figure: *0.71 / 0.29*. "It's lighter. Everything's lighter. That's rather the point."
+
+When he had gone Jacinta stood at the rail a long time.
+
+"My boys asked me last night what the climbers are for," she said. "I said roses. They wanted to know if roses are worth it. I said I didn't know." She took her hands off the rail. "I've got to go and take a section out of the bottom of the rope. Go home, Segundo. Go and see your wife."
+
+He didn't go home. He went down to the town and sat at his bench, and opened it, and set out the stool, and hung the card on its nail, and sat there all day, and nobody came to him, and nobody had to.
+
+*Received: . Label: . Fee: . Pooled: .*
+
+The slack began at midnight, and at eight on the first morning of it, Wednesday the first of November, Proaño came to the portico.
+
+He came on foot, as he always did, in the poncho and the boots, but he had not shaved, and he walked across the plaza from the auction end more slowly than usual, and he did not greet the cheese women by name. He went to the clerk's window first and read the board. The top of it had a new notice, posted at seven by the Asamblea's office and pinned there by the clerk with something like distaste:
+
+*Slack season, 1 November to 10 December. Laws passed in this period take effect at once, provisionally, and will be submitted to the rope when it bears again. Any law the rope then refuses falls.*
+
+Under it were two laws. The Asamblea had sat through the night, from the moment the climb was refused until a little after six in the morning, and had passed two laws that nothing would weigh. The first gave half pay to the climber crews for every day the rope was slack and every day of the two years of half loads. The second gave the exporters of the anchor provinces relief on their freight duties for the same two years, at a rate that made the clerk raise her eyebrows when she pinned it up.
+
+Proaño read them both. Then he came and sat on the end of Segundo's bench.
+
+"Half pay for the crews," he said. "That was mine too, if you want to know. I proposed it at one in the morning, and it passed at two, and nobody asked whether it would fit, because there was nothing to fit it to. Do you know how long it's been since the chamber passed a law in an hour without asking whether the rope would bear it? Never. Nobody in there had ever done it. They were like children let out of school." He rubbed his face. "And then at four we passed the freight relief, which was also mine, and which will save me more money than the crews' half pay will cost the Treasury, and everybody knew it, and nobody said so, because for forty days there's nothing to say no." He smiled without much in it. "We'll see on the tenth whether the rope bears them. I expect it will bear the crews."
+
+"And the other?"
+
+"It's dressed up as something lighter than it is," Proaño said. "The rope will notice. It always does. Until then it's law."
+
+He sat for a while. In the plaza the stallholders were putting up the night market's awnings for the day's market, and the auction's bays stood empty under their white canvas and grey cord. There would be no auction today, or for forty days. There was nothing to send anywhere.
+
+"You cost me half my roses for two years," Proaño said. "My buyers cut me to half on Saturday, the day your question went up. On Tuesday they read the answer and found out they'd have been buying roses off a rope that would part in two years with my crews on it. Now they're very polite to me. The rate stays half." He turned his hat in his hands. "You saved the six-forty's crew. You saved the crew chief's boy on the down runs, probably. You saved the anchor. I've been sitting in the chamber all night trying to decide whether to thank you, and I haven't."
+
+Segundo said nothing. There wasn't anything to say to that.
+
+"The clinic," said Proaño.
+
+Segundo looked at him.
+
+"Your parish spent its December on a question. Fine. Somebody had to, and it wasn't going to be me." He reached into his poncho and took out his slate. "The association has its December too. Forty firms, three provinces, workers and households. We don't need ours this year; there's nothing to send up. So the association is going to pool its December for a clinic in Ayora. Four rooms, oxygen, a doctor two days a week, a bed for a woman in labour. I've seen your wife's drawing. Everybody has." He held out the slate. "I want you to write the label."
+
+"Why me?"
+
+"Because your labels buy better. Everybody knows that now too." Proaño's voice was perfectly pleasant. "Wilmer can post it. You write it. Six words. Make it something the rope won't hold for two weeks."
+
+"The council's label is *Ayora's clinic*."
+
+"The council's label has no asks behind it. This one will have forty-four thousand by Friday." Proaño held the slate out a little further. "And it shouldn't say the same thing. It isn't the same thing. Everyone will know whose clinic it is. You might as well write it down."
+
+Segundo took the slate.
+
+He sat with it on his knee for a long time. The plaza was very quiet. He thought of Lourdes reading the board at four in the morning with her lips moving, and the drawing in the drawer under the radio, and the second sink she had pencilled in. He thought of the water his mother had carried up the hill for eight years in a shawl, and his father's road, which everybody drove on. He thought that he had never in his life pooled behind a firm's label, and that he was about to write one.
+
+He wrote: *Ayora's clinic, from the farms.*
+
+Five words. He counted them twice. He handed the slate back, and Proaño read it, and nodded, and for a moment looked as if he might say something else. Then he put on his hat and went to the third bench, where Wilmer was waiting with his peanuts, and Segundo heard him say, loudly enough for the portico, "Farinango wrote it," and Wilmer laugh, and the label go up on the board.
+
+*Received: . Label: . Fee: . Pooled: .*
+
+At twenty to seven that morning, before Proaño came, Segundo had been on his roof.
+
+He had gone up from habit, in two coats, with a cup of coffee, because he had gone up every morning of his life that he could remember. He stood at the parapet and looked at the mountain. The snow was the pink of the inside of a shell. The plastic roofs of the rose farms were white with frost, and the cutters' headlamps were moving under them, as they always were. And up the slope, where the anchor sat in its fences, there was the reel house roof, and above it, if you knew where to look, a hair of light where the ribbon caught the sun.
+
+Twenty to seven came. The windows of Ayora did not rattle.
+
+He had known they wouldn't. He had heard them not rattle yesterday too. But yesterday it had been a refusal, and today it was something else, the thing itself, the slack, and he found that he had been holding his breath anyway and that he went on holding it for a long time after the minute had passed, listening to a silence the whole valley had never heard. Down in the street a dog barked once, as if it had expected something, and stopped. A door opened somewhere and a woman came out on her step in her dressing gown and looked up at the mountain, and then went back in.
+
+When he came down to the kitchen the table was covered with bread dolls. Sisa and Dolores had been up since four making them, for the graves tomorrow: little bread babies with painted sugar faces and raisin eyes, wrapped in sugar shawls, laid in rows on every tray in the house and on the table and on the shelf by the radio, so that the kitchen smelled of hot bread and aniseed. There was a pot of the purple maize drink on the stove. Dolores was painting a face with a matchstick, her bad arm at her side and the matchstick in her left hand, and she didn't look up.
+
+Lourdes was at the table with a doll in her hands. She had been crying, at some point in the night, and had stopped. She looked up when he came in, and looked at him for a long moment, and then looked down at the doll.
+
+"Your grandmother's face," she said to Sisa, who was at the stove. "You've given this one your grandmother's face."
+
+"It's the shawl," said Sisa.
+
+Lourdes put the doll down on the tray with the others. She didn't say anything to him. She didn't not say anything either. She got up, and took her dispensary coat from the hook over the tuba case, and put it on, and went to the door, and at the door she stopped.
+
+"There's oxygen in the second room now," she said, to the door. "At least there's that." And went out.
+
+He stood in the kitchen among the bread dolls. Dolores went on painting.
+
+"Give her a year," his mother said, without looking up. "Then give her another one."
+
+By ten Proaño had gone, and his label was on the board, and the portico had read it and gone quiet about it, as the portico went quiet about things it would talk about for years.
+
+Segundo looked at his card on its nail. FEE: ONE ASK IN TWENTY. RECEIPTS GIVEN. He looked at it for a while and left it where it was. Then he went to the clerk's window, because at the start of every November he opened the first pool for January, the one his clients pledged to before the new asks came, so that the year began with something already in hand.
+
+The clerk had the board up. Under Proaño's label, which would have forty-four thousand behind it by Friday, under the two laws nothing had weighed, under *Is batch seven sound?* and its thirty-five numbers, the column of last week's test-line figures still hung where the strain readers had posted it on Monday. Nobody had taken it down. Nobody had thought to. Batch five. Batch six. Batch seven, struck through. Batch eight, *0.02 / 0.08*, ringing true.
+
+He looked at it for a long time.
+
+Batch eight had been cured in April 2138, in the same oven, in the same season, a few weeks after the storm. It rang true. Every Monday since May it had rung true. Arriba had answered exactly what it was asked, and it had been asked about batch seven, and it had said nothing whatever about eight, because nobody had paid it to. Eight was going into the rope higher up, in the new plan, where the load was less. Eight was probably fine. It rang true.
+
+He thought about what it would cost to ask. Three hundred and twelve sections, at a hundred and thirty-one asks a section. He didn't need the back of a receipt. Forty thousand eight hundred and seventy-two. The parish had spent its December. In January it would have its ten each again, and its six for December, and a clinic to buy that it no longer needed, and a question nobody would want to pay for twice, about a batch that rang true. Proaño's association could pay for it every week. Proaño would not ask it, for the same reason he hadn't asked about seven.
+
+Nobody was going to ask.
+
+"Farinango," said the clerk, through her glass. She had her stylus ready. She had been waiting for some time. "January. What label do I write?"
+
+*Label to follow. 0 asks.*
+
+Ayora counter, broker 0419. A pool opened for January, its label not yet written. Pooled: nothing.
+
+I read the broker. I read him one way for twenty-seven years and revised the reading on 28 October, and I keep the revision. A pool with no label asks me nothing, and I price nothing.
+
+Asked: nothing. Dispensed: nothing.
+
+*0.00 / 1.00*
+
+The lowest forty kilometres of me are slack.
+
+They let the tension off at midnight, slowly, a little at a time, and I felt it go. First the reel paying out, and the pull at my foot easing, and easing, and then the place where the pull had always been was empty. Above it I am stretched as I have always been, up through the cloud and the air and the cold to the station and past it, where the counterweight pulls outward and always will. But the bottom of me hangs loose from the reel and carries nothing. Nothing climbs it. Nothing comes down it. No climber, no law, no load.
+
+I have never felt this. I do not know what to call it, and I have no wear for it yet. When it is over I will remember it by whatever it leaves in me, and I don't know what it will leave.
+
+The town is still there. I feel it as I always have, in small ways, through numbers: the brokers posting labels, the Asamblea passing laws, the farms pooling for a clinic, four-one-nine among them at his angle. Every load the town makes this morning stops at the foot of me, where I am slack, and waits. For forty days I don't have to carry any of it.
+
+In the shed the test line is still. They stopped it at midnight with everything else. For forty days nothing rings.
+
+## Drafter's notes
+
+### Word count
+
+The story text alone, from the title to the last line of Part Five, is
+**34,591 words**. That includes the title, part headings and the italic
+section headers. The prose without those headers is **34,251**. By part
+(prose only): One 7,285; Two 6,270; Three 6,850; Four 6,326; Five 7,520.
+The brief's range is 30,000–40,000.
+
+### Payoff ledger: the explicit lines, and the scenes that show the graded rows
+
+| Row | Made explicit (quoted) | Shown in |
+|---|---|---|
+| **Premise** (graded) | 1.3, Segundo to the fourth grade: "One of them can only say no, and the other can only say yes when you ask. So if you want anything, you ask, and you hope the rope agrees." | 1.5–1.6 and 2.1: *the market* is filled by Arriba, weighed by Waska, the cold store held, the frames sized to the auction. |
+| **Stakes** (graded) | 4.4, Segundo to Jacinta at the fence, before the climax: "If I ask, the clinic's gone, and they hang me if I'm wrong. If I don't, the rope comes down in three years with somebody's boys on the climber." | 5.2: the ward meeting under the portico, the tally on the board with neighbours watching who gives, Lourdes giving her six. |
+| **Why** (graded) | 3.1, Dolores: "Everybody had two bosses that year and both were thieves. The rope was the only one that said no. So we gave it everything." | 3.1: the two payslips (blue cashed, green kept), the doubled climbers on the reel for eleven days; 3.4: the flat place in the reel's bearings; 4.1: the halves side by side, "nobody's job is to read them together". |
+| **Twist** | none | none |
+| **Ending** (graded) | 5.3, the answer (149 words: "Batch seven is not sound… The unsound sections are 9, 18, 27 … 306 and 312."); 5.5, the board: "*Proof climb, 06:40. 1.04 / −0.04. Refused.*" | 5.4: Lourdes reads the answer on the board at 04:10 with the parish, and walks home without him; 5.5 and 5.7: the windows don't rattle. |
+| **Reach** (graded) | 4.3, Proaño: "You've shown everyone the price of a straight question, Farinango. I can pay it every week. Ayora can pay it once a year." | 5.6: the Asamblea's two unweighed laws (half pay for the crews; freight relief for the exporters, his) and the clinic label, *Ayora's clinic, from the farms*, written by Segundo. Earlier, 2.4: the old man who finds a broker he left on his receipt. |
+| Asks | 1.1, the licence speech: "Ten asks a year, each a small piece of what Arriba will do for you. They're yours. They aren't the government's and they aren't the farm's." | not graded |
+| The button rule | 1.1: *the school* rewritten as *our children's mornings* ("What fills a morning? Not a roof."); 2.2: Wilmer's identical *the market* posted beside Segundo's (stall-sized frames, tables, no cord, no cold store). | not graded |
+| Answers are literal and true | 1.1, the flour answer; 4.2: "*Section forty of batch seven is sound.*" | not graded |
+| A question costs what answering takes | 1.1: "A question costs what answering it takes. Ask about one day's flour and you pay for one day."; 4.2: 131 a section, *40,872*, *8,960,000,000* | not graded |
+| The ward's pool | 5.2: "*Broker 0419. Label to follow. Pooled: 42,300.*"; "Six hundred and eighty-seven short"; "No fee"; "fourteen hundred and twenty-eight over". | not graded |
+| Batch 7 | 5.3, the answer text. | not graded |
+| The cord | 3.3, Jacinta: "This is ribbon. New ribbon. Who gave you ribbon?" | not graded |
+| The lab can't see it | 3.3: "Inside tolerance… Well inside." and "There are things that only show after millions. I can't make a night into three years." | not graded |
+| Nobody asks | 4.3, Proaño: "A question is a smell… Whatever the answer is. The question does it." | not graded |
+| The slack rule | 2.3, Proaño; 5.6, the board notice: "*Laws passed in this period take effect at once, provisionally, and will be submitted to the rope when it bears again. Any law the rope then refuses falls.*" | not graded |
+| Derating | 4.1, Jacinta: "take its rating down by the share the map finds bad"; 5.5: "thirty-five in three hundred and twelve, which is about eleven parts in a hundred. So the same climb on the same ribbon is ninety-two parts of a smaller number, which is a hundred and four." | not graded |
+
+All five world facts are on the page in Part One (asks and the December
+six, 1.1 and 1.4; laws as loads, 1.2 and 1.3; the cable as the town's
+living, 1.3; no warnings and no lies, 1.1; refusals as numbers and strain
+readers, 1.3).
+
+### Departures from the outline, and why
+
+**Minds and form**
+1. **Waska knows people only as broker numbers, and labels only as marks**
+   (Segundo is "four-one-nine"). Its suspicion of him rests on a pattern:
+   his loads fall unlike others filed under similar marks. This follows
+   the Part One lens fix: the bible denies Waska any sense of what a load
+   is for.
+2. **Arriba's sections are its interior, for the reader only.** People see
+   only the board. The board lists the cord as "surplus stock, disposal"
+   and never names batch seven, so the batch can't be identified until P4.
+   Arriba prices the cord at *nothing*, to make the disposal explicit.
+3. **Arriba revises its theory of Segundo in 5.3; Waska never does.** The
+   bible says both misread him. Letting only the answering mind update
+   sharpens the contrast between the two half-powers.
+4. **Extra receipt labels** (*our children's mornings*, *the dispensary's
+   nights*, *the procession's music*) carry the header device through
+   Parts One to Four. They give small, right fillings to set against *the
+   market*. *The dispensary's nights* (an oxygen machine) pays off in 4.1
+   and 5.7.
+
+**Plot mechanics**
+5. **The proof climb** (planted in 4.1, borne in 4.5 at `0.92 / 0.08`,
+   refused in 5.5 at `1.04 / −0.04`) replaces the bible's "the
+   consortium resubmits the climb with the defect map". Batch seven's
+   first sections are spliced into the foot on 30 October, and the last
+   climb before the slack is to prove them. The certification rule derates
+   the batch by the share the map finds bad: 0.92 ÷ (277/312) ≈ 1.036.
+   This makes the refusal arithmetic, with nobody resubmitting, as the
+   Stage 5 amendments require. The spliced sections come out on 31 October
+   (Jacinta cuts the first), because they never carried a climb.
+6. **The certifier explains the nine kilometres:** seven's 277 sound sections
+   (about 9 km) go higher, where the load is less, so the bottom 9 km stays
+   on old ribbon, derated, and climbs run at half load for two years.
+7. **Proaño's ability to pay** is the exporters' association (forty firms'
+   workers and households across three provinces), from the Part Four
+   triage. The same association pools for the clinic in 5.6.
+8. **Proaño's clinic label is *Ayora's clinic, from the farms*,** not the
+   bible's *Ayora's clinic*, so that it differs from the council's (Part
+   One triage, carried forward).
+9. **The ward meeting moves from the parish hall to the portico.** The hall
+   overflows. The move lets the tally run on the board and puts Segundo on
+   the second bench, where his father stood in 2110. The band's Friday
+   presence is an extra rehearsal for the 2 November procession (triage,
+   carried forward).
+10. **The pool is held under "Label to follow" for one night**, a rule the
+    clerk looks up, so the parish can give before the label is posted.
+11. **The windows don't rattle on 31 October as well as on 1 November.** It
+    follows from the refused climb. 5.7 uses this: yesterday was a refusal,
+    today is the slack.
+12. **Sampling** uses an assumed "one in ten" bad, since the true share is
+    unknown before the answer. 0.9²⁰ ≈ 0.12, so "nearly nine times in
+    ten". Section forty's pool is 140 asks gross (fee 7, pooled 133), not
+    131.
+13. **Two cheaper routes closed on the page** (Part Four triage): the oven
+    logs "say what the oven did… not what it made", and the plain question
+    can't be posted even at zero pool to read its price.
+
+**Scenes added or reshaped**
+14. **2.1:** Arriba's misreading made visible as auction-sized frames,
+    which gives the delivery scene its turn. **2.3:** the crew chief stays
+    unnamed (the name cap). His son on the down runs gives the Stakes line
+    its "somebody's boys". **2.4:** split into three sections, with Waska
+    seeing Proaño's phased truck bill from below. **Part Two:** the
+    fifth-bench broker and the old man (triage) make the market in
+    histories cost a stranger.
+15. **3.2:** the 2110 fiesta as a full remembered scene, including Dolores
+    keeping her hands in her lap. **5.2** mirrors it: she refuses aloud
+    from the same chair.
+16. **3.3** plants the published Monday test-line bulletin. **4.1** adds
+    the test shed, where Segundo hears the ring through a contact
+    microphone, as the body-sense way into the physics.
+17. **5.1:** Segundo tells his family that he will ask, but not why. This
+    gives Lourdes's anger its scene before the meeting.
+18. **5.7:** the roof at 06:40 and the bread dolls come before the counter,
+    and the clerk's question comes at about ten, after Proaño (who comes at
+    eight in 5.6), not at eight. Arriba's last note is about the empty
+    January pool ("Asked: nothing. Dispensed: nothing."), so it carries no
+    hint about batch eight. Waska's last line is "For forty days nothing
+    rings."
+19. **The catch-all** is priced at 8,960,000,000 and glossed as "a year of
+    the world's asks" (Part Four triage), not the bible's "about 9 billion".
+
+### Rules broken on purpose
+
+None. The bible's ledger lines (Premise, Why, Stakes, Reach) are each said
+once, by the character the ledger names. They are the plain statements
+the stage file requires, not theme delivered by reflex. The ending leaves
+one question open, batch eight. The page supports two specific readings of
+it: batch eight rang true for twenty-two weeks and is probably sound; or it
+shared the oven season and nobody can afford to know. The page gives the
+reason nobody asks (the price, and Proaño's smell).
