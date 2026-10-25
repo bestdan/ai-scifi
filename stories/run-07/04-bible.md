@@ -582,6 +582,40 @@ asks? P3, why do people trust the machines more than each other? P4, what
 does the truth cost, and who can pay? P5, can people govern themselves
 when nothing refuses?
 
+## Stage 5 amendments
+
+- **The flour question (1.1).** A bakery's pool asked "Is Ortega's flour
+  clean?" for 12 asks; the answer, one exact sentence, is on the board on
+  the first page. It plants the question mechanism and its literalness.
+- **Gabon.** In 2140 a sister section of batch 7 broke on Gabon's test
+  line. Gabon's engineers logged it as a splice fault on a different line;
+  nobody asked Arriba. Jacinta finds the entry in 4.1.
+- **Certification.** The consortium certifies and derates sections only on
+  a complete inspection map. A single-section answer changes nothing,
+  which is why sampling fails (4.2).
+- **The sampling odds.** Twenty sections, 2,620 asks, about a nine-in-ten
+  chance of a hit; rejected on the page.
+- **Section forty** is paid from a 131-ask pool of Segundo's clients, with
+  receipts.
+- **The plan and the climb.** Waska bears the replacement plan in P3
+  ("0.88 / 0.12") and the schedule of the first batch 7 climb, 06:40 on
+  31 October, in P4. The inspection runs from 28 October; the answer is
+  posted at 04:10 on 31 October; the certification rule re-rates the batch
+  at dawn, and Waska refuses the already-scheduled climb ("1.04 / −0.04").
+  Nobody resubmits.
+- **The answer's text (5.3)** carries: the storm of 11–14 March 2138; the
+  35 north-wall sections; voids that open after about two million cycles
+  at service tension, two to three years; the Gabon break; the section
+  numbers.
+- **Batch 8** was cured in April 2138, in the same oven season. Nobody asks
+  about it; it is the story's last, unpurchased question.
+- **Lourdes at the board (5.4)**, and Proaño's clinic label in Segundo's
+  words (5.6).
+- **The Asamblea's two slack laws (5.6):** half pay for climber crews;
+  freight relief for exporters.
+- **Headers.** Each section opens with a line in its mind's unit; see the
+  outline.
+
 ## Rules deliberately broken
 
 None. Waska and Arriba are AIs that think, which the banned list allows;

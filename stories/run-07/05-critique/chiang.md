@@ -1,0 +1,15 @@
+# Stage 5 critique: Chiang lens
+
+**Blind spots:** I'm weak on momentum, conflict and wit. I may be too tolerant of quiet scenes and too fond of a tidy formal device. Banks and Watts should push on pace; Asimov owns the arithmetic.
+
+**Climax and idea.** The climax does grow from the idea. Knowing is split in two, a plain question joins the halves, and the price of the question is the clinic. The ward meeting is the right scene. My notes concern what surrounds it.
+
+1. **[must-fix] The cost is announced, not paid.** After 5.2 nothing makes Segundo pay on the page. The bible says Lourdes "makes him pay for not telling her why", but the outline gives her no scene after the vote. 5.4 states "half the roses for two years" as a plan, and 5.5 hands the clinic to Proaño in a notice. Fix: add a scene between 5.3 and 5.4 where Lourdes reads the answer on the board with the whole parish, learning the reason when everyone else does. Let her say little. Give Dolores, who refused, a gesture here too. Trim 5.5 to the clinic label alone.
+
+2. **[must-fix] Repeated questions, by scene.** P2's question, "does it matter who asks?", is answered by experiment in 2.2. Then 2.5 (Arriba on traded histories) and 3.1 (Wilmer rents Segundo's history) ask it again. 3.4 (Waska remembers 2097) retells what Dolores lives in 3.2. 4.3 repeats 4.2 line for line. 2.3 repeats 1.6, Waska misreading the town as disguised loads. Cut 2.5, 3.4 and 4.3. Fold 2.3 into 2.6. Merge 3.1 into 2.4, so Wilmer's offer comes beside Proaño's, and the cost of a good history is one scene. That frees about 2,500 words for note 1 and for more colour.
+
+3. **[should] The ending answers too neatly.** Segundo asks on his word, and the answer proves him right: 35 sections, and the refusal is arithmetic. The question the novum raises, whether he was entitled to ask on trust, is settled by the outcome. Deepen it. The answer is literal: "Is batch seven sound?" says nothing about batches 5, 6 and 8, which the new plan relies on. Nobody asked. Jacinta notices that batch 8 shared the oven season. Let the last pages leave one unpurchased question that nobody in the parish can afford.
+
+4. **[should] The form could enact the cost.** The braid is justified. A light device would finish it: each section carries a one-line header in its mind's own unit. Segundo's carry a receipt (asks in, asks out), Waska's a load figure, and Arriba's a price. Segundo's receipt line stops at 5.2, where he takes asks without one. Waska's last header reads "0.00 / 1.00", slack. The reader feels the missing receipt before anyone mentions it.
+
+5. **[should] 1.3 introduces more than it anchors, and 4.2 has a hole.** 1.3 packs Waska, load, strain reader, minga, the children's recitation and the 2068 veto into a tour of about 1,800 words. Move the bread recitation to 1.1's edge or 1.4, and let the board carry only load and strain reader. Also, "Segundo spends his own family's asks" on 131 asks in 4.2: his household holds well under 131 in mid-October. Say whose asks they are (his clients', a one-off pool) so the later "no receipt" reads as a choice and not a lapse.
