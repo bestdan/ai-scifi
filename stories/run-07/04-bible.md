@@ -423,6 +423,7 @@ their clinic, on his word, with no receipt.
 | slack season | the 40 days of the lower ribbon's replacement, when Waska bears nothing | names a new constitutional state | P2, Proaño's contracts | English coinage |
 | minga | the parish's communal work day; also the December pool of asks | names an obligation English has no word for, and it is why the ward pools at all | P1: "the minga, the work day every household owes the parish" | Kichwa, in daily Ecuadorian use |
 | the Accord | the Quito Accord of 2104, which bound Arriba to answer only, set ten asks a year and licensed brokers | names the founding law of the asking world | at first use, in plain words: the agreement signed in Quito in 2104 | English, from the treaty's name |
+| button | a label posted at the counter that people pool their asks behind; a button history is the record of every label and what it bought | the counter's own word for the thing a person presses, pools behind and is answered through | 1.1, in plain words, where Segundo first uses it | English, from the counter's screens |
 
 No other non-English words appear. Food, music and festivals take the
 plain word: lupin beans, maize drink, bread dolls, "the slow guitar songs",

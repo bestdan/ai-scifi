@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 8, Revise (round 1)
-- **Next action:** the drafter writes draft 2 from `06-revision-plan.md`; then stage 7 on draft 2.
+- **Current stage:** 8, Revise (round 3, the last under the loop cap)
+- **Next action:** the drafter writes draft 3; then stage 7 on draft 3; then stage 9 whatever the gate says.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -18,6 +18,7 @@
 | 4 Build | 2026-10-25 | orchestrator (proxy) | Bible approved after the stress test. All 17 must-fix notes resolved in the bible, logged in its stress-test log | The six lenses converged on five problems, each fixed in-world: the ask arithmetic (the December-pool custom; all numbers recomputed and traced), the "why not just…" holes (a patchy flaw, the cheap question as a scene, the lab's blind spot, why nobody asks), Arriba's remorse (cut), the slack season (no 2101 clause; the 2140 provisional rule; derating makes the refusal arithmetic), and over-resolution (named refusals, an unsettled change of mind, a household that pays) | A second stress-test round (declined: the fixes are mechanical and traced, and stage 5's panel will see the bible in use) |
 | 5 Structure | 2026-10-25 | orchestrator (proxy) | Outline approved: five parts, about 34,700 words, with an arc map, the parts' questions, a calendar and scene tables. All eight must-fix notes resolved (see its Stage 5 lens notes); the bible gets a Stage 5 amendments section | The panel converged on the repeated good-name tradeoff (P2/P3) and the cord unrecognised for 13,000 words; both fixed by folding and moving Jacinta's recognition to ~40%. Sampling rejected on the page; Gabon and the question mechanism planted early; the cost paid in a scene (Lourdes at the board); scale felt in 1.2 and 4.4 | A sixth part for the slack season itself (declined: Part 5's question is answered in 5.6, and 40 days of slack would repeat the provisional-law beat) |
 | 8 Revise (round 1) | 2026-10-25 | orchestrator (proxy) | Revision plan approved: 24 items (5 comprehension, 9 consensus, 10 adopted single-lens). The gate failed on draft 1: Premise, Why and Reach partial; Terms missed (the Accord, the Day of the Dead items, lupin beans); Stakes, Ending and Who's who got it | Five lenses converged on the clinic refunding the sacrifice (made late and costly, not cut) and on the honest-broker choice repeating; the comprehension misses are links the page states once or not at all (the asker-and-bearer link, the deliberate split, the histories market) and terms never defined | Cutting the clinic gift entirely (the Cartographer's; declined, because the First Reader valued its ambiguity) |
+| 8 Revise (round 2, loop cap) | 2026-10-25 | orchestrator (proxy) | Narrow round 3: 9 items (the button gloss; the two voices made distinct and the asker-and-bearer chain shown; Why as one lived cause-and-effect beat in place of five dates; Stakes' cost side stated; four cheap routes closed). **Stop rule:** stage 9 follows round 3 whatever the gate says, with unclosed rows going to the line editor as Required items; no round 4 | The loop cap fired (draft 1 and draft 2 both failed). Consultant (fable, 65%): the Premise and Why partials trace to text the reader couldn't follow (lost-list 5 and 7), not recall, and stage 9 can't take structural notes. Round 3's success test: Terms got it, Premise and Why got it, Stakes back to got it, no row to missed | Stage 9 now, with "button" as a Required item (the consultant's runner-up) |
 
 ## Token use
 | Stage | Agents dispatched | Agent tokens | Orchestrator (est.) |
@@ -29,8 +30,12 @@
 | 5 Structure | 3 `lens-critic` | 571,699 | ~70k |
 | 6 Draft | 1 `drafter` (five parts, resumed), 5 per-part `lens-critic` checks | 21,939,006 | ~120k |
 | 7 Review (draft 1) | 6 `lens-critic`, `first-reader` (two turns), `comprehension-grader` | 3,201,215 | ~60k |
+| 8 Revise (round 1) | 1 `drafter` (resumed) | 15,315,052 | ~40k |
 
 ## Gate failures
+
+- **Round 1 (draft 1):** Premise, Why and Reach partial. Terms missed (the Accord, the Day of the Dead items, lupin beans). Stakes, Ending and Who's who got it. Lost-list 11 entries, 7 on graded rows.
+- **Round 2 (draft 2):** Premise, Stakes and Why partial. Terms missed (button, never glossed). Reach and Ending got it; Stakes regressed from got it. Lost-list 10 entries, 4 on graded rows (the two voices blur; the dates; the refusal; the farms' label). **The loop cap fires:** two consecutive fails. Consultant (fable, 65%): one narrow round 3, then stage 9 whatever the result.
 
 ## Seed stock
 
