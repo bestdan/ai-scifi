@@ -10,7 +10,7 @@ Two sources agree on most of it:
 - **The human's Goodreads `read` shelf,** 281 books and 229 ratings, pulled
   on 2026-10-19. Ratings run 4.18 on average, almost exactly the community
   mean (4.19), so a 5 is a real signal and a 3 is a disappointment.
-- **The debriefs** of calibration-01, run-03 and run-05.
+- **The debriefs** of calibration-01, run-03, run-05 and run-06.
 
 Where a line below rests on an inference from ratings rather than the
 human's own words, it says so.
@@ -86,6 +86,21 @@ quantum physics and information theory" was praise.
   War* and *The Last Colony* all rate 4 or 5.
 - **Flat protagonists.** Run-05's Ilse "felt flat"; run-03's Tamsin "seemed
   robotic". Both were otherwise well-received stories.
+- **A mind that reads like a transcript.** Run-06's governor spoke only in
+  memos. In the human's words: "It felt like the AI was just a transcript,
+  not a being that was reasoning or trying to understand what humans were
+  doing or had any theory of mind." This is the failure mode of pull 1,
+  above: the other mind has to be seen thinking.
+- **Under-description.** The human's standing note, from run-06: "Sometimes
+  you tend to under describe," and "a little bit more color would have
+  been good." An idea given a few sentences read as "throw away", even
+  when it was the reason the world existed.
+- **One mechanism, over and over.** Run-06's middle "felt like the same
+  question/tradeoff being repeated over and over."
+- **A world shape with no reason.** "It's kind of hard to understand what
+  the nature of tech/world is that gives rise to this setup" (run-06). The
+  human asks why power sits where it does, and why a rule isn't the
+  simpler thing.
 
 ## How the best-loved stories are built
 
@@ -95,7 +110,13 @@ lyricism that earns its place).
 
 - **Render the other mind from inside.** The spider chapters of *Children of
   Time* are the model: its senses, its priorities, its mistakes, in its own
-  terms, without a human translator in the room.
+  terms, without a human translator in the room. Where the mind is an AI
+  the humans deal with, show it reasoning about them: what it thinks they
+  want, what it suspects, and whether it knows it is in a game of cat and
+  mouse. Outputs alone (memos, rulings, logs) read as a transcript.
+- **Ideas that matter get scenes, not sentences.** Give a load-bearing idea
+  room, and give the world colour: the street, the food, the weather, the
+  work. This reader asks for more, not less.
 - **Two viewpoints, two levels of understanding.** When the novum can be
   seen as magic by one side and engineering by the other, let the reader
   hold both.

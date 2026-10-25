@@ -23,6 +23,13 @@ Don't pass `model:`.
      characters (whose work, money or power it moves), and the scene where
      the story makes a character weigh it.
    - **Load:** each novum it carries, and its twist if it has one.
+   - **The other mind** (only where the premise turns on a non-human mind,
+     an AI included): how the reader sees it think. Name what it reasons
+     about on the page, what it believes the humans are doing and why, and
+     whether it knows when it is being played or playing. A form that gives
+     it only outputs, such as memos, logs or rulings, has to show reasoning
+     inside them, or it reads as a transcript. Run-06's memos did. Interior
+     monologue is one route, not the only one.
    - **Estimated minimum:** 3,000 words, plus about 1,500 for each novum or
      twist after the first. A premise with two nova and a twist needs about
      6,000. This is a heuristic resting on one story, calibration-01; check
@@ -35,7 +42,11 @@ Don't pass `model:`.
 top of the brief's length range, or narrow it until it fits. Reject a
 premise whose plain pitch doesn't hold up, whose novum doesn't bear
 directly on what the protagonist does all day, or whose Reach stays inside
-the household. Pick on the brief's seed. Among premises that serve the seed
+the household. Where a premise has an "other mind" line, ask of it: does
+this mind seem to think? A voice that answers the brief formally but shows
+no reasoning and no theory of mind fails the test, because
+`process/reader-profile.md` ranks minds that are genuinely not human as
+this reader's strongest pull. Pick on the brief's seed. Among premises that serve the seed
 equally, prefer the more ambitious one: higher Novelty and Futurity, more
 consequence followed further. Clarity is not a reason to pick the smaller
 premise, because stages 4 to 9 and the comprehension gate exist to make an
@@ -65,7 +76,7 @@ premise.
 | Lens | Questions |
 |---|---|
 | Vinge | Which Futurity level does it actually reach? What in it is still too familiar? Does the viewpoint trick hold? Name one change that would push it further at this length. |
-| Chiang | What philosophical question is it really about? Does the feeling grow out of the concept? What form does the idea require? What is the most likely way it fails at this length? Would a reader care about this person in the first page, and why? |
+| Chiang | What philosophical question is it really about? Does the feeling grow out of the concept? What form does the idea require? What is the most likely way it fails at this length? Would a reader care about this person in the first page, and why? Where there is an other mind, does it seem to think, or would it read as a transcript? |
 | Banks | Does the plain pitch hold up: would a reader outside the genre see why this world does this? Is there moral friction? Who does the dirty work? Where does the humour live? Does it hold scale and intimacy together: does its Reach go past the household? Is it enjoyable to inhabit under the tone charter? |
 | Cartographer | Re-check novelty as now written, including any new combinations or twists. Search for any new prior art they bring in. Give a revised Novelty score and status, and flag any attractor clusters from the audit. |
 | other | Your persona's "In critique" questions. |

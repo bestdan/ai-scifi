@@ -1,11 +1,23 @@
 # Stage 7: Review
 
+**Before dispatching:**
+
+- **Check the draft's terms against the Glossary.** List every coined,
+  foreign or slang word in the draft, food and coins and greetings
+  included, and compare it with the bible's Glossary. A word the Glossary
+  lacks goes back to the drafter for the plain word, or into the Glossary
+  with a Job and a first-use line. Either way it goes into `terms.md`.
+  Run-06's "mandazi" slipped through because nobody checked.
+- **Write `reviews/draft-N/story-only.md`:** the draft with its
+  `## Drafter's notes` section stripped. The notes quote the ledger lines,
+  so the cold reader never sees them.
+
 **Dispatch, in this order.** Don't pass `model:`.
 
 1. A **fresh** `first-reader` every round, never a resumed one, with this
    prompt:
 
-   `Read stories/<slug>/drafts/draft-N.md and write your report to stories/<slug>/reviews/draft-N/first-reader.md. Reply with who you cared about and whether you'd have kept reading past page 2.`
+   `Read stories/<slug>/reviews/draft-N/story-only.md and write your report to stories/<slug>/reviews/draft-N/first-reader.md. Reply with who you cared about and whether you'd have kept reading past page 2.`
 
    The `first-reader` doesn't read this file. Its definition and that prompt
    are its whole brief. Keep its agent ID for the comprehension gate.
@@ -81,6 +93,18 @@ Stage 8 acts on a fail; stage 9 can't start without a pass.
 - **You don't grade comprehension.** You wrote the ledger, so you read the
   answers as an insider would. You may lower one of the grader's grades, with
   a reason, but never raise one.
+- **Dramatised, not stated.** The gate over-predicts the human on rows the
+  page only states: a cold reader answering straight after the read recalls
+  a few sentences that the human, days later, doesn't. Run-05 and run-06
+  both showed it; in run-06 the reader passed Why and Who's who and the
+  human didn't. So for each graded row, and for each character the reader
+  placed, check the bible's "Shown in" scene in the draft: does a character
+  live the fact in a scene, or does narration carry it in a few sentences?
+  A row that passes but is only stated goes into the revision plan as a
+  note, though it doesn't fail the gate. The reverse holds too: a
+  reader's partial on a row the page dramatises is often a recall gap
+  (run-05, run-06), so read its lost-list before treating it as a text
+  failure.
 
 ## For the agent (`lens-critic`)
 
@@ -105,6 +129,9 @@ Stage 8 acts on a fail; stage 9 can't start without a pass.
   cold reader was moved, surprised or delighted.
 - Fill in "What to protect". It's required, and a lens that scores Prose
   quotes at least one line.
+- If you score Structure, say whether each part raises a question the
+  earlier parts didn't. Name any stretch where the same choice or tradeoff
+  comes back; that is a structural note.
 - Name **the one thing**: the change that matters most from your lens.
 - Classify every note as **structural** or **line-level**.
 - Don't redo the linter's job. `just lint` reports the mechanical hits, so

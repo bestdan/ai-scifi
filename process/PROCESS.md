@@ -8,7 +8,9 @@ gate mode says who. In `human` mode the human decides every gate. In
 brief and logs each one, so the human can read the story blind. Either way,
 only the human lands a story. `AGENTS.md` has the full rule. The
 orchestrator (the main agent session) runs the stages, dispatches the agents
-and keeps `STATUS.md` current.
+and keeps `STATUS.md` current, including the tokens each stage
+spent, summed from every agent's usage report plus a rough figure for its
+own turns.
 
 Each stage with agent or orchestrator work has a **stage file** in `stages/`. A stage
 file holds the agent's task text and the orchestrator's part of that stage.
@@ -30,7 +32,7 @@ Two principles hold the stages together:
 
 ```
 stories/<slug>/
-  STATUS.md                  stage, gate decisions, seed stock, open questions
+  STATUS.md                  stage, gate decisions, token use, seed stock, open questions
   00-brief.md                constraints for this story
   01-ideas/<lens>.md         idea cards, one file per lens
   02-audit.md                the Cartographer's prior-art map and scores
@@ -42,6 +44,7 @@ stories/<slug>/
   05-critique/<lens>.md      stage 5 critiques
   drafts/draft-N.md          full drafts, each ending in "## Drafter's notes"
   reviews/draft-N/<lens>.md  critiques of draft N, plus first-reader.md
+  reviews/draft-N/story-only.md   draft N without its Drafter's notes, for the First Reader
   reviews/draft-N/comprehension-answers.md   the First Reader's turn-2 answers
   reviews/draft-N/ledger-rows.md   the graded ledger rows, for the grader
   reviews/draft-N/names.md   characters and their roles, for the grader

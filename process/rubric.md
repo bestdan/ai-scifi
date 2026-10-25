@@ -67,7 +67,7 @@ That makes them insiders, and they don't score the Understood group. The
 | Understood | Reach | Could a reader say what the story's central change means for people beyond its main characters? | the grader |
 | Understood | Who's who | Could a reader place each named character? | the grader |
 | Understood | Terms | Could a reader get every coined or foreign term from the page itself? | the grader |
-| Craft | Structure | Does every scene turn? Does the form serve the idea? | the panel |
+| Craft | Structure | Does every scene turn? Does the form serve the idea? Does each part raise a question the earlier parts didn't, or does the same tradeoff come back? | the panel |
 | Craft | Character | Does the protagonist want something, and does the novum make it harder to get? | the panel (construction), plus the grader's Who's who (legibility) |
 | Craft | Consequence | Does the story live in the second-order effects? | the panel (construction), plus the grader's Stakes, Why and Reach (legibility) |
 | Craft | Prose | Is it specific, and does every ornate line earn its place? | the panel |

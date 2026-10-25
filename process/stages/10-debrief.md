@@ -48,7 +48,11 @@
    human picks, so a reader's partial beside a human's right pick means the
    reader recalled less, not that the story failed. Where the reader
    passed a row and the human missed it, say so plainly in the debrief:
-   the gate didn't predict the human.
+   the gate didn't predict the human. For each such row, say whether the
+   page dramatised it in a scene or only stated it. In run-05 and run-06
+   the reader passed rows the page carried in a few sentences and the
+   human missed them, while the reader's partials on recall-heavy rows
+   were rows the human picked easily.
 7. **Gate failures first in the appendix.** Copy `STATUS.md`'s "Gate
    failures" section to the top of the appendix.
 
