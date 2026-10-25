@@ -63,3 +63,23 @@ Taken, for the drafter to apply before writing Part Three:
 4. **The market in histories costs a stranger** (should). One concrete
    instance: a client puzzling over a double name on a receipt, or another
    broker signing up with Wilmer.
+
+## Part Three (Le Guin)
+
+Taken, for the drafter to apply before writing Part Four:
+
+1. **Who paid for 2110** (must-fix). Segundo answers Ernesto with one
+   remembered image of the water carried up the hill (buckets, his
+   mother's shoulders, the years 2110–2118) and uses it. Give the 2110
+   fiesta more room: what the 21-year-old with the tuba saw on his
+   neighbours' faces as the hands went up. P5 mirrors it.
+2. **The bread and the Accord as briefing** (must-fix). Cut "And the
+   Accord… They teach it to the children before they can read." Break the
+   2097–2098 recital with things in Dolores's hands (the pot lid, the
+   ladle, the bag of change); keep Señora Pilataxi's earrings.
+3. **Jacinta wants the pass** (should). Her nine years of training ride
+   on the replacement; "It's fine" is relief, and "I don't like it" costs
+   her. Cut "That's a feeling, not a reading. I don't do feelings."
+4. **The Why lands once** (should). Keep "Everybody had two bosses that
+   year…" as the one statement; trim the repeats, and trim Waska's recap
+   to the flat place.
