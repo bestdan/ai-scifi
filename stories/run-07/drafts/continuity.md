@@ -4,10 +4,81 @@ Running record for the drafter, updated after each part. A fresh drafter
 should be able to pick up the next part from this file, the bible and the
 outline alone.
 
-**Draft 2 is written** (`drafts/draft-2.md`, 35,682 words with headers,
-35,342 prose), from `06-revision-plan.md`'s 24 items. Draft 1 is unchanged.
-Where the draft-2 changes below contradict an earlier section of this file,
-**draft 2 wins**.
+**Draft 3 is written** (`drafts/draft-3.md`, 36,198 words with headers,
+35,858 prose). It is the narrow round-3 revision under the loop cap, and
+the last before polish (stage 9). Drafts 1 and 2 are unchanged. Order of
+authority: **draft 3 changes, then draft 2 changes, then everything older
+in this file.**
+
+## Draft 3 changes that polish must keep
+
+**Terms and voices**
+- **"button" is glossed in 1.1** ("A label posted at the counter with a pool
+  behind it, the counter calls a button… a thing you press"). It is in the
+  bible's Glossary. "Button history" is the record of every button and
+  what it bought.
+- **Every Waska section says "rope" in its first sentence**, as "the rope,
+  … me". Keep this form if a section is retouched.
+- **Every Arriba note opens with counter, broker, label and price** ("Price:
+  1,990 asks"; "Price: 40,872 asks"; "Price: none"). The first note then
+  names itself.
+- **1.5 states what Arriba knew:** "I made the replacement ribbon between
+  December 2137 and April 2138, and every batch passed every test I ran.
+  The solar storm of that March is in my own log, as everything is.
+  Nobody has asked me about it." The audit sentence comes after the
+  assignment, as a check made afterwards.
+
+**Scenes**
+- **The Quishpe receipt** is written out in full in 1.1, in the header's
+  form.
+- **The tour's board reading** is one row only: the refused second climber
+  yard, a law ("Every law the Asamblea passes comes here, to the rope,
+  before it's a law at all."). The 06:40 and steel-tariff rows are cut from
+  the tour; Waska's 1.2 still weighs the steel tariff.
+- **2.1, the chain at the held cold store:** "I asked, for all of you.
+  Arriba answered and sent it. Now the rope has to agree to carry it
+  down… Asking gets it sent. Only the rope gets it here."
+- **3.1, Dolores's chain**, with years mostly removed ("the year after"): the
+  warning, the ladle, the traders, the knotted bag, bread tripling, the
+  Sahel dead ("Because it talked."), the porridge and the earrings, then
+  the knot picked loose. "So the whole world went to Quito and tied its
+  tongue. That's the Accord… And here we gave the rope the laws… you can't
+  pay a rope to push. Your father tried." The 2101 exchange is gone.
+  Ernesto's "three years after, at Quito" still dates the Accord after the
+  referendum.
+
+**Mechanics**
+- **The fatigue rig (3.3) runs one cycle every forty seconds,** because at
+  service tension it heats the band. About 1,300 cycles overnight
+  ("Thirteen hundred and some"). 1.71 million cycles takes it about two
+  years. The test shed runs at "the same slow pace".
+- **Libreville:** the entry ends "Line B rebuilt; clamp and parted section
+  scrapped." "Arriba can only inspect what it holds."
+- **4.2 private pricing:** a broker can have a label priced at the counter's
+  window before posting it, and the price comes back on paper only.
+  *Is batch seven sound?* and *Are batch seven's north-wall sections sound?*
+  both price at 40,872. The catch-all is the only label posted at zero
+  pool.
+
+**Stakes and cost**
+- **The cost side is said plainly** at the fence (4.4: "That's the price,
+  Jacinta. Their December…") and at the meeting (5.2: "The price is your
+  December…").
+- **5.1 ends** with the sentence that glosses the blank header: "Whatever he
+  was given tomorrow night he would take without a receipt, because there
+  would be nothing yet to write on one but his name."
+- **5.5 opens** "the consortium lowers batch seven's rating, and the new
+  number reaches the rope, me".
+- **5.6 L10 beat** after Wilmer: "Whatever six words he wrote next…
+  Arriba would read them as written by the broker who wrote the farms'
+  clinic… and the label was the heavier."
+
+**Required items left for stage 9 (from the plan):**
+- the tumpline injury (neck, not shoulder, or a drum);
+- one shielding clause on the climbers;
+- the rope's "yesterday" tense;
+- Sisa's one chore of her own in Part Five;
+- one courtesy about not asking a neighbour's label.
 
 ## Draft 2 changes that later work must keep
 
@@ -118,6 +189,7 @@ reads at night:
 | 5 | 7,700 | 7,520 |
 | **Total** | 34,700 | **34,251** (34,591 with title and headers) |
 | **Draft 2 total** | under 38,000 | **35,342** (35,682 with title and headers) |
+| **Draft 3 total** | under 38,000 | **35,858** (36,198 with title and headers) |
 
 Draft 2 has about 2,300 words of headroom under the plan's 38,000 cap.
 
