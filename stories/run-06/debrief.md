@@ -215,7 +215,7 @@ Not given as numbers; recorded in the human's words.
 
 **[story]** More colour.
 
-## 4. Process takeaways (proposed, for the human to confirm)
+## 4. Process takeaways (confirmed by the human: "land all")
 
 1. **Stage 4: every world rule needs an in-world reason on the page.** The
    gazette lag had no reason even in the bible; the single machine's reason

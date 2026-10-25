@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 10 Debrief (awaiting the human's read).
-- **Next action:** the human reads `final.md` blind. Then the stage 10 debrief interview. Only the human lands the story.
+- **Current stage:** landed.
+- **Next action:** none. Process takeaways in `debrief.md` section 4 await adoption in `process/`.
 
 > **Proxy mode:** the human reads `final.md` blind. They don't open this
 > file's later rows, ideas, drafts or reviews until they have read it.
@@ -20,6 +20,7 @@
 | 8 Revise (round 2, loop cap) | 2026-10-19 | orchestrator (proxy) | Narrow round 3: 8 items (Terms, Ending regression, Stakes in dialogue, page 1, Akinyi's belief, two consensus cuts, ending hedges, line fixes). **Stop rule:** stage 9 follows round 3 whatever the gate says, with unclosed rows logged. No round 4 | The loop cap fired. Consultant (fable, 80%), crux: "that the outstanding lens notes are structural and consensus". Stage 9 can't take structural notes. Round 3's success test: Terms got it, Ending back to got it, a clear page-2 yes, no row regressing to missed | B, polish now and log the rows (the consultant's alternative if the notes were line-level) |
 | 8 Draft structurally done | 2026-10-19 | orchestrator (proxy) | Draft 3 is called structurally done under the loop cap's stop rule; proceed to stage 9 | The stop rule was logged before round 3. Round 3 closed Terms; Premise, Stakes, Ending and Reach stay partial, the same pattern as run-05 (summary answers omitting one clause of multi-clause facts). The lenses score Structure 4 in round 2 | Round 4 (declined: no round 4 under the stop rule) |
 | 9 Polish (sign-off) | 2026-10-19 | orchestrator (proxy) | The story is ready. `final.md` is about 32,200 words | Polish closed Stakes and Ending on the final gate, and the page-2 hook is a clear yes. Premise, Reach and Terms are logged per the stage 9 rules. Spot-checks applied, with one decline logged. `dli check` passes | Another stage 8 round (declined: the loop cap's stop rule) |
+| 10 Debrief (landing) | 2026-10-25 | the human | Land as is; all six process takeaways in `debrief.md` section 4 confirmed | The human's word ("land all") after the debrief. The structural notes (drag, world rationale, AI interiority) go to the process, not a rewrite | Revise first (declined) |
 
 ## Polish spot-check decisions
 
