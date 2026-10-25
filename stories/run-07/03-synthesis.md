@@ -258,3 +258,84 @@ mind reads her request as a load and knows something is disguised in it.
 - **Risks:** Pontianak is a river city, close to the water attractor, so
   the disaster is kept off flood and tide. Two governing minds and a broker
   economy is a lot of machinery for the middle of a book.
+
+## Panel summary
+
+| Premise | Vinge | Chiang | Banks | Cartographer | Stephenson | Mean rank | Revised score |
+|---|---|---|---|---|---|---|---|
+| A. The Grudge-Keeper | 1 | 1 | 2 | 4 | 2 | 2.0 | 35, edge-of-map (*Early Riser*) |
+| B. The Heater List | 3 | 3 | 4 | 2 | 5 | 3.4 | 34, edge-of-map |
+| C. The Felt Law | 5 | 2 | 3 | 3 | 3 | 3.2 | 34, edge-of-map |
+| D. The Overheard | 4 | 5 | 5 | 5 | 4 | 4.6 | 26, edge-of-map |
+| E. Two Half-Powers | 2 | 4 | 1 | 1 | 1 | 1.8 | 32, uncharted |
+
+Every lens flagged that each premise's estimated minimum (4,500–6,000
+words) sits far under the brief's 30,000–40,000, and that the winner needs
+a part structure in which each part raises a new question.
+
+## Decision
+
+**E, Two Half-Powers.** The gate picks on the seed first, and E is the
+only premise whose engine is the seed's own questions. The national mind
+can only refuse and the global mind can only answer when asked, so the
+national-versus-global split is the constitution itself. Whether people
+accept the machines' policy, and whether they understand how they are
+governed, both live at the request counter, where a request is drafted,
+pooled, costed against load and carried or refused: the brief's mechanics
+of governing as the ordinary action of scenes. The brokers who pool and
+skim rations bring human conflicts of interest back at the human layer,
+which is the lived reason people still prefer the machines. It is also the
+most ambitious option (F4 edging toward F5, uncharted), and it rests on the
+reader profile's first pull, minds genuinely not human: a mind that thinks
+in strain and load, and another seen only through what it dispenses. An
+`agent-guidance:consultant` second opinion agreed at 72%. Its crux was that
+A would win on interiority only if it carried the global question and
+procedure as natively as E, and three lenses say it doesn't.
+
+**Fixes the chosen premise takes:**
+
+1. **The dread comes from the structure, not a withheld secret** (Chiang;
+   the Cartographer's push). For seventy years each mind has refused or
+   answered around the other, so the veto list and the answer list are two
+   halves of one text that neither has read whole. The coming failure is a
+   load only the two halves together reveal. This also moves it off
+   run-06's sealed reasons.
+2. **The tether mind carries the main interior sections,** reasoning in
+   strain, load and resonance, with its own theory of what the broker
+   wants and why, and its own errors about it. The global mind's sections
+   are short and seen at the dispensing slot. Its only lawful way to warn
+   is in what a button dispenses, and the reader can work out the object
+   is a warning before the broker does (Vinge's push). The minds misread
+   the broker for reasons of their own, not the "it suspects and is half
+   right" shape the audit flagged.
+3. **The parts escalate the exploit,** each raising a new question
+   (Stephenson): one vague button that smuggles a question; a broker
+   market in such buttons; the skim, and who pays for it; a market in the
+   global mind's silence; and the season the tether is replaced and the
+   veto lapses, when parliament must pass laws nothing will refuse (Le
+   Guin's push). No single procedure carries the middle. The broker is
+   shown good at the work before any machine speaks.
+4. **The world's shape is lived history.** The veto's seventy-year growth,
+   from climber schedules to the grid to the budget, reaches the page in
+   scenes someone lived through, and so do the anchor state's and the
+   consortium's conflicts of interest that made a power which can't push
+   the only one people trusted.
+5. **Off the attractors.** The anchor moves off the river city to the
+   equatorial Andes near Cayambe, a highland anchor with rose farms and
+   flower auctions for colour and no flood or tide. The broker is a man,
+   not a woman bargaining with the governor. The ending is not wording that
+   coerces the AI (run-06's resolution): the silence changes by a price
+   someone pays.
+
+**Declined:**
+
+- **A, The Grudge-Keeper** (runner-up). It has the best viewpoint trick
+  and its feeling is its idea (Vinge, Chiang). It answers the seed's
+  national-versus-global question only as a pair of neighbours, its
+  procedure is thin, *Early Riser* charts its sleeping nation, and its
+  ending leans on the noble sacrifice. Kept as seed stock, with
+  Stephenson's grudge-keeper order.
+- **The Cartographer's B × E collision** (requests that cost heat). Two
+  nova plus the time-rate attractor; seed stock, not a rescue.
+- **Equal page time for both minds** (declined per Stephenson and the
+  consultant). It would overfill the middle.
