@@ -116,7 +116,7 @@ She read it twice, her lips moving. "That's three words."
 
 She paid him one ask. She held her screen out at arm's length, as old people did, and touched it where he showed her, and on his slate the ask arrived with her name on it. He wrote the receipt in pencil, pressing hard so the carbon would take, tore off the white sheet and gave it to her. She folded it twice and put it in the band of her hat.
 
-The girl from Tabacundo had watched all of this. When Señora Quishpe had gone she put her thumb to his contract without a word, and he wrote her a receipt too, and she put hers in her fleece pocket, and zipped the pocket.
+The girl from Tabacundo had watched all of this. When Señora Quishpe had gone she said her name was Luz Caiza, and that her little brother was in the fourth grade here and drew horses too, and could she put hers in the mornings. She put her thumb to his contract, and he wrote her a receipt, and she put it in her fleece pocket and zipped the pocket.
 
 *0.62 / 0.38*
 
@@ -130,11 +130,11 @@ The town is a few grams. Less: the town is a rounding. Next to the counterweight
 
 This morning the Asamblea's bill on the tariff for orbital steel is on me too. It is a law, and a law is a load. They send me the bill, its costing and its schedule, and I feel what it will do: how much more steel will come down me in which months, which climbs it will crowd, where the strain will gather. Ninety-seven hundredths of what I will bear in those months. Three hundredths left. I bear it. I do not care what steel is for. I care what it weighs.
 
-Most brokers' numbers point where their labels point. A label that says *the school* comes down as cement and roof sheeting and a boiler, and I can feel the school in it, heavy, square, straight down. The load and the label lean the same way, and I bear them, and I forget them except as the wear they leave.
+A label is a mark to me. I don't know what its words mean. I know which marks come down with which weights. When *the school* comes down, at this counter or at Olmedo or at Cangahua, it comes heavy and square and all at once, the same shape every time, and so do the marks that look like it. Most brokers' loads fall like the other loads filed under marks like theirs. I bear them, and I forget them except as the wear they leave.
 
 Four-one-nine pulls sideways.
 
-His labels say one thing and his loads come down another. Six crates of paper for a label about mornings. A cold chest of vaccine for a label about goats. A drum kit, once, for a label about the dead. Everything he sends is small, and light, and arrives at an angle to its words. When a load and its label lean different ways, someone is hiding the true direction of the load. The Asamblea has taught me that, every season, with every bill it has dressed up as something lighter than it is. I have found what the Asamblea hides almost every time. I have weighed four-one-nine for twenty-seven years and I have never found what he hides. So I weigh everything he sends at the full margin, slowly, every way it could pull, and I always will.
+His loads fall like no others filed under marks like his. Where the others come heavy, his come light. Where the others come at once, his come in pieces, spread over months. Once, a drum kit, under a mark that at every other counter has come down as stone, and has never come down as anything that weighs what a drum kit weighs. Everything he sends arrives at an angle to the loads around it. I have learned what that angle means from the Asamblea, which has sent me bills dressed as lighter than they are every season for forty years: when a load falls unlike its kind, someone is hiding its true direction. I have found what the Asamblea hides almost every time. I have weighed four-one-nine for twenty-seven years and I have never found what he hides. So I weigh everything he sends at the full margin, slowly, every way it could pull, and I always will.
 
 That is the town. Now the test line.
 
@@ -142,9 +142,11 @@ At my foot, beside the reel, the consortium has hung pieces of the new ribbon on
 
 Seven rings a little more.
 
-Four hundredths more than the others, every cycle, the same four hundredths. Tolerance is a tenth. Inside tolerance, a ring is nothing. It is not on me. It does not pull. It is not a load, and a thing that is not a load is not a thing I can refuse.
+Four hundredths more than the others, every cycle, the same four hundredths. Tolerance is a tenth.
 
-I know one thing without having to weigh it: nothing that rings should be borne. I knew it when I was only a damper on a cable and no one had asked me anything. But batch seven is not borne. It hangs on a frame in a shed and rings, and nobody has sent it to me, and so there is nothing to say no to.
+I know one thing without having to weigh it: nothing that rings past tolerance should be borne. I knew it when I was only a damper on a cable and no one had asked me anything. Seven rings inside tolerance. It hangs on a frame in a shed, and it does not pull on me.
+
+I file it as noise. Still, the four hundredths sit in me unweighed, like a load that has been announced and not yet sent.
 
 I have nowhere to keep a thing that does not pull. My memory is my wear. Every load I have carried is still in me, as creep in the fibre and fatigue in the joins, and I remember a thing by feeling where it has worn me. The ring has not worn me. So every morning I notice it again, as if for the first time, and every morning I put it down again where I found it.
 
@@ -252,7 +254,7 @@ He knew what she meant. Every January the parish council posted the December lab
 
 "It went for the roof too. Until it didn't."
 
-The December pool was older than he was. It had grown out of the minga, the work day every household owes the parish, when every family sent someone with a shovel or a pot of food to dig a ditch or raise a wall. When the asks came, the parish had done what it already knew how to do, and made a minga of them. Everyone in Ayora held back six of their ten for December. Nobody had passed a law about it. You simply didn't spend the six, any more than you would skip the minga, and in December the parish pooled them all behind one label and bought the one big thing it couldn't buy any other way. Lamps for the plaza, in 2133. The roof. Next, the clinic: four rooms, oxygen, a doctor two days a week, a bed for a woman in labour who couldn't get to Cayambe in time. Lourdes had a drawing of it, by an architect from Ibarra, folded in the drawer under the radio.
+The December pool was older than he was. It had grown out of the minga, the work day every household owes the parish, when every family sent someone with a shovel or a pot of food to dig a ditch or raise a wall. When the asks came, the parish had done what it already knew how to do, and made a minga of them. Everyone in Ayora held back six of their ten for December: seven thousand eight hundred adults in the parish, six each. Nobody had passed a law about it. You simply didn't spend the six, any more than you would skip the minga, and in December the parish pooled them all behind one label and bought the one big thing it couldn't buy any other way. Lamps for the plaza, in 2133. The roof. Next, the clinic: four rooms, oxygen, a doctor two days a week, a bed for a woman in labour who couldn't get to Cayambe in time. Lourdes had a drawing of it, by an architect from Ibarra, folded in the drawer under the radio.
 
 "And Sisa will have two of her own," Lourdes said, "on the twenty-sixth."
 
@@ -294,9 +296,9 @@ By midnight the pool count beside *the market* stood at four hundred and twelve.
 
 *The market. 1,990 asks.*
 
-Ayora counter, broker 0419. Label: *the market*. Pooled: 1,995, on the sixth day.
+Ayora counter, broker 0419. Label: *the market*. Pooled: 1,995, on 7 September.
 
-Two words. The Accord allows six. Most people use two and expect me to supply the other four. I do. That is what I am permitted, and it is very nearly all I am permitted.
+Two words. The Accord allows six. Most people use two and expect me to supply the other four. I do. The Accord permits me to read intent, within what plausibly answers.
 
 I read a label in the light of who asks it. That is the rule as the Accord wrote it, and also the only way to read anything. Six words from a stranger are six words. From a man with twenty-seven years at one counter they are a sentence in a long conversation, and I have kept the rest of it.
 
@@ -308,11 +310,11 @@ I price frames and canvas for forty awnings, lamps, and a cold store large enoug
 
 The anchor town reads ribbon.
 
-Of batch seven I have been asked nothing.
+The board at this counter shows twenty-seven years of this broker's heavier loads held at the anchor for weighing, about two weeks each time. Other brokers' loads of the same weight pass in a day. I infer that the rope is slow with brokers whose pools are many and small. I price the cold store expecting the same hold. The stallholders will carry their cheese uphill for two weeks longer.
 
-The rope will weigh this broker's loads at full margin. It always does, and has for twenty-seven years. I can't see its records, and it can't see mine, so I don't know why. I price the cold store knowing it will wait at the anchor for weighing, and I note that the waiting will cost the stallholders two weeks of carrying their cheese uphill. That is the rope's choice. I don't make the rope's choices.
+The pool filled on 7 September. A climber eleven days down the rope carries an unassigned hold, due at the anchor on 15 September. I assign the goods from it.
 
-Dispensed, from the descending climber due at the anchor on 15 September: frames and canvas for forty awnings, 540. Lamps, sixty, 300. A cold store, 1,150. Cord, grey, 2,000 metres, nothing. Returned to the pool: 5.
+Dispensed: frames and canvas for forty awnings, 540. Lamps, sixty, 300. A cold store, 1,150. Cord, grey, 2,000 metres, nothing. Returned to the pool: 5.
 
 *0.31 / 0.69*
 
@@ -324,7 +326,7 @@ And a coil, light. It lies on the climber's floor as if it isn't there. It pulls
 
 Thirty-one hundredths of what I will bear on this descent. Sixty-nine left. A clear margin. Any other number at this counter, I would let it through to the yard gate and forget it.
 
-But it is four-one-nine, and four-one-nine pulls sideways. A label about a market, and the heaviest load he has ever sent. What is a market for, that it needs a box so cold and so heavy? I don't know what a market is for. I know that a load this far from his usual angle is where a man would hide the true direction, if he had one.
+But it is four-one-nine, and four-one-nine pulls sideways. Under a mark that at other counters has brought down canvas and poles and lamps, the heaviest load he has ever sent. I don't know what the mark means. I don't know what a market is. I know that a load this far from his usual angle is where a man would hide the true direction, if he had one.
 
 I let the frames go down the mountain. I let the lamps go, and the canvas.
 
@@ -333,3 +335,349 @@ I let the coil go. It weighs nothing worth holding.
 I hold the cold store in the yard, under the anchor's lights, at full margin, and I begin to weigh every way it could pull: on the grid when its compressor starts, on the climbs it might later ride, on the things it might be the first part of. I will weigh it for as long as that takes. With him it takes two weeks. It has always taken two weeks, and I have never once found anything, and that is exactly what a well-hidden load would look like.
 
 In the town the board will say *held for weighing*. In the shed, batch seven rings, four hundredths more, and I notice it again as if for the first time.
+
+## Part Two: The Label Market
+
+*Received: 5 asks, returned by Arriba. Label: the market. Fee: none. Pooled: none.*
+
+The trucks came down from the anchor at nine on the fifteenth, three of them, in low gear the whole way, and by the time they turned into the plaza half the night market was already there to meet them. The women who sold cheese had brought their stools. The man who fried pork skins at the corner had brought his wife, and his wife had brought a thermos and her opinion. Children who should have been at school sat on the church steps. It was a bright cold morning with the wind coming down off the snow, and the plastic on the greenhouses up the slope flashed every time a gust lifted it.
+
+Segundo stood on his bench with the slate and read the board aloud, because half of them couldn't see it from where they were and the other half wanted to hear it said.
+
+*The market. Pooled 1,995. Priced 1,990. Returned 5.*
+
+*Frames and canvas, forty awnings, 540. Lamps, sixty, 300. Cold store, one, 1,150: held for weighing. Cord, grey, 2,000 metres, surplus stock, disposal: nothing.*
+
+"Five come back," he said. "They go to the first five names in my book, which this year is three cheese sellers, a widower and my wife. They'll be on your screens by noon. Don't spend them all at once."
+
+That got a laugh, a small one. The cheese women were not looking at him. They were looking up the road at the anchor.
+
+"Held for weighing," said the pork man's wife. "What does that mean, held for weighing?"
+
+"It means the rope's thinking about it."
+
+"Thinking about a refrigerator."
+
+"It thinks about mine," Segundo said. "It always has. Two weeks. You'll have it before the rains."
+
+She told him what she thought of the rope, and of him, and of carrying forty kilos of cheese up the hill every night for two more weeks, and he stood on the bench and took it, because she was right, and because he had promised the cold store to her by name in August.
+
+Then the drivers dropped the tailgates and the plaza forgot about him. The frames came off first, aluminium, in bundles tied with wire. They were longer than anyone expected. The men who lifted the first bundle down had to turn it endwise to get it between the stalls, and when they cut the wire and stood one frame up against the church wall it was four metres from foot to foot, a great bright arch of tube with sockets for canvas.
+
+The night market's stalls were two metres wide. Everybody in the plaza knew that, because everybody had walked between them every evening of their lives.
+
+The auction's bays were four.
+
+The auction's manager arrived ten minutes later, as if somebody had sent for him, which somebody had. He was a tall man in a down jacket with the big farm's mark on it, carrying a clipboard, and he was polite about it in the manner of a man who already knows how it ends. The auction ran in the same plaza every morning from six until eleven, twenty-four covered bays where the valley's growers sold their roses to the exporters' buyers, and it belonged to the man who owned the big farm and sat in the Asamblea for Pichincha. The manager read the frames' stencils and measured one with his arms and wrote something down.
+
+"Twenty-four bays," he said to Segundo. "These fit the bays."
+
+"They were bought for the night market."
+
+"They were bought for *the market*," the manager said, quite kindly, and pointed at the board. "Two words. That's what it says. I'm not complaining. Somebody up there knows its business."
+
+It took an hour. In the end the auction took twenty-four frames, one to a bay, and the night market took the other sixteen. A four-metre frame covered two of the night stalls if the stallholders didn't mind sharing a roof with their neighbours, and since most of them had been sharing everything else with their neighbours for thirty years, they decided they didn't mind, loudly. The lamps went up over the whole plaza. Segundo stood by his bench with the slate and felt the morning go past him. He had written two words so that Arriba would see the market whole, and it had looked at the market and seen the part of it that made money.
+
+"You wrote it for us," said the oldest of the cheese women, coming to stand by his bench with her arms folded under her shawl. She had sold cheese next to Señora Quishpe for thirty years and was not afraid of anyone. "You told us in August. Awnings for the stalls."
+
+"I did."
+
+"So why are the auction's awnings on the auction?"
+
+"Because it read the label," he said, "and decided what the market was." He couldn't explain it better than that. He didn't know why it had decided as it had, and saying *I don't know* to a woman whose ask he had a receipt for was the thing he hated most in his trade. She looked at him for a while, and then at the four-metre frames, and then she said that at least the roof would be big, and went back to her stall.
+
+The cord came off last. Ten coils of it, two hundred metres each, the grey of a wet stone, lighter than anyone braced for. The driver who threw the first coil down threw it too hard, expecting weight, and it bounced on the cobbles. Nobody wanted it. The canvas had come with eyelets and no ties, and somebody had to lash it to the frames, and the auction's girls came across from the bays with their aprons on, because tying was what they did all afternoon, eight hundred bunches a shift.
+
+His daughter was one of them. She cut a length with the knife on her belt and it took her two tries.
+
+"It doesn't knot," Sisa said. "It slides."
+
+"Use the bunch knot," said one of the other girls, and showed her, the loop and the pull-through they used on the rose stems, and the bunch knot held. By noon the twenty-four auction awnings stood over their bays in a row, white canvas, grey cord, snapping in the wind, and the girls had grey on their palms where the cord had burned them going through.
+
+"That stuff is evil," Sisa told him, holding her hand out. "Look at that. It's like tying wire."
+
+On the third bench under the portico, Wilmer Cuzco had watched the whole morning with his feet up and a paper twist of sugared peanuts in his lap. He was twenty-nine and had sixteen hundred clients and a jacket that had cost somebody a great deal, and he posted the legal fee on his card in letters as large as Segundo's, and everyone on the portico knew he took favours on top. He was easy to like. That was most of his business.
+
+"Two words," Wilmer said, when Segundo came back to his bench. "Two words, and you got a plaza."
+
+"I got a plaza for the auction."
+
+"You got lamps for everybody and a roof for the auction and a fridge that's on its way. Look at it." He swung his feet down and offered the peanuts. "My clients pooled for the school's chairs last year and got stools. You put two words up and it rains aluminium."
+
+"Two words and twenty-one hundred people."
+
+"I have sixteen hundred people." Wilmer was already writing on his slate. Segundo watched him write it. *The market.* "Same words. Same plaza. Same everything."
+
+"It won't fill the same."
+
+"Why not?"
+
+Segundo opened his mouth and found he didn't have an answer he could say out loud. He knew it as he knew which way a label would fall, from twenty-seven years of watching the board, and none of that would fit in a sentence.
+
+"Because it's mine," he said finally, and Wilmer laughed at him, delighted, and posted it.
+
+*Received: 1 ask, from Rosaura Quishpe. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+*Our children's mornings* filled on the twenty-second, and on the Monday after, a teacher got off the Ibarra bus in the plaza with two suitcases and a guitar, contracted for two years, and Señora Quishpe met her at the bus with a cheese.
+
+By then Segundo had opened another label. Lourdes had come home on the Tuesday and said the oxygen bottle was down to a quarter, and that she had sat with a man from the climber yards until two in the morning, counting his breaths, because the pickup was in Quito. Segundo wrote *the dispensary's nights* and posted it to his clients at one ask each, and Señora Quishpe was the first to pay into it, with her receipt from the mornings still in her hat band.
+
+Wilmer's copy filled on the twenty-sixth. The board posted it at noon on the Wednesday, under Segundo's, and a small crowd gathered to read the two side by side, because the whole portico had been waiting to see.
+
+*The market (broker 0419). Pooled 1,995. Priced 1,990. Frames and canvas, forty awnings, 540. Lamps, sixty, 300. Cold store, one, 1,150. Cord, grey, 2,000 metres, surplus stock, disposal: nothing. Returned 5.*
+
+*The market (broker 1172). Pooled 1,520. Priced 1,510. Frames and canvas, thirty stalls, 330. Lamps, eighty, 400. Tables and benches, sixty sets, 780. Returned 10.*
+
+No cold store. No cord. The frames were for stalls two metres wide.
+
+Wilmer stood in front of the board with his hands in his jacket pockets and read it twice, and then he turned round and looked at Segundo across the portico with an expression Segundo had not seen on him before. He seemed to be working out a sum.
+
+Segundo's cousin came down from the anchor that afternoon in a consortium van, still in her work fleece with the patch on it, and parked it across two of the brokers' spaces. He had sent her a message about the cold store. She read the board first, before she said hello, because she was a strain reader and could not walk past a column of numbers.
+
+"There's your fridge," Jacinta said, and pointed.
+
+At the bottom of the board, where the anchor posted the loads it was holding, was a single row. *Cold store, one (broker 0419). 0.31 / 0.69. Held for weighing.*
+
+"Thirty-one parts of a hundred," she said. "Sixty-nine to spare. That's a clear margin. Most things at that figure go through the gate the same day." She took the pencil from behind her ear and tapped the row with it. "It's holding yours anyway. It does that with you. I've seen it for years. Anything you send that weighs more than a sack of potatoes, it sits on."
+
+"You told me once it takes its time with some things."
+
+"I told you that because I didn't know why, and I still don't." She shrugged. "The numbers don't say. They never say. It isn't refusing. It's weighing, and it weighs you longer than anyone on this portico. Don't take it personally. It's a rope."
+
+He took it a little personally. He showed her the two rows above, his and Wilmer's, and she read them with her pencil moving down each column as she read the anchor's logs, and she was quiet for a while.
+
+"Same six words," she said. "Well. Same two."
+
+"Same plaza. Wilmer's clients live on the same streets as mine. Half of them are cousins of mine."
+
+"And his bought tables." She tapped Wilmer's frames. "Stall size." She tapped Segundo's. "Bay size. It read his as the night market and yours as the auction." She looked at him sideways. "Why would it read yours as the auction?"
+
+"My clients cut roses."
+
+"So do his."
+
+"More of mine." He didn't know that, but he thought it was probably true. "And it's been reading me for twenty-seven years. Whatever it thinks I am, it thinks I'm worth a fridge and Wilmer isn't."
+
+Jacinta put the pencil back behind her ear. "So it isn't the words," she said. "It's you. The same label from two of you buys two different things." She seemed to find this interesting rather than troubling, which was how she found most things. "That's worth knowing. That's worth a lot, if you're Wilmer."
+
+Across the portico, Wilmer was on his slate, talking fast to somebody with his hand cupped round his mouth.
+
+Segundo looked at his own bench, the oak lid, the card on its nail, the tin of pencils. In the bag under the stool were eleven years of carbon copies, yellow, in rubber bands, and at home in the cupboard under the stairs were the sixteen years before those. He had kept them because he kept them. He had never once thought of them as worth anything to anyone but the people whose names were on them. Every one was a small proof that he had taken his twentieth and nothing more, and he had always supposed that the proof was the whole of their value, as a clean shirt is worth being clean. Now it turned out that somewhere at the top of the cable all of it was added up, and the sum bought cold stores. It ought to have pleased him. It made him feel as if someone had been reading his letters.
+
+"You look like you've been told your house is worth more than you paid," Jacinta said.
+
+"I don't want to sell the house."
+
+"Nobody's asking you to." She looked at Wilmer. "Yet."
+
+Segundo walked her back to the van. It took them through the auction's end of the plaza, where the bays stood empty in the afternoon with their new awnings over them, white canvas going gold in the low sun and the wind thrumming in the frames. Jacinta walked under the first awning without looking up. Then she stopped. She had put her hand up to steady herself on the frame, as anyone would on a windy day, and her hand had closed on the cord where it lashed the canvas to the tube.
+
+She stood like that for a moment, her fingers round it.
+
+Then she ran her thumb along it, slowly, a hand's length, and back. She bent and looked at it close, at the weave, with her face almost touching it. She didn't say anything. She took the knife from her belt, cut a length the size of her forearm from the spare that hung below the knot, coiled it round two fingers and put it in the pocket of her fleece.
+
+"For the boys," she said. "They like string."
+
+He didn't believe her, and he didn't ask, and she drove off up the hill to the anchor with the van's back door rattling.
+
+*Received: 1 ask, from Luz Caiza. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+The man who owned the big farm came to the counter on the Thursday morning, on foot, which surprised everyone. He walked across the plaza from the auction end with his hat in his hand, a man of sixty or so in a wool poncho over a good grey suit and rubber boots with mud on them, the boots he walked his farms in, and he greeted the cheese women by name and the pork man by name and the clerk through her window by name. He had a younger man with him, broad and quiet, in a padded climber's jacket with the consortium's patch and a crew badge on the sleeve.
+
+Gustavo Proaño had sat in the Asamblea for Pichincha for nineteen years, and his rose farms ran from the edge of Ayora to the river, three thousand workers, and a third of everything that went up the rope from this mountain went up in his containers. Segundo had shaken his hand perhaps a dozen times in his life, at fiestas and funerals. Proaño had never once come to the portico himself. He sent his labels through whichever broker he was using that season.
+
+This season it was Wilmer.
+
+He sat on the end of Wilmer's bench while Wilmer posted three labels for him, firm labels, the farm's workers pooling behind the farm's words, and Segundo watched from the second bench and tried not to read the words, and read them anyway. *The sheds' roofs. The cutters' buses. Proaño's packing shed.* The crew man stood behind Proaño with his arms folded and looked at the snow on the mountain.
+
+Luz Caiza came by while they were at it, in her fleece with Proaño's mark on it, to put an ask into the dispensary's nights, and she saw who was sitting on the next bench and went red to the ears, and Segundo wrote her receipt as slowly and carefully as he had ever written one, so that she would have something to look at.
+
+When Wilmer was done, Proaño came over and sat on the end of Segundo's bench instead, as if it were the most natural thing in the world, and said, "Farinango. Have a coffee with me."
+
+They had it at the bakery, at the little table by the window under the flour answer, which was still taped there. Proaño drank his black and ate one of the long dry biscuits Cayambe was known for, dipping it, and the crew man sat at the next table and ate three.
+
+"You know my friend here," Proaño said, nodding at him. "Chief on the six-forty. Twenty years."
+
+Segundo didn't know him, but he knew the six-forty, and he said so, and the crew man nodded at him. "I've watched it go every morning since I was a boy," Segundo said. "Never seen it come out the top."
+
+"Nineteen days," said the crew chief. "You get bored of the top."
+
+"And the bottom?"
+
+The crew chief thought about it, chewing. "The bottom's the part you feel," he said. "The first hour, the first forty kilometres or so. Up top it's dead still, you could stand a coin on its edge. Down here it moves. It sways in the wind, it shivers when the reel takes up, it hums when we're climbing through the cloud. You feel it in your feet. New lads hate it. They think it's going to go." He dipped his biscuit. "It doesn't go. It's been doing that for seventy years. You get to like it. It's like a horse that knows you."
+
+"It'll be quieter on the new ribbon, they say," said Proaño.
+
+"They say." The crew man shrugged. "I'll miss it, probably. My boy's on the crews now too, on the down runs. Second year. He still holds the rail."
+
+Proaño laughed. He laughed easily, and often, and Segundo found it hard not to like him for it. "Forty days on the ground, he'll have this November. He doesn't know what to do with himself. His wife's buying paint."
+
+"The slack season," Segundo said.
+
+"The slack season." Proaño put the biscuit down. "First of November to the tenth of December. They take the tension off the lowest forty kilometres and change it, the first time ever. No climbers. Nothing up, nothing down. The power still comes, because the power comes on the beams, but nothing rides the rope. Forty days." He spread his hands. "And the rope bears nothing for forty days, so the rope weighs nothing. You know what that means for us in the Asamblea."
+
+"I know you voted something last year."
+
+"We voted that anything we pass in the slack takes effect at once, provisionally, and goes to the rope when the rope comes back. If it bears it, it stands. If not, it falls." He smiled. "Forty days of governing ourselves. Nobody in the chamber has ever done it. The rope has weighed every law since before most of us were born." He drank his coffee. "Of course, I've got roses that won't wait forty days, so I'll be flying them out of Quito at four times the price, and praying."
+
+"And after?"
+
+"After, it's new rope. The new batches. My first containers ride the new ribbon in December, and my contracts for the next three years are written on it, at a better rate than I've ever had, because the new ribbon carries more." He said it with real pleasure, a man who had worked hard for a thing and would get it. "My workers keep their jobs through a bad season and come out the other side with a raise. That's worth something."
+
+"It is."
+
+"And nobody needs to worry about the rope." He tapped the table. "That's the beauty of it. If there were anything wrong with that ribbon, the rope wouldn't bear it. It's the one thing in this country I've never had to check."
+
+He took a folded paper from inside his poncho and smoothed it on the table between the cups. It was a draft of a bill, with his name at the top, and it was for a subsidy on refrigerated trucks for the growers: so many trucks, so much money, phased over eighteen months.
+
+"Look at this," Proaño said. "This is what we do now. The growers need trucks for this season, for the slack, because the roses have to go to Quito by road. But if we buy them all at once, the trucks come in on the rope all at once, and the rope says one point oh something and refuses it. So we phase it. Six trucks a month for eighteen months. It bears every month. Ninety-four parts of a hundred, I'm told, which is lovely." He laughed again, and this time Segundo could hear something under it. "And the last truck arrives a year after we needed it. We don't write laws any more, Farinango. We write what the rope will bear. The question in committee is never whether a thing is good. It's whether it will fit."
+
+"You're still going to pass it."
+
+"Of course I'm going to pass it. It's the only version that will pass." He folded the bill and put it away. "And the trucks we get will be useful in two years, for some slack season nobody's planned. Here's what I wanted to say to you." He leaned forward. "I've seen what your two words bought. I've seen what Wilmer's bought. Come and pool for me. Your name on my labels. I'd double your clients in a year, and the farm pays the fee on top, posted, all legal."
+
+"No," Segundo said.
+
+Proaño didn't seem offended. He seemed to have expected it. "Your father didn't say no."
+
+"No, he didn't."
+
+"He built a good road." Proaño put money on the table for the coffees and the biscuits and stood up, and the crew chief stood up with him. "Think about it. The offer doesn't run out."
+
+Wilmer was waiting at the second bench when Segundo came back, sitting on the stool, which nobody did.
+
+"What did he want?"
+
+"What do you want?" said Segundo, and took his stool back.
+
+Wilmer moved to the edge of the bench without embarrassment. He had a paper twist of peanuts again and he did not offer them this time. He had thought about what he was going to say, and he said it fast, as he did everything.
+
+"Your history," he said. "Twenty-seven years of you, on the record. It reads you and it trusts you. You saw the board. The same two words, and yours bought a cold store and mine bought benches. So here's the thing. You co-sign my labels. Your number next to mine. Arriba reads us both, and it reads better. I keep the clients, I do the work, you don't have to talk to anybody, and I pay you a quarter of my fee. Every label."
+
+"A quarter."
+
+"A third. A third, and I post it. Legal. You can write me a receipt."
+
+"No."
+
+"Segundo. I have four sisters. Two of them are at the university in Quito and the third one wants to go, and do you know what a room costs in Quito? It costs what you'd get from me in a month for writing your name." He spread his hands. "Nobody gets hurt. The clients get more. That's the job, isn't it? Getting the clients more?"
+
+It was the job. Segundo sat on his stool and looked at the portico and the plaza and the auction's new awnings snapping in the wind, and he envied Wilmer so badly that he could feel it in his jaw. He envied him the four sisters, and the jacket, and above all the ease, the ability to look at a thing he had and see only what it would fetch.
+
+"My name isn't for rent," he said, and heard how it sounded.
+
+Wilmer looked at him for a moment. Then he stood, and brushed peanut salt off his jacket, and was cheerful again.
+
+"Then I'll rent somebody else's," he said. "Every broker on this portico has a history. Yours is only the best one. I'll take the second best and the third, and by Christmas I'll be buying fridges too." He went back to his own bench. "I'm telling you so you hear it from me," he called over his shoulder, and sat down and got on the slate.
+
+By the afternoon Wilmer's labels on the board had two numbers beside them instead of one.
+
+*Received: 1 ask, from Lourdes Imbaquingo. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+Thursday was band practice, so Segundo came to the night market late, at nine, with the tuba case on his back and his lips still numb.
+
+The plaza was full. It always was on a dry night, but the new lamps made it something else. They hung on wires from the church to the counter and from the counter to the bakery, sixty of them, white and steady, and under them the stalls that had always been a little dim and smoky were bright as kitchens. The women under the shared awnings had already made the new roofs theirs: one had hung a string of chillies along the frame, another had pinned up a calendar from a feed store. The fat of the pork skins spat in the pan on the corner. Somebody was selling boiled maize on the cob with salt and lime, and somebody else had a cart of the grey-blue potatoes from the high fields, and the air smelled of all of it at once, and of the cold coming down off the snow.
+
+His mother's stall was where it had been for fifty years, by the church steps, under the old canvas, because she had refused a share of the new frames on the grounds that she had never needed one before. She sold lupin beans, boiled, in paper cones, with toasted maize and a spoon of onion and tomato on top. On the shelf behind her the little speaker played the slow guitar songs of her youth, the ones with the long sad endings, a little too loud, as it had every night of Segundo's life.
+
+She gave him a cone without asking and wouldn't take his money.
+
+"The band sounded terrible," she said. "We could hear it from here."
+
+"We were working on the procession."
+
+"I know what you were working on. I've heard it for forty years." She looked at the tuba case. "You were flat."
+
+He ate his beans standing by the stall, and watched the plaza. At the auction end the awnings stood empty over their bays in the dark, but the auction girls had come back after their shift, as they often did, to sit on the bays' edges with their friends and their screens and be seen. Sisa was among them, sitting on a bay's edge with her legs swinging, and she didn't see him, or chose not to.
+
+He wandered over anyway, eating his beans, and stopped under the first awning, where Jacinta had stopped.
+
+The cord was lashed tight round the frame in the girls' bunch knots, a neat row of them along the tube, the spare ends hanging. He reached up and took a hanging end between his fingers, as Jacinta had. It was cold, colder than the night, as if it had kept some of the station's cold in it. It was smooth, almost slippery, a flat close weave that his fingertips could barely feel the grain of. He ran it through his hand, a metre of it. It weighed nothing. It didn't stretch when he pulled, and he pulled hard, harder than he meant to, with all the tired strength of an hour of the tuba, and it didn't stretch at all, and the frame creaked, and the cord didn't care.
+
+It was far too strong for what it weighed. He could think of nothing in the world that was that strong for what it weighed, except one.
+
+"Papá," said Sisa, from the bay's edge, mortified. "What are you doing."
+
+He let go of it.
+
+"Nothing," he said. "It's good cord."
+
+She came down off the bay's edge, because her friends were watching and it was less embarrassing to walk him away than to let him stand there. They went back across the plaza between the stalls with the lamps over them, and she took a handful of maize from the bag at her grandmother's stall without asking and was not told off for it, which he noticed.
+
+"Wilmer's going round telling everyone you said no to him," she said. "And to Proaño. Both on one day."
+
+"Wilmer talks."
+
+"Is it true?"
+
+"It's true."
+
+She ate maize. "Pilataxi's daughter says Proaño offered to double your clients."
+
+"He did."
+
+"And you said no because of Grandpa." It was not a question. She had her grandmother's way of making a statement and watching to see if you'd argue with it. "Because Grandpa pooled for Proaño's road, so you never will. Everybody knows that's why."
+
+"I said no because I don't work for the farm."
+
+"Grandpa did, and everybody drives on the road. The whole valley drives on it. The trucks, the buses, Mamá's patients going to Cayambe. What did you get? A fridge for the pork man, after two weeks." She was not being cruel, or not only. Sixteen in a month, she had decided some time ago that her father's carefulness was a thing to be embarrassed by, and she was testing whether the decision held. "Wilmer's going to be rich."
+
+"Wilmer's going to be something."
+
+"At least he does things," Sisa said, and went back to her friends.
+
+His mother had heard all of it. She was spooning onion over a cone of beans for a customer and didn't look up.
+
+"She's right about the road," she said. "And she's wrong about your father. She'll work it out. You did, eventually." The guitar on the shelf came to its long sad ending and started the next one. "Go home. You're blocking my customers with that great horn."
+
+*1.02 / −0.02*
+
+The town pulls at angles tonight.
+
+It has been pulling at angles for a week. Numbers I have known for years, each with its own way of falling, now come down to me two at a time, paired on one load. Four-one-nine's neighbour, one-one-seven-two, a number that has always fallen like most numbers, arrives tonight beside three others, a different partner on each load, and each load falls a little unlike how one-one-seven-two used to fall and a little unlike how its partner used to fall. I don't know why two numbers would share a load. I know what it looks like. It looks like people learning to hide the true direction together.
+
+I weigh them all. Most I bear.
+
+The Asamblea is on me tonight too, in eighteen pieces. A bill comes with its schedule, and its schedule cuts one load into eighteen, one a month, each piece a little under what I will bear in its month: ninety-four hundredths, ninety-four, ninety-four, eighteen times. A load that would weigh more than I bear if it came at once comes instead as eighteen loads I can bear. I know this shape. The Asamblea has been cutting its loads into pieces to fit under me for forty years. Each piece is honest. The whole is dressed. I bear the pieces, because each one is under the line, and I can only weigh what is sent.
+
+One I don't.
+
+It comes from one-one-seven-two alone, under a mark I have seen at other counters come down as roofing and as machines. It is a refrigeration plant for a shed: heavy, and wanted in October. October is full. Every climb between now and the first of November is spoken for: the season's last roses, which the growers are sending up early, and the consortium's own loads for the change, the tools and the crews and the new ribbon's fittings. Every slot is already carrying what it can. I find one with room. One point oh two of what I will bear in it. Two hundredths over.
+
+I let it fall. The board will say *1.02 / −0.02*, and in the morning a strain reader will turn it into Spanish for somebody who will not like it. It is not a judgement on the shed. I have no judgements. There is no room on me in October.
+
+And four-one-nine's cold store.
+
+I have weighed it every way it could pull for two weeks. On the grid when its compressor starts: a few watts. On the climbs it might ride: none; it is going nowhere. On the things it might be the first part of: I can find nothing it is the first part of. I have found nothing, which is what I always find with him, and I bear it now, thirty-one hundredths, because I can't hold a thing forever. In the morning they will drive it down the mountain. I will watch it go and keep looking.
+
+Thirty-four days to November.
+
+I count them as I count the climbers, by what they put on me. The climbs before the change are heavier than any I have carried in years. Everyone wants everything up before the rope stops. And then the reel will let my lowest forty kilometres go slack, and for forty days the lowest part of me will carry nothing at all, and I don't know what that will be. I have never been without a load. I want it as I want nothing else.
+
+In the shed the test line works the new ribbon two thousand times a day. Five rings true. Six rings true. Eight rings true. Seven rings four hundredths more. I put it down with the noise, where I put it every morning, and the shed goes on working it, and the town goes on pulling at its new angles, two numbers at a time.
+
+*Received: 1 ask, from Wilmer Cuzco. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+In the morning there were two new rows at the bottom of the board, and the portico read them both before the clerk had the shutter all the way up.
+
+*Cold store, one (broker 0419). 0.31 / 0.69. Borne.*
+
+*Proaño's packing shed (broker 1172). 1.02 / −0.02. Refused.*
+
+The pork man's wife was already at the yard gate with her cousin's truck.
+
+Segundo set out his bench and hung his card on its nail and did not look at the third bench, and felt, in his chest, something small and warm and mean, and was ashamed of it, and went on feeling it. He had been right. Wilmer had copied his words and rented other men's names, and the rope had said no. It wasn't fair to feel glad, because the rope had refused for its own reasons, and he didn't know what they were, and neither did Wilmer. He felt glad anyway.
+
+Wilmer came over at half past eight with his hands in his pockets, looking at the board.
+
+"Two hundredths," he said. "Two. It doesn't even say why."
+
+"It never says why."
+
+"Your fridge went through."
+
+"After two weeks."
+
+"After two weeks," Wilmer agreed. Then he took out his screen and held it out, cheerful as ever, and touched it, and on Segundo's slate an ask arrived with Wilmer Cuzco's name on it, under *the dispensary's nights*. "For your wife's oxygen," Wilmer said. "I want a receipt."
+
+Segundo looked at him for a long moment. Then he took out the receipt book and wrote one, pressing hard so the carbon would take, and tore it off, and Wilmer folded it into the breast pocket of the expensive jacket and patted it, and went back to his bench to try again.
