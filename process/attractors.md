@@ -30,12 +30,13 @@ or more is a hard attractor.
 - **An institution that certifies, explains or adjudicates the novum:**
   a clerk's office, a tribunal, a reader panel, a comprehension gate, a
   wording office. calibration-01 (the certifier's dilemma, 7 cards),
-  calibration-02 (6), run-02 (8), run-03 (5), run-06 (10). The strongest
-  attractor there is. Hard.
+  calibration-02 (6), run-02 (8), run-03 (5), run-06 (10), run-07 (3). The
+  strongest attractor there is. Hard.
 - **Law, votes, quorums and consent as the frame.** calibration-01 (8),
-  calibration-02 (10), run-06 (consent after the fact, 4). Hard.
+  calibration-02 (10), run-06 (consent after the fact, 4), run-07. Hard.
 - **The dead, or a past self, as a continuing authority.** calibration-01
-  (9), calibration-02 (9), run-05 (the black hole as a grave, 5). Hard.
+  (9), calibration-02 (9), run-05 (the black hole as a grave, 5), run-07
+  (4). Hard.
 - **Elder knowledge that intelligence can't reach,** and its sibling, the
   benevolent deception of an elder who knew all along. run-02, run-03.
   Hard.
@@ -44,20 +45,38 @@ or more is a hard attractor.
 - **Reversible or uncomputed minds.** calibration-01's top card returned in
   calibration-02 unprompted.
 - **Copies or forks who live a life and merge back.** run-06; charted in
-  published SF as well.
+  published SF as well. run-07 (7 cards: forks of the governor per nation,
+  forked citizens, strains, identical builds). Hard.
+- **Time-rate as sovereignty:** a clock, tempo, lag, creep, throughput or
+  latency as the constant that defines a governor or a nation. run-07
+  (about 10 cards, two of them titled "Creep"). Run-06's finished story
+  turned on the same move, its gazette lag and daily boot.
+- **A nation redefined as the reach of a physical medium:** a bell's
+  hearing range, a shared air volume, a breathed mist, a signal's latency
+  radius. run-07 (4 cards). It is the most literal answer to an F3 brief
+  that asks what a nation means.
+- **The governor's reasons sealed, delayed, etched or streamed** as the
+  answer to "will people understand how they are governed". run-06 (seed
+  B, and the record of the chosen premise), run-07 (4 cards). Hard.
+- **A town a statute closes or resettles,** as the protagonist's personal
+  stake: a mill town, a refinery town, a resettled neighbourhood. run-06
+  (seed B), run-07 (4 cards). Hard.
 
 ## Protagonists
 
 - **A mid-level functionary who finds something hidden and must decide
   whether to disclose it,** usually a woman clerk or a teenage girl at a
   tell-or-don't choice. run-02 (21 of 27), run-03 (about 21), run-05,
-  run-06 (about 20 of 30). Hard. Run-06's finished story landed on it
-  anyway, through a night clerk's secret errata, while this entry was
+  run-06 (about 20 of 30), run-07 (1). Hard. Run-06's finished story landed
+  on it anyway, through a night clerk's secret errata, while this entry was
   already listed: the audit's warning alone didn't hold the line.
 - **Ferry mechanics, bus mechanics and translator parents** as the
   ordinary job. run-02, run-04, run-06. Hard.
 - **A grandparent with dementia** as the default stake in a gentle story.
   run-04, 6 cards.
+- **A woman minister, envoy or deputy bargaining terms with the governor,**
+  clause by clause. run-07 (about 12 of 33). Two lenses' Obvious cards
+  ("one nation refuses, an envoy negotiates") were this shape.
 
 ## Endings and moves
 
@@ -94,3 +113,6 @@ run-04 and run-06. `process/prose-rules.toml` warns on these in a draft.
   calibration-02. Ideators don't rate Futurity; the Cartographer does.
 - **One citation reflex per run.** run-06 cited "The Evitable Conflict" and
   *Infomocracy* on about nine cards, whatever the nearest work really was.
+- **The brief played back.** When a brief asks for cat and mouse, cards
+  answer with one sentence: the AI suspects the protagonist is gaming it,
+  and it is "half right" or "partly right". run-07, about 10 cards.
