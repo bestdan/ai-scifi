@@ -1,0 +1,10 @@
+# Ledger rows (graded)
+
+| Row | The fact |
+|---|---|
+| Premise | Ecuador is governed by two half-powers: Waska, the space elevator's mind, can only refuse, and Arriba, the global mind, can only answer when asked. So nothing happens unless an ordinary person asks and Waska bears it. A broker finds that the only way to learn what Arriba knows is to pay for the plain question. |
+| Stakes | If no one asks, batch seven goes into the ribbon and its flawed sections fail within about three years: the lower ribbon parts, the climber crews on it die, and the anchor town loses its living. Asking costs the parish's December asks, which were to buy the clinic, and costs Segundo his name if he's wrong, with no way to say why beforehand. |
+| Why | The Asamblea handed every law to Waska after the Year of Two Budgets (2097), because a power that can only refuse can't be bought into pushing. The world bound Arriba to answering only after its unasked 2098 warning was front-run and bread prices tripled. Each half was crippled on purpose, so no one holds the whole, and people trust the refuser so completely that nobody asks about what it can't feel. |
+| Twist | none |
+| Ending | Segundo asks the parish for its December asks on his word, waives his fee to make the sum, and buys the plain question. The inspection finds 35 flawed sections; batch seven's rating falls, Waska refuses the proof climb, the flawed sections come out, and the slack season goes ahead on a rebuilt plan with half loads for two years. For 40 days the Asamblea passes laws nothing weighs. The cost: the clinic (now funded by the farms, under a label Segundo writes), his fee and receipts, Lourdes's trust, half the roses for two years. |
+| Reach | Arriba's silence turns out to be a price, not a wall: the rich can afford to ask about everything, Ayora about one thing a year. A broker's good history becomes something to trade. For 40 days the Asamblea legislates with nothing to refuse it. Rose workers, climber crews, exporters and the anchor town all live with the cost. |

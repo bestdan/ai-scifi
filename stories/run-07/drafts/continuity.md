@@ -4,10 +4,108 @@ Running record for the drafter, updated after each part. A fresh drafter
 should be able to pick up the next part from this file, the bible and the
 outline alone.
 
-**Draft 1 is complete:** Parts 1–5 and the `## Drafter's notes`. Parts One
-to Four have had their per-part lens fixes (see the "revisions" sections
-below). Draft 2 (stage 8) revises from the full-draft review. This file
-stays the reference for voices, numbers and dates.
+**Draft 2 is written** (`drafts/draft-2.md`, 35,682 words with headers,
+35,342 prose), from `06-revision-plan.md`'s 24 items. Draft 1 is unchanged.
+Where the draft-2 changes below contradict an earlier section of this file,
+**draft 2 wins**.
+
+## Draft 2 changes that later work must keep
+
+**Arriba**
+- **Its notes open by naming the speaker** (1.5: "I am the mind at the top
+  of the cable, the one the town calls Arriba…").
+- **The Accord is defined at first use** (1.5: "the agreement signed at
+  Quito in 2104 that binds me to answer only what I am asked, gives every
+  adult ten asks a year, and licenses the brokers who pool them"). It is
+  now in the bible's Glossary.
+- **The cord in its note is "offcut" of the replacement ribbon, unnamed as
+  to batch**: "That offcut can go into no tether now." The disposal rule
+  comes first, then the market rationale. The bare line is now "In the
+  anchor town, people know ribbon when they hold it."
+- **5.3 adds the Sahel cost** (millet in Niamey doubled before the relief
+  ships sailed; "more people died there than the drought alone would have
+  killed. The Accord followed. I keep it.") and "A finding of not sound
+  carries its basis under the Accord."
+- **Its last note (5.7) reads Segundo as two histories:** the one that
+  spent a parish's December on a plain question, and the one that writes
+  the grower's clinic. His January pool will be read in the light of
+  both.
+
+**Waska**
+- **1.2 opens oriented** ("because I am the rope they climb"). The rattle's
+  source is the reel jerking against the rock. It glosses its own header.
+  Four-one-nine is "a broker's licence number… on the manifest of every
+  load he sends".
+- **The ring is a sound:** the test sections hum on each pull, and "Seven's
+  hum is a little off." Its rule: "I refuse only what pulls past what I
+  bear. A ring inside the rating pulls nothing."
+- **Exact counts are tied to dates it is sent or to wear:** "in a year the
+  manifests call 2114"; "The consortium sent me the date in the plan";
+  "sixteen thousand climbs and more, each one a catch"; "Since the
+  charter, which is dated 2068".
+- **The refrain "Five rings true. Six rings true. Eight rings true."**
+  appears only in 1.2 and 3.4. The board column in 5.7 is the last
+  echo.
+
+**The certification rules** are posted on the lab wall (3.3), which Segundo
+reads at night:
+- *Rule 4. A batch is rated only on a complete inspection map. A
+  defective section found outside a complete map is replaced from
+  spares, and the batch keeps its rating.*
+- *Rule 5. Where a complete map shows defective sections, the batch is
+  derated by the share of its sections found defective.*
+
+4.1 points to them, and Segundo quotes Rule 4 in 4.2.
+
+**Plants and facts**
+- **Cure dates (4.1):** batch 5 December 2137, 6 February 2138, 7 11–14
+  March 2138 (the solar storm; "the sky went green over Quito three nights
+  running"), 8 April 2138.
+- **Test pieces** are cut from each batch's first rack, along the north wall
+  ("Convention. Nobody remembers why.").
+- **The unsound sections (5.3)** are 3–9, 47–52, 88–93, 131–135, 176–181 and
+  229–233 (7+6+6+5+6+5 = 35). Jacinta reads them in 5.5 as six rack ends on
+  the north wall, which is why the test pieces rang. The answer is 132
+  words.
+- **The nine kilometres (5.5):** seven was to be the bottom ten kilometres.
+  Its 277 sound sections (about 9 km) hang higher instead, so the foot keeps
+  9 km of old ribbon, derated.
+- **The ward meeting date:** the council releases December asks only at its
+  posted ward meeting (5.2). The certifier said "a question was not a
+  finding" (5.4) to explain the Monday splice.
+
+**People and scenes**
+- **Ernesto (3.2):** "They cut the power in half on purpose… So that nobody
+  would ever hold the whole knife again." Segundo carried the water "from
+  twenty-one until I was nearly thirty".
+- **Segundo reasons alongside Jacinta:** in 3.3 ("It can't lie. It can
+  choose, though.") and in 4.1, where he pairs the cord and the ring
+  himself. In 4.1 he also echoes the premise ("Nothing happened in this
+  country unless somebody asked"). In 4.3 he states why nobody asks.
+- **Cut:** Proaño's bakery-door offer; the truck bill at coffee (the slack
+  rule is now two lines); and Jacinta's "the rope didn't know" lines in
+  5.5.
+- **Part One:** the licence speech is cut to brokers and fees, and the
+  mechanism moves into the Quishpe scene. The 2068 history is the brass
+  charter plate on the reel's frame: "*2068. Nothing goes up or down this
+  rope that the rope will not bear.*"
+- **The meeting (5.2):** the sums are one beat (board 42,300; receipt
+  40,872; "Less your one in twenty, it's short."). One line explains the
+  blank receipt headers.
+- **Luz (5.4):** moved to the night packing line, her name written in a
+  book.
+- **The clinic (5.6):** the association's *December* pool, so it is a year
+  off. "This time next year your wife will be nursing in it, with our name
+  on the board by the door." Segundo writes *Ayora's clinic*, stops, then
+  adds "from the farms".
+- **Wilmer (5.6)** prices his name: the fifth bench now wants half. "A good
+  name's a thing you can sell now, like a slot on the six-forty… Now it's
+  read you writing for the farms."
+
+**Terms and dates**
+- **Terms glossed at first mention:** lupin beans (1.4); the maize drink and
+  the day of the dead (5.4); the bread dolls (5.7). "pasillo" is replaced.
+- **Every Part Five scene's first sentence carries its weekday or date.**
 
 ## Length
 
@@ -19,8 +117,9 @@ stays the reference for voices, numbers and dates.
 | 4 | 6,800 | 6,326 (after the Egan fixes) |
 | 5 | 7,700 | 7,520 |
 | **Total** | 34,700 | **34,251** (34,591 with title and headers) |
+| **Draft 2 total** | under 38,000 | **35,342** (35,682 with title and headers) |
 
-Revision headroom against the 40,000 ceiling is about 5,400 words.
+Draft 2 has about 2,300 words of headroom under the plan's 38,000 cap.
 
 ## Part Four revisions (applied before Part Five; Egan triage)
 
