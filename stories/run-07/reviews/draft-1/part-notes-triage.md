@@ -83,3 +83,29 @@ Taken, for the drafter to apply before writing Part Four:
 4. **The Why lands once** (should). Keep "Everybody had two bosses that
    year…" as the one statement; trim the repeats, and trim Waska's recap
    to the flat place.
+
+## Part Four (Egan)
+
+Taken, for the drafter to apply before writing Part Five:
+
+1. **Plant the proof climb early, with its stakes** (must-fix). In 4.1,
+   after "They'd need the whole map": batch seven starts going into the
+   foot on the thirtieth, a proof climb at six-forty the next morning, and
+   once it has carried a climb nobody unhangs it. Jacinta repeats the date
+   at the 4.4 fence in one line. In 4.2: an inspection always takes three
+   days, whatever is paid. In 4.5, replace "is fixed" with Waska weighing
+   it again as it leaves, against whatever the rating is then.
+2. **Derive 1.04** (must-fix). 4.5's figure becomes 0.92 / 0.08
+   ("ninety-two hundredths… eight hundredths left"). Add to Jacinta's rule
+   in 4.1: they take the rating down by the share the map finds bad. 0.92
+   ÷ (277/312) = 1.036, so 1.04 / −0.04.
+3. **Proaño's affordability** (must-fix). Give him a mechanism: the
+   exporters' association, forty firms' workers and their households
+   across three provinces, pooling behind association labels. "We can pay
+   it every week" then holds. His agent's congratulations are about a
+   section, not the batch.
+4. **Close two cheaper routes** (should). (a) One line: posting the
+   batch question just to read its price puts it on the board, and a
+   question is a smell. (b) In 4.1: the oven logs say what the oven did,
+   not what it made; Arriba would answer literally, with numbers inside
+   spec. Also: the catch-all is "a year of the world's asks".
