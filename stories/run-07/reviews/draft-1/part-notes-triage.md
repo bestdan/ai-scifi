@@ -43,3 +43,23 @@ Carried forward:
   band is at an extra rehearsal for the 2 November procession.
 - 26 October is a Thursday, 31 October a Tuesday, 1 November a Wednesday,
   15 September a Friday.
+
+## Part Two (Chiang)
+
+Taken, for the drafter to apply before writing Part Three:
+
+1. **Jacinta states the theme** (must-fix). Cut "So it isn't the words.
+   It's you. The same label from two of you buys two different things."
+   and "That's worth a lot, if you're Wilmer". She reads "Stall size... Bay
+   size" and stops; the carbon-copies paragraph carries it.
+2. **Proaño states two theses** (must-fix). Cut the committee speech ("We
+   don't write laws any more…") and "If there were anything wrong with that
+   ribbon, the rope wouldn't bear it." The truck bill dramatises the first;
+   keep "It's the one thing in this country I've never had to check."
+3. **One refusal, not three** (should). Trim Proaño's offer to a line
+   ("Your father didn't say no"), let Wilmer's pitch carry the argument,
+   and cut Sisa's repeat of her receipts contempt; keep the road argument
+   and Dolores's "She's right about the road."
+4. **The market in histories costs a stranger** (should). One concrete
+   instance: a client puzzling over a double name on a receipt, or another
+   broker signing up with Wilmer.
