@@ -59,7 +59,7 @@ discusses how the story was made.
   orchestrator linted for them. Start story sessions in the repo, or allow
   the lint command for those roles.
 - **Token use, measured this time:** about 64.6 million agent tokens. The
-  drafter was most of it, about 46 million across drafting and two
+  drafter was most of it, about 45 million across drafting and two
   revisions, nearly all cached context re-read on each resume. A fresh
   drafter per revision, started from `continuity.md`, might cost less; run
   it once and compare.
