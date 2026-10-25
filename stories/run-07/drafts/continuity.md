@@ -4,20 +4,50 @@ Running record for the drafter, updated after each part. A fresh drafter
 should be able to pick up the next part from this file, the bible and the
 outline alone.
 
-**Parts written:** 1 (The Button), 2 (The Label Market). Part One has had
-its per-part lens fixes (see "Part One revisions" below).
+**Parts written:** 1 (The Button), 2 (The Label Market), 3 (The Skim).
+Parts One and Two have had their per-part lens fixes (see "Part One
+revisions" and "Part Two revisions" below).
 
 ## Length so far
 
 | Part | Outline target | Actual (prose, excluding title, part heading and section headers) |
 |---|---|---|
 | 1 | 6,600 | 7,285 (after the triage fixes) |
-| 2 | 7,000 (asked: nearer 6,600) | 6,090 |
-| **Running** | 13,600 | **13,375** |
+| 2 | 7,000 (asked: nearer 6,600) | 6,270 (after the triage fixes) |
+| 3 | 6,600 | 6,223 |
+| **Running** | 20,200 | **19,778** |
 
-The story is about 225 under the outline's pace. Remaining targets: P3
-6,600, P4 6,800, P5 7,700, which would give about 34,475. The ceiling of
-40,000 is hard. There is room for P5 to run long if its scenes need it.
+The story is about 420 under the outline's pace. Remaining targets: P4
+6,800 and P5 7,700, which would give about 34,300. The ceiling of 40,000 is
+hard. P5 has room to run long if the meeting and the tally need it.
+
+## Part Two revisions (applied before Part Three; Chiang triage)
+
+1. Jacinta no longer states the theme. After "Stall size … Bay size … Why
+   would it read yours as the auction?" she "said nothing more". Cut: "So
+   it isn't the words. It's you…", "That's worth a lot, if you're Wilmer"
+   and her "Yet."
+2. Proaño's committee speech ("We don't write laws any more…") and "If
+   there were anything wrong with that ribbon, the rope wouldn't bear it"
+   are cut. **Kept: "It's the one thing in this country I've never had to
+   check."** The truck bill ends on "And the last truck arrives a year
+   after we needed it."
+3. One refusal, not three. Proaño's offer is now one line at the bakery
+   door: "I've seen what your two words bought, Farinango. There's always a
+   place on my labels for them. Your father didn't say no." He leaves
+   before Segundo answers. Wilmer's pitch carries the argument. Sisa's
+   "Wilmer's going to be rich" and "At least he does things" are cut; she
+   keeps the road argument and walks off. His mother's "She's right about
+   the road" stays.
+4. The market in histories costs a stranger. **The broker on the fifth
+   bench** (a widower with a white moustache, thirty years pooling for the
+   four streets behind the church, never bought more than a pump; Sisa
+   calls him "old Moustache") co-signs with Wilmer. **An old man**, Wilmer's
+   client for six years, finds the fifth bench's number on his receipt.
+   He had left that broker in 2129 over a pump bought from the broker's
+   cousin at twice the price. Wilmer's contract allows pooling "*alone or
+   jointly*", and half the portico's contracts have said so for years.
+   "I signed it for the young one." Segundo can't help him.
 
 ## Triage items carried forward (from `reviews/draft-1/part-notes-triage.md`)
 
@@ -152,7 +182,25 @@ The story is about 225 under the outline's pace. Remaining targets: P3
   physical.
 - **Exposition** only where someone in the scene needs it (a new client,
   nine-year-olds, the stallholders, Proaño explaining the slack to a man
-  who half knows).
+  who half knows, his mother telling her son what he was too young to
+  see).
+- **Other people's stories** (P3) come as long dialogue broken by physical
+  business: holding up the canvas with a broom handle, serving customers,
+  peeling an orange in one spiral, shuffling worn cards. Narration never
+  summarises a history someone is telling; the teller carries it, with
+  interruptions.
+- **No one states the theme** except the bible's lines, each said once:
+  the Premise line (1.3), the Why line (3.1, said "in the same voice she
+  used for the price of beans"). Stakes (4.4) and Reach (4.3) are still to
+  come. Cut any second thesis, as the triage did twice.
+- **Dolores's voice:** tart, practical, funny, deflating. She turns the
+  big thing into the small one ("Rent was due on the Saturday."; "Two
+  brokers and one ask. In my day we called that a budget."). She is proud
+  of her phrasings. She pushes food at him ("Eat. You're thin.").
+- **Ernesto's voice:** a fixer's ease, patient with fools, enjoying
+  himself. He makes arguments that are reasonable and self-serving at
+  once, and he is unrepentant and funny ("They don't name roads after
+  brokers. They named a rule after me."). He calls Segundo "honest one".
 - **Sample lines:**
   > He could see their headlamps moving inside it, small and yellow, a
   > whole town of people bent over looking for something they'd dropped.
@@ -198,7 +246,21 @@ The story is about 225 under the outline's pace. Remaining targets: P3
   what the board will say. Short present-tense declaratives;
   one-line paragraphs for turns.
 - **Memory is wear** (the 2133 lamps are "a scuff of wear in a joint eleven
-  kilometres up"). It can't keep what doesn't load it.
+  kilometres up"). It can't keep what doesn't load it. **2097 is a flat
+  place in the reel's bearings**, where the steel crept under eleven days of
+  doubled climbers that did not move. It catches once a turn, every climb
+  for forty-four years. "I do not remember the shouting. I remember the
+  flat place." 2097 is when it learned that people hide the true direction
+  of a load, and since then it weighs everything "as though it might be
+  two".
+- **Bearing is not approving** (3.4): "the Asamblea will say that the rope
+  has approved the change, which is not what I have done. I have not
+  approved anything. I have borne it." Use sparingly. It is Waska's one
+  correction of the humans, and it has never mattered to them.
+- **The ring in 3.4:** it weighs batch 7's sections in the plan as rated,
+  applies its rule (seven "does not ring past tolerance") and bears them.
+  It notices the four hundredths again, unweighed. It still has no notion
+  that there is anything it can't feel. That is 4.5's to state.
 - **Sample lines:**
   > Between the reel and the counterweight I am stretched. I have never not
   > been stretched. That is what I am.
@@ -267,9 +329,24 @@ Mon; 26 Sep Tue; 27 Sep **Wed**; 28 Sep **Thu**; 29 Sep **Fri**; 26 Oct
 - **Fri 29 Sep**, morning: the board shows the cold store borne and
   *Proaño's packing shed* refused; Wilmer pays an ask into *the dispensary's
   nights* and asks for a receipt.
-- **Next (P3, early October):** 3.1 Dolores's stall; 3.2 Ernesto; 3.3 the
-  anchor lab and the overnight fatigue test; 3.4 Waska bears the
-  replacement plan, `0.88 / 0.12`.
+- **Mon 2 Oct**, evening: the October rains come a fortnight early. 3.1,
+  Dolores's stall under her old canvas; Segundo holds it up with a broom
+  handle.
+- **Wed 4 Oct**, afternoon: 3.2, the parish home on the Cangahua road.
+- **Thu 5 Oct**, after the counter closes: 3.3, the lab. Segundo skips
+  band practice ("the band would struggle on"). The rig runs overnight.
+  **Fri 6 Oct**, 06:00: the result, inside tolerance; the six-forty goes up
+  past the lab window at 06:40.
+- **Mon 9 Oct:** 3.4, the consortium submits the replacement plan as a load,
+  and the Asamblea sends its own copy as a law in the same hour. Waska
+  bears it, `0.88 / 0.12`. "Twenty-three days" to 1 Nov.
+- **Next (P4, mid-October):** 4.1 Jacinta's office at night (the halves side
+  by side, Gabon); 4.2 the counter (sampling, section forty, the
+  catch-all, 40,872); 4.3 Proaño; 4.4 the fence and home; 4.5 Waska bears
+  the schedule of the first batch 7 climb, 06:40 Tue 31 Oct. Suggested
+  dates: 4.1 Tue 10 Oct (night); 4.2 Wed 11 to Mon 16 Oct (the section
+  forty pool must fill and be answered); 4.3 about Tue 17 Oct; 4.4 about
+  Thu 19 Oct; 4.5 about Fri 20 Oct. Check weekdays with `date -d`.
 - **Band practice is on Thursdays.** 5.2 needs the extra procession
   rehearsal (above).
 
@@ -316,7 +393,53 @@ Mon; 26 Sep Tue; 27 Sep **Wed**; 28 Sep **Thu**; 29 Sep **Fri**; 26 Oct
   Proaño's first containers ride the new ribbon in December, on three-year
   contracts "written on it". During slack he flies roses from Quito at
   four times the price.
-- **Ages and years:** Segundo 52, licence 0419 for 27 years; Wilmer 29,
+- **2097 (3.1, 3.4):** the payslips are for the second fortnight of March
+  2097, 80 hours, the same amount to the centavo. The **blue** stamp is
+  the coalition she cashed (it came Friday; rent was due Saturday). The
+  **green** is uncashed, on heavier paper watermarked with a defunct
+  freight company's climber-on-a-ribbon mark. The Treasury paid both
+  budgets for four months. There were two Ministers of Finance, one with a
+  rose company's calendar and one with a cargo firm's. Ernesto fixed for
+  the green side and lunched with the blue, and cashed both (three once,
+  for a fortnight in June when a third coalition existed). In April 2097
+  the double-sold slots were stacked on every climber; the board read
+  **1.91**; no climber went for **eleven days** until the army took the
+  second lots off.
+- **2098 (3.1):** Arriba's unasked Sahel warning, heard on the radio at the
+  stall; the consortium's own traders bought first; bread in Cayambe
+  tripled in a week; Segundo (9) ate maize porridge for a month and cried
+  at school; Señora Pilataxi sold her mother's earrings at a jeweller's in
+  Cayambe.
+- **2101** referendum, every law to the rope: Dolores and Ernesto both
+  voted yes. **2104** the Accord ("They tied its tongue.").
+- **2110 (3.2):** the parish held **40,000** December asks. Arriba priced
+  the water tank at **70,000**. Old Proaño's workers pooled **20,000**
+  behind *the farm road* and Ernesto put the parish's 40,000 behind the
+  same label, so the road was built in a month. The payment was a **blue
+  truck** (Segundo learned to drive in it) and **the roof on Dolores's
+  house**. The council bought the tank in **2118**: "eight years of carrying
+  water". The 2112 fee rule is "named after" Ernesto. He asked at the
+  fiesta, standing on **the second bench**, with the band stopped and
+  Segundo (21) at the back with the tuba. He asked on his word, with no
+  receipts, and gave the label only the next morning.
+- **The lab (3.3):** old ribbon (2066) weave pitch **1.8 mm**; the
+  replacement generation **1.2 mm** (batches 5–8 all the same). Sections
+  carry a batch mark printed every **100 m**; offcut (trimmed edges and
+  ends) carries none. Offcut normally goes back up "for reclaim" and is
+  melted; Jacinta has never seen any come down. The rig runs at **one cycle
+  a second** at service tension scaled to width: **40,000 and some** by
+  06:00. "On the rope a section moves two thousand times a day …
+  Three-quarters of a million a year. There are things that only show
+  after millions. I can't make a night into three years." Result: "Inside
+  tolerance. Well inside." She locks the cord in a drawer and keeps the
+  key in her fleece.
+- **The plan (3.4):** the lowest 40 km laid down section by section and new
+  sections hung from batches 5, 6, 7 and 8 in a written order; tension off
+  1 Nov, back on 10 Dec; the heaviest October Waska has carried. **0.88 /
+  0.12**, borne.
+- **Ages and years:** Dolores 78 (34 in 2097); Ernesto 81; Segundo was 8 in
+  2097 and 21 in 2110. Gustavo Proaño was 30 in 2110. Segundo 52, licence
+  0419 for 27 years; Wilmer 29,
   1,600 clients, licence 1172; Proaño "sixty or so" (61), 19 years in the
   Asamblea for Pichincha; the crew chief 20 years on the six-forty. His
   mother's stall has stood by the church steps for fifty years.
@@ -335,11 +458,17 @@ Mon; 26 Sep Tue; 27 Sep **Wed**; 28 Sep **Thu**; 29 Sep **Fri**; 26 Oct
 | Wilmer Cuzco | broker on the third bench, 29, licence 1172 | 2.1 |
 | Jacinta (Ulcuango) | "his cousin", senior strain reader; named in 2.2. Her surname is not yet on the page | 2.2 |
 | Gustavo Proaño | owner of the big farm and the auction, Asambleísta | by role 2.1, named 2.3 |
+| Jacinta Ulcuango | surname first on the page in the 3.3 header | 3.3 |
+| Dolores Farinango | his mother, 78, the lupin-bean stall by the church steps; felt hat, two shawls, cloth money bag, biscuit tin of keepsakes | 3.1 header and text |
+| Ernesto Farinango | his father, 81, the parish home; bald, brown cardigan buttoned wrong, cheats at cards, peels oranges in one spiral | 3.2 header and text |
 
-**Still unnamed, on purpose:** his mother = **Dolores** (named in 3.1;
-on the page in 2.4 by role only, with her stall, the lupin beans, the
-speaker of slow guitar songs, "You were flat"); his father = **Ernesto**
-(P3; Proaño: "Your father didn't say no." / "He built a good road.").
+P3's only new names are Dolores and Ernesto. **Ramiro** (Ernesto's card
+partner) is a one-word walk-on in dialogue; don't reuse him.
+
+**Still unnamed:** the fifth-bench broker ("old Moustache" to Sisa); the
+old man who is Wilmer's client; **the Caiza boy** (Luz's brother, fourth
+grade, "asks questions like a tax inspector"); old Proaño (Gustavo's
+father, dead or retired, unstated).
 
 **Unnamed walk-ons:** the baker; the clerk (Olmedo, hair net); the pork-skin
 man and **his wife** (loud, promised the cold store by name in August; at
@@ -370,9 +499,9 @@ Proaño's offer). They are Proaño's foreman's household and refuse in 5.2.
 
 - **The veto's 2068 history** is on the page (1.3). **Why laws go to
   Waska (2101)** is deferred to "your grandmothers" and must be paid off by
-  Dolores in 3.1. Proaño has said it from the other side: "We don't write
-  laws any more … We write what the rope will bear. The question in
-  committee is never whether a thing is good. It's whether it will fit."
+  Dolores in 3.1 (done). The Asamblea's habit is shown, not stated, by
+  Proaño's truck bill (18 pieces at 0.94, "the last truck arrives a year
+  after we needed it") and by Waska seeing it from below.
 - **Premise line** verbatim in 1.3.
 - **Who asks matters**, explicit (2.2, Jacinta): "So it isn't the words.
   It's you. The same label from two of you buys two different things."
@@ -384,10 +513,11 @@ Proaño's offer). They are Proaño's foreman's household and refuse in 5.2.
   take the second best and the third"). Wilmer offered Segundo a third of
   his fee for co-signing, for his four sisters (two at university in Quito,
   a third who wants to go). Segundo refused and envies him.
-- **Proaño** offered work (double the clients, fee paid by the farm,
-  posted) and was refused. "The offer doesn't run out." He believes the
-  rope makes checking unnecessary: "It's the one thing in this country I've
-  never had to check." He laughs at his own truck bill.
+- **Proaño** left a one-line offer at the bakery door ("There's always a
+  place on my labels for them. Your father didn't say no.") and went out
+  before Segundo could answer. He believes the rope makes checking
+  unnecessary: "It's the one thing in this country I've never had to
+  check." He laughs at his own truck bill.
 - **The cord, three touches:** Sisa ties it (2.1); Jacinta's hand stops on
   it and she takes a length, "For the boys. They like string." (2.2,
   disbelieved); Segundo pulls it and thinks of "nothing in the world that
@@ -395,8 +525,8 @@ Proaño's offer). They are Proaño's foreman's household and refuse in 5.2.
   said "ribbon" aloud.** Jacinta says it first, in 3.3: "This is ribbon. New
   ribbon. Who gave you ribbon?"
 - **Sisa's position:** "Grandpa did, and everybody drives on the road … What
-  did you get? A fridge for the pork man." "At least he does things." She
-  admires Wilmer.
+  did you get? A fridge for the pork man, after two weeks." She walks off
+  without waiting for his answer. (Her line about Wilmer was cut.)
 - **His mother's position, previewed:** "She's right about the road. And
   she's wrong about your father. She'll work it out. You did, eventually."
   3.1 picks this up ("when will you stop being his opposite?").
@@ -406,7 +536,51 @@ Proaño's offer). They are Proaño's foreman's household and refuse in 5.2.
 - **The crew chief's son** on the down runs gives the Stakes line a face
   ("somebody's boys on the climber").
 
-## Open threads (for Parts 3–5)
+## What Part Three established
+
+- **The Why row is spent.** Dolores's line is on the page once, verbatim:
+  "Everybody had two bosses that year and both were thieves. The rope was
+  the only one that said no. So we gave it everything." Shown: the
+  payslips, the doubled climbers, the eleven days. **Don't restate it.**
+- **Dolores trusts the rope and not Arriba.** "I've never asked it anything
+  in my life. I never will." She gives asks only for goods ("It goes to
+  Lourdes. Arriba is only the shop."). That sets up her refusal in 5.2: a
+  *question* is asking it something.
+- **She asked "When are you going to stop being his opposite?"** He didn't
+  answer.
+- **Ernesto's method**, which Segundo will use in 5.2: "Nobody ever gave a
+  broker forty thousand asks for a receipt. They gave them for a face."
+  "Receipts are what you give people who don't know you." Segundo now
+  knows that what he swore against at 21 "was a method, and that it
+  worked", and he hates where he learned it. In 5.2 he stands on the same
+  bench, and the band is there (the extra procession rehearsal).
+- **Ernesto voted yes in 2101** ("I'd been in the building. I knew what we
+  were."). He is unrepentant about 2110: "I'm not saying nobody paid. I'm
+  saying they got a road."
+- **Dolores and Ernesto each paid an ask** into *the dispensary's nights*
+  and each read the receipt "all the way through, every figure". Ernesto
+  will frame his.
+- **Jacinta** said "This is ribbon. New ribbon. Who gave you ribbon?"
+  (ledger row: the cord). She can narrow it only to batches 5–8. Her
+  overnight test is inside tolerance; she distrusts it and "can't tell you
+  why in numbers". She trusts the test line, the rope, to catch what her
+  lab can't. That is her error, and P4 begins from it.
+- **Waska bore the plan with batch 7 in it**, by its rule.
+
+## Open threads (for Parts 4–5)
+
+- **4.1 must open from Jacinta's locked drawer.** She puts Waska's published
+  test-line figures beside the cord. The published figure shows batch 7
+  ringing 0.04 more (inside tolerance), the only thing that singles out a
+  batch. Then the Gabon log entry and the certification rule.
+- **Not yet on the page:** that the test line's figures are published at all.
+  Waska's ring has so far been seen only from inside Waska. 4.1 needs one
+  line saying the strain readers publish the test line's figures weekly,
+  or that Jacinta pulls them.
+- **The Caiza boy** visited Dolores; he could be the child at the fence or
+  in the meeting crowd.
+- **Old Moustache and the old man** are the label market's first casualty;
+  the old man could reappear at 5.2, choosing which broker to trust.
 
 - ***The dispensary's nights*** is pooling (Rosaura, Luz, Lourdes, Wilmer,
   and his clients at one ask each). It hasn't filled. Let it fill in P3 or

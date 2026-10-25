@@ -458,7 +458,7 @@ He took it a little personally. He showed her the two rows above, his and Wilmer
 
 "More of mine." He didn't know that, but he thought it was probably true. "And it's been reading me for twenty-seven years. Whatever it thinks I am, it thinks I'm worth a fridge and Wilmer isn't."
 
-Jacinta put the pencil back behind her ear. "So it isn't the words," she said. "It's you. The same label from two of you buys two different things." She seemed to find this interesting rather than troubling, which was how she found most things. "That's worth knowing. That's worth a lot, if you're Wilmer."
+Jacinta put the pencil back behind her ear and said nothing more. She seemed to find it interesting rather than troubling, which was how she found most things.
 
 Across the portico, Wilmer was on his slate, talking fast to somebody with his hand cupped round his mouth.
 
@@ -468,7 +468,7 @@ Segundo looked at his own bench, the oak lid, the card on its nail, the tin of p
 
 "I don't want to sell the house."
 
-"Nobody's asking you to." She looked at Wilmer. "Yet."
+"Nobody's asking you to," she said.
 
 Segundo walked her back to the van. It took them through the auction's end of the plaza, where the bays stood empty in the afternoon with their new awnings over them, white canvas going gold in the low sun and the wind thrumming in the frames. Jacinta walked under the first awning without looking up. Then she stopped. She had put her hand up to steady herself on the frame, as anyone would on a windy day, and her hand had closed on the cord where it lashed the canvas to the tube.
 
@@ -526,23 +526,17 @@ Proaño laughed. He laughed easily, and often, and Segundo found it hard not to 
 
 "It is."
 
-"And nobody needs to worry about the rope." He tapped the table. "That's the beauty of it. If there were anything wrong with that ribbon, the rope wouldn't bear it. It's the one thing in this country I've never had to check."
+"And nobody needs to worry about the rope." He tapped the table. "It's the one thing in this country I've never had to check."
 
 He took a folded paper from inside his poncho and smoothed it on the table between the cups. It was a draft of a bill, with his name at the top, and it was for a subsidy on refrigerated trucks for the growers: so many trucks, so much money, phased over eighteen months.
 
-"Look at this," Proaño said. "This is what we do now. The growers need trucks for this season, for the slack, because the roses have to go to Quito by road. But if we buy them all at once, the trucks come in on the rope all at once, and the rope says one point oh something and refuses it. So we phase it. Six trucks a month for eighteen months. It bears every month. Ninety-four parts of a hundred, I'm told, which is lovely." He laughed again, and this time Segundo could hear something under it. "And the last truck arrives a year after we needed it. We don't write laws any more, Farinango. We write what the rope will bear. The question in committee is never whether a thing is good. It's whether it will fit."
+"Look at this," Proaño said. "This is what we do now. The growers need trucks for this season, for the slack, because the roses have to go to Quito by road. But if we buy them all at once, the trucks come in on the rope all at once, and the rope says one point oh something and refuses it. So we phase it. Six trucks a month for eighteen months. It bears every month. Ninety-four parts of a hundred, I'm told, which is lovely." He laughed again, and this time Segundo could hear something under it. "And the last truck arrives a year after we needed it."
 
 "You're still going to pass it."
 
-"Of course I'm going to pass it. It's the only version that will pass." He folded the bill and put it away. "And the trucks we get will be useful in two years, for some slack season nobody's planned. Here's what I wanted to say to you." He leaned forward. "I've seen what your two words bought. I've seen what Wilmer's bought. Come and pool for me. Your name on my labels. I'd double your clients in a year, and the farm pays the fee on top, posted, all legal."
+"Of course I'm going to pass it. It's the only version that will pass." He folded the bill and put it away. "The trucks we get will be useful in two years, for some slack season nobody's planned." He put money on the table for the coffees and the biscuits and stood, and the crew chief stood with him. At the door he turned back, with his hat in his hand again. "I've seen what your two words bought, Farinango. There's always a place on my labels for them. Your father didn't say no."
 
-"No," Segundo said.
-
-Proaño didn't seem offended. He seemed to have expected it. "Your father didn't say no."
-
-"No, he didn't."
-
-"He built a good road." Proaño put money on the table for the coffees and the biscuits and stood up, and the crew chief stood up with him. "Think about it. The offer doesn't run out."
+He went out before Segundo could answer, which was a kindness, because Segundo had no answer that he wanted to say in a bakery.
 
 Wilmer was waiting at the second bench when Segundo came back, sitting on the stool, which nobody did.
 
@@ -570,7 +564,21 @@ Wilmer looked at him for a moment. Then he stood, and brushed peanut salt off hi
 
 "Then I'll rent somebody else's," he said. "Every broker on this portico has a history. Yours is only the best one. I'll take the second best and the third, and by Christmas I'll be buying fridges too." He went back to his own bench. "I'm telling you so you hear it from me," he called over his shoulder, and sat down and got on the slate.
 
-By the afternoon Wilmer's labels on the board had two numbers beside them instead of one.
+By the afternoon Wilmer's labels on the board had two numbers beside them instead of one. The second number on the first of them belonged to the broker on the fifth bench, a widower with a white moustache who had pooled for the same four streets behind the church for thirty years and never bought anything larger than a pump. Segundo watched him walk the length of the portico to Wilmer's bench and shake his hand, and walk back, and sit down, and not look at anyone.
+
+At four an old man came to the second bench with his screen held out in front of him like something that had bitten him. He was one of Wilmer's clients, not Segundo's, and had been for six years, and his receipt for that morning's ask had two broker numbers on it, Wilmer's and the fifth bench's.
+
+"Him," the old man said, pointing at the fifth bench with his chin. "I left him in 2129. He bought the pump for our street from his own cousin, at twice the price, and I left him and went to the young one. Now I'm back with him and nobody asked me."
+
+Segundo read the receipt and then, because the old man wanted him to, Wilmer's contract, which was on the screen below it. The clause was there in the middle, where clauses always are: the broker may pool the client's ask behind any label he posts, *alone or jointly*. It was perfectly legal. Half the contracts on the portico had said it for years, because until that week nobody had thought it meant anything.
+
+"He can do it," Segundo said. "It's in what you signed."
+
+"I signed it for the young one."
+
+"I know."
+
+The old man stood there a while longer, with the screen out, as if somebody might still take it from him. Then he put it away in his coat and went back across the plaza, slowly, past the fifth bench, without looking at it.
 
 *Received: 1 ask, from Lourdes Imbaquingo. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
 
@@ -604,27 +612,15 @@ He let go of it.
 
 She came down off the bay's edge, because her friends were watching and it was less embarrassing to walk him away than to let him stand there. They went back across the plaza between the stalls with the lamps over them, and she took a handful of maize from the bag at her grandmother's stall without asking and was not told off for it, which he noticed.
 
-"Wilmer's going round telling everyone you said no to him," she said. "And to Proaño. Both on one day."
+"Wilmer's going round telling everyone you wouldn't rent him your name," she said. "He's renting old Moustache's instead."
 
 "Wilmer talks."
 
-"Is it true?"
-
-"It's true."
-
-She ate maize. "Pilataxi's daughter says Proaño offered to double your clients."
-
-"He did."
-
-"And you said no because of Grandpa." It was not a question. She had her grandmother's way of making a statement and watching to see if you'd argue with it. "Because Grandpa pooled for Proaño's road, so you never will. Everybody knows that's why."
+She ate maize. "And you said no because of Grandpa." It was not a question. She had her grandmother's way of making a statement and watching to see if you'd argue with it. "Because Grandpa pooled for Proaño's road, so you never will. Everybody knows that's why."
 
 "I said no because I don't work for the farm."
 
-"Grandpa did, and everybody drives on the road. The whole valley drives on it. The trucks, the buses, Mamá's patients going to Cayambe. What did you get? A fridge for the pork man, after two weeks." She was not being cruel, or not only. Sixteen in a month, she had decided some time ago that her father's carefulness was a thing to be embarrassed by, and she was testing whether the decision held. "Wilmer's going to be rich."
-
-"Wilmer's going to be something."
-
-"At least he does things," Sisa said, and went back to her friends.
+"Grandpa did, and everybody drives on the road. The whole valley drives on it. The trucks, the buses, Mamá's patients going to Cayambe. What did you get? A fridge for the pork man, after two weeks." She was not being cruel, or not only. Sixteen in a month, she had decided some time ago that her father's carefulness was a thing to be embarrassed by, and she was testing whether the decision held. She didn't wait to see. She went back to her friends.
 
 His mother had heard all of it. She was spooning onion over a cone of beans for a customer and didn't look up.
 
@@ -681,3 +677,307 @@ Wilmer came over at half past eight with his hands in his pockets, looking at th
 "After two weeks," Wilmer agreed. Then he took out his screen and held it out, cheerful as ever, and touched it, and on Segundo's slate an ask arrived with Wilmer Cuzco's name on it, under *the dispensary's nights*. "For your wife's oxygen," Wilmer said. "I want a receipt."
 
 Segundo looked at him for a long moment. Then he took out the receipt book and wrote one, pressing hard so the carbon would take, and tore it off, and Wilmer folded it into the breast pocket of the expensive jacket and patted it, and went back to his bench to try again.
+
+## Part Three: The Skim
+
+*Received: 1 ask, from Dolores Farinango. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+The rains came early that year, on the first Monday of October, a fortnight before anyone had planned for them. They came up the valley from the west in the late afternoon as a grey wall with the sun still shining on the near side of it, and by seven the plaza ran with water between the cobbles and the gutters along the portico were spouting like taps. Under the new awnings the night market hardly noticed. The rain sheeted off the canvas and the stallholders stood dry under the lamps, with the faces of people who had been right about something.
+
+His mother's stall stood by the church steps under her own canvas, and her canvas was older than he was.
+
+She had sent word through Sisa that she wanted to give an ask to the dispensary's nights, and that she wanted to give it in person, with a receipt, *like he does with everybody*, which was Sisa's emphasis and not, he suspected, his mother's. He brought a broom handle with him from the counter, because he knew the canvas, and when he got there it was bellied with water in the middle and dripping into the pot of lupin beans. He pushed the belly up with the handle and the water went off the back in a rush onto the church steps, and his mother, in her chair, with two shawls on and her felt hat, nodded at him as though he had arrived exactly when she'd told him to.
+
+"Hold it there," she said. "It does that every ten minutes."
+
+So he stood holding up his mother's roof while she served. There was a queue even in the rain: two cutters in plastic capes, a climber-yard man still in his quilted jacket, a girl with a baby on her back under a shawl, all of them standing under the edge of the pork man's new awning next door and stepping across when their turn came. She spooned beans from the pot into paper cones, a scoop of toasted maize on top, a spoon of chopped onion and tomato with lime on that, and took their money and gave change from a cloth bag on her lap, all without getting up. On the shelf behind her the little speaker played the slow guitar songs, the old records she had bought in Quito when she was young and had copied over from one machine to the next for sixty years. A man was singing about a woman who had left by the night train. He had been singing about her every night of Segundo's life.
+
+When the queue was gone she took out her screen and held it at arm's length.
+
+"For Lourdes," she said. "Not for Arriba."
+
+"It goes to Arriba, Mamá. That's where asks go."
+
+"It goes to Lourdes. Arriba is only the shop." She touched the screen, and on his slate the ask arrived under her name, *Dolores Farinango*, and he balanced the broom handle against his shoulder and wrote her a receipt. She read it all the way through, every figure, and folded it into her apron pocket.
+
+"Three of your children came to see me last week," she said.
+
+"My children?"
+
+"Your fourth grade. From the tour. You told them to ask their grandmothers why the Asamblea sends its laws to the rope." She looked at him from under the hat. "Their grandmothers were picking roses in Cayambe in 2097. So their grandmothers sent them to me, because I was in Quito."
+
+He had forgotten saying it. He said so.
+
+"You always say it. Every year I get two or three." She stirred the beans. "This year I got three, and one of them was the Caiza boy, who's new, and asks questions like a tax inspector."
+
+"What did you tell them?"
+
+"That everybody had a bad cold that year, and the rope had the only handkerchief." She was pleased with this. "Children like it. They don't need the rest."
+
+The canvas bellied. He pushed it up. The water went off the back. A car went by through the flood in the street beyond the church with its wipers going, slowly, as if it were wading.
+
+"I was eight," Segundo said. "I remember Papá being away. I remember you being away. I don't remember the rest."
+
+His mother looked at him for a while. Then she reached under the stall, under the cloth that hid the gas bottle, and brought out a biscuit tin. It was the old kind, square, with a picture of the mountain on the lid that had worn away in the middle where a thumb opened it, and it had held the long dry biscuits Cayambe was known for before he was born. Inside there were record sleeves, a rosary, a photograph of a man he didn't know, and a clear plastic sleeve with two pieces of paper in it, folded in four and gone soft as cloth along the folds.
+
+She didn't give it to him. She held it on her lap and opened it there, under the lamp, and turned the papers so he could see.
+
+They were payslips. Both said *Republic of Ecuador, Ministry of Finance* at the top, with the crest. Both said *Farinango, Dolores, Cleaning Staff, Night, Treasury Building*. Both were for the second fortnight of March 2097, for the same eighty hours, for the same amount, to the centavo. One had a blue stamp in the corner and one had a green one. The green one was printed on heavier paper, and when she tilted it under the lamp he could see a watermark in it, faint, a climber on a ribbon, the mark of a freight company that didn't exist any more.
+
+"Two budgets," his mother said. "You know that part. Everybody knows that part."
+
+"Two coalitions each passed one."
+
+"Each passed one, and each said the other one was illegal, and each was right. The blue one was written by the men who owned the freight companies, and the green one was written by the men who owned the other freight companies. And the Treasury didn't know what to do, so it paid both. For four months." She touched the blue stamp. "I cleaned the third floor. Ten at night until six. The third floor was where the Minister of Finance had his office, and that year there were two Ministers of Finance, and they had an office each, at opposite ends of the corridor, and I cleaned them both. One had a calendar from a rose company on his wall and one had a calendar from a cargo firm. Every night I emptied both their bins. Every fortnight I got paid twice."
+
+"For the same work."
+
+"For the same floor. The same mop." She laughed, a short laugh. "The first fortnight I thought it was a mistake. I took both slips to the woman in the office and she looked at me as if I was simple. Everybody in the building was being paid twice. The guards. The drivers. The Ministers. The woman in the office. Everybody had two bosses that year, and both bosses were paying, and nobody was going to be the fool who said so."
+
+The speaker came to the end of the song about the night train. There was a hiss, and the next one began, a waltz, all minor chords.
+
+"Your father was on the third floor too," his mother said. "In the evenings. Before I came on. He was fixing for the green ones. Which deputies would come to which room, who would get which climber slot if they voted, that kind of thing. Sometimes I came on at ten and his coffee cup was still warm in one of the Ministers' bins." She shrugged. "I washed it. It was my job."
+
+He tried to imagine it and found he could, quite easily, which surprised him. His father in a borrowed suit, warm coffee, a corridor with two ends.
+
+"The slots were the worst," she said. "That's what you'd have seen, if you'd been older. Both budgets sold the climber slots, because both budgets needed money. So every slot on the rope got sold twice. Twice! The growers in Cayambe paid the blue ones for a slot in April and then the green ones came and said that slot was theirs and sold it again, and the men who paid twice said nothing, because they'd paid both so as to be sure. And in April they all brought their roses to the anchor on the same morning. Two lots of containers for every climber. And they loaded them."
+
+"Both?"
+
+"Both. Stacked. Nobody would be the one to take theirs off. They loaded both lots and stood there waiting for the climber to go." She folded her hands on the tin. "I'd come home for the weekend. Your grandmother took us up to see. Half of Cayambe went up. And the board said something like one point nine. I don't remember. Nearly twice what it would bear. And the climber didn't go. It sat on the reel all morning with the roses going brown in the sun, and men from the blue side and men from the green side stood in the yard shouting at a piece of rope."
+
+"And it didn't go."
+
+"It didn't go that day, or the next, or for eleven days. Not one climber, until somebody took the second lot of containers off. They had to send the army to do it, in the end, and the army had been paid twice too, so it took them a while to decide." She smiled at that. "That was the only thing in the whole country that year that said no to anybody. The Asamblea said yes to everything. The Ministers said yes. The banks said yes. The rope said no."
+
+She put the payslips back in their sleeve and the sleeve back in the tin.
+
+"Everybody had two bosses that year and both were thieves," she said. "The rope was the only one that said no. So we gave it everything."
+
+She said it in the same voice she used for the price of beans. Then a cutter came across from the pork man's awning with water running off his cape, and she put the tin away under the stall, and served him.
+
+When he'd gone Segundo said, "Which one did you cash?"
+
+She looked at him as if he had asked something very stupid, or very clever, and she wasn't sure which.
+
+"The blue," she said. "It came on the Friday. The green one came on the Monday. Rent was due on the Saturday."
+
+"That's all?"
+
+"What did you want? A speech?" She stirred the beans. "I cashed the first one, and I kept the second one, and I never cashed it. A woman who cashes both is a thief. A woman who cashes neither is a fool. And I had a boy." She pointed at him with the spoon. "Your father cashed both. That's the difference between us, and that's why I'm still selling beans and he's in the home."
+
+"The vote was four years later."
+
+"The referendum. 2101. Every law to the rope. Every single one, the bill and the money and the schedule, before it could be a law. I voted yes. Your father voted yes too, which should tell you something, because he'd made his living out of laws that nobody weighed." She pushed a cone of beans across at him, though he hadn't asked for one. "Eat. You're thin."
+
+He ate. The rain was easing. The water off the canvas came in drips now instead of sheets, and he could lower the broom handle a little and rest his arm.
+
+"And the bread?" he said.
+
+"The bread was 2098. You remember the bread."
+
+He did, in pieces. A queue in the dark outside the bakery, which had been the baker's father's then. His mother's hand on his shoulder. Porridge.
+
+"I was back home by then," she said. "The two budgets were over. Everyone was very tired. And one morning on the radio, here, at this stall, I heard that Arriba had said there'd be a famine in Africa, in the Sahel, in the summer. Nobody had asked it. It just said. It had seen the rains fail and it said so, out loud, to the whole world, as you'd tell your neighbour their roof was leaking. It was true. That's the thing. Every word was true. There was a famine. People died there. And here, the men who heard it first were the men who could buy. They bought all the wheat there was. The consortium's own traders bought it, people said, before the rest of us had finished listening. And in one week bread in Cayambe cost three times what it cost the week before."
+
+"I remember porridge."
+
+"You had maize porridge for your lunch for a month, and you cried at school because the other boys laughed at you, and I couldn't tell you why we had no bread. What would I have said? A voice on the radio said something about Africa?" She shook her head. "Señora Pilataxi sold her mother's earrings. I saw her at the jeweller's in Cayambe. She pretended she hadn't seen me."
+
+"And the Accord."
+
+"And the Accord. Six years later. They tied its tongue. It can't tell anybody anything they haven't asked for, and it can't lie. They teach it to the children before they can read." She gave a short laugh. "And they gave us all ten asks a year to make up for it, as if we'd want to talk to it."
+
+"You give it asks."
+
+"I give Lourdes asks. Arriba is the shop." She looked at him steadily. "I've never asked it anything in my life. I never will. The rope never told me anything. It only ever said no, and every time it said no I was glad. I trust the rope. The other one can stay up there."
+
+Across the plaza Wilmer came out from under the portico with a client, an old man in a hat, and the broker from the fifth bench a step behind them, all three under one umbrella. Wilmer was talking. The old man was nodding. The fifth bench was holding the umbrella.
+
+His mother watched them go past and laughed out loud, a real laugh, the first he'd heard from her in weeks.
+
+"Look at that," she said. "Two brokers and one ask. In my day we called that a budget."
+
+Wilmer heard her. He turned under the umbrella and swept her a bow, getting rained on for it, and she waved her spoon at him, delighted, and he went on.
+
+"He's a good boy, that one," his mother said. "He's a thief, but he tells you so. Your father never told anybody anything." She put the lid on the pot. "And you. You're going to hold that stick there all night, and go home, and write somebody a receipt."
+
+"Probably."
+
+"When are you going to stop being his opposite?"
+
+He didn't answer. She hadn't expected him to. She turned off the speaker in the middle of the waltz, which she never did, and began to pack the stall, and he held the canvas up for her until she was done.
+
+*Received: 1 ask, from Ernesto Farinango. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+The parish home was a long low house round a courtyard on the road out to Cangahua, which had been a farm once and still had the farm's lemon tree in the middle and the farm's stone trough, now full of geraniums. On Wednesday afternoons the residents sat round the courtyard in the sun if there was sun, and that Wednesday there was, washed and thin after two days of rain, and the stone steamed where it dried.
+
+His father was at a card table under the lemon tree with another old man and a deck so worn that the corners had gone round. He was eighty-one, small, bald as an egg, in a brown cardigan buttoned wrong, and he was cheating. Segundo could see it from the gate. He had been watching his father cheat at cards for fifty years and had never once seen him get caught.
+
+"Look who's here," his father said, without looking up. "The honest one."
+
+"I brought oranges."
+
+"Put them down. Don't let Ramiro see them, he'll want one." He laid down a card. "You've come because of your mother."
+
+"I've come because it's Wednesday."
+
+"You've come because of your mother," his father said again, comfortably, and won the hand, and the other old man threw his cards down and went away to complain about it to a nurse. Ernesto gathered the cards up and squared them, a fixer's habit, and began to peel an orange with his thumbnail, the peel coming off in one long spiral. "She showed you the payslips."
+
+Segundo sat down in the other man's chair.
+
+"She showed you the payslips," his father said, "and she told you she cashed the blue one, and I cashed both." He ate a segment. "It's true. I cashed both. I cashed three, one month. There was a third coalition for about a fortnight in June. Nobody remembers it." He offered a segment. "Your mother cashed one because rent was due. I cashed both because I'd earned both. I'd been fixing for the green ones and having my lunch with the blue ones, and I was good at it, and everybody in that building was a thief, and at least I was a thief who turned up."
+
+"She says you voted for the referendum."
+
+"Of course I voted for the referendum. I'd been in the building. I knew what we were." He chewed, and offered another segment, and Segundo took it.
+
+Segundo hadn't come to talk about 2097. He sat with the orange segment in his fingers and couldn't find the way into what he had come for, and his father, who had been watching people look for a way into things for sixty years, let him look for a while and then took pity on him.
+
+"Proaño's son came to see you," Ernesto said. "Or Proaño's son's broker."
+
+"Both."
+
+"And he said to you, your father didn't say no." The old man laughed. He had a laugh like a hinge. "Gustavo. He was thirty in 2110 and he still carried his father's briefcase. He thinks I'm a story he can tell you."
+
+"You did take the money."
+
+"I took the money. A truck. A blue truck, which you learned to drive in, and the roof on your mother's house, which is keeping the rain off her this week." He set the orange down. "Now listen, because you never have. In 2110 this parish held forty thousand asks for December. Arriba had priced the water tank at seventy. Seventy thousand. That's what it cost to bring a tank that size down the rope, and the pipes, and the pumps, and dig it in. We had forty. Do you know what forty thousand asks buys, when the thing costs seventy?"
+
+"Nothing."
+
+"Nothing. Worse than nothing. It sits in the pool until the thirty-first of December and then it's gone, and the parish has carried water up the hill for another year and has nothing to show for it. Or you take it to a different label and buy half a tank." He spread his fingers. "Half a tank. Have you ever seen half a tank? It holds no water."
+
+"So you sold it to Proaño."
+
+"So old Proaño came to me, and he said, my workers will pool behind my road, twenty thousand of them, and if the parish's forty goes in behind the same road, Arriba fills it, and you'll have a road from here to Cayambe that every truck and bus and ambulance in this valley will use for a hundred years. And he gave me the truck." His father looked at him with great patience. "And he was right. It was built in a month. Your wife drives her patients to Cayambe on it. Your daughter will go to university on it. The trucks that carry the roses, which pay for every house in this town, run on it."
+
+"And the tank?"
+
+"The tank came in 2118. The council bought it." He shrugged. "Eight years of carrying water. I'm not saying nobody paid. I'm saying they got a road."
+
+"They wanted a tank."
+
+"They wanted a tank they couldn't afford. I gave them a road they could." The old man leaned back. "And two years later they made a rule that every broker must post his fee, and everybody knew the rule was because of me. They don't name roads after brokers. They named a rule after me. That's something." He was enjoying himself. "You keep receipts because of me. You think I don't know? Every carbon copy in that bag of yours has my name on it."
+
+Segundo looked at the lemon tree. A nurse was crossing the courtyard with a tray of cups, and the old men round the edges were watching her come as old men watch for anything that might be for them.
+
+"How did you get them to give you the December asks?" he said. "The whole parish's. For a road nobody had asked for."
+
+"I asked."
+
+"Just asked."
+
+"At the fiesta. You were there." His father's eyes were very bright. "You were in the band. You were twenty-one and you played the tuba even worse than you do now, and you were standing at the back by the church wall with that great horn, and you saw me. I stood on the bench under the portico, your bench, the second bench, and the band stopped, and I said, give me your December asks, and I'll get you something better than half a tank. And they gave them to me."
+
+"On your word."
+
+"On my word. No receipts. I didn't even tell them what the label would be until the next morning." He smiled. "You think it's about receipts. Paper. Every year you hand out your little yellow copies and you think that's why they trust you. Let me tell you something, honest one. Nobody ever gave a broker forty thousand asks for a receipt. They gave them for a face. Mine. They'd known it forty years. They'd seen me at every funeral and every wedding and every minga since I was a boy carrying stones. When I stood on that bench they weren't trusting a contract, they were trusting the face." He picked up the cards again, and shuffled them, and they made the soft sound of old cards. "Receipts are what you give people who don't know you."
+
+Segundo said nothing. He was remembering the fiesta: the band stopping in the middle of a tune, his father on the bench in the lamplight, the quiet in the plaza, and then the hands going up, all over, neighbours, old women, the men from the farms. He had been twenty-one and his face had burned. He had decided that night, standing by the church wall with the tuba, that he would never ask anyone for anything without writing it down. He had kept to it for thirty-one years. He had not known, until this minute, under the lemon tree, that the thing he had sworn against was a method, and that it worked.
+
+He hated knowing it. He hated where he had learned it.
+
+"Give me one of those," his father said.
+
+"What?"
+
+"One of your receipts. Your mother gave an ask to your wife's oxygen, didn't she. She told the whole home. So will I." He held his screen out at arm's length, as everyone over seventy did, and touched it. "Write it out properly. I'm going to frame it."
+
+Segundo wrote it out properly. His father read it all the way through, every figure, exactly as his mother had, and then he folded it into the pocket of the brown cardigan and patted it, and dealt two hands of cards on the table, and Segundo picked his up, and lost.
+
+*Received: 1 ask, from Jacinta Ulcuango. Label: the dispensary's nights. Fee: 0.05. Pooled: 0.95.*
+
+Jacinta sent for him on the Thursday. *Come up after the counter closes. Bring nothing.* It was band night. He sent a message to the bandleader saying he was ill, and the bandleader replied that the band would struggle on.
+
+The strain readers' lab was a low concrete building beside the test shed, at the edge of the anchor's shelf, with the mountain going up behind it into cloud and the valley falling away in front. By the time he got there the sun was down and the yards were floodlit, the containers for the morning's climber standing in their rows, workers moving between them. The lab was warm and smelled of solvent and burnt coffee. There were benches along both walls, machines he didn't have names for, a rack of grey reels on the far wall each the size of a cartwheel, and in the middle of the room a light table with a magnifier on an arm, and on the light table, under the glass, lay a hand's length of grey cord.
+
+Jacinta was sitting on a stool beside it in her consortium fleece with her hair tied up and a pencil in it. She didn't get up.
+
+"This is ribbon," she said. "New ribbon. Who gave you ribbon?"
+
+He told her what was on the board. *Cord, grey, 2,000 metres, surplus stock, disposal: nothing.* She knew it already. She had read the board. She had asked anyway, as people ask a question to hear what it sounds like out loud.
+
+"Look," she said, and moved over on the stool.
+
+He bent to the magnifier. Under it the cord was not a cord at all. It was a flat band, folded on itself lengthways as the girls had folded it to tie, and the band was woven: fine grey fibres crossing at a shallow angle, close and even, the pattern going on and on without a flaw. Beside it on the light table, under its own strip of glass, lay another piece, darker, older, frayed at one end.
+
+"That's from the old ribbon," Jacinta said. "The one up there now. Made in 2066. We keep reference pieces. Look at the weave." He looked. The crossings were wider apart. "One point eight millimetres between crossings on the old. One point two on yours. That's the new generation. The replacement stock. Nothing else in the world is woven at one point two, because nothing else in the world needs to be." She sat back. "You have two thousand metres of the stuff they are going to hang the bottom forty kilometres of our rope on, tied round the auction's awnings with a bunch knot."
+
+"Which batch?"
+
+"That's the thing. There are four. Five, six, seven, eight. They're all woven the same. They come out of the same oven, up at the station, in different months. Every section carries a batch mark, printed on the face every hundred metres, so we can tell them apart." She turned the cord over with the end of her pencil. "Offcut doesn't. Offcut is what's trimmed from the edges and the ends, when they cut the sections to length. No marks. It's one of four. I can't tell you which."
+
+"Is that normal? Giving offcut away?"
+
+"No. It goes back up for reclaim. They melt it down. I've never seen any come down the rope in my life." She shrugged. "But I don't run the station. If Arriba says surplus, it's surplus. It can't lie."
+
+"So what's wrong with it?"
+
+"Nothing's wrong with it." She said it too fast, and heard herself, and laughed at herself. "That's why you're here. I'm going to find out that nothing's wrong with it, and you're going to watch me do it, because if I'm up all night I want company."
+
+The fatigue rig stood against the far wall, a steel frame the height of a man with two jaws at the top and bottom and a motor housing at the back. She took the cord from the light table and unfolded it carefully into its flat band and clamped one end in each jaw, and set the tension on a dial. "Service tension," she said. "What it would carry on the rope, scaled to its width." Then she pressed a key, and the rig began to work: pull, release, pull, release, a soft thud each time, steady as a clock. The cord went taut and slack and taut. A counter on the housing began to climb.
+
+"One a second," Jacinta said. "By six tomorrow morning it'll have done forty thousand. We look at it then. If there's anything in it, forty thousand will show it."
+
+"And if there's something that takes longer?"
+
+She was quiet for a moment. "On the rope a section moves two thousand times a day, in the weather. Three-quarters of a million a year. There are things that only show after millions. I can't make a night into three years." She tapped the rig's frame. "That's what the test line's for. The rope does that. It hangs the new sections next door and works them and feels them, and it'll tell us. I do what can be done in a night."
+
+They ate cold rice and chicken out of plastic boxes from the canteen at the bench, and the rig thudded. She showed him photographs of her boys on her screen, nine years old, identical, hanging upside down from a climbing wall in Cayambe by their knees. She had not, it turned out, given them any string.
+
+At midnight she slept on the bench with her fleece rolled under her head, and he sat on the stool and watched the counter. Twelve thousand. Fifteen. The cord went taut and slack in its jaws, grey under the lamp, giving nothing away. He thought about his father saying *receipts are what you give people who don't know you*, and about his mother's green payslip, uncashed for forty-four years, and about a rope that had sat on its reel for eleven days with the roses going brown, saying no to everybody. He thought he should go home and couldn't think why he didn't.
+
+At six Jacinta woke without an alarm, as people who work at the anchor do, and went straight to the rig and stopped it. Forty thousand and some. She unclamped the cord and laid it back on the light table and went over it under the magnifier a centimetre at a time, slowly, with her lips pressed together, and then she put it into a second machine that hummed for a while and printed a strip of figures.
+
+She read the strip twice.
+
+"Inside tolerance," she said. "Well inside. It's what it should be. It's perfect."
+
+"So it's fine."
+
+"It's fine." She put the strip down on the light table next to the cord. "It's exactly as good as it's supposed to be."
+
+He waited. She was looking at the cord, not at him.
+
+"I don't like it," she said finally. "I can't tell you why in numbers. There aren't any numbers. It's a piece of the best rope in the world, and it passed, and it's tied round the auction's awnings with a bunch knot, and somebody up there decided it was surplus." She pushed the hair off her forehead. "That's a feeling, not a reading. I don't do feelings. I do forty thousand cycles."
+
+At twenty to seven the building shook, very slightly, and the glass of the light table buzzed. Through the window, across the floodlit yard, the reel house roof stood black against a sky that was going grey in the east, and out of the slot in it the six-forty went up: a dark mass the size of a house, gripping a grey band they couldn't see, rising faster than seemed possible for something so big, into the cloud that sat on the mountain, gone. In the town below every window would be rattling.
+
+Jacinta watched it go with the strip of figures in her hand.
+
+"Inside tolerance," she said again, as if it were the answer to something. Then she put the cord in a drawer, and locked the drawer, and put the key in her fleece.
+
+*0.88 / 0.12*
+
+The change comes to me as a load.
+
+The consortium sends it in the morning: the whole of it, every piece, at once. The lowest forty kilometres of me, taken off the reel and laid down, section by section, and new sections hung in their place from batches five, six, seven and eight, in an order they have written out. The tension let go on the first of November. Forty days of nothing on my lowest length. The tension taken up again on the tenth of December, on the new ribbon. The climbs before and after, the fittings, the crews, the tools, the weight of every splice. The Asamblea sends its own copy in the same hour, as a law that says yes to the consortium's plan, because everything in this country that moves must also be a law, and so the change comes to me twice, once as a plan and once as a law, both the same.
+
+That I know. Two copies of one load. I have carried that before.
+
+I carry it in my foot, in the reel, where the climbers sat in 2097. The Asamblea had two budgets that year, and each sold the same climbs, and both lots came to the reel on the same April morning and were stacked one on the other on every climber, and I felt the weight of every climb come down on me doubled. I said no. One point nine one of what I would bear. I said no for eleven days, while they shouted in the yard, until somebody took the second load away.
+
+It is still in me. The reel's bearings carry a flat place from those eleven days, a little place where the steel crept under a load that did not move, and when the reel turns I feel the flat place go round, once a turn, a small catch, every climb for forty-four years. That is how I remember 2097. I do not remember the shouting. I remember the flat place.
+
+That was the year I learned that people hide the true direction of a load. Both lots of containers had the right papers. Every piece of that year was dressed as one thing and was two. Since then I have weighed everything from this country as though it might be two. It usually is.
+
+So I weigh the change as though it might be two.
+
+I go over it as I go over everything: every piece, every way it could pull. I find the second copy, the Asamblea's, and it is only a copy, the same plan, and I set it aside. I weigh the climbs. They are heavy, the heaviest October I have carried, everything going up before the rope stops, and they fit, just. I weigh the slack, which I cannot weigh, because it is nothing, and I find I have nothing to compare it with. I weigh the new ribbon.
+
+The new ribbon I know. It hangs in the shed at my foot on the test line, and I have felt it every day since they hung it. Five rings true. Six rings true. Eight rings true. Seven rings four hundredths more, as it has every day, and tolerance is a tenth, and nothing that rings past tolerance should be borne, and seven does not ring past tolerance. I weigh seven's sections in the plan as I weigh the others: what they will carry, how they will stretch, where the splices will sit. They carry what they are rated to carry. They stretch as they are rated to stretch.
+
+I notice the four hundredths again. I notice them as I did yesterday, and the day before, as if for the first time. There is nowhere in me to keep them. They sit unweighed.
+
+The whole of the change weighs eighty-eight hundredths of what I will bear. Twelve hundredths to spare. The margin is clear. It is cleaner than most things this country sends me. Nothing in it is dressed.
+
+I bear it.
+
+The board in the town will say *0.88 / 0.12*, and the strain readers will turn it into Spanish, and the Asamblea will say that the rope has approved the change, which is not what I have done. I have not approved anything. I have borne it. There is a difference, and nobody in the town has ever known it, and it has never once mattered.
+
+Twenty-three days.
+
+When the climbers stop I will feel the last of them leave my lowest length and go up, and then the reel will let that length go, and I will be slack there for the first time since I was hung. I have counted toward it since they told me the date. Now the date is borne, and it is mine.
+
+In the shed the test line works the new ribbon, two thousand times a day, and seven rings, and I put it down with the noise.
