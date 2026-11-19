@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 7, Review (draft 1)
-- **Next action:** strip the notes, then the First Reader, the panel and the grader.
+- **Current stage:** 8, Revise (round 1)
+- **Next action:** Gemini writes draft 2 from the plan.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -23,6 +23,7 @@ agent. The debrief should compare this prose with earlier runs.
 | 3 Synthesize | 2026-11-19 | orchestrator (proxy) | A, The Prior (egan/Cromwell's Rule × tchaikovsky/Cached), with Vinge's push as the turn: the birds hide things from her installed prior, not from her | Mean rank 1.0, first for all four lenses. N5, F4, reader-profile pull 1. Under the ceiling at about 6,000. Consultant (fable) 95% on A, 70% on the turn. The synthesis's 'cache shows the service' turn was replaced as a placeholder, not cut for length | C, The Signatory with the slowing dropped (tie at 3.25 with B and D; C chosen on the gate's ambition rule, not on panel votes) |
 | 4 Build | 2026-11-19 | orchestrator (proxy) | Bible approved after the stress test; every must-fix resolved (stress-test log in the bible) | 16 must-fix notes from five lenses, all mechanical or additive: the table made physical (witnessed single-atom syntheses), the twist given an observable mechanism (UV glint, eyes-shut tests, a partly wrong model), trust grounded in memory, the public decoy naming rule, a fledgling, the moot vote with a dissenter, scene 7 touch-only and scene 8 the one sighted spend | A second stress-test round (declined: the fixes are local and stage 5's panel sees them in use) |
 | 5 Structure | 2026-11-19 | orchestrator (proxy) | Outline approved: seven dated sections and a coda, about 6,800 words, headings carrying her number. All must-fix notes resolved (its Stage 5 lens notes) | Nine must-fix notes from three lenses, converging on a repeated middle: old scene 5 cut and split, the moot carrying Stakes and the proof, the jigsaw misreading as scene 4's engine, the scale seen in the bellows hall, the hearing clue made consistent, the coda split out | Keeping a separate stakes scene before the moot (declined: Chiang and Asimov both flagged it as a repeated tradeoff) |
+| 8 Revise (round 1) | 2026-11-19 | orchestrator (proxy) | Revision plan approved: 24 items (7 consensus, 7 adopted single-lens, 10 comprehension). The gate failed on draft 1: Premise, Ending and Reach partial; Terms missed; Stakes, Why, Twist and Who's who got it | Every lens scored Structure 3 or 4, with the hearing rule, the lectures and the Day 117–118 repetition as shared causes. The comprehension misses are fixable with plain statements and plain words. Watts's physics fixes give the climax an act (waiting at the detector) | Cutting the coda (declined: the Reach row's Concern side lives there) |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
@@ -37,9 +38,12 @@ where `agy` reports it.
 | 3 Synthesize | 4 lens-critic, 1 consultant | 312,616 | 15k |
 | 4 Build | 5 lens-critic | 274,957 | 25k |
 | 5 Structure | 3 lens-critic | 179,289 | 15k |
+| 7 Review (draft 1) | 1 first-reader, 5 lens-critic, 1 comprehension-grader | 470,934 | 20k |
 | 6 Draft | Gemini 4 Argon via agy, 3 turns (on the human's subscription) | 435,915 (Gemini) | 30k |
 
 ## Gate failures
+
+- **Round 1 (draft 1):** Premise, Ending and Reach partial; Terms missed (prior, posterior, Hessary Schedule C, element names, detector parts, several plain-English craft words). Lost-list 11, 7 tied to graded rows.
 
 ## Seed stock
 
