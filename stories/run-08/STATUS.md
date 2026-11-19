@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 6, Draft
-- **Next action:** Gemini 4 Argon drafts draft 1 through agy.
+- **Current stage:** 7, Review (draft 1)
+- **Next action:** strip the notes, then the First Reader, the panel and the grader.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -12,7 +12,7 @@
 ## Drafter
 Stages 6 and 8 use **Gemini 4 Argon** (`gemini-4-argon-high`) through
 `~/.local/bin/agy`, at the human's request, in one resumed conversation.
-Conversation ID: _set at stage 6_. Every other role is the usual Claude
+Conversation ID: `9d475cfe-3afc-4e71-a21d-c4af218cadce`. Auto mode refused `--dangerously-skip-permissions`, so Gemini gets no tool access: the orchestrator inlines every input into the prompt, Gemini returns the draft as text, and the orchestrator writes the file and runs `just lint`. **Gemini can't count its own words:** it reported 6,812 for a 10,985-word draft and 6,758 for 8,142. Two length rounds inside stage 6, the second with per-section counts, brought it to 6,255. Every other role is the usual Claude
 agent. The debrief should compare this prose with earlier runs.
 
 ## Gate decisions
@@ -37,6 +37,7 @@ where `agy` reports it.
 | 3 Synthesize | 4 lens-critic, 1 consultant | 312,616 | 15k |
 | 4 Build | 5 lens-critic | 274,957 | 25k |
 | 5 Structure | 3 lens-critic | 179,289 | 15k |
+| 6 Draft | Gemini 4 Argon via agy, 3 turns (on the human's subscription) | 435,915 (Gemini) | 30k |
 
 ## Gate failures
 
