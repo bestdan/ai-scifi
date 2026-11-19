@@ -30,29 +30,41 @@ or more is a hard attractor.
 - **An institution that certifies, explains or adjudicates the novum:**
   a clerk's office, a tribunal, a reader panel, a comprehension gate, a
   wording office. calibration-01 (the certifier's dilemma, 7 cards),
-  calibration-02 (6), run-02 (8), run-03 (5), run-06 (10). The strongest
-  attractor there is. Hard.
+  calibration-02 (6), run-02 (8), run-03 (5), run-06 (10), run-08 (3). The
+  strongest attractor there is. Hard.
 - **Law, votes, quorums and consent as the frame.** calibration-01 (8),
-  calibration-02 (10), run-06 (consent after the fact, 4). Hard.
+  calibration-02 (10), run-06 (consent after the fact, 4), run-08 (charters
+  and fostering law, 4). Hard.
 - **The dead, or a past self, as a continuing authority.** calibration-01
-  (9), calibration-02 (9), run-05 (the black hole as a grave, 5). Hard.
+  (9), calibration-02 (9), run-05 (the black hole as a grave, 5), run-08
+  (sealed notes and dossiers from a past self, 3). Hard.
 - **Elder knowledge that intelligence can't reach,** and its sibling, the
   benevolent deception of an elder who knew all along. run-02, run-03.
   Hard.
 - **A role reversal over a parent.** run-02, run-03.
 - **The family safe word failed by a grandparent.** run-04, 6 cards.
 - **Reversible or uncomputed minds.** calibration-01's top card returned in
-  calibration-02 unprompted.
-- **Copies or forks who live a life and merge back.** run-06; charted in
-  published SF as well.
+  calibration-02 unprompted. run-08 (its inverse, named).
+- **Copies or forks who live a life and merge back.** run-06, run-08 (two
+  cards, both named); charted in published SF as well. Hard.
+- **The meddler's own instrument manufactures the need:** a biased model,
+  prior, doctrine, census, hearing aid or clock rate makes a healthy world
+  read as sick. run-08, 15 of 30 cards, on a meddling-service seed.
+- **The visitor made smaller to fit the job:** cut, ablated, folded,
+  dimmed, slowed or split into serial parts, and choosing what to lose.
+  run-08, 10 cards.
+- **Staged crises,** faked by the helper or by the helped, to start or end
+  a visit. run-08, 4 cards, and the obvious card of 5 lenses.
+- **The visitor harvested by the locals,** as ore, honey, packing or a
+  vending machine for expertise. run-08, 5 cards.
 
 ## Protagonists
 
 - **A mid-level functionary who finds something hidden and must decide
   whether to disclose it,** usually a woman clerk or a teenage girl at a
   tell-or-don't choice. run-02 (21 of 27), run-03 (about 21), run-05,
-  run-06 (about 20 of 30). Hard. Run-06's finished story landed on it
-  anyway, through a night clerk's secret errata, while this entry was
+  run-06 (about 20 of 30), run-08 (5). Hard. Run-06's finished story landed
+  on it anyway, through a night clerk's secret errata, while this entry was
   already listed: the audit's warning alone didn't hold the line.
 - **Ferry mechanics, bus mechanics and translator parents** as the
   ordinary job. run-02, run-04, run-06. Hard.
@@ -94,3 +106,8 @@ run-04 and run-06. `process/prose-rules.toml` warns on these in a draft.
   calibration-02. Ideators don't rate Futurity; the Cartographer does.
 - **One citation reflex per run.** run-06 cited "The Evitable Conflict" and
   *Infomocracy* on about nine cards, whatever the nearest work really was.
+  run-08 cited the Strugatskys' Progressors on about nine and Banks's
+  Contact on six. Hard.
+- **The brief's tone played back.** Cards describe the protagonist in the
+  brief's register words ("dry, overqualified", "deadpan, reluctant")
+  instead of leaving the register to the prose. run-08, about 20 cards.
