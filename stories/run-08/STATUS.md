@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 5, Structure
-- **Next action:** write the outline, then the stage 5 panel.
+- **Current stage:** 6, Draft
+- **Next action:** Gemini 4 Argon drafts draft 1 through agy.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -22,6 +22,7 @@ agent. The debrief should compare this prose with earlier runs.
 | 2 Audit | 2026-11-19 | orchestrator (proxy) | Shortlisted five distinct cores: C1 egan/Cromwell's Rule × tchaikovsky/Cached (37); watts/The Cold Minute with its push, dropping the report (36); C2 banks/Once-Fired × egan/The Glass Takes Months (35); le-guin/Something Worth Fixing with its push, the mother forging the need (34); vinge/Below the Line (32) | Top 5 minus #4 (tchaikovsky/Cached alone, which is C1's core), replaced by the highest-scoring distinct core. Premises must steer off this run's new attractors: the service's instrument misreading a healthy world, the agent made smaller, the staged crisis, and tone words written into the protagonist instead of the prose | vinge/The Tun Season (32) |
 | 3 Synthesize | 2026-11-19 | orchestrator (proxy) | A, The Prior (egan/Cromwell's Rule × tchaikovsky/Cached), with Vinge's push as the turn: the birds hide things from her installed prior, not from her | Mean rank 1.0, first for all four lenses. N5, F4, reader-profile pull 1. Under the ceiling at about 6,000. Consultant (fable) 95% on A, 70% on the turn. The synthesis's 'cache shows the service' turn was replaced as a placeholder, not cut for length | C, The Signatory with the slowing dropped (tie at 3.25 with B and D; C chosen on the gate's ambition rule, not on panel votes) |
 | 4 Build | 2026-11-19 | orchestrator (proxy) | Bible approved after the stress test; every must-fix resolved (stress-test log in the bible) | 16 must-fix notes from five lenses, all mechanical or additive: the table made physical (witnessed single-atom syntheses), the twist given an observable mechanism (UV glint, eyes-shut tests, a partly wrong model), trust grounded in memory, the public decoy naming rule, a fledgling, the moot vote with a dissenter, scene 7 touch-only and scene 8 the one sighted spend | A second stress-test round (declined: the fixes are local and stage 5's panel sees them in use) |
+| 5 Structure | 2026-11-19 | orchestrator (proxy) | Outline approved: seven dated sections and a coda, about 6,800 words, headings carrying her number. All must-fix notes resolved (its Stage 5 lens notes) | Nine must-fix notes from three lenses, converging on a repeated middle: old scene 5 cut and split, the moot carrying Stakes and the proof, the jigsaw misreading as scene 4's engine, the scale seen in the bellows hall, the hearing clue made consistent, the coda split out | Keeping a separate stakes scene before the moot (declined: Chiang and Asimov both flagged it as a repeated tradeoff) |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
@@ -35,6 +36,7 @@ where `agy` reports it.
 | 2 Audit | 1 cartographer | 155,190 | 5k |
 | 3 Synthesize | 4 lens-critic, 1 consultant | 312,616 | 15k |
 | 4 Build | 5 lens-critic | 274,957 | 25k |
+| 5 Structure | 3 lens-critic | 179,289 | 15k |
 
 ## Gate failures
 

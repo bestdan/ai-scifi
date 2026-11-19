@@ -327,6 +327,12 @@ These supersede anything above that they contradict.
   takes Lusk through the table eyes shut (scene 7). Element 120 is made
   live with Lusk's eyes open (scene 8).
 
+- **Stage 5:** the outline's information plan supersedes the scene numbers
+  in the payoff ledger above. The installation logs sight and sound; the
+  birds knew it heard, but thought it heard them the way a human hears
+  birdsong, without understanding. The whisper shows it understands. The
+  Actuarial Office gets one named clerk in the coda.
+
 ## Stress-test log
 
 | Lens | Note | Tag | Resolution |
