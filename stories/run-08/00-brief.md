@@ -6,7 +6,10 @@
   and the human reads the story blind. The human knows the seed, so
   "blind" here means the angle, the characters and the ending.
 - **Futurity floor:** F3 (see `process/rubric.md`)
-- **Tone:** funny and wry. The tone charter in `process/style-guide.md`
+- **Tone:** funny and wry. The human named Martha Wells's Murderbot Diaries
+  as a good reference for the register: deadpan, dry, the comedy of a
+  competent narrator's reluctance. It is a register target only. No card or
+  draft borrows its premise or imitates its prose. The tone charter in `process/style-guide.md`
   always applies.
 - **Seed (from issue #43, verbatim):** An agent of a benevolent
   interstellar meddling service, sent to fix a world that is already doing

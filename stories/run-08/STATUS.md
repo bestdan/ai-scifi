@@ -18,7 +18,7 @@ agent. The debrief should compare this prose with earlier runs.
 ## Gate decisions
 | Stage | Date | Decided by | Decision | Reasons | Runner-up |
 |---|---|---|---|---|---|
-| 0 Brief | 2026-11-19 | the human | Approved: short story 3,000–7,500, proxy, F3, tone funny and wry, defaults elsewhere, Gemini 4 Argon drafts | The human's approval in chat, with the tone added | none |
+| 0 Brief | 2026-11-19 | the human | Approved: short story 3,000–7,500, proxy, F3, tone funny and wry (Murderbot Diaries as the register reference), defaults elsewhere, Gemini 4 Argon drafts | The human's approval in chat, with the tone added | none |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
