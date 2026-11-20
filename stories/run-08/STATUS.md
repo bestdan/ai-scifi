@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 9, Polish
-- **Next action:** dli check, then the comprehension gate on final.md.
+- **Current stage:** 10, Debrief (the story is ready)
+- **Next action:** the human reads `final.md`, then the stage 10 debrief. The branch lands only on the human's word.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -26,6 +26,7 @@ agent, except stage 9's line edit: at the human's word (2026-11-19, mid-run), Ge
 | 8 Revise (round 1) | 2026-11-19 | orchestrator (proxy) | Revision plan approved: 24 items (7 consensus, 7 adopted single-lens, 10 comprehension). The gate failed on draft 1: Premise, Ending and Reach partial; Terms missed; Stakes, Why, Twist and Who's who got it | Every lens scored Structure 3 or 4, with the hearing rule, the lectures and the Day 117–118 repetition as shared causes. The comprehension misses are fixable with plain statements and plain words. Watts's physics fixes give the climax an act (waiting at the detector) | Cutting the coda (declined: the Reach row's Concern side lives there) |
 | 8 Revise (round 2, loop cap) | 2026-11-19 | orchestrator (proxy) | Narrow round 3: 4 items (the whisper and glint rules separated, what evidence counts, element 120's history, Seven-Holes right and the archive untrusted). **Stop rule:** stage 9 follows round 3 whatever the gate says. No round 4. Drafter returns replacement paragraphs only, to hold the word count | The loop cap fired. Consultant (fable, 75%): the open notes are rule contradictions stage 9 can't take; Stakes and Ending are already on the page, so their partials are recall. Success test: no higher word count, the eyes-shut question gone from the lost-list, Twist holds, no row to missed | Proceed to stage 9 now (the consultant's alternative if the glint fix were phrasing only) |
 | 8 Draft structurally done | 2026-11-19 | orchestrator (proxy) | Draft 3 is called structurally done under the loop cap's stop rule; proceed to stage 9 | The stop rule was logged before round 3. Lenses: no rule contradiction remains (Chiang, Asimov), Structure 3–4. Round 3's success test is only partly met (see Gate failures). The open rows go to the line editor as required items, and the gate reruns on final.md | Round 4 (declined: no round 4 under the stop rule) |
+| 9 Polish (sign-off) | 2026-11-19 | orchestrator (proxy) | The story is ready. `final.md` is about 7,230 words | Polish by Gemini (at the human's word) as replacement paragraphs; spot-checks applied with two declines logged; `dli check` passes. The final gate fails, and every failing row is logged per the stage 9 rules (see Gate failures): no row that passed on draft 3 had its quoted text changed in polish | Another stage 8 round (declined: the loop cap's stop rule) |
 
 ## Polish spot-check decisions
 
@@ -52,6 +53,7 @@ where `agy` reports it.
 | 7 Review (draft 2) | 1 first-reader, 4 lens-critic, 1 comprehension-grader, 1 consultant | 541,026 | 15k |
 | 8 Revise r3 | Gemini 4 Argon, 1 turn (replacement paragraphs) | 300,160 (Gemini) | 10k |
 | 7 Review (draft 3) | 1 first-reader, 3 lens-critic, 1 comprehension-grader | 446,306 | 10k |
+| 9 Polish | Gemini 4 Argon, 1 turn (line edit); 2 lens-critic spot-checks; 1 first-reader, 1 comprehension-grader | 340,194 (Gemini) + 220,965 | 15k |
 | 6 Draft | Gemini 4 Argon via agy, 3 turns (on the human's subscription) | 435,915 (Gemini) | 30k |
 
 ## Gate failures
@@ -59,6 +61,7 @@ where `agy` reports it.
 - **Round 1 (draft 1):** Premise, Ending and Reach partial; Terms missed (prior, posterior, Hessary Schedule C, element names, detector parts, several plain-English craft words). Lost-list 11, 7 tied to graded rows.
 - **Round 2 (draft 2):** Stakes and Ending partial (both stated on the page; the answers omit one clause each); Terms missed (californium, Actuarial, from outside knowledge). Premise and Reach closed. Lost-list 11, 8 tied to rows. **The loop cap fires:** two consecutive fails.
 - **Round 3 (draft 3):** Premise, Stakes, Ending and Reach partial; Terms missed (californium, titanium-50, from outside knowledge); Why, Twist, Who's who got it. Lost-list 12, 9 on rows. Against the success test: word count down (met: 7,223); lint passes (met); the eyes-shut question gone from the lost-list (**not met**: entries 8 and 9); Twist holds (met); no row to missed (met); Premise and Reach hold (**not met**: both fell to partial, though round 3 changed no text they rest on, so this is reader variance). **Per the stop rule, the story proceeds to stage 9.** Persistent across all three rounds: the opening number on page 1, and the completed-and-spent moment. These go to the line editor as required items.
+- **Gate on final.md** (fresh reader and grader, `reviews/final/comprehension.md`): Premise, Stakes, Twist, Ending and Reach partial; Terms missed (element names; the Desk unsure); Why and Who's who got it. Lost-list 15, 11 on rows. Premise, Stakes, Ending, Reach and Terms failed on draft 3, so they are logged under the loop cap. **Twist** passed on draft 3 and is partial here; its explicit line is unchanged in polish, and the answer omits one clause (teaching by touch), so it is the reader, not the text, and it is logged. Persistent across all four reads: the opening number, and the completed-and-spent moment. The debrief should test whether the human's read matches these rows, and whether the shortfall is the premise's load (two nova plus the arithmetic) or Gemini's prose density.
 
 ## Seed stock
 
