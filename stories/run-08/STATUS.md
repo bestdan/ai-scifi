@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 10, Debrief (the story is ready)
-- **Next action:** the human reads `final.md`, then the stage 10 debrief. The branch lands only on the human's word.
+- **Current stage:** landed (debrief done)
+- **Next action:** none. Takeaways are in `debrief.md` section 4.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -27,6 +27,7 @@ agent, except stage 9's line edit: at the human's word (2026-11-19, mid-run), Ge
 | 8 Revise (round 2, loop cap) | 2026-11-19 | orchestrator (proxy) | Narrow round 3: 4 items (the whisper and glint rules separated, what evidence counts, element 120's history, Seven-Holes right and the archive untrusted). **Stop rule:** stage 9 follows round 3 whatever the gate says. No round 4. Drafter returns replacement paragraphs only, to hold the word count | The loop cap fired. Consultant (fable, 75%): the open notes are rule contradictions stage 9 can't take; Stakes and Ending are already on the page, so their partials are recall. Success test: no higher word count, the eyes-shut question gone from the lost-list, Twist holds, no row to missed | Proceed to stage 9 now (the consultant's alternative if the glint fix were phrasing only) |
 | 8 Draft structurally done | 2026-11-19 | orchestrator (proxy) | Draft 3 is called structurally done under the loop cap's stop rule; proceed to stage 9 | The stop rule was logged before round 3. Lenses: no rule contradiction remains (Chiang, Asimov), Structure 3–4. Round 3's success test is only partly met (see Gate failures). The open rows go to the line editor as required items, and the gate reruns on final.md | Round 4 (declined: no round 4 under the stop rule) |
 | 9 Polish (sign-off) | 2026-11-19 | orchestrator (proxy) | The story is ready. `final.md` is about 7,230 words | Polish by Gemini (at the human's word) as replacement paragraphs; spot-checks applied with two declines logged; `dli check` passes. The final gate fails, and every failing row is logged per the stage 9 rules (see Gate failures): no row that passed on draft 3 had its quoted text changed in polish | Another stage 8 round (declined: the loop cap's stop rule) |
+| 10 Debrief (landing) | 2026-11-20 | human | Land the story | Check: all six rows got it (the cold reader was partial on five); Who's who partial (Harriet Baines, recall); Terms missed (the Desk). Felt 4, Craft 4. Ending "landed very well"; tone did not come across as funny or wry. See `debrief.md` | Land after a fix (not chosen) |
 
 ## Polish spot-check decisions
 
