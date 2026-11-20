@@ -13,7 +13,7 @@
 Stages 6 and 8 use **Gemini 4 Argon** (`gemini-4-argon-high`) through
 `~/.local/bin/agy`, at the human's request, in one resumed conversation.
 Conversation ID: `9d475cfe-3afc-4e71-a21d-c4af218cadce`. Auto mode refused `--dangerously-skip-permissions`, so Gemini gets no tool access: the orchestrator inlines every input into the prompt, Gemini returns the draft as text, and the orchestrator writes the file and runs `just lint`. **Gemini can't count its own words:** it reported 6,812 for a 10,985-word draft and 6,758 for 8,142. Two length rounds inside stage 6, the second with per-section counts, brought it to 6,255. Every other role is the usual Claude
-agent. The debrief should compare this prose with earlier runs.
+agent, except stage 9's line edit: at the human's word (2026-11-19, mid-run), Gemini also does the polish, in the same conversation, as replacement paragraphs, so the final prose stays Gemini's. The Claude spot-checks and the final comprehension gate still run. The debrief should compare this prose with earlier runs.
 
 ## Gate decisions
 | Stage | Date | Decided by | Decision | Reasons | Runner-up |
