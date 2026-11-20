@@ -11,13 +11,14 @@
    `stories/<slug>/debrief.md` section 1 from `reviews/final/ledger-rows.md`,
    `names.md` and `terms.md`:
    - **One multiple-choice question per graded row.** It has one right
-     answer, taken from the ledger, and two or three wrong ones. Build each
+     answer, taken from the ledger, and two wrong ones. Build each
      wrong answer from a specific misreading: a cold reader's partial
      answer or lost-list entry, a premise or ending the run rejected, or an
      inversion of cause and effect. Every option uses only names and things
      the story puts on the page, and no option is absurd. A wrong option
      that is easy to rule out tests nothing. Vary where the right answer
-     sits, and end each question with "can't say".
+     sits, and end each question with "can't say". Three options plus
+     "can't say" is the question dialog's limit of four.
    - **Who's who:** the names in one list and their roles, shuffled, in
      another. The human matches them, or marks a name "don't remember".
    - **Terms:** the glossary terms. The human marks any they didn't get
@@ -31,7 +32,14 @@
    - Where did the read snag, and what are you still unsure about?
    - How did the ending land?
 
-   Then show the whole check at once. The human replies with one letter
+   Then ask the check one question at a time, in the question dialog
+   (`AskUserQuestion`), with each option's full text in its description
+   and a bare letter as its label, so the label gives nothing away. Ask
+   Who's who one name per question, each with three roles (the right one
+   and two others) plus "don't remember", up to four names per call, and
+   Terms as multi-select groups of three plus "all clear". In run-08 the
+   human asked for this over a written block. Where the dialog isn't
+   available, show the whole check at once; the human replies with one letter
    per question, plus the matches and any marked terms.
 4. **Follow up only on a wrong pick or "can't say".** Ask, in one line,
    what the human took it to be. A wrong pick is the finding: the option

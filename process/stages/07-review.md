@@ -39,6 +39,7 @@
 7. What are you still unsure about?
 8. Which words or terms didn't you know from the story itself, and where did you get their meaning, if you got it?
 9. What does the story's central change mean for people beyond its main characters?
+10. What tone did the story have, in three words? Quote the line that set it.
 
 These questions appear nowhere else the reader can see. Asked before the
 read, they would steer it.
@@ -52,7 +53,9 @@ All of its files go in `stories/<slug>/reviews/draft-N/`.
 
    `Answer these from memory, without rereading. Write your answers, numbered, to stories/<slug>/reviews/draft-N/comprehension-answers.md.`
 
-   followed by the nine questions above, word for word.
+   followed by the ten questions above, word for word. Question 10 is
+   not graded: the orchestrator sets its answer beside the brief's Tone,
+   and a miss becomes a revision-plan item (see "For the orchestrator").
 2. **The grader's inputs.** Write three files from `04-bible.md`:
    - `ledger-rows.md`: only the Row and The fact columns of the payoff
      ledger's six graded rows. No scenes, no explicit lines.
@@ -69,7 +72,17 @@ All of its files go in `stories/<slug>/reviews/draft-N/`.
 The gate passes only when all three hold:
 
 - **Recall.** Every graded row is "got it" (or N/A for a story with no
-  twist).
+  twist), or is a **dramatised partial**. A partial counts as passing only
+  when all three hold:
+  - the bible's "Shown in" scene dramatises the row in the draft: a
+    character lives the fact in a scene, not narration in a few sentences;
+  - the grader marks the partial **omits**, not **errs**;
+  - no lost-list entry concerns the row.
+
+  A row the page only states still needs "got it". A dramatised partial
+  goes into the revision plan as a note. Run-05, run-06 and run-08 all
+  showed a cold reader partial on dramatised rows the human then got;
+  run-08's human picked all five that the final reader was partial on.
 - **Terms.** The Terms row is "got it": the reader got every term it names
   from the story itself.
 - **The lost-list.** No entry under "Where I got lost" in `first-reader.md`
@@ -92,7 +105,9 @@ Stage 8 acts on a fail; stage 9 can't start without a pass.
   round narrowed to structure loses it otherwise.
 - **You don't grade comprehension.** You wrote the ledger, so you read the
   answers as an insider would. You may lower one of the grader's grades, with
-  a reason, but never raise one.
+  a reason, but never raise one. Passing a dramatised partial under the
+  Recall rule doesn't raise its grade: it stays partial, and the gate rule
+  decides what a partial means.
 - **Dramatised, not stated.** The gate over-predicts the human on rows the
   page only states: a cold reader answering straight after the read recalls
   a few sentences that the human, days later, doesn't. Run-05 and run-06
@@ -103,8 +118,14 @@ Stage 8 acts on a fail; stage 9 can't start without a pass.
   A row that passes but is only stated goes into the revision plan as a
   note, though it doesn't fail the gate. The reverse holds too: a
   reader's partial on a row the page dramatises is often a recall gap
-  (run-05, run-06), so read its lost-list before treating it as a text
-  failure.
+  (run-05, run-06, run-08), which is why the gate lets a dramatised
+  partial pass. Deciding whether a row is dramatised is yours; log the
+  scene you checked in `STATUS.md` with the gate decision.
+- **Tone.** Set the reader's answer to question 10 beside the brief's
+  Tone. If they don't match, the revision plan carries it as an item, with
+  the lens notes that point at it. Run-08's brief asked for "funny and
+  wry"; a lens wrote "the wry teller disappears" on draft 1 and no plan
+  carried it, and the human found the tone neither.
 
 ## For the agent (`lens-critic`)
 
