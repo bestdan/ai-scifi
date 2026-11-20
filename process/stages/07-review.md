@@ -92,7 +92,9 @@ The gate passes only when all three hold:
   while still getting its row: in hard SF, density a reader follows on
   trust is often what a reader came for.
 
-Stage 8 acts on a fail; stage 9 can't start without a pass.
+The grader's Gate line is the strict result. The gate's outcome is your
+decision, logged in `STATUS.md` after the dramatised-partial rule is
+applied. Stage 8 acts on a fail; stage 9 can't start without a pass.
 
 ## For the orchestrator
 

@@ -7,8 +7,9 @@
 Don't pass `model:`. Keep the agent's ID. Stage 8 resumes this same agent
 with SendMessage, so the voice holds across drafts. If the brief names a
 model outside Claude Code as the drafter, follow
-`dev_docs/external-drafter.md` for how to run it; everything in this file
-still applies.
+`dev_docs/external-drafter.md` for how to run it; everything else in
+this file still applies, with the `agy` conversation ID standing in for
+the agent's ID and `--conversation` for SendMessage.
 
 ## The tone sample
 
@@ -32,9 +33,12 @@ to change at 800 words and a rewrite at 7,000.
 
 4. **The decision.** If the lens says the tone matches, resume the drafter
    for the whole draft. If not, resume it once with the lens's notes to
-   rewrite the sample, then go on whatever the second reading says, and
-   log any remaining gap in `STATUS.md` for the stage 7 tone check. Log
-   the check like a gate, with the reader's three words.
+   rewrite the sample. Then dispatch a fresh `first-reader` on the
+   rewritten sample with the step 2 prompt, and set its three words beside
+   the brief's Tone yourself; don't re-run the lens. Resume the drafter for
+   the whole draft whatever that reading says, and log any remaining gap
+   in `STATUS.md` for the stage 7 tone check. Log the check like a gate,
+   with each reader's three words.
 
 ## For the orchestrator
 

@@ -37,13 +37,15 @@ route that bills separately, and `agy` ignores it; don't store one.
 
 ```
 agy -p "<prompt>" --model gemini-4-argon-high --conversation <id> \
-    --output-format json --print-timeout <ms> < /dev/null
+    --output-format json --print-timeout <duration> < /dev/null
 ```
 
 - `--conversation` resumes the story's conversation; omit it only on the
   first call and record the ID it returns.
 - `--output-format json` returns the reply in `response` and the token
   counts in `usage`. Log `usage` in `STATUS.md`'s token table.
+- `--print-timeout` takes a duration such as `30m`; `0`, the default,
+  waits until the turn completes.
 - Run it unsandboxed, with stdin from `/dev/null`.
 - Never pass `--dangerously-skip-permissions`. Auto mode refuses it, and
   the grants below make it unnecessary.
