@@ -43,3 +43,7 @@ The line edit was done by Gemini 4 Argon (same conversation as the drafts), at t
 ## Judgement calls for the human
 
 - **Thebirds' new workshop (`L225`):** Required Item 8 asked for one sentence in the coda on the furnaces after the ring hall was spent. Because orbital probes see thermal plumes unless vented into deep karst aquifers (established on Days 4 and 117), I phrased the final probe observation as `"fresh furnace-heat rising into an aquifer three ridges east of the old hall"` rather than open chimney smoke, so it stays consistent with their orbital camouflage while confirming they rebuilt.
+
+## Orchestrator edits after the spot-checks
+
+Eight word-level edits from the Asimov and Rajaniemi spot-checks; see STATUS.md, "Polish spot-check decisions".

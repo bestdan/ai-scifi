@@ -3,7 +3,7 @@
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
 - **Current stage:** 9, Polish
-- **Next action:** protect list, then the line editor.
+- **Next action:** dli check, then the comprehension gate on final.md.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -26,6 +26,13 @@ agent, except stage 9's line edit: at the human's word (2026-11-19, mid-run), Ge
 | 8 Revise (round 1) | 2026-11-19 | orchestrator (proxy) | Revision plan approved: 24 items (7 consensus, 7 adopted single-lens, 10 comprehension). The gate failed on draft 1: Premise, Ending and Reach partial; Terms missed; Stakes, Why, Twist and Who's who got it | Every lens scored Structure 3 or 4, with the hearing rule, the lectures and the Day 117–118 repetition as shared causes. The comprehension misses are fixable with plain statements and plain words. Watts's physics fixes give the climax an act (waiting at the detector) | Cutting the coda (declined: the Reach row's Concern side lives there) |
 | 8 Revise (round 2, loop cap) | 2026-11-19 | orchestrator (proxy) | Narrow round 3: 4 items (the whisper and glint rules separated, what evidence counts, element 120's history, Seven-Holes right and the archive untrusted). **Stop rule:** stage 9 follows round 3 whatever the gate says. No round 4. Drafter returns replacement paragraphs only, to hold the word count | The loop cap fired. Consultant (fable, 75%): the open notes are rule contradictions stage 9 can't take; Stakes and Ending are already on the page, so their partials are recall. Success test: no higher word count, the eyes-shut question gone from the lost-list, Twist holds, no row to missed | Proceed to stage 9 now (the consultant's alternative if the glint fix were phrasing only) |
 | 8 Draft structurally done | 2026-11-19 | orchestrator (proxy) | Draft 3 is called structurally done under the loop cap's stop rule; proceed to stage 9 | The stop rule was logged before round 3. Lenses: no rule contradiction remains (Chiang, Asimov), Structure 3–4. Round 3's success test is only partly met (see Gate failures). The open rows go to the line editor as required items, and the gate reruns on final.md | Round 4 (declined: no round 4 under the stop rule) |
+
+## Polish spot-check decisions
+
+Applied by the orchestrator as word-level edits to Gemini's polished text, logged here and in the polish changelog.
+
+- **Asimov:** applied 1 ("morning" → "evening"), 4 (the furnace-heat sentence contradicted Day 117's "nothing shows from orbit"; replaced with "a new yard three ridges east of the old hall, its straw and broken pots already in place", the orchestrator's wording, not Asimov's suggested one, which also stated no heat) and 5 (quartz → glass). **Declined 2** ("since day nine" → "since the first day"): day nine is correct, as it is the day they stopped hiding from her and started hiding from the lens. **Declined 3** ("exactly as sure"): a protected line, and the cold reader sat up at it.
+- **Rajaniemi:** applied all five (the doubled moot gloss, the run-on sentence on page 1, "snatched" → "hidden", the relief sentence trimmed, "pistol-crack" → "flint-crack", since there are no pistols on this world).
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
