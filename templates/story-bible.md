@@ -65,7 +65,9 @@ For each character:
 Every coined, foreign or slang word the story uses. **Job** is what the plain
 word couldn't do. **Clear at first use by** is the line or context that makes
 the meaning plain to a reader who doesn't speak the language. A term with no
-Job is cut, and the story uses the plain word.
+Job is cut, and the story uses the plain word. For an office, a role or a
+channel, **Clear at first use by** names what it does on the page at that
+first use (it answers, it refuses, it lags), never an appositive gloss.
 
 | Term | Meaning | Job | Clear at first use by | Where the term comes from |
 |---|---|---|---|---|

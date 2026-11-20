@@ -5,6 +5,7 @@ plugin. This file lists only what this repo has.
 
 | Path | This repo keeps here |
 |---|---|
+| `external-drafter.md` | how to run the story's drafter on a model outside Claude Code (Gemini through `agy`) |
 | `designs/` | proposals for changes to the story process or its tooling. Each is deleted once its change lands |
 | `decisions/` | why the process and tooling are shaped as they are, one record per choice |
 | `.handoffs/` | legacy: handoffs moved to `$HOME/src/worktrees/<repo>/.handoffs/`. Gitignored; only its `README.md` is tracked |

@@ -5,12 +5,62 @@
 `Stage: process/stages/06-draft.md. Story: stories/<slug>.`
 
 Don't pass `model:`. Keep the agent's ID. Stage 8 resumes this same agent
-with SendMessage, so the voice holds across drafts.
+with SendMessage, so the voice holds across drafts. If the brief names a
+model outside Claude Code as the drafter, follow
+`dev_docs/external-drafter.md` for how to run it; everything else in
+this file still applies, with the `agy` conversation ID standing in for
+the agent's ID and `--conversation` for SendMessage.
+
+## The tone sample
+
+The drafter writes the opening first, and the voice is checked against the
+brief's Tone before the rest is built on it. Run-08's brief asked for
+"funny and wry"; a lens saw the wry voice fade on draft 1, nothing carried
+the note, and the human found the finished story neither. A voice is cheap
+to change at 800 words and a rewrite at 7,000.
+
+1. **The sample.** The drafter's first task (below) is the opening scene,
+   or about 800 words, written to `drafts/sample.md` with no drafter's
+   notes.
+2. **The read.** Dispatch a fresh `first-reader` with this prompt:
+
+   `Read stories/<slug>/drafts/sample.md. It is the opening of a longer story. Write to stories/<slug>/drafts/sample-tone.md: the tone, in three words, and the line that set it. Reply with the three words.`
+
+3. **The comparison.** Dispatch one `lens-critic`, the lens whose standing
+   fits the brief's tone (Banks for comic, by default), with this prompt:
+
+   `Lens: <lens>. Stage: process/stages/06-draft.md, the tone sample. Story: stories/<slug>.`
+
+4. **The decision.** If the lens says the tone matches, resume the drafter
+   for the whole draft. If not, resume it once with the lens's notes to
+   rewrite the sample. Then dispatch a fresh `first-reader` on the
+   rewritten sample with the step 2 prompt, and set its three words beside
+   the brief's Tone yourself; don't re-run the lens. Resume the drafter for
+   the whole draft whatever that reading says, and log any remaining gap
+   in `STATUS.md` for the stage 7 tone check. Log the check like a gate,
+   with each reader's three words.
 
 ## For the orchestrator
 
 - Read the draft yourself before review starts.
 - Commit it.
+
+## For the agent (`lens-critic`), the tone sample
+
+**Read:** `stories/<slug>/00-brief.md` (its Tone), the bible's Register
+line, `drafts/sample.md`, and `drafts/sample-tone.md`, the cold reader's
+words.
+
+**Task:** say whether the sample reads in the brief's tone. The cold
+reader's three words are the evidence; your own reading comes second,
+because you know what tone to expect. If it misses, name at most three
+lines where it misses and say what the tone needs there, in terms of
+mechanism and situation, not adjectives about the narrator.
+
+**Write:** `stories/<slug>/drafts/sample-review.md`, opening with
+**Match:** yes or no.
+
+**Reply:** the Match line and one sentence.
 
 ## For the agent
 
@@ -23,7 +73,13 @@ with SendMessage, so the voice holds across drafts.
 5. `process/reader-profile.md`, the *How the best-loved stories are built*
    section. It says who this story is for.
 
-**Task:** write the whole story as draft 1.
+**Task, first:** write the opening scene, or about 800 words, in the
+voice the bible sets, to `stories/<slug>/drafts/sample.md`. Reply with its
+word count and stop. The orchestrator checks its tone and resumes you,
+either to rewrite it with notes or to go on.
+
+**Task, then:** write the whole story as draft 1, opening from the
+accepted sample.
 - **Length.** Stay within the brief's length range; its top is the hard
   ceiling. Within it, take the words the payoff ledger needs.
 - **Title.** Choose your own; a working title is only a placeholder.

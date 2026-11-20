@@ -99,8 +99,9 @@ novum by itself.
 reader reports where it got lost and answers fixed questions, and the
 `comprehension-grader`, who sees only the bible's payoff-ledger rows, a
 names list, a terms list, the reader's lost-list and its answers, grades
-them. Polish starts only when every graded row and the Terms row are "got
-it" and the lost-list is short and touches no graded row. The gate runs
+them. Polish starts only when every graded row is "got it" or a
+dramatised partial (`stages/07-review.md`), the Terms row is "got it", and
+no lost-list entry touches a graded row. The gate runs
 again on `final.md`. The orchestrator never grades comprehension itself.
 
 **A structural problem found at stage 9,** or a comprehension miss on

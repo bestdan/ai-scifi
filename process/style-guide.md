@@ -42,8 +42,12 @@ default tone for every stage, from ideation on.
    something the reader's world has no word for, or its strangeness is the
    point. Its meaning is clear from the page at its first use, to a reader
    who doesn't speak the language. Slang and dialect for local colour alone
-   don't qualify; use the plain word. Subtext may stay subtext, as long as
-   every fact in the payoff ledger is explicit on the page.
+   don't qualify; use the plain word. A term for an office, a role or a
+   channel the reader meets only through its messages is made clear by
+   what it does on the page at first use, not by a gloss: run-08's "my
+   dispatcher at sector headquarters" left the human with "No idea" what
+   the Desk was. Subtext may stay subtext, as long as every fact in the
+   payoff ledger is explicit on the page.
 4. **Dialogue has friction.** People talk past each other, dodge, lie, and
    mean less than they say or more. Nobody delivers the theme out loud.
 5. **Consequences surface sideways.** The big change shows itself through a
