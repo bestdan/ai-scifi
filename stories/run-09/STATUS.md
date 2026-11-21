@@ -12,7 +12,7 @@
 ## Drafter
 Stages 6 and 8 use **Gemini 4 Argon** (`gemini-4-argon-high`) through
 `~/.local/bin/agy`, at the human's request, in one resumed conversation,
-per `dev_docs/external-drafter.md`. Conversation ID: not started yet.
+per `dev_docs/external-drafter.md`. Conversation ID: `73c0777a-28b2-4ede-8157-e90c0fa958de`. The agy grants (`just lint`, `wc -w`, `write_file(stories/)`) are in place, so Gemini writes and lints its own files. The draft is written one part per turn.
 
 ## Gate decisions
 | Stage | Date | Decided by | Decision | Reasons | Runner-up |
@@ -22,6 +22,7 @@ per `dev_docs/external-drafter.md`. Conversation ID: not started yet.
 | 3 Synthesize | 2026-11-21 | orchestrator (proxy) | A, The Addressee's Reply (asimov/Line Blend × liu/The Minor Third), with the tempo cause stated, the burn as a three-party bargain, the slow self building the relay through maintenance orders, and the story opening on a recipient | Mean rank 1.2, first for Vinge, Chiang, Banks and Liu, second for the Cartographer on novelty. Only F4 premise; rests on the reader profile's top three pulls. Consultant (fable) 88% on A; 65% on the conditions, the relay-builder choice being taste | C, Reheat or Overload (mean rank 2.2) |
 | 4 Build | 2026-11-21 | orchestrator (proxy) | Bible approved after the stress test; all 17 must-fix notes resolved (stress-test log in the bible) | The notes converged on the Hum: it got senses (ring length as posture) and an output organ (symptoms: thinned signal → true fault reports → standard orders), a recall rule (keeps the strong and repeated), three competing readings of its motive with the mechanism explicit, a small change (a salutation clause) and a foresight mistake (its sending caused the filing). Orbital mechanics, snapshot and gravity fixed; Teresa, Rui, Pieter and Albano added as people who pay or remember | A second stress-test round (declined: the fixes are integrated and stage 5's panel sees them in use) |
 | 5 Structure | 2026-11-21 | orchestrator (proxy) | Outline approved: four parts, 26 scenes, about 34,600 words, with a lap calendar and routing lines on every document. All seven must-fix notes resolved (its Stage 5 lens notes) | The notes converged on fair play (the symptom-to-order rule, the honest orders and the dossier clue planted early), on a repeated Part II middle (merged, with Arvo now acting in scene 12), on scale stood in (the drone footage of station 23), and on Graça's answer and Arvo's cost dramatised rather than stated | Keeping Arvo's letter to Liv after the verdict (declined: before it, the change is his own rather than a reaction to the outcome) |
+| 6 Tone sample | 2026-11-21 | orchestrator (proxy) | Sample accepted (1,065 words). Cold reader: "wry, tender, uncanny". Chiang lens: Match yes | Warmth and wonder are carried, and the docket forms carry the procedural register. Carried into the draft: Nominal's scene-1 reply must not reveal the beam's origin (held to scene 13), Graça must not yet know about the closed box, and scene 1's jargon is trimmed | A rewrite of the sample (declined: the tone matched, and the notes are content fixes the draft can take) |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
