@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 1, Ideate
-- **Next action:** dispatch the eleven stage 1 lenses.
+- **Current stage:** 2, Audit
+- **Next action:** dispatch the Cartographer on the 33 cards.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -26,6 +26,7 @@ estimate.
 
 | Stage | Agents dispatched | Agent tokens | Orchestrator (est.) |
 |---|---|---|---|
+| 1 Ideate | 11 lens-ideator | 806,955 | 15,000 |
 
 ## Gate failures
 
