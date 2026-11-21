@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 9, Polish
-- **Next action:** Gemini polishes draft 2 into `final.md` against the required items, then the Asimov and Rajaniemi spot-checks run, then the final gate.
+- **Current stage:** 10, Debrief (story ready)
+- **Next action:** the human reads `final.md` (or the EPUB), then the stage 10 debrief. The branch lands only on the human's word.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -28,6 +28,7 @@ per `dev_docs/external-drafter.md`. Conversation ID: `73c0777a-28b2-4ede-8157-e9
 | 7 Review (round 2) | 2026-11-21 | orchestrator (proxy) | Gate **fail** on draft 2 (34,681 words). Got it: Ending, Who's who. Partial: Premise, Why, Twist, Reach (omits); Stakes (errs). Terms missed (Article 9, minor third, 5:4). Lenses rose: Asimov 4/4/4/4/4/3, Le Guin 4/4/3/4/4/3, Chiang 4/4/4/–/4/3 | Grader's result accepted. Twist fell from got it to partial on mechanism text unchanged from draft 1 (Hamid's symptom paragraph), so it is reader variance, not text. Reach is dramatised (Basra, crew meeting, the flood) but not passed, because the gate has failed on other rows anyway. Tone: reader "tender, procedural, wistful", which now matches "procedural" and "warmth"; "wondering" still only implicit | none |
 | 8 Loop cap | 2026-11-21 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** The page-closable fixes go to polish as required items (replacement scale); the unclosed rows are logged under Gate failures | Second consecutive gate failure, so the loop cap fired. Consultant (fable): B at 78%. Basis checked: Twist fell on unchanged text; round 1's plain-sentence fixes for Stakes and Reach didn't move their rows; run-08's narrow round 3 lost rows to reader variance. The orchestrator's prior leaning was a narrow round 3 at about 70%; it changed to agree on that evidence. Crux: Asimov's Tierce-evidence holes can be fixed by moving a lap number and cutting a clause, without a new scene | Narrow round 3, replacement paragraphs only, with a stop rule (run-08's shape) |
 | 9 Polish | 2026-11-21 | orchestrator (proxy) | Polish by Gemini as the single writer, in the same conversation, against 13 required items; `final.md` at 34,886 words; spot-checks applied with one decline | The human asked for Gemini to do the writing and voice, so the polish stays in its prose (run-08 precedent). The Claude spot-checks and the final gate still run | The Claude `line-editor` role (declined: it would put a second voice into the prose) |
+| 9 Polish (sign-off) | 2026-11-21 | orchestrator (proxy) | **The story is ready.** `final.md` is 34,886 words; EPUB built | The final gate fails on recall (Premise, Stakes, Why, Ending partial; Reach errs; Terms missed on "the chord" and "the Tierce"), with Twist and Who's who got it. Per stage 9 step 5: Ending passed on draft 2, but its quoted line (the Tierce's withholding) is protected and unchanged, and the omitted facts (Arvo's certificate, his letter to Liv) sit in scenes polish didn't alter, so it is reader variance and nothing is restored. Every other failing row already failed on draft 2 and came through the loop cap. `dli check` passes | Another stage 8 round (declined: the loop cap's decision stands) |
 
 ## Polish spot-check decisions
 
@@ -67,9 +68,10 @@ estimate.
 | 7 Review (round 1) | 1 first-reader (2 turns), 5 lens-critic, 1 comprehension-grader | 950,175 | 40,000 |
 | 8 Revise (round 1) | Gemini via agy, 2 turns | 3,242,958 Gemini | 35,000 |
 | 7 Review (round 2) | 1 first-reader (2 turns), 3 lens-critic, 1 comprehension-grader, 1 consultant | 664,227 | 30,000 |
+| 9 Polish | Gemini via agy, 1 turn; 2 lens-critic spot-checks, 1 first-reader (2 turns), 1 comprehension-grader | 2,471,115 Gemini; 346,211 Claude | 30,000 |
 
 ## Gate failures
-Unclosed after the stage 8 loop cap (draft 2, 2026-11-21). Rounds tried: 2.
+Unclosed after the stage 8 loop cap (draft 2, 2026-11-21). Rounds tried: 2. The final gate on `final.md` (fresh reader and grader) also failed: Premise, Stakes, Why and Ending partial (omits), Reach partial (errs), Terms missed ("the chord", "the Tierce"); Twist and Who's who got it. No row was broken by polish (see the 9 sign-off row). The debrief should test these rows on the human first.
 - **Premise:** partial (omits) in both rounds. The reader misses the Bell taking itself for "you" and the non-addressee question.
 - **Stakes:** partial in both rounds (omits in round 1, errs in round 2). The decision is deliberately not Arvo's, so "if he fails" has no clean answer.
 - **Why:** got it in round 1, partial in round 2, after round 1's rewrite of the 3 March ratio paragraph. Polish required item R1.
