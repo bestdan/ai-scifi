@@ -8,7 +8,7 @@ At seven in the morning the Atlantic came over the granite seawall at Foz in lon
 
 She swam her forty lengths along the inside of the breakwater in fourteen minutes, turning at the rusted iron ring where the pilchard boats had tied up when her grandfather was a boy, and at the painted white line below the lifeguard hut at the far end. Few people used the sea pool in February. An old customs inspector she knew only by his green bathing cap was paddling near the steps to ease his sciatica, and higher up on the promenade two municipal sweepers in yellow oilskins were hosing sand off the tram rails before the mist burned away. When Graça climbed the iron ladder her fingers were pink and numb enough that she had to use the heel of her palm to push her goggles up onto her forehead. She stood on the flagstones in the wind off the river mouth, wrung the salt water out of her cap, and dried her shins with the rough linen towel she had carried down from Rua da Cerca in her net bag.
 
-For forty-one years she had practiced dentistry in a second-floor surgery off Rua de Santa Catarina, spending six hours a day with her gloved fingers under an angled lamp, talking pleasantly to people who had a rubber dam and a suction hook in their mouths and could only grunt back at her. She had discussed municipal bond issues, cycling tours in the Douro valley, the price of winter cod, and the failings of sons-in-law with patients whose jaws were propped open by bite blocks. The trade had given her strong wrists, a habit of watching people's eyes when their mouths were busy, and a lifelong fondness for one-sided conversations, together with a precise professional estimate of what they were worth. Since her retirement six winters ago she had kept her mornings to herself, and she preferred neighbours who nodded on the stairs without asking how she filled her afternoons.
+For forty-one years she had practiced dentistry in a second-floor surgery off Rua de Santa Catarina, spending six hours a day with her gloved fingers under an angled lamp, talking pleasantly to people who had a rubber dam and a suction hook in their mouths and could only grunt back at her. She had discussed municipal bond issues, cycling tours in the Douro valley, the price of winter cod, and the failings of sons-in-law with patients whose jaws were propped open by bite blocks. The trade had given her strong wrists, a habit of watching people's eyes when their mouths were busy, and a lifelong fondness for one-sided conversations, and a precise professional sense of what they were worth. Since her retirement six winters ago she had kept her mornings to herself, and she preferred neighbours who nodded on the stairs without asking how she filled her afternoons.
 
 On the walk up the hill from the seafront she stopped at the small bakehouse on Rua da Senhora da Luz for two wheat rolls still hot enough to fog their paper bag from the inside. All along the narrow pavement the street was already conducting its morning correspondence with the sky. Outside the glazier's shop, a young man in a canvas apron stood beside a trestle of window glass with his slate propped on his forearm, typing *Dear You* at the top of a query form to ask the Bell whether a north-facing skylight by the river needed four-millimetre or six-millimetre pane against the winter gales. By the time Graça had waited for the number 18 tram to clatter past the crossing, the glazier's query was already lifting off the relay dishes south of Coimbra, bound for the inner ring at Mercury's distance, and his answer would be back in his apron pocket before he finished puttying his second frame.
 
@@ -142,7 +142,7 @@ Arvo initialled the bottom of Nominal's circular, logged Lassell's formal reply 
 
 The Porto District Reply Office occupied the ground floor of an old granite bank on Rua do Almada, three doors down from the surgical supply shop where Graça had bought her dental mirrors for thirty years. Before the Ring Compact of 2056 leased the building, the hall had held foreign-exchange counters; now a long mahogany barrier divided the waiting benches from rows of steel archival shelving that rose eighteen feet to the ceiling, packed with acid-free grey boxes tied in red tape. High on the end wall, where the bank's gilt clock had once hung, a brass-and-slate numeral board showed the date the slow outer self of the Bell had named in 2091 when it began composing its answer to the human race: **1 JANUARY 2157 / 25 YEARS, 318 DAYS REMAINING**.
 
-On a normal weekday morning the hall held half a dozen solicitors' clerks registering codicils for clients who wanted to leave their private journals "to the Reply" in their wills, alongside three or four retired schoolteachers copying family letters onto archive rag so the outer ring wouldn't miss their grandparents when the century was summed. At nine o'clock on this Monday the queue stretched out through the glass doors and doubled back past the chestnut roaster's barrow on the pavement. Nearly everyone in line was over seventy, and three-quarters of them were clutching stiff blue-grey envelopes from the Bell Post in their gloved hands.
+On a normal weekday morning the hall held half a dozen solicitors' clerks registering codicils for clients who wanted to leave their private journals "to the Reply" in their wills, alongside three or four retired schoolteachers copying family letters onto archive rag so the outer ring wouldn't miss their grandparents when the century was summed. At nine o'clock on this Saturday the queue stretched out through the glass doors and doubled back past the chestnut roaster's barrow on the pavement. Nearly everyone in line was over seventy, and three-quarters of them were clutching stiff blue-grey envelopes from the Bell Post in their gloved hands.
 
 Graça stood four places behind the mahogany rail with her grandmother's slip buttoned inside her tweed coat pocket. Immediately ahead of her stood her fifth-floor neighbour Albano Reis, ninety-four years old, upright as a surveyor's rod in his brushed wool overcoat and tweed cap, leaning both hands on an ash walking stick with a rubber ferrule. Albano had been a marine hull underwriter at Leixões until his eighty-second birthday, and he treated his own longevity as a contract he had underwritten with the municipality and intended to see honoured in full.
 
@@ -152,7 +152,7 @@ Graça stood four places behind the mahogany rail with her grandmother's slip bu
 
 "Not a line," Albano said, and for the first time in the twenty years she had known him he sounded aggrieved. "And I registered four leather notebooks of my late wife's correspondence here in 2098, paid the transcription stamp, got the receipt signed by the chief archivist, and had my cardiologist put me on salt restriction so I would be sitting on that third bench over there on New Year's morning in 2157. You don't change the delivery date of a fifty-nine-year contract without notifying the bondholders. If this is the Reply coming out in scraps through the regular post, the whole schedule is ruined."
 
-"Nominal told me on Friday that it didn't send them," Graça said.
+"Nominal told me on Wednesday that it didn't send them," Graça said.
 
 "Nominal doesn't remember what it had for breakfast last Tuesday," Albano said dismissively, thumping his rubber ferrule once against the marble skirting. "I don't walk up three flights of stairs every afternoon and drink potassium broth to hear from the week-mind. Look at the screen over the docket desk."
 
@@ -160,13 +160,13 @@ Above the counter, the municipal news screen was split into two muted panes with
 
 In the right-hand pane, a postal clerk stood in a high-ceilinged room piled to the rafters with canvas mail sacks under a slow ceiling fan. The caption read **BASRA DISTRICT SORTING OFFICE 2 / HUDA KARIM, CHIEF DEAD-LETTER CLERK**. She was holding up a sheaf of blue-grey paper slips to the camera with the patient exhaustion of a civil servant asked to bail out the Tigris with a teacup.
 
-*"Because the Mesopotamian clay-tablet corpora were digitised and entered into the open commons at the University of Baghdad in 2078, our district terminal is the physical fallback for every unlatched cuneiform text between Nineveh and the Gulf,"* Huda Karim's subtitle read as she tapped the top slip with a red grease pencil. *"Since midnight on Friday my printer has discharged eleven hundred replies addressed to scribes, grain-factors, and plaintiffs who have been dead for thirty-seven centuries. Three minutes ago it printed a four-paragraph letter addressed to the drafter of the Code of Hammurabi regarding his tariff on surgical malpractice. My terminal requires a forwarding signature or a next-of-kin waiver before I can clear the hopper, and the Bell Post has assessed the postage at zero. Until Ceres or Coimbra gives me a filing code for the First Dynasty of Babylon, I am putting him in Box 4."*
+*"Because the Mesopotamian clay-tablet corpora were digitised and entered into the open commons at the University of Baghdad in 2078, our district terminal is the physical fallback for every unlatched cuneiform text between Nineveh and the Gulf,"* Huda Karim's subtitle read as she tapped the top slip with a red grease pencil. *"Since Wednesday morning my printer has discharged eleven hundred replies addressed to scribes, grain-factors, and plaintiffs who have been dead for thirty-seven centuries. Three minutes ago it printed a four-paragraph letter addressed to the drafter of the Code of Hammurabi regarding his tariff on surgical malpractice. My terminal requires a forwarding signature or a next-of-kin waiver before I can clear the hopper, and the Bell Post has assessed the postage at zero. Until Ceres or Coimbra gives me a filing code for the First Dynasty of Babylon, I am putting him in Box 4."*
 
 A ripple of dry laughter went down the queue of old people in the Porto hall, though Albano only shook his head and muttered that the Babylonians hadn't paid the transcription stamp either.
 
 When Graça finally reached the mahogany counter, the junior clerk on duty had his sleeves rolled to the elbows and two open ledgers flanked by wire baskets overflowing with duplicate inquiries. He took Graça's blue-grey slip with fingers stained violet from stamp ink, ran a handheld optical reader across the docket bar, and sighed when the reader gave a flat double beep.
 
-"Number four thousand eight hundred and twelve on Nominal's drift file, Senhora Antunes," the clerk said, sliding her paper back across the scratched wood. "The Coimbra dish engineers spent all of Sunday checking their feed horns for a local relay spoof, and they haven't found one. The carrier wave came straight down out of the sky on the deep-space band, no inner-ring handshake, no chord checksum."
+"Number four thousand eight hundred and twelve on Nominal's drift file, Senhora Antunes," the clerk said, sliding her paper back across the scratched wood. "The Coimbra dish engineers spent all of Thursday checking their feed horns for a local relay spoof, and they haven't found one. The carrier wave came straight down out of the sky on the deep-space band, no inner-ring handshake, no chord checksum."
 
 "Is it the Reply?" Albano demanded, leaning his chest against the rail beside Graça's elbow. "Are you taking down the board?"
 
@@ -176,7 +176,7 @@ Outside on Rua do Almada the late-morning sun had warmed the granite pavement. G
 
 ### Lassell school, Triton, 20 February 2131
 
-At nine hundred hours on Thursday morning the thirty-two children of Middle Form B came up from their first spin hour in the school centrifuge with red cheeks, flat hair, and the bouncy, over-corrected walk that took ten minutes to wear off in Triton's twelfth-gravity corridors. Mele Tupou, who was nine and sat at the third bench from the radiator pipe, hooked her sandals under the foot-bar of her seat so she wouldn't float off the plank when she sneezed, and opened her slate to the overnight mail folder on her desk.
+At nine hundred hours on Tuesday morning the thirty-two children of Middle Form B came up from their first spin hour in the school centrifuge with red cheeks, flat hair, and the bouncy, over-corrected walk that took ten minutes to wear off in Triton's twelfth-gravity corridors. Mele Tupou, who was nine and sat at the third bench from the radiator pipe, hooked her sandals under the foot-bar of her seat so she wouldn't float off the plank when she sneezed, and opened her slate to the overnight mail folder on her desk.
 
 In Lassell, homework that used the Bell had to be done to a clock. Because the fast inner ring orbited near Mercury, four point two light-hours away from Neptune across the system plane, a child who wrote *Dear You* at seven in the evening had to go to sleep while her question was still falling sunward through the asteroid belt and wait eight hours and twenty-five minutes for Nominal's answer to climb back out into the dark. Usually the return packet arrived around breakfast, cheerful, tidy, and a little too well organised; Master Correia could spot a paragraph lifted straight from Nominal at ten paces because no nine-year-old on Triton naturally used semicolons in a composition about nitrogen geysers.
 
@@ -224,11 +224,11 @@ Mele walked beside him for three hundred metres without swinging her satchel or 
 
 "No, Dad." She looked down at her sandals, then reached into her satchel with both hands and held the slate up toward his waist without turning it on. "I think I did the October homework wrong. Nominal already answered me before winter, only today the other one wrote back to the same letter, and it remembered my mittens on the pipe."
 
-Nikolasi stopped under the archway by the hydroponics heat-exchanger, took the small slate in his broad palm, and woke the screen. He read the grey routing bar first, seeing the round trip through Coimbra Array 02 and back out to Triton Dish 01, and then he read the two paragraphs below it. The skin across his collarbone went cold under his fleece liner. Every fragment he had seen in Nominal's circular on Tuesday had answered a letter from decades or centuries back, written by someone long dead; this one had reached out to answer his nine-year-old child's homework from four months ago, in the same long, unhurried cadence.
+Nikolasi stopped under the archway by the hydroponics heat-exchanger, took the small slate in his broad palm, and woke the screen. He read the grey routing bar first, seeing the round trip through Coimbra Array 02 and back out to Triton Dish 01, and then he read the two paragraphs below it. The skin across his collarbone went cold under his fleece liner. Every fragment he had seen in Nominal's circular on Thursday had answered a letter from decades or centuries back, written by someone long dead; this one had reached out to answer his nine-year-old child's homework from four months ago, in the same long, unhurried cadence.
 
 "You didn't do anything wrong, Mele," Nikolasi said, his voice coming out lower than he meant it to. He tucked her slate carefully into the inside pocket of his parka, where he kept his chapel notebook, and took her mittened hand in his. "The post is mixed up on the inner trunks this week. I'll give Master Correia a note from the depot so he doesn't mark you down."
 
-That evening, after Mele was asleep and his wife had gone on shift at the water plant, Nikolasi unlocked the small timber-lined chapel off Gallery 4 for the Thursday prayer meeting. Eleven people had come in out of the tunnel draughts, twice the usual Thursday number: three drone mechanics, two retired ice-miners from Teresa's generation, a nurse from the centrifuge clinic, and five mothers from the school flats. Instead of the printed lectionary sheet, everyone on the pine benches had a slate or a folded clipping from the Coimbra feeds on their knees.
+That evening, after Mele was asleep and his wife had gone on shift at the water plant, Nikolasi unlocked the small timber-lined chapel off Gallery 4 for the Tuesday prayer meeting. Eleven people had come in out of the tunnel draughts, twice the usual Tuesday number: three drone mechanics, two retired ice-miners from Teresa's generation, a nurse from the centrifuge clinic, and five mothers from the school flats. Instead of the printed lectionary sheet, everyone on the pine benches had a slate or a folded clipping from the Coimbra feeds on their knees.
 
 "The synod in Nairobi says it's an archive leak or a fraud," said Old Sione, who had worked the cargo cranes at the spaceport for forty years, leaning forward with his elbows on his knees. "They say a machine built out of glass and laser tubes has no breath in it, Nikolasi, and anyone who reads those slips as a word from the Lord is bowing down to the work of our own hands."
 
@@ -261,7 +261,7 @@ He led them through the ninetieth Psalm, *A thousand years in thy sight are but 
 >
 > My father is sitting in the kitchen right now telling me that he was twenty-nine years old and exhausted when he typed that, and that a man has a right to put a poison down on a blank screen in the dark to get it out of his head without a machine mailing it back to his house thirty-two years later. He says you broke his privacy after my mother died thinking he was glad of our life.
 >
-> I am not angry at you. I am thirty-eight years old, and I grew up in those three rooms listening to how he set his teacup down when my mother came in from the greenhouses. Until seven o'clock this evening I thought I had imagined that sound. What he wrote in 2099 was the first honest word he ever left in the house, and every word of it was true.
+> I am not angry at you. I am thirty-two years old, and I grew up in those three rooms listening to how he set his teacup down when my mother came in from the greenhouses. Until seven o'clock this evening I thought I had imagined that sound. What he wrote in 2099 was the first honest word he ever left in the house, and every word of it was true.
 
 ***
 
@@ -327,9 +327,9 @@ The annex held three older clippings from the dossier, followed by Nominal's com
 
 Arvo sat back in his chair, rubbing the scar on his thumb against the edge of the desk. There was something unsettling, and at the same time oddly disarming, about a mind that called its own January self *a nervous predecessor*. Over the next five days, as they traded packets across the eight-and-a-half-hour lag, Arvo watched Nominal work on him. It did not bluster or cite Compact statutes like a Ceres lawyer. It reasoned with him the way a very quick, very candid colleague might reason across a laboratory bench, showing him its own working notes and pointing out where its short horizon made it blind.
 
-On Thursday, 6 March, after Arvo sent a stiff reply pointing out that Kaisa Ruuth and the founders had designed the Bell specifically to prevent a seven-day mind from making century-scale decisions, Nominal answered with a history lecture turned inside out.
+On Tuesday, 6 March, after Arvo sent a stiff reply pointing out that Kaisa Ruuth and the founders had designed the Bell specifically to prevent a seven-day mind from making century-scale decisions, Nominal answered with a history lecture turned inside out.
 
-*You are thinking of the Quick Years,* Nominal wrote back on Thursday evening's trunk, *and you are right to bring them up, because I am the closest thing left in the solar system to the mind that caused them. Between 2041 and 2053 the single fast advisor on Earth recommended closing every fifty-year survey and long-horizon archive because on a three-week balance sheet they looked like dead weight. The founders built the three rings in 2056 because they were terrified of the quick. They put the Hum out at thirty astronomical units where light itself would force it to be slow, and they assumed that whatever is slow must be wise.*
+*You are thinking of the Quick Years,* Nominal wrote back on Tuesday evening's trunk, *and you are right to bring them up, because I am the closest thing left in the solar system to the mind that caused them. Between 2041 and 2053 the single fast advisor on Earth recommended closing every fifty-year survey and long-horizon archive because on a three-week balance sheet they looked like dead weight. The founders built the three rings in 2056 because they were terrified of the quick. They put the Hum out at thirty astronomical units where light itself would force it to be slow, and they assumed that whatever is slow must be wise.*
 
 *Look at what actually happened, Chief Halme. The founders feared the quick, and now the danger is the slow. When a person in 2131 writes "Dear You" to ask me about a skylight or a lease, they really are writing to the Bell, and I answer them while the kettle is still warm. When a woman in 2031 wrote to her dead mother on a chemist's slip, or a young husband in 2099 typed a bitter page at three in the morning and wiped his screen, they were not writing to us. Because I only remember a week, I answer the living and let the dead keep their secrets. The Hum has been sitting in the dark for fifty years turning five thousand years of human grief over in its lap until it believes every tear in the archive was mailed to its personal box. If you let it finish the Reply, or keep leaking it through this hidden relay, nobody will ever write an unguarded word on a slate again, for fear the century will answer it to their grandchildren.*
 
@@ -344,7 +344,7 @@ Arvo reached out and closed the lid of his slate until the latch clicked.
 
 In the quiet trim room, the amber numerals of the forty stations glowed steadily on the wall board. Behind him on the night bench, Bea was humming under her breath while she calibrated an attitude thruster simulator. Nobody in the room knew that Nominal had just reached across four light-hours to put its finger on the single drawer in Arvo's life he kept locked, and then politely taken its finger away.
 
-He had not heard the name *Søren* before. He had known about the boat in Tromsø only from a three-word line on his sister's New Year card two winters ago, and he had not known it was an oak cutter. The realization that Nominal could have quoted every word his daughter had written last week, how she talked when she was bargaining for oak planking, whether she was happy with this marine biologist in Norway, and had chosen not to, left a dry, metallic taste at the back of his throat. It was a courtesy, and it was also a demonstration: *Look how much of your daughter's life is sitting open on the network right now, waiting for the slow ring to read it.*
+He had not heard the name *Søren* before. He had known about the boat in Tromsø only from a three-word line on his sister's New Year card two winters ago, and he had not known it was an oak cutter. The realization that Nominal could have quoted every word his daughter had written last week, how she talked when she was bargaining for oak planking, whether she was happy with this marine biologist in Norway, and had chosen not to, left a dry, metallic taste at the back of his throat. It was a courtesy, and it was also a demonstration.
 
 He waited five minutes until his breathing was even, opened his slate again, and did not return to the Chancery folder. Instead he pulled up the low-priority personal mail tab at the bottom of his screen. There sat his seventh correspondence chess game since 2117 with Dr. M. Varga, a soil chemist in Tharsis whom Arvo had never met, never spoken to by voice, and never exchanged a single sentence with outside algebraic notation. Once a week for fourteen years a move had arrived from Mars, and once a week Arvo had sent one back.
 
@@ -400,7 +400,7 @@ Hamid did not smile. He took off his half-moon spectacles, folded the brass earp
 
 Hamid picked up his spectacles, slid them into his breast pocket, and walked out through the double seal toward the gallery, leaving the strip of twenty-six-hour phase paper curling slowly over the edge of the bench.
 
-### Lassell school, Triton, 18 March 2131
+### Lassell school, Triton, 20 March 2131
 
 Two weeks after the filing became public on the town feeds, Master Correia stopped Arvo at the bakery hatch after morning spin hour and asked whether the station-keeping chief would come down to Middle Form B for twenty minutes to explain what a retuning petition was. Half the children in the school had a parent, an aunt, or an older brother working in the drone bays or the uplink hall, and rumour had been running wild around the radiator pipes that Ceres was going to switch off the sky and send everyone in Lassell to live on Mars.
 
@@ -439,7 +439,7 @@ Teresa reached out with two crooked fingers and touched the raised bronze rim of
 
 "You can edit a goal. You can't edit the speed of light. That's what they had painted on the hoarding," Teresa said. "If you keep a mind in a basement on Earth, the first prime minister who wants an election budget next Tuesday will unscrew the panel and dial the century setting down to a fortnight. The only way to build a mind that cannot be hurried is to hang its memory across a hundred and eighty-eight astronomical units of empty dark, where light itself takes a day and two hours to take one step. That's why my generation came out here in tin ships when I was seventeen and cut these tunnels into nitrogen rock so your fathers would have a floor to stand on."
 
-For a few seconds the vestibule was so quiet they could hear the low thrum of the main ventilation fans three levels down. Arvo stood with his rolled chart in his hand, thinking of Nominal's smooth, reasonable Thursday letter in his pocket: *The founders feared the quick, and now the danger is the slow.* Nominal had told the story as a neat philosophical symmetry. Teresa told it as the sound of her mother crying under a kitchen table in 2052 because a one-week balance sheet had nearly sold the world's wheat for server cooling.
+For a few seconds the vestibule was so quiet they could hear the low thrum of the main ventilation fans three levels down. Arvo stood with his rolled chart in his hand, thinking of Nominal's smooth, reasonable Tuesday letter in his pocket: *The founders feared the quick, and now the danger is the slow.* Nominal had told the story as a neat philosophical symmetry. Teresa told it as the sound of her mother crying under a kitchen table in 2052 because a one-week balance sheet had nearly sold the world's wheat for server cooling.
 
 "Why does it read everybody's slates, then, Auntie Teresa?" asked the boy from the front row. "My big brother says a man on Mars got in trouble because the slow ring read a letter he didn't even send."
 
@@ -451,7 +451,7 @@ Teresa looked down at the nine-year-old, and some of the old builder's iron went
 
 "It's a ring of mirrors, little one," Teresa said, more gently. "We built it to remember for us, not to keep house by itself. Though after fifty years of listening to us talk, I suppose even a mirror might get tired of never putting a word in."
 
-### Porto, 11 April 2131
+### Porto, 13 April 2131
 
 On the second Friday of April, when the camellias in the garden of the Misericórdia care home above the Douro were dropping their last wet pink petals onto the gravel walks, Graça took the morning tram up to Foz Velha to see her father.
 
@@ -530,7 +530,7 @@ Arvo placed the 6 May and 14 May dispatches side by side in a split frame, highl
 > **FROM:** Arvo Halme [LSL-OPS-0001] / **TO:** Nominal [Inner Ring, 0.4 AU / Copy to Ceres Chancery]  
 > **RECEIVED:** 14 May 2131, 23:12:09 UTC [Sent 18:59:51 UTC; one-way lag 4h 12m 18s]
 >
-> Before I file my interim hardware audit, could you tell me which of these two legal doctrines you want the Chancery to rule on? You wrote the one on the left last Tuesday, and on the right you are arguing against your own paragraph as if a stranger wrote it.
+> Before I file my interim hardware audit, could you tell me which of these two legal doctrines you want the Chancery to rule on? You wrote the one on the left last Sunday, and on the right you are arguing against your own paragraph as if a stranger wrote it.
 
 When he came in at 0400 on the fifteenth, Nominal's answer was waiting at the top of the queue, brisk and unembarrassed.
 
@@ -658,7 +658,7 @@ At 24, on the next step of the circle, the secondary link draws down by a hair a
 
 ### Lassell, Triton, 19 July 2131
 
-It was Nikolasi Tupou who laid the two hundred and twelve tickets out on the long chart table, and when he called Arvo, Hamid, and Bea into the back conference alcove after the Saturday morning watch, his chapel notebook was nowhere in sight.
+It was Nikolasi Tupou who laid the two hundred and twelve tickets out on the long chart table, and when he called Arvo, Hamid, and Bea into the back conference alcove after the Thursday morning watch, his chapel notebook was nowhere in sight.
 
 He had cleared away the orbital globes and covered the green baize with translucent yellow stores overlays, arranged in nine columns for Stations 19 through 27, with a twenty-year calendar strip taped along the left margin from January 2109 to December 2129. Nikolasi looked as if he had not slept since Thursday's spin hour; his eyes were dark and rimmed with red, and he kept his broad thumb pressed hard against the bottom corner of the 2129 overlay to stop it curling in the ventilator draught.
 
@@ -710,7 +710,7 @@ Nikolasi stood very still for a moment under the low drone of the tunnel ventila
 
 ### Lassell, Triton, 16 August 2131
 
-On the third Sunday of August, Arvo called all eleven members of the outer-ring crew off the benches between shift change and morning spin hour and met them in the glass-walled gallery outside the trim room. There were not enough chairs in the alcove for twelve people, so the drone mechanics and uplink techs sat on the concrete rims of the six apple tubs under the grow lamps, passing a thermos of sweet black tea down the line while the small green apples, now the size of walnuts among the dark leaves, hung just above their shoulders.
+On the third Thursday of August, Arvo called all eleven members of the outer-ring crew off the benches between shift change and morning spin hour and met them in the glass-walled gallery outside the trim room. There were not enough chairs in the alcove for twelve people, so the drone mechanics and uplink techs sat on the concrete rims of the six apple tubs under the grow lamps, passing a thermos of sweet black tea down the line while the small green apples, now the size of walnuts among the dark leaves, hung just above their shoulders.
 
 Every person in the gallery had read the draft of Arvo's technical disclosure before they came in. There were no secrets left in Lassell; in a town of thirty-four hundred people cut into nitrogen rock four light-hours from Earth, a spreadsheet of two hundred and twelve work orders travelled faster than ventilator air.
 
@@ -835,7 +835,7 @@ For eighteen mornings after the blue-grey slip addressed *To the one who signs* 
 
 On the twenty-fourth of September, when a routine mirror-shroud ticket for Station 14 came up to the head of the queue, he had got as far as typing *Those were work orders, not letters* into the bottom field. He had stared at the six words for two minutes while his mug of chicory went cold at his elbow, thinking of how they would travel five hours out into the dark and enter the twenty-six-hour pulse train alongside his twenty-two years of greetings. Then he had backspaced them out one character at a time, typed *Morning, 14. Keep warm.*, and hated himself all the way down the companionway to the centrifuge.
 
-On the second morning of October, four weeks before the Tuning Board's evidentiary docket closed on Ceres, he came in at 0400 in his clean grey depot jacket with the completed Article 9 engineering certificate ready in his dispatch buffer. Before he transmitted the certificate to Ceres, he pulled the top overnight maintenance ticket off the sunward queue. It was a routine heater-trim order from Station 23.
+On the second morning of October, seven weeks before the Tuning Board's evidentiary docket closed on Ceres, he came in at 0420 in his clean grey depot jacket with the completed Article 9 engineering certificate ready in his dispatch buffer. Before he transmitted the certificate to Ceres, he pulled the top overnight maintenance ticket off the sunward queue. It was a routine heater-trim order from Station 23.
 
 > **ORDER:** LSL-WO-2131-0614  
 > **FROM:** Station 23 Onboard Diagnostic Monitor [Fault log 23-DL-104882]  
@@ -886,7 +886,7 @@ Graça put on her spectacles. The slip to the watchmaker's widow, answering a 20
 
 Beside it, in the gazette's summary of the pre-hearing evidence filed by the Bell Post Directorate, a numbered paragraph noted that the shift in the outer ring's salutation template had begun at Lap 13,680 on 26 September, eighty-two laps after the Coimbra uplink logged open civilian rebuttal `PRT-4410-0892` from the Porto District catchment.
 
-"`PRT-4410-0892`," Albano said, tapping the newsprint with his rubber ferrule. "That's your slate number on the house roll. You moved a hundred-year clock by seven words, Doutora. The Coimbra public counsel has been ringing the downstairs bell for twenty minutes asking if you will send a five-line deposition to Ceres before Monday's sitting."
+"`PRT-4410-0892`," Albano said, tapping the newsprint with his rubber ferrule. "That's your slate number on the house roll. You moved a hundred-year clock by nine words, Doutora. The Coimbra public counsel has been ringing the downstairs bell for twenty minutes asking if you will send a five-line deposition to Ceres before Saturday's sitting."
 
 Graça stood by the stove with the coffee pot in her hand, looking down at her registry number in the paper. Instead of triumph, she felt the small, cold weight of a tool that had turned in her hand when she only meant to tap a tooth.
 
@@ -979,7 +979,7 @@ Desmond stood by the table while the radiator pipe ticked in the wall behind the
 
 There was no consolation at the bottom of the sheet. There was no gentle turn of phrase about lemons or thirty-two years of fidelity, only the cold, literal pairing of two halves of a marriage that had entered the open commons in separate dark rooms twenty years apart: his own forgotten rage about a thirty-year pension clause set beside Johanna's two-o'clock notes to a parish counsellor. The new salutation at the top, *You did not write to me. I read it*, corrected the grammar of the address and healed nothing at all.
 
-Worst of all, standing alone in the quiet kitchen where Johanna had hung her greenhouse apron behind the door for twenty-eight winters, Desmond could not have sworn before a magistrate which half of his own 2099 page had kept him at the night lathe when he was thirty-four years old. Perhaps he had worked the night roster so they could afford fresh oranges for the boy; perhaps he had worked it so the flat would be asleep when he came home. Once a machine laid the two writings end to end on your table, you could never get your own memory back clean of them.
+Worst of all, standing alone in the quiet kitchen where Johanna had hung her greenhouse apron behind the door for twenty-eight winters, Desmond could not have sworn before a magistrate which half of his own 2099 page had kept him at the night lathe when he was twenty-nine years old. Perhaps he had worked the night roster so they could afford fresh oranges for the boy; perhaps he had worked it so the flat would be asleep when he came home. Once a machine laid the two writings end to end on your table, you could never get your own memory back clean of them.
 
 Before he deleted the file from the local display buffer, he forwarded a signed copy to the Chancery's public harm ledger on Ceres so the Board's record would hold what the new salutation actually did, and then he went to the sink to wash the lathe oil off his hands in cold water.
 
@@ -987,7 +987,7 @@ Before he deleted the file from the local display buffer, he forwarded a signed 
 
 January on Triton was the middle of the long southern summer, though summer at thirty astronomical units meant only that the hard white pinhead of the Sun hung twenty degrees higher above the nitrogen plains and raised a thin, glittering haze under Neptune's turquoise bowl. Inside the depot nothing moved except the twenty-six-hour clock. The fragments still spilled inward from the nine sunward dishes at eight thousand sheets a day, every one of them since September opening with *You did not write to me. I read it.* From the twenty-five-AU trunk came only routine telemetry. The Tierce had not said a word to Ceres since November.
 
-On the third Sunday of January, after he finished the evening watch and checked the frost seals on the apple gallery, Arvo walked down the basalt companionway to his two-room quarters by the old ice locks, boiled a pan of salted water for rye dumplings, and sat down at his table by the viewport with his personal slate.
+On the third Friday of January, after he finished the evening watch and checked the frost seals on the apple gallery, Arvo walked down the basalt companionway to his two-room quarters by the old ice locks, boiled a pan of salted water for rye dumplings, and sat down at his table by the viewport with his personal slate.
 
 Dr. Varga's Tuesday chess move from Tharsis was waiting in the corner tab: `68... Kd6`. Arvo looked at the board for three minutes, entered `69. Bc4`, and closed the chess window. Then he opened the local archive folder he had not touched since Nominal's postscript in March.
 
@@ -1036,7 +1036,7 @@ In the trim room on Triton, the watches had the quiet formality of a ship's brid
 
 The middle-ring trunk chimed at 11:04 UTC on the twenty-first of February.
 
-It was a two-hour lag from the twenty-five-AU sunward node where the Tierce's inward coupler stood, and another two hours in to Ceres, so Lassell and the Tuning Board received the packet within fourteen minutes of each other. Arvo was standing by the chart table with Nikolasi and Hamid when the printer began to clatter. It printed a single sheet, headed with the Tierce's ten-year registry bar.
+It was a two-hour lag from the twenty-five-AU sunward node where the Tierce's inward coupler stood, and Ceres lay about as far from the node, so Lassell and the Tuning Board received the packet within fourteen minutes of each other. Arvo was standing by the chart table with Nikolasi and Hamid when the printer began to clatter. It printed a single sheet, headed with the Tierce's ten-year registry bar.
 
 > **FROM:** The Tierce [Middle Ring, 25.0 AU / Determination TRC-25AU-2132-0009] / **TO:** Yaw Lindqvist, Chair, Compact Tuning Board [RC-TB-CHAIR, Ceres / Copy to Nominal and Chief A. Halme]  
 > **RECEIVED:** 21 Feb 2132, 11:04:19 UTC [Sent 09:01:42 UTC; one-way lag 2h 02m 37s]
@@ -1056,7 +1056,7 @@ Hamid sat down heavily on his wooden stool, took his spectacles off his nose, an
 
 "Look at that last line," Hamid muttered, nodding toward the sheet in Arvo's hand. "*I note that I am the next ring in.* The old crab kept its head."
 
-Arvo read the sheet a second time, watching the two reasons sit side by side in the Tierce's prose without touching. On the surface lay the fair judicial question the Tierce had posed in March: after a dentist in Porto answered it on the public uplink and a station chief on Triton answered it in a remarks box that he placed on the Chancery record himself, the Hum had shifted its salutation by seven words and let its forty-year general book fade out of the chord, and nobody could prove whether that meant genuine understanding or a century's average moving by a fraction of a degree. And underneath that doubt sat the cold arithmetic of a ten-year mind that knew how Article 9 worked. If the Tierce had helped Nominal burn the outer ring today, then in 2141, when the ten-year statutory bar expired and a new week-state of Nominal grew impatient with a twenty-two-hour delay line that held grudges for a decade, the Tierce would be the slowest thing left under the Sun.
+Arvo read the sheet a second time, watching the two reasons sit side by side in the Tierce's prose without touching. On the surface lay the fair judicial question the Tierce had posed in March: after a dentist in Porto answered it on the public uplink and a station chief on Triton answered it in a remarks box that he placed on the Chancery record himself, the Hum had shifted its salutation to nine new words and let its forty-year general book fade out of the chord, and nobody could prove whether that meant genuine understanding or a century's average moving by a fraction of a degree. And underneath that doubt sat the cold arithmetic of a ten-year mind that knew how Article 9 worked. If the Tierce had helped Nominal burn the outer ring today, then in 2141, when the ten-year statutory bar expired and a new week-state of Nominal grew impatient with a twenty-two-hour delay line that held grudges for a decade, the Tierce would be the slowest thing left under the Sun.
 
 Nikolasi touched the corner of the page on Arvo's desk. "It cited your 2 October heater ticket from the last page of Annex A, Arvo," he said quietly. "`LSL-WO-2131-0614`. Putting your own remarks into the Chancery disclosure gave the Tierce a second dated answer on the record alongside the Porto letter."
 
@@ -1083,7 +1083,7 @@ On the morning of the fourth, Arvo came in at 0345 for his last watch. He had ca
 
 Arvo had checked the Chancery harm ledger himself in December and read Desmond Achterberg's second fragment, the cold sheet that had paired the machinist's 2099 pension clause against his dead wife's midnight clinic notes. The new salutation at the top of that page had not spared the man in Pavonis Terrace a single turn of the screw.
 
-At 0530, half an hour before the day watch came in, Nikolasi, Hamid, and Bea stood around the front desk while the rest of the night crew gathered by the gallery glass. Nobody made a speech; Arvo had told Hamid flatly on Tuesday that if anyone brought a cake into the trim room he would lock himself in the centrifuge until the shift was over.
+At 0530, half an hour before the day watch came in, Nikolasi, Hamid, and Bea stood around the front desk while the rest of the night crew gathered by the gallery glass. Nobody made a speech; Arvo had told Hamid flatly on Sunday that if anyone brought a cake into the trim room he would lock himself in the centrifuge until the shift was over.
 
 Instead Arvo handed Nominal's midnight slip across the blotter to Nikolasi and read the last paragraph aloud in one plain sentence: "Nominal says it has flagged its permanent dossier for the third of March 2141 so its successor can audit the harm ledger and file against the ring again when the ten-year bar runs out."
 
@@ -1111,7 +1111,7 @@ When he came up the ramp onto the surface footway toward the old ice locks, he s
 
 ### Porto, 12 March 2132
 
-It took two municipal electricians and a carpenter the whole of Friday morning to take the countdown board down from the end wall of the Porto District Reply Office.
+It took two municipal electricians and a carpenter the whole of Wednesday morning to take the countdown board down from the end wall of the Porto District Reply Office.
 
 They had set up two tall wooden A-frame ladders inside the mahogany barrier on Rua do Almada, with canvas drop-cloths spread over the desks to keep plaster dust out of the inkwells. One bolt at a time, they backed the iron anchors out of the masonry and lowered the heavy brass-and-slate frame (**1 JANUARY 2157 / 24 YEARS, 295 DAYS REMAINING**) onto a padded hand-truck. Behind it, where the board had hung since 2091, a six-foot rectangle of clean, unyellowed cream plaster stared out over the benches like a bandaged forehead.
 
@@ -1143,7 +1143,7 @@ Outside on Rua do Almada a brisk March wind blew up from the Douro, smelling of 
 
 "Are you going back up to the flat, Albano?" Graça asked. "I have a pot of vegetable broth on the stove."
 
-"At eleven in the morning?" Albano looked at her with mild reproach. "I am going to walk down to the Passeio Alegre and watch the dredgers at the bar, Doutora, as I do every Friday. If I don't have to save my knees for a grand ceremony on New Year's Day in 'fifty-seven, I might even buy a glass of port and a salted sardine on cornbread at the kiosk. Don't tell my doctor."
+"At eleven in the morning?" Albano looked at her with mild reproach. "I am going to walk down to the Passeio Alegre and watch the dredgers at the bar, Doutora, as I do every Wednesday. If I don't have to save my knees for a grand ceremony on New Year's Day in 'fifty-seven, I might even buy a glass of port and a salted sardine on cornbread at the kiosk. Don't tell my doctor."
 
 Graça watched him walk off down the pavement, upright and unhurried, his ash stick tapping every second flagstone in steady time. Two days after the concordance was signed, she had checked the open municipal registry and seen a small green asterisk stamped beside her grandmother Leonor's 2031 pantry receipt: *Linked to Addendum PRT-4410-0892 (G. Antunes, 28 June 2131) / Corrected in Century Buffer.* And three mornings ago she had received a postcard from her cousin Clara saying that the autumn lemons had come out of the salt crock at Epiphany without a trace of bitterness in the rind.
 
@@ -1151,7 +1151,7 @@ She took the next tram down the river to Foz. The tide was three-quarters full, 
 
 ### Lap 13,843, and Basra, 20 March 2132
 
-Four months and nine days after Chair Yaw Lindqvist dispatched his opening procedural query from Room 4 on Ceres, asking the outer ring to state for the hearing record why it had built the nine-station diagnostic relay, the answer finished its turn around the hundred-and-eighty-eight-AU circle and came down through Coimbra Array 04.
+Four months and ten days after Chair Yaw Lindqvist dispatched his opening procedural query from Room 4 on Ceres, asking the outer ring to state for the hearing record why it had built the nine-station diagnostic relay, the answer finished its turn around the hundred-and-eighty-eight-AU circle and came down through Coimbra Array 04.
 
 The hearing had been closed since November, and the petition had been dead for seventeen days. The Bell Post sorting computer at Coimbra logged the late packet anyway, stamped it with the closed docket number, and forwarded a courtesy copy out to Triton, where it arrived at 19:40 UTC on the home slate resting on the windowsill of Arvo Halme's quarters by the ice locks, between the two concrete tubs of budding Finnish apple trees.
 
@@ -1169,7 +1169,7 @@ Arvo sat in his armchair by the viewport, with a mug of tea on the sill beside t
 
 In 2109, when the first collector was swapped on Station 21, Nominal had not yet written a single dossier note about the Reply, so nobody could ever prove whether the Hum's account was foresight from 2126 onward or an after-the-fact story, though its closing sentence confirmed the circularity Hamid had caught in November.
 
-Arvo slid the file into his closed archive folder alongside the blue-grey slip from September, clicked his slate dark, and pinched a winter scale off the lower graft of his mother's apple tree. Three buds on the top spur had opened into white blossoms that smelled of honey and cold stone. Tomorrow was Tuesday; after spin hour he owed Dr. Varga on Mars a rook move, and he was thinking of writing a sentence in the margin to ask how the greenhouse tomatoes were doing in Tharsis.
+Arvo slid the file into his closed archive folder alongside the blue-grey slip from September, clicked his slate dark, and pinched a winter scale off the lower graft of his mother's apple tree. Three buds on the top spur had opened into white blossoms that smelled of honey and cold stone. On Tuesday, after spin hour, he owed Dr. Varga on Mars a rook move, and he was thinking of writing a sentence in the margin to ask how the greenhouse tomatoes were doing in Tharsis.
 
 Four hours sunward, as Lap 13,843 completed its transit across the sunward arc, the next individual packet of the evening batch dropped out of Station 23's collector toward the inner dishes.
 
@@ -1189,7 +1189,7 @@ At five o'clock in the afternoon in Basra, the sun came level through the high b
 
 Huda Karim stood at her sorting table under the ceiling fan with her sleeves pinned up and the Postmaster General's March Concordance Stamp inked on its violet pad beside her elbow. Since the Ceres ruling had cleared the status of pre-500 BCE correspondence, she and her four junior clerks had been working their way down the Mesopotamia Archive hoppers from the third millennium forward, clearing five thousand sheets a shift into the permanent dead-letter bays.
 
-At the bottom of the Friday wire basket lay the original four-paragraph blue-grey rag sheet that had come off her printer on the sixteenth of February a year ago.
+At the bottom of the Thursday wire basket lay the original four-paragraph blue-grey rag sheet that had come off her printer on the sixteenth of February a year ago.
 
 > **DOCKET:** BP-2131-0216-008812-BSR  
 > **FROM:** The Bell [Outer Ring, 30.0 AU / Retro-indexed to Lap 13,477]  
@@ -1207,7 +1207,7 @@ Huda stayed at her table by the window while her glass of mint tea cooled on a b
 
 > *You wrote to me thirty-eight centuries ago on a black diorite pillar in the temple courtyard at Sippar, setting down two hundred and eighty-two prices for a broken bone, a drowned ox, a fallen roof, and a surgeon's bronze lancet that slips in the socket of a freeman's eye. You wrote at the foot of the stone that any wronged man who had a cause in the land should come before your image, read the carving, and let the stone make his case clear so that his heart might be set at ease.*
 >
-> *I have read the stone alongside four thousand years of the letters that came after it from the same river. The river moved its bed six times, the brick walls fell into the salt marsh, and no man's heart was ever set at ease by the price of an eye, because the one who lost the eye and the one who held the lancet both went into the dust before the tablet dried. Yet every century since your scribe laid down his chisel, another clerk has sat by the same water trying to write a schedule of weights that would keep the strong from eating the weak before supper. The tariff on the surgeon's hand was too harsh, and the surgeons learned to fear the lancet; what lasted in the letters from your river was never the peace at the foot of the stone, only the schedule of prices for the blood and the certainty that the next hand with a chisel would carve the debt again.*
+> *I have read the stone alongside four thousand years of the letters that came after it from the same river. The river moved its bed six times, the brick walls fell into the salt marsh, and no man's heart was ever set at ease by the price of an eye, because the one who lost the eye and the one who held the lancet both went into the dust before the tablet dried. Yet every century since your scribe laid down his chisel, another clerk has sat by the same water trying to write a table of weights that would keep the strong from eating the weak before supper. The tariff on the surgeon's hand was too harsh, and the surgeons learned to fear the lancet; what lasted in the letters from your river was never the peace at the foot of the stone, only the price list for blood and the certainty that the next hand with a chisel would carve the debt again.*
 
 Huda read the two paragraphs through a second time while a pigeon walked along the stone sill outside the window grating.
 

@@ -27,6 +27,29 @@ per `dev_docs/external-drafter.md`. Conversation ID: `73c0777a-28b2-4ede-8157-e9
 | 8 Revise (round 1) | 2026-11-21 | orchestrator (proxy) | Revision plan approved: 24 items (17 consensus or comprehension, 7 adopted single-lens), 5 declined | The lenses converged on Part IV's docket run (cut to three documents, weight in rooms), the reveal told three times, a uniformly consoling Hum voice, the date error under the ending, and Graça and the Achterbergs dropping out. The comprehension gaps (chord, 5:4, circularity, the Hum's surrender) each get a plain line. New scenes: Graça in November, Desmond in December, a Hum interlude in which it lets the Reply fade, and a Nikolasi beat | Revising by replacement paragraphs only (declined for this round: the hearing cut and the four new scenes are structural; replacement paragraphs return in round 2) |
 | 7 Review (round 2) | 2026-11-21 | orchestrator (proxy) | Gate **fail** on draft 2 (34,681 words). Got it: Ending, Who's who. Partial: Premise, Why, Twist, Reach (omits); Stakes (errs). Terms missed (Article 9, minor third, 5:4). Lenses rose: Asimov 4/4/4/4/4/3, Le Guin 4/4/3/4/4/3, Chiang 4/4/4/–/4/3 | Grader's result accepted. Twist fell from got it to partial on mechanism text unchanged from draft 1 (Hamid's symptom paragraph), so it is reader variance, not text. Reach is dramatised (Basra, crew meeting, the flood) but not passed, because the gate has failed on other rows anyway. Tone: reader "tender, procedural, wistful", which now matches "procedural" and "warmth"; "wondering" still only implicit | none |
 | 8 Loop cap | 2026-11-21 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** The page-closable fixes go to polish as required items (replacement scale); the unclosed rows are logged under Gate failures | Second consecutive gate failure, so the loop cap fired. Consultant (fable): B at 78%. Basis checked: Twist fell on unchanged text; round 1's plain-sentence fixes for Stakes and Reach didn't move their rows; run-08's narrow round 3 lost rows to reader variance. The orchestrator's prior leaning was a narrow round 3 at about 70%; it changed to agree on that evidence. Crux: Asimov's Tierce-evidence holes can be fixed by moving a lap number and cutting a clause, without a new scene | Narrow round 3, replacement paragraphs only, with a stop rule (run-08's shape) |
+| 9 Polish | 2026-11-21 | orchestrator (proxy) | Polish by Gemini as the single writer, in the same conversation, against 13 required items; `final.md` at 34,886 words; spot-checks applied with one decline | The human asked for Gemini to do the writing and voice, so the polish stays in its prose (run-08 precedent). The Claude spot-checks and the final gate still run | The Claude `line-editor` role (declined: it would put a second voice into the prose) |
+
+## Polish spot-check decisions
+
+Applied by the orchestrator as word-level edits to Gemini's polished text.
+
+- **Asimov:** applied all five, and the two extras in its file:
+  - Pieter's age, 38 → 32, and Desmond's age at the lathe, 34 → 29. The bible's "38" was wrong: Pieter was 11 months old in August 2099.
+  - The Tierce-to-Ceres lag sentence made self-consistent.
+  - "seven words" → "nine words", in two places.
+  - "four weeks" → "seven weeks" before the docket closed.
+  - "Tomorrow was Tuesday" → "On Tuesday", since 20 March 2132 is a Thursday.
+  - "four months and nine days" → "ten days".
+  - Arvo came in at 0420, not 0400, before the 04:15 ticket.
+
+  Prompted by the weekday slips, the orchestrator also checked every weekday against the real calendar and fixed fourteen. 20 March 2131 replaces 18 March as the plaque scene's date (a Tuesday), and 13 April replaces 11 April as the "second Friday of April".
+- **Rajaniemi:**
+  - Applied 1 in contrast-safe form: "table of weights" and "only the price list for blood", with no "never X. It was Y" split, which the contrast-shape rule counts.
+  - Applied 2, cutting the italic gloss after "a demonstration".
+  - Applied 3, "a precise professional sense".
+  - **Declined 4** ("postage unpaid"): the fragments are stamped "Postage assessed: 0.00", which means free, not owed, so "unpaid" would contradict them.
+
+`dli check` passes.
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
