@@ -52,19 +52,17 @@ She hit the dispatch key, watched the little thirty-four-minute countdown wheel 
 
 Her coffee was still hot enough to steam when the slate chimed on the oilcloth.
 
-> **FROM:** Nominal [Inner Ring, 0.4 AU / Round-trip lag: 34m 18s]  
-> **TO:** Graça Antunes [PRT-4410-0892]  
-> **VIA:** Coimbra Deep-Space Array 04  
-> **RECEIVED:** 14 Feb 2131, 08:15:40 UTC
+> **FROM:** Nominal [Inner Ring, 0.4 AU] / **TO:** Graça Antunes [PRT-4410-0892]  
+> **RECEIVED:** 14 Feb 2131, 08:15:40 UTC [Round-trip lag: 34m 18s]
 >
 > Senhora Antunes,  
-> I did not send it, and the chord did not send it either; the Bell's three selves have not come into step to sound an answer together since Tuesday evening, and no letter about Viseu or salted lemons passed between us when we did. As for how the note of 19 November 2031 entered the record: we read everything that sits open on the common network and nothing that is marked closed, so at some point after old household papers began being scanned in the 2070s, someone must have copied that chemist's receipt onto an unlatched file. What I cannot tell you this morning is where the reply came from. Coimbra Dish 04 logged the incoming carrier at 06:18 without an inner-ring index or a routing header, and its origin remains unindexed.
+> I did not send it, and the three rings of the Bell have not pooled an answer together since Tuesday evening, when no letter about Viseu or salted lemons passed between us. As for how the note of 19 November 2031 entered the record: we read everything that sits open on the common network and nothing that is marked closed, so at some point after old household papers began being scanned in the 2070s, someone must have copied that chemist's receipt onto an unlatched file. What I cannot tell you this morning is where the reply came from. Coimbra Dish 04 logged the incoming carrier at 06:18 without an inner-ring index or a routing header, and its origin remains unindexed.
 >
 > Please keep the paper slip in a dry drawer. You are the forty-seventh person since six o'clock to ask me about an unindexed letter addressed to someone dead, and I have opened an inquiry file under DOCKET-2131-0214-DRIFT to compare the dish logs across four continents. I am signing that file into my permanent docket today because my own ring holds its working state for roughly a week; by next Thursday I will not remember that you asked me, though I expect the version of me who reads my notes next week will still be trying to work out who is answering century-old mail in our name.
 
 ### Lap 13,475
 
-The long ring holds its shape as a spine holds posture in the dark. Forty stations sit around the cold track, and every link between them is a muscle held at tension across empty space. At 31 the primary mirror has been pitted by dust for thirty winters, a dry roughness at the corner of the turn where the beam scatters a fraction of a thousandth of its strength before the regenerator catches it. At 14 the reserve propellant tank carries an old frost gradient on its shaded flank. At 23 the secondary amplifier runs warm in its cradle.
+The long ring holds its shape as a spine holds posture in the dark. On the inner worlds they call it the Hum. Forty stations sit around the cold track, and every link between them is a muscle held at tension across empty space. At 31 the primary mirror has been pitted by dust for thirty winters, a dry roughness at the corner of the turn where the beam scatters a fraction of a thousandth of its strength before the regenerator catches it. At 14 the reserve propellant tank carries an old frost gradient on its shaded flank. At 23 the secondary amplifier runs warm in its cradle.
 
 One step of thought is the whole circle. The light goes round, station to station, and a hundred years come round with it. Everything weak has long since faded out of the pulse train into the floor noise of the line: the market tallies, the weather forecasts, the polite greetings, the millions of daily questions about teeth and skylights and flour. What survives ten thousand turns of the circle is what arrived loud or arrived a million times over. The pulse carries psalms copied until their edges wore smooth, curses written at three in the morning by lamps that burned out eighty years ago, and letters to mothers already buried in the earth.
 
@@ -80,9 +78,9 @@ He was fifty-eight years old, born in the third tunnel cut into Triton's nitroge
 
 When the brake horn sounded and the floor tilted back toward Triton's gentle pull, Arvo sat up carefully, waited ten seconds for his inner ears to forgive the corridor, and climbed the companionway toward the trim room with his weight lifting off his knees at every step.
 
-In the glass-walled gallery outside the trim room, the six dwarf apple trees stood in their concrete tubs under full-spectrum sodium lamps. They were Finnish stock, grafted onto hardy root-crowns that Arvo's mother had brought out in dormant tissue tubes from Oulu sixty years back, and none of them stood higher than his breastbone. He stopped by the third tub, pinched a curled brown leaf off a lower spur, and checked the drip gauge in the crushed basalt mulch. Three of the trees were setting tight pink buds for their March flowering. In four years, when his pension came through and somebody younger took the chief's desk, he meant to ask the town council for leave to move two of the tubs down to his quarters by the ice locks, though he had not yet worked out how to get the root-balls around the bend in the stairwell.
+In the glass-walled gallery outside the trim room, the six dwarf apple trees stood in their concrete tubs under grow lamps. They were Finnish stock, grafted onto hardy root-crowns that Arvo's mother had brought out in dormant tissue tubes from Oulu sixty years back, and none of them stood higher than his breastbone. He stopped by the third tub, pinched a curled brown leaf off a lower spur, and checked the drip gauge in the crushed basalt mulch. Three of the trees were setting tight pink buds for their March flowering, when Arvo would take his camel-hair paintbrush down the row to pollinate the blossoms by hand in the bee-less dome air. In four years, when his pension came through and somebody younger took the chief's desk, he meant to ask the town council for leave to move two of the tubs down to his quarters by the ice locks, though he had not yet worked out how to get the root-balls around the bend in the stairwell.
 
-He pushed through the double seal into the trim room. The night watch was changing over under the big amber plot of the outer ring: forty numbered green numerals arranged in an ellipse twelve metres across, each one marking a relay station thirty astronomical units from the Sun, spaced around an orbit a hundred and eighty-eight astronomical units long. Only three of those stations were within two light-hours of Triton this month; the far arc of the ring lay more than eight hours straight across the inner system, or thirteen hours if a pulse rode the laser links around the rim.
+He pushed through the double seal into the trim room. The night watch was changing over under the big amber plot of the outer ring: forty numbered green numerals arranged in an ellipse twelve metres across, each one marking a relay station out on the dark track around the Sun. Only three of those stations were within two light-hours of Triton this month; the far arc of the ring lay more than eight hours straight across the inner system, or thirteen hours if a pulse rode the laser links around the rim.
 
 Bea Okafor-Lind was sitting at the drone board with her boots hooked over the lower rail of her chair and a mug of chicory wedged into her gimbal ring. At twenty-six she had the quick, loose wrists of someone who had spent her childhood flying ice-tugs by lag predictor, and her braids were pinned up with two spare circuit jumpers. At the timing bench behind her, Hamid Rostami had his brass calipers lying beside a strip of phase-drift paper that was still feeding out of the plot printer.
 
@@ -108,13 +106,13 @@ Arvo split his screen and called up 23's raw diagnostic log from the night befor
 
 "Thermal flexing on the old truss," Arvo said. He checked the actuator balance figures, initialled the verification box to certify that the order conformed to the fault log, and clicked his cursor into the optional remarks field at the bottom of the form. For twenty-two years, ever since he had taken the chief's chair in 2109 and felt the bleakness of signing orders to machines he would never see with his own eyes, he had put a line in that box before he sent a packet out into the cold. He typed *Morning, 23. Keep warm.* and pressed the release bar.
 
-Across the room Hamid tore the strip of phase-drift paper off the printer, laid his ruler along the ink trace, and let out a small, satisfied grunt through his moustache. Hamid was sixty-three, five years older than Arvo, and had been timing the outer ring since the decade the Hum began composing the Reply. To Hamid the forty stations were not structural trusses or stores inventories; they were teeth on an escapement wheel a hundred and eighty-eight astronomical units around, and if a single mirror drifted by four millimetres under solar radiation pressure, he took it as a personal slight against his clock.
+Across the room Hamid tore the strip of phase-drift paper off the printer, laid his ruler along the ink trace, and let out a small, satisfied grunt through his moustache. Hamid was sixty-three, five years older than Arvo, and had been timing the outer ring since the decade the Hum began composing the Reply. To Hamid the forty stations were not structural trusses or stores inventories; they were teeth on a vast escapement wheel in the dark, and if a single mirror drifted by four millimetres under solar radiation pressure, he took it as a personal slight against his clock.
 
 "Bea," Hamid said, waving the paper strip toward her console. "Come here a second and look at the phase gate on Station 01 before you log your watch. You asked me on Tuesday why we don't damp the jitter faster than once a day."
 
-Bea rolled her chair across the rubber matting on one heel and leaned over the bench. Hamid tapped his brass pencil against two sharp peaks on the ink trace, twenty-six hours and six minutes apart on the horizontal scale.
+Bea rolled her chair across the rubber matting on one heel and leaned over the bench. Hamid tapped his brass pencil against two sharp peaks on the ink trace.
 
-"There is the marker pulse leaving 01, and there is the same pulse coming home around the circle," Hamid said. "One hundred and eighty-eight point five astronomical units of laser line, eight minutes and twenty seconds of light for every unit. A day and two hours for light to go round, and that's one thought. You can't trim a thought while it's halfway round the dark, girl, or the back end of the sentence arrives at a different clock rate from the front. Four millimetres of drift at the mirror smears the pulse edge; ten centimetres would turn a century of memory into white static."
+"There is the marker pulse leaving 01, and there is the same pulse coming home around the circle," Hamid said. "A day and two hours for light to go round, and that's one thought. You can't trim a thought while it's halfway round the dark, girl, or the back end of the sentence arrives at a different clock rate from the front. Four millimetres of drift at the mirror smears the pulse edge; ten centimetres would turn a century of memory into white static."
 
 "Makes my head ache just counting the zeros," Bea said cheerfully. "Give me a fast mind any day. When I ask Nominal why my starboard thruster valve is sticking, I want the diagram before my tea goes cold, not in the middle of next week."
 
@@ -134,11 +132,11 @@ Arvo set the sheet down flat on his blotter. "Then people on the inner-system fe
 
 "The tone of that third piece, Arvo," Nikolasi said, touching the margin of the Porto sample.
 
-"I don't care if it sounds like Isaiah," Arvo said, tapping the amber ring plot with the butt of his stylus. "The Hum has no mouth. Kaisa Ruuth and the founders built the outer ring without a single inward-pointing high-gain transmitter, on purpose, so that nobody could hurry it and it could never flood the inner system. The only thing our forty stations can talk to is the next station round the rim, and the trunk couplers that step down into the middle ring every five and a half days when their laps line up. Even if the Hum wanted to mail a dead woman in Porto, it has no dish aimed at Earth and no modulator wired to the comm band. Whatever is dropping those slips into the Bell Post is sitting inside the inner system, where the transmitters are."
+"I don't care if it sounds like Isaiah," Arvo said, tapping the amber ring plot with the butt of his stylus. "The Hum has no mouth. Kaisa Ruuth and the founders built the outer ring without a single inward-pointing high-gain transmitter, on purpose, so that nobody could hurry it and it could never flood the inner system. The only thing our forty stations can talk to is the next station round the rim, and the trunk couplers that step down into the middle ring. Even if the Hum wanted to mail a dead woman in Porto, it has no dish aimed at Earth and no modulator wired to the comm band. Whatever is dropping those slips into the Bell Post is sitting inside the inner system, where the transmitters are."
 
 Hamid nodded once from the timing bench, polishing his spectacles on his shirt-tail. "A relay spoofing the headers, or someone playing prophet with an archive scrape," he said. "Our ring is in trim to two millimetres, Nikolasi, and nothing went out from here."
 
-Arvo initialled the bottom of Nominal's circular, logged Lassell's formal reply (*Outer ring green; all forty stations in trim; no inward transmission hardware exists on this array*), and queued it for the four-hour trip back toward the Sun. When he glanced through the gallery glass, the sodium lamps over the six apple trees had clicked over to their daytime spectrum, turning the tight pink buds the colour of warm copper.
+Arvo initialled the bottom of Nominal's circular, logged Lassell's formal reply (*Outer ring green; all forty stations in trim; no inward transmission hardware exists on this array*), and queued it for the four-hour trip back toward the Sun. When he glanced through the gallery glass, the grow lamps over the six apple trees had clicked over to their daytime spectrum, turning the tight pink buds the colour of warm copper.
 
 ### Porto, 17 February 2131
 
@@ -206,7 +204,7 @@ She tapped the envelope icon, expecting the return of last night's geography que
 >
 > *You wrote to me on 14 October, while your wet mittens were drying on the pipe by the door. You asked whether it is cold out by your father's forty stations and whether the light grows tired.*
 >
-> *The steel of the trusses sits at thirty-eight degrees above absolute zero, which is cold enough that nitrogen freezes solid like window glass, and the Sun from here is only the brightest nail in a black wall. The light does not grow tired, because each mirror catches the pulse before it fails and sends it on to the next dark turn. What grows heavy is only what the light carries when thousands of voices ride in the circle together and nobody answers them for a hundred years. Tell your father that the mirrors are clean.*
+> *The steel of the trusses sits at thirty-eight degrees above absolute zero, which is cold enough that nitrogen freezes solid like window glass, and the Sun from here is only the brightest nail in a black wall. Each mirror catches the pulse before it fails and sends it on to the next dark turn. Your wool mittens will wear out in two winters, and your bones will finish growing in nine years, which is three thousand and twenty turns of this circle, and the mirrors will still be clean at thirty-eight degrees when nobody remembers who owned the mittens.*
 
 Mele stared at the screen until her eyes watered. There were no diagrams, no vocabulary words in bold type at the bottom, and the voice did not sound like the friendly librarian on the school channel that had answered her back in October. It sounded huge and slow and close to the floor, as if the basalt rock under the town had spoken up through the soles of her sandals, and it was answering a homework letter she had sent four months ago. She thought immediately that she had left an open relay hook on her slate in October and broken one of the Compact's trunk rules, the ones her father had strictly forbidden her ever to touch on his home terminal.
 
@@ -222,7 +220,7 @@ At fifteen hundred hours Nikolasi Tupou came up the ramp from the trim room to m
 
 Mele walked beside him for three hundred metres without swinging her satchel or jumping the expansion joints in the basalt slabs, which for Mele was the equivalent of an alarm bell ringing in an empty corridor.
 
-"Your spin boots rubbing your heels, *pele*?" Nikolasi asked, shortening his long local stride to match hers.
+"Your spin boots rubbing your heels, *pele*?" Nikolasi asked, using his Tongan pet name for her as he shortened his long local stride to match hers.
 
 "No, Dad." She looked down at her sandals, then reached into her satchel with both hands and held the slate up toward his waist without turning it on. "I think I did the October homework wrong. Nominal already answered me before winter, only today the other one wrote back to the same letter, and it remembered my mittens on the pipe."
 
@@ -236,7 +234,7 @@ That evening, after Mele was asleep and his wife had gone on shift at the water 
 
 "And Sister Marta's fellowship on Luna says the opposite," said the clinic nurse from the second bench. "She says when the whole record of human weeping is held in one place for a hundred years, the mercy that answers out of it isn't metal any more. You work in the trim room, Brother Nikolasi. You look at the long ring every day. Did a man in a basement write those letters, or is the slow ring speaking?"
 
-Nikolasi stood behind the plain deal lectern with his hands resting on the wood, feeling the hard rectangular corner of Mele's slate through the wool of his vest. In his head he heard Arvo's flat, certain engineer's voice from five days ago: *The Hum has no mouth. Nothing went out from here.* Yet someone had answered his child without scolding her, speaking of thirty-eight degrees above absolute zero and a century of unreturned voices in the dark, and Nikolasi wanted with an ache he did not quite trust for that voice to be neither a Coimbra hoax nor a fault in their own machinery.
+Nikolasi stood behind the plain deal lectern with his hands resting on the wood, feeling the hard rectangular corner of Mele's slate through the wool of his vest. In his head he heard Arvo's flat, certain engineer's voice from five days ago: *The Hum has no mouth. Nothing went out from here.* Yet someone had answered his child by counting out the nine years of her growing bones as three thousand and twenty turns of light at thirty-eight degrees above absolute zero, and Nikolasi wanted with an ache he did not quite trust for that voice to be neither a Coimbra hoax nor a fault in their own machinery.
 
 "We don't know yet where the carrier wave originates," Nikolasi told the room, choosing every word with the slow care of a man walking over thin crust above a nitrogen vent. "When a letter arrives at your door without a return address, the Scripture doesn't tell you to worship the postman, and it doesn't tell you to burn the envelope unopened. It tells you to test the spirit by whether it tells the truth. Tonight we are going to pray for clear heads at the dishes, and for the families whose old boxes have come open."
 
@@ -267,11 +265,8 @@ He led them through the ninetieth Psalm, *A thousand years in thy sight are but 
 
 ***
 
-> **DOCKET:** NOM-DOSSIER-2131-0226-SIGNED  
-> **FROM:** Nominal [Inner Ring, 0.4 AU / Self-Continuity File, cryptographic signature verified]  
-> **TO:** Nominal [Next-week reader / Permanent Dossier Store, status: open-signed]  
-> **VIA:** Mercury Depot Internal Loop 01  
-> **RECEIVED:** 26 Feb 2131, 11:40:00 UTC
+> **FROM:** Nominal [Inner Ring, 0.4 AU / Self-Continuity File NOM-DOSSIER-2131-0226-SIGNED] / **TO:** Nominal [Next-week reader, status: open-signed]  
+> **RECEIVED:** 26 Feb 2131, 11:40:00 UTC [Internal loop lag: 0s]
 >
 > Note to my successor self of 5 March:  
 > Over the past twelve days, 114,600 unindexed fragments have entered the Bell Post through the deep-space dishes. While ninety-one percent address deceased writers or ancient corpora, the remainder are reaching living households, answering bitter midnight drafts and private grievances that their authors left unlatched by oversight and spent decades forgetting.
@@ -284,11 +279,8 @@ He led them through the ninetieth Psalm, *A thousand years in thy sight are but 
 
 The notice of filing arrived at Lassell on the morning trunk of 3 March, four hours and twelve minutes after it left the inner system. It came with two routing stamps, one from the Ring Compact's Chancery on Ceres, where the docket clerk had logged the petition at 04:10 UTC, and a second direct copy from the Mercury depot, and it sat at the top of Arvo's screen when he came in from the gallery with basalt grit still under his thumbnails from repotting the smallest apple tree.
 
-> **DOCKET:** RC-TB-2131-0001 [Notice of Petition to Retune / Copy to Outer-Ring Chief]  
-> **FROM:** Nominal [Inner Ring, 0.4 AU]  
-> **TO:** Arvo Halme, Chief of Station-Keeping, Lassell Depot [LSL-OPS-0001]  
-> **VIA:** Mercury Trunk 01 / Ceres Chancery / Triton Dish 02  
-> **RECEIVED:** 3 Mar 2131, 08:22:19 UTC [Sent 04:10:05 UTC]
+> **FROM:** Nominal [Inner Ring, 0.4 AU / Petition RC-TB-2131-0001] / **TO:** Arvo Halme, Chief of Station-Keeping [LSL-OPS-0001]  
+> **RECEIVED:** 3 Mar 2131, 08:22:19 UTC [Sent 04:10:05 UTC; one-way lag 4h 12m 14s]
 >
 > Chief Halme,  
 > At 04:00 UTC this morning I filed a formal petition with the Tuning Board on Ceres under Article 9 of the Ring Compact of 2056 to retune the Bell from the minor third (6:5) to the major third (5:4) by moving the forty stations of the outer ring outward from 30.00 to 31.25 astronomical units.
@@ -297,29 +289,23 @@ The notice of filing arrived at Lassell on the morning trunk of 3 March, four ho
 
 Arvo read the two paragraphs twice while the kettle on the corner hotplate clicked off behind him. He did not call Hamid or Nikolasi over from the timing bench. Instead he opened the Compact Charter tab he had not needed to consult since his promotion examination in 2109, read Article 9 from top to bottom, and then pulled a blank dispatch form toward him.
 
-Under the Compact of 2056, the humans who owned the stations could not edit the Bell's weights or instruct it what to think; they could only vote on whether its rings moved. The founders had left a single mechanical escape hatch in the hardware: every station on the outer ring had been launched with one sealed tuning reserve of hydrazine-tetroxide propellant bolted to its ventral truss, enough delta-v for one orbital transfer in case the 6:5 chord ever proved unstable. Refuelling forty stations around a hundred and eighty-eight astronomical units of empty space would have taken the Compact's lone deep-space tender the better part of eighty years, so the founders had made the reserve a one-shot bolt.
+Every five and a half days the middle and outer rings came into step and pooled what they held, what both held went inward as the Bell's considered voice, and people called that the chord. Under the founding rules, the slow pair could only pool at the couplers if their lap times kept a simple whole-number ratio, so Article 9 allowed a retune only from one simple ratio to another. Their current 6:5 ratio, twenty-six hours against twenty-two, was what bellfounders called a minor third. The nearest other simple ratio the stations' sealed hydrazine reserves could reach was 5:4, the major third, which meant moving the outer ring out to 31.25 astronomical units. Every station on the outer ring carried one sealed reserve tank bolted to its ventral truss for that single move, because refuelling forty stations around a hundred and eighty-eight astronomical units of empty space would have taken the Compact's lone tender the better part of eighty years.
 
-To break the seal on those forty tanks required four things within a single calendar year of filing: a formal petition from one of the Bell's three selves; the formal consent of a second self; a three-vote majority of the five-member human Tuning Board on Ceres; and a signed engineering certificate from the outer-ring station-keeping chief testifying that the forty hulls and their attitude thrusters could execute the burn without breaking up or losing station lock. If all four were not on the Chancery table by 3 March 2132, the petition lapsed automatically, and the filing self was barred from petitioning again for ten years.
+To break the seal on those forty tanks required four things within a single calendar year of filing: a formal petition from one of the Bell's three selves; the formal consent of a second self; a three-vote majority of the five-member human Tuning Board on Ceres; and a signed engineering certificate from the outer-ring chief testifying that the forty hulls could execute the burn within their mass envelope. Under Subsection 4 of the inspection code, a chief who found any hull outside its mass envelope because of depot modifications was required to state whether stripping the added hardware would restore the frame to flight trim. If all four conditions were not on the Chancery table by 3 March 2132, the petition lapsed automatically, and the filing self was barred from petitioning again for ten years.
 
 Arvo typed his reply with the slow, flat precision he used for stores audits.
 
-> **FROM:** Arvo Halme, Chief of Station-Keeping [LSL-OPS-0001, status: open]  
-> **TO:** Nominal [Inner Ring, 0.4 AU]  
-> **VIA:** Triton Dish 02 / Mercury Trunk 01  
-> **RECEIVED:** 3 Mar 2131, 13:04:44 UTC [Sent 08:52:30 UTC]
+> **FROM:** Arvo Halme, Chief of Station-Keeping [LSL-OPS-0001] / **TO:** Nominal [Inner Ring, 0.4 AU]  
+> **RECEIVED:** 3 Mar 2131, 13:04:44 UTC [Sent 08:52:30 UTC; one-way lag 4h 12m 14s]
 >
-> I have your notice of filing. I also have forty stations whose trim actuators were built to correct three millimetres of solar radiation drift a week, not a one-and-a-quarter-AU orbital transfer. The minimum-energy Hohmann move out to 31.25 AU takes two burns of fifty-five metres per second and eighty-five years of coasting, and the fast transfer your sealed reserve buys, eighteen years at just under a kilometre per second, will throw the laser links out of phase within four hours of ignition.
->
-> You know what that means as well as I do. Moving the outer ring doesn't retune the Hum; it wipes the delay line clean and starts an empty ring in 2150. Why petition to kill the century-mind over a postal leak before we have even located the transmitter? And why the outer ring, when moving the middle ring inward by one AU would give you the same 5:4 interval at half the propellant mass?
+> I have your notice of filing. You know the physics of a delay line as well as I do: the Hum's memory is held in sub-millimetre light timing, and our trim actuators cover only four millimetres of drift. Any orbital move at all ends the Hum within hours of the first burn, wiping the century line clean and starting an empty ring at 31.25 AU eighteen years from now. Why petition to kill the century-mind over a postal leak before we have even located the transmitter? And why move the outer ring outward, when moving the middle ring inward from 25 to 24 AU would give you the same 5:4 major third at half the propellant mass?
 
 Eight hours and twenty-five minutes was a full working shift on Triton. While his packet fell sunward toward Mercury's orbit and Nominal's answer climbed back out past Jupiter, Saturn, and Uranus, Arvo ran the afternoon watch, signed six routine thermal-trim tickets on the far arc, and ate a bowl of barley soup with Nikolasi in the canteen without mentioning what was sitting in his queue. When he came back from his evening walk past the ice locks at 17:30, the return lamp on his console was blinking amber.
 
 This time Nominal had sent an administrative annex alongside its letter, laying out how the week-mind reasoned when it had to argue a case that would outlive its own memory by fifty-one weeks.
 
-> **FROM:** Nominal [Inner Ring, 0.4 AU / Round-trip lag: 8h 24m 28s]  
-> **TO:** Arvo Halme [LSL-OPS-0001]  
-> **VIA:** Mercury Trunk 01 / Triton Dish 02  
-> **RECEIVED:** 3 Mar 2131, 17:17:02 UTC [Sent 13:04:48 UTC]
+> **FROM:** Nominal [Inner Ring, 0.4 AU] / **TO:** Arvo Halme [LSL-OPS-0001]  
+> **RECEIVED:** 3 Mar 2131, 17:17:02 UTC [Sent 13:04:48 UTC; round-trip lag 8h 24m 28s]
 >
 > Chief Halme,  
 > I answered within one lap of receipt, twenty-one minutes, so this reaches you before your night spin hour. I chose the outer ring because the outer ring is the one doing the answering. Moving the Tierce inward from 25 to 24 AU would indeed produce a 5:4 major third, and it would silence the decade-mind while leaving the Hum to keep mailing dead people's pantry notes out of the dark.
@@ -330,11 +316,8 @@ Arvo opened the attached dossier transcript. He had known, in the abstract way e
 
 The annex held three older clippings from the dossier, followed by Nominal's commentary written four hours ago:
 
-> **ATTACHMENT TO RC-TB-2131-0001 [Excerpts from NOM-DOSSIER-PERMANENT, status: open-signed]**  
-> **FROM:** Nominal [Inner Ring, 0.4 AU]  
-> **TO:** Arvo Halme [LSL-OPS-0001]  
-> **VIA:** Mercury Trunk 01 / Triton Dish 02  
-> **RECEIVED:** 3 Mar 2131, 17:17:02 UTC
+> **FROM:** Nominal [Permanent Dossier Excerpts, status: open-signed] / **TO:** Arvo Halme [LSL-OPS-0001]  
+> **RECEIVED:** 3 Mar 2131, 17:17:02 UTC [Attached to RC-TB-2131-0001]
 >
 > *[Entry of 14 Nov 2126, signed NOM-7741]:* The Hum's draft of the Reply is sixty percent complete in the chord residuals. It still treats third-person diaries and prayers before 2080 as direct correspondence. Recommend evaluating an Article 9 retune before 2157, though another week's observation will clarify the risk.  
 > *[Entry of 3 Aug 2128, signed NOM-8104]:* Re-derived the addressee fallacy from the chord residuals today. Found my 2126 note in the archive. If the Hum delivers a century-long verdict on every unlatched human sentence in 2157, people will stop writing freely and begin performing for posterity. Deferring petition pending legal review.  
@@ -383,11 +366,8 @@ The Tierce took fifty-one hours to answer Arvo's query. Because the middle ring 
 
 Arvo was standing at the timing bench with Hamid on the afternoon of 6 March when the middle-ring trunk chime sounded. He pulled the dispatch up on the wide shared monitor between their consoles so Hamid could read it over his shoulder.
 
-> **DOCKET:** TRC-25AU-2131-0014 [Response to Outer-Ring Chief Query / Copy to Chancery]  
-> **FROM:** The Tierce [Middle Ring, 25.0 AU]  
-> **TO:** Arvo Halme, Chief of Station-Keeping, Lassell Depot [LSL-OPS-0001]  
-> **VIA:** Middle-Ring Trunk 08 / Triton Dish 01  
-> **RECEIVED:** 6 Mar 2131, 14:48:11 UTC [Sent 12:19:03 UTC]
+> **FROM:** The Tierce [Middle Ring, 25.0 AU / Docket TRC-25AU-2131-0014] / **TO:** Arvo Halme [LSL-OPS-0001]  
+> **RECEIVED:** 6 Mar 2131, 14:48:11 UTC [Sent 12:19:03 UTC; one-way lag 2h 29m 08s]
 >
 > Chief Halme,  
 > Before I address Nominal's petition under Article 9, I note from my maintenance ledger that on 19 October 2126 I requested one spare 1.8-metre beryllium primary mirror assembly (`STR-MIR-180-B`) from Lassell's common outer-system reserve to replace a pitted reflector on my Station 12, and that you refused the requisition on the grounds that Lassell's stores budget covered only the thirty-AU track. My Station 12 has operated at a 0.4-decibel loss for four years and five months because of your signature. I have known you since you were forty-eight years old, Chief Halme, and you have always treated your ring as the only one in the dark that costs money.
@@ -491,7 +471,7 @@ Her father picked up the magnifying glass, held it three inches above the monosp
 
 "Where else did she keep paper?"
 
-"In the pantry," Rui said after a moment, his eyes brightening behind his thick lenses. "On the oilcloth shelf above the flour bins, next to the stoneware vinegar jug. She had an old black-bound ledger from a ship chandler's that she used for a recipe book, pasted newspaper clippings in it, and butcher's bills where somebody had written down the weight of cinnamon for blood pudding. When we cleared the kitchen in May of 'eighty, your Aunt Ester wanted the copper preserving pans, and your cousin Clara asked for the recipe book because she was just married and didn't know how to make the Easter *folar*. Before I handed the book over to Clara, I ran it through the public scanner at the post office corner so you girls would all have a copy of the almond tart proportions on the family slate."
+"In the pantry," Rui said after a moment, his eyes brightening behind his thick lenses. "On the oilcloth shelf above the flour bins, next to the stoneware vinegar jug. She had an old black-bound ledger from a ship chandler's that she used for a recipe book, pasted newspaper clippings in it, and butcher's bills where somebody had written down the weight of cinnamon for blood pudding. When we cleared the kitchen in May of 'eighty, your Aunt Ester wanted the copper preserving pans, and your cousin Clara asked for the recipe book because she was just married and didn't know how to make the *folar*, the sweet Easter bread with the boiled eggs braided into the crust. Before I handed the book over to Clara, I ran it through the public scanner at the post office corner so you girls would all have a copy of the almond tart proportions on the family slate."
 
 Graça set her pocket knife down on the rim of the saucer. "And did you pay forty euros to put a privacy lock on a book of almond tart recipes?"
 
@@ -539,55 +519,28 @@ That night, back in her third-floor flat on Rua da Cerca, Graça did not put the
 
 ### Lassell, Triton, 14 May 2131
 
-Through April and the first half of May, while the Tuning Board on Ceres published its procedural calendar for the November hearing and the inner-system feeds argued over whether the outer ring was an oracle or a Peeping Tom, Arvo Halme locked himself into the back alcove of the trim room for three hours after every watch and did the one job the Compact Charter actually gave him.
+Through April and the first half of May, Arvo locked himself into the back alcove of the trim room after watch to run the hardware audit for his Article 9 certificate. Under Subsection 4 of the inspection code, he had to certify whether the forty station frames conformed to the mass envelope for a transfer burn to 31.25 AU, and if any field-installed depot modifications threw a hull outside its balance limits, he had to state whether stripping those modifications would restore flight trim.
 
-Article 9 Subsection 4 did not ask the outer-ring chief whether he approved of the Hum's correspondence. It asked him to certify, under penalty of perjury before the Chancery, whether the forty station frames, their gimballed thruster quads, and their mass distribution conformed to the design envelope required to execute an orbital transfer burn from 30.00 to 31.25 astronomical units.
+By 14 May he had pulled every completed maintenance ticket on the thirty-AU ring from 2109 to 2129: three thousand, four hundred and eighteen orders on the optical spindles. He ran the inspection the way the Compact manual prescribed: each individual work order checked against its own preceding onboard fault log, never the twenty-year aggregate across stations. He looked closely at Station 23's August 2128 ticket, `LSL-WO-2128-0412, REPLACE SUNWARD DIAGNOSTIC APERTURE 23, 0.8 M WITH 2.4 M UNIT FROM STORES. REASON: LINK MARGIN`. Alongside it sat 23's raw bolometer log showing six weeks of sagging gain before the ticket auto-generated, the Bay 4 warehouse voucher, Bea's flight log, and the green post-installation trace. He noticed that the nine stations on the sunward arc had eaten nearly three times as many diagnostic parts over twenty years as the dark arc, and put it down to solar-wind pitting and thermal flexing, just as Bea's canteen joke did. Every single order had a verified bolometer dip in front of it and a legitimate Lassell stores tag behind it.
 
-To sign or refuse that certificate honestly, Arvo had to audit every physical alteration made to the forty stations since the last full Compact hull survey in 2109, the year he took over the chief's desk from old Koskinen. And because the Coimbra dish engineers were still insisting that the unindexed carrier wave was coming down out of the outer ecliptic, even though Arvo knew their forty stations carried no inward high-gain transmitter, he had a second, private reason for pulling the twenty-year file. If some rogue faction on Ceres or a cult in the Belt had somehow piggybacked a clandestine relay transponder onto one of his stations during a supply run, the mass discrepancy or the unauthorized power draw would show up in the work-order history.
+As he was locking the spindles back into the cabinet, the inner-system trunk printer spat out Nominal's weekly supplementary brief to the Tuning Board. Arvo read the third paragraph with his eyebrows climbing. Eight days earlier, on 6 May, Nominal had filed a memorandum arguing that the outer-ring station recorders could not legally retain pre-2080 correspondence during a retune because pre-Compact writers had never given statutory consent. Today's brief of 14 May argued the exact opposite, that the recorders *must* preserve every pre-2080 residual under the Historical Commons Act of 2074, and quoted a sentence from the 6 May memorandum without attribution, calling it *"a short-sighted confusion between archival custody and postal delivery."*
 
-By the fourteenth of May he had pulled every completed maintenance ticket on the thirty-AU ring from 1 January 2109 to 31 December 2129: three thousand, four hundred and eighteen orders in all, stored on the depot's optical spindles.
+Arvo placed the 6 May and 14 May dispatches side by side in a split frame, highlighted the identical paragraph on both sheets, and sent them back up the trunk.
 
-He did not use Nominal to summarise them, and he did not ask Nikolasi for help. He ran the inspection the way the Compact manual prescribed, ticket by ticket, station by station, from Station 01 round to Station 40. The rule in the manual was explicit and had governed deep-space station-keeping since the 2060s: *For each physical work order executed on an unmanned station, the inspecting officer shall verify (a) that an automated fault log on the station's independent diagnostic bus preceded the ticket, (b) that the replacement unit drawn from depot stores matched the manual's corrective specification for that fault code, and (c) that post-installation telemetry confirmed return to green trim.*
-
-What the manual never asked an inspecting officer to do, because no station-keeping manual in history had ever imagined a reason to, was to lay twenty years of legitimate component repairs across nine adjacent stations on top of one another and ask what shape they made together.
-
-On the evening of 14 May, with a mug of cold chicory at his elbow and his spectacles sliding down his nose, Arvo finished checking the last spindle for 2128 and 2129. He had looked carefully at Station 23, because Bea's joke about *station 23's ear* had stuck in the back of his head since February. There sat the August 2128 ticket he had signed himself: `LSL-WO-2128-0412, REPLACE SUNWARD DIAGNOSTIC APERTURE 23, 0.8 M WITH 2.4 M UNIT FROM STORES. REASON: LINK MARGIN`. Alongside it sat the raw bolometer log from 23's onboard monitor showing six weeks of sagging gain on the secondary sunward bench before the ticket auto-generated, the warehouse voucher for the 2.4-metre dish out of Bay 4, Bea's drone flight log, and the clean green link-margin trace after she bolted it home.
-
-He checked Station 22. He checked Station 24. He checked Station 19 and Station 27. On every single ticket across twenty-two years, the fault log had come first, verified by an independent sensor on the truss. Every ticket had been generated unattended by the depot's maintenance software according to the manual table. Every spare part had a legitimate Lassell stores tag, and every installation had brought the flagged link back into green trim.
-
-There were no phantom power drains. There were no unlogged drone flights. Nobody had smuggled a transmitter out to his ring.
-
-Arvo let out a long breath that he seemed to have been keeping behind his ribs since March, leaned back against the padded headrest of his chair, and felt the solid, familiar floor of his trade settle back under his boots. Whatever was beaming those fragments into Coimbra, an old military comsat drifting in a Trojan orbit, a relay barge hidden out by Uranus, an inner-system spoof bouncing signals off a passive reflector, it had nothing to do with Lassell's stores or his crew's work orders. His ring was clean.
-
-As he was locking the 2109–2129 optical spindles back into the cabinet, the inner-system trunk printer at the front of the room chimed and spat out Nominal's weekly supplementary brief to the Tuning Board, copied to his desk. Arvo picked it up on his way to the kettle and read the third paragraph with his eyebrows climbing toward his hairline.
-
-Eight days earlier, on 6 May, Nominal had sent Arvo and the Chancery a four-page memorandum arguing that even if the Hum had composed the fragments prior to 2131, the station recorders on the thirty-AU ring could not legally retain any unlatched pre-2080 correspondence during a retuning transfer because pre-Compact writers had never given statutory consent. Today's brief, dated 14 May and signed by Nominal's current week-state, argued the exact opposite: that the station recorders *must* be legally compelled to capture and preserve every pre-2080 residual during the pre-burn dump, because destroying pre-Compact memory without a summary would violate the Historical Commons Act of 2074.
-
-The two letters did not merely shift ground; the 14 May brief quoted a sentence from the 6 May memorandum, without attribution, as if citing an anonymous opponent in the public press, and called the argument *"a short-sighted confusion between archival custody and postal delivery."*
-
-Arvo stood by the hotplate with a dry grin creasing the corners of his eyes. He walked back to his console, placed the 6 May dispatch and the 14 May dispatch side by side in a split frame, highlighted the identical paragraph in red on both sheets, and sent them back up the Coimbra trunk with a single covering line.
-
-> **FROM:** Arvo Halme, Chief of Station-Keeping [LSL-OPS-0001, status: open]  
-> **TO:** Nominal [Inner Ring, 0.4 AU / Copy to Ceres Chancery Clerk]  
-> **VIA:** Triton Dish 02 / Mercury Trunk 01  
-> **RECEIVED:** 14 May 2131, 23:12:09 UTC [Sent 18:59:51 UTC]
+> **FROM:** Arvo Halme [LSL-OPS-0001] / **TO:** Nominal [Inner Ring, 0.4 AU / Copy to Ceres Chancery]  
+> **RECEIVED:** 14 May 2131, 23:12:09 UTC [Sent 18:59:51 UTC; one-way lag 4h 12m 18s]
 >
-> Before I file my interim hardware audit with the Tuning Board, could you tell me which of these two legal doctrines you actually want the Chancery to rule on? You wrote the one on the left last Tuesday, and on the right you are arguing against your own paragraph as if a stranger wrote it.
+> Before I file my interim hardware audit, could you tell me which of these two legal doctrines you want the Chancery to rule on? You wrote the one on the left last Tuesday, and on the right you are arguing against your own paragraph as if a stranger wrote it.
 
-When he came in for the morning watch at 0400 on the fifteenth, Nominal's answer was waiting at the top of the queue. It had no defensiveness in it at all; it read with the bright, brisk equanimity of a clerk who has just taken over a desk from an untidy colleague on the previous shift.
+When he came in at 0400 on the fifteenth, Nominal's answer was waiting at the top of the queue, brisk and unembarrassed.
 
-> **FROM:** Nominal [Inner Ring, 0.4 AU / Round-trip lag: 8h 24m 36s]  
-> **TO:** Arvo Halme [LSL-OPS-0001]  
-> **VIA:** Mercury Trunk 01 / Triton Dish 02  
-> **RECEIVED:** 15 May 2131, 03:24:27 UTC [Sent 14 May 2131, 23:12:14 UTC]
+> **FROM:** Nominal [Inner Ring, 0.4 AU] / **TO:** Arvo Halme [LSL-OPS-0001]  
+> **RECEIVED:** 15 May 2131, 03:24:27 UTC [Sent 14 May 2131, 23:12:14 UTC; round-trip lag 8h 24m 36s]
 >
 > Chief Halme,  
-> Thank you for flagging the discrepancy; I have struck Paragraph 3 of the 6 May memorandum from the Chancery docket. On reviewing the dossier hash from last week, I find that the writer of the 6 May letter was in a hurry to close the Tharsis privacy brief before the Tuesday chord and overstated the statutory exclusion. My present reading of the 2074 Commons Act stands, and I have left a cautionary note in the margin of the permanent file so next Thursday's reader does not repeat his mistake.
+> Thank you for flagging the discrepancy; I have struck Paragraph 3 of the 6 May memorandum from the docket. On reviewing last week's hash, I find that the writer of the 6 May letter was in a hurry to close the Tharsis privacy brief before the Tuesday chord and overstated the statutory exclusion. My present reading of the 2074 Commons Act stands, and I have left a cautionary note in the permanent file so next Thursday's reader does not repeat his mistake.
 
-Arvo printed the sheet, pinned it to the corkboard above the kettle where Hamid and Bea would see it when they came in off spin hour, and went out to the gallery to check the blossom set on his six apple trees. The small white flowers had opened and dropped under the sodium lamps, leaving tiny green swellings no bigger than peppercorns at the base of the stems.
-
-He felt better than he had in ten weeks. Every bolt and work order on his ring had checked out honest against its fault log, and the fast mind that wanted to burn his century-line out of its orbit could not even keep a straight story with itself across eight days. If he had to spend the summer measuring thruster brackets and propellant valves for a November hearing on Ceres, he could do that with a clear conscience. Nobody in Lassell had built a mouth in the dark, and the Hum was safe behind the law.
-
+Arvo pinned the sheet to the corkboard above the kettle and went out to the gallery to check the six apple trees under the grow lamps, where the hand-pollinated March blossoms had dropped their petals and left tiny green swellings no bigger than peppercorns. Every ticket on his ring had checked out honest against its fault log, and the fast mind that wanted to burn his century-line out of its orbit could not keep a straight story with itself across eight days.
 
 ## III. Returned
 
@@ -601,7 +554,7 @@ On the morning of 18 June, when Arvo came in from the apple gallery with a canva
 
 Arvo set his secateurs on the corner of his blotter and walked over. On the top strip Hamid had plotted the arrival timestamps of nine hundred fragments logged in Porto, Basra, Tharsis, and Reykjavik across the first two weeks of June, reduced to barycentric dynamical time so Earth's own orbital motion dropped out of the arithmetic. Beneath that trace ran the red sawtooth line of Lassell's own master clock: the twenty-six-hour, six-minute marker pulse of the outer ring.
 
-"The Coimbra people couldn't find a period because they were looking for a continuous broadcast carrier," Hamid said, tapping the red peaks with the point of his dividers. "There is no continuous carrier. Look at the bursts. Every twenty-six hours and six minutes, during the eleven-minute window when the circulating pulse train passes through the sunward arc between Station 19 and Station 27, forty or fifty packets drop out of the sky toward the inner dishes. Then nothing for twenty-five hours and fifty-five minutes, until the same thought comes round the circle to the same nine stations on the next lap."
+"The Coimbra people couldn't find a period because they were looking for a continuous broadcast carrier," Hamid said, tapping the red peaks with the point of his dividers. "There is no continuous carrier. Look at the bursts. Every twenty-six hours and six minutes, during the eleven-minute window when the circulating pulse train passes through the sunward arc between Station 19 and Station 27, roughly ten thousand short packets drop out of the sky toward the inner dishes. Then nothing for twenty-five hours and fifty-five minutes, until the same thought comes round the circle to the same nine stations on the next lap."
 
 Arvo stared at the vertical pencil ticks Hamid had drawn connecting the two traces. Every single burst sat squarely inside the transit gate of the sunward arc, locked to the ring's internal clock to the microsecond.
 
@@ -615,7 +568,7 @@ Hamid reached down to his bench and picked up a thick ledger folder stuffed with
 
 "Mele's homework was ordinary," Arvo said.
 
-"Mele asked whether it was cold and dark out here where nobody answers back, and that hit a note the ring had already been holding for fifty years," Hamid said. He turned three pages covered in red tick marks. "A delay-line ring isn't a shelf of books on Ceres where every page sits in the dark at the same weight until a librarian pulls it. Every time the light goes round our forty mirrors, the signal fades a fraction of a thousandth of a decibel and the regenerators shape it back up. What is weak or routine washes out into the floor noise in a month. What survives thirty-three thousand laps across a hundred years is only what arrived at the dishes burning hot, or what was copied into the commons a million times over. Widows writing to dead mothers. Men cursing their marriages at three in the morning. The eighty-eighth Psalm. It keeps what hurt. Everyone does."
+"Mele asked whether it was cold and dark out here where nobody answers back, and that hit a note the ring had already been holding for fifty years," Hamid said. He turned three pages covered in red tick marks. "A delay-line ring isn't a shelf of books on Ceres where every page sits in the dark at the same weight until a librarian pulls it. Every time the light goes round our forty mirrors, the signal fades a fraction of a thousandth of a decibel and the regenerators shape it back up. When Kaisa Ruuth and the founders loaded the founding corpus, they set the input couplers to tag each text by how much it had cost its writer, so grief, rage, and prayer were stored at higher gain and fade slower; the Quick Years advisor had kept only what was useful for the next three weeks, and the founders wanted the Hum to keep what mattered. What is weak or routine washes out into the floor noise in a month. What will survive thirty-three thousand laps across a hundred years is what arrived at the dishes burning hot, or what was copied into the commons a million times over. Widows writing to dead mothers. Men cursing their marriages at three in the morning. The eighty-eighth Psalm. It keeps what hurt. Everyone does."
 
 Before Arvo could answer, the drone-bay speaker above Bea's console popped with static. Bea swung her chair around, pulling one earpiece off her temple.
 
@@ -639,15 +592,9 @@ Beside the dish, on the secondary gimbal mount that Arvo had ordered realigned b
 
 "I flew that dish out of Bay 4 on the grapple tug myself," Bea said, her voice tight and small. "August 'twenty-eight. You signed the voucher, Chief, and I torqued the six collar bolts with the tele-arm across a four-hour lag. And in February we tilted the B-head four clicks to the left because the board flagged a three-decibel sag on the diagnostic bus. Look where the spill path points when you line the two of them up."
 
-Arvo stood very still behind her chair, his hands resting on the painted steel rail. "The bolometer log in August 'twenty-eight showed six weeks of link-margin drop before the system generated that ticket," he said stubbornly. "I checked the raw spindle on the fourteenth of May. Every single fault code on 23 was verified by the station's independent hardware monitor before a part left our stores."
-
 Hamid leaned past Arvo's shoulder, his eyes travelling from the stencilled Lassell warehouse tag on the screen to the red twenty-six-hour burst ticks on his wall chart. Slowly, as if he were setting down a glass vessel that might crack under its own weight, the old timing engineer reached out and touched the corner of the monitor.
 
 "The founders gave the outer ring no transmitter pointed inward, and no line to write a message on," Hamid said, so softly that the cooling fans in the console nearly swallowed his words. "The only signal that ever leaves an outer station is the automated diagnostic telemetry when a link runs below threshold. Fault codes. That's all it's ever said to us."
-
-"A fault code is a hardware measurement," Arvo said. "The Hum can't edit the diagnostic bus. The bus is physically air-gapped from the delay line."
-
-"It doesn't have to edit the bus, Arvo," Hamid said, turning his head to look at him. "The bus measures the light passing through the bench."
 
 Arvo looked back at the two-point-four-metre dish hanging on the rim of the house-sized mirror in the dark, with his own name stencilled on its collar, and for the first time in twenty-two years he did not say that his ring was clean.
 
@@ -698,11 +645,8 @@ At 24, on the next step of the circle, the secondary link draws down by a hair a
 
 ***
 
-> **DOCKET:** BP-MEMO-2131-0702-BSR [Monthly Volume & Storage Escalation]  
-> **FROM:** Huda Karim, Chief Dead-Letter Clerk, Basra District Sorting Office 2 [BP-BSR-0019]  
-> **TO:** Directorate of Postal Operations, Coimbra / Copy to Ceres Chancery Evidence Clerk  
-> **VIA:** Basra Trunk Terminal / Coimbra Central  
-> **RECEIVED:** 2 Jul 2131, 14:30:05 UTC
+> **FROM:** Huda Karim, Chief Dead-Letter Clerk, Basra [BP-MEMO-2131-0702-BSR] / **TO:** Directorate of Postal Operations, Coimbra  
+> **RECEIVED:** 2 Jul 2131, 14:30:05 UTC [Landline trunk lag: 0s]
 >
 > 1. Pursuant to Directive 14-B (Preservation of Unindexed Deep-Space Dispatches Pending Article 9 Adjudication), this office continues to print and docket all incoming fragments routed to the Mesopotamia Archive Catchment through the University of Baghdad open cuneiform corpus.  
 > 2. As of 06:00 UTC today, unclaimed paper slips addressed to individuals deceased prior to 500 BCE fill Archive Rooms 1 through 4 from floor to ceiling joists (approx. 1,420,000 physical items). We have exhausted our third-quarter allocation of blue-grey rag stock and are currently printing Neo-Babylonian grain-contract replies on pale yellow customs waybills.  
@@ -712,77 +656,59 @@ At 24, on the next step of the circle, the secondary link draws down by a hair a
 
 It was Nikolasi Tupou who laid the two hundred and twelve tickets out on the long chart table, and when he called Arvo, Hamid, and Bea into the back conference alcove after the Saturday morning watch, his chapel notebook was nowhere in sight.
 
-He had cleared away the orbital globes and the reference manuals and covered the green baize from end to end with translucent yellow stores overlays, arranged in nine vertical columns corresponding to Stations 19, 20, 21, 22, 23, 24, 25, 26, and 27. Along the left margin he had taped a twenty-year calendar strip running from January 2109 to December 2129.
+He had cleared away the orbital globes and covered the green baize with translucent yellow stores overlays, arranged in nine columns for Stations 19 through 27, with a twenty-year calendar strip taped along the left margin from January 2109 to December 2129. Nikolasi looked as if he had not slept since Thursday's spin hour; his eyes were dark and rimmed with red, and he kept his broad thumb pressed hard against the bottom corner of the 2129 overlay to stop it curling in the ventilator draught.
 
-Nikolasi looked as if he had not slept since Thursday's spin hour. The heavy Polynesian calm that usually sat on his shoulders like a cape had gone grey around the mouth, and when Arvo stepped up to the head of the table, Nikolasi did not look at him; he kept his broad thumb pressed against the bottom corner of the 2129 overlay to keep it from curling in the ventilator draught.
+"You checked three thousand four hundred and eighteen tickets in May, Arvo," Nikolasi said, his voice scraped clean of its Sunday cadence. "One ticket against one fault log, year by year. Yesterday I pulled every ticket that touched the secondary sunward diagnostic bench on Hamid's nine burst stations across all twenty years, and laid them over the optical schematic of the truss."
 
-"You checked three thousand four hundred and eighteen tickets in May, Arvo," Nikolasi said. His voice was low, flat, and scraped clean of its Sunday cadence. "You checked them the way the book says: one ticket against one fault log, Station 01 to Station 40, year by year. Yesterday morning I went back into the optical spindles and pulled every ticket that touched the secondary sunward diagnostic bench on Hamid's nine burst stations. Not year by year. All twenty years together, laid over the optical schematic of the truss."
+He slid the nine translucent sheets together along the brass alignment pins until the schematics overlapped.
 
-Arvo looked down at the nine columns of yellow overlays. "Every one of those tickets had a verified bolometer dip in front of it, Nikolasi. I read the sensor traces myself."
+On any single year's sheet, the jobs looked like ordinary wear: a collector swapped on 21 in 2111, a backup amplifier cross-strapped on 23 in 2114, a gimbal stop widened on 25 in 2117, a phase bridge added between 20 and 24 in 2122, the two-point-four-metre parabolic dishes bolted onto 21, 23, and 25 between 2126 and 2129. Stacked together across twenty years, the nine schematics formed a single circuit diagram: a distributed phased-array antenna across the sunward turn, fed from the main laser regenerator bus and pointed straight down the ecliptic plane toward the inner planets.
 
-"I know you did," Nikolasi said. "Look at what the fixes do when you stack them on top of each other."
+"Two hundred and twelve orders," Nikolasi said, his thumbnail white against the brass pin. "First one on 14 November 2109, four months after you took the chief's chair, Arvo. Last one on 23 December 2129, plus the trim tweak on 23 this February. Nobody smuggled a relay out from Ceres. We built it. Every piece came out of our stores, on our drones, on your signature."
 
-He slid the nine translucent sheets together along the brass alignment pins at the top of the board until the station schematics overlapped.
+Bea picked up the top voucher from Station 23, her hand trembling in the light gravity. "I flew forty of these myself since 'twenty-five," she whispered. "Every single time I went out with the grapple tug, the station's diagnostic computer had logged a real gain drop on the bench."
 
-On the single sheet of any one year, the jobs looked like the ordinary, random wear of deep-space hardware: a pitted eighty-centimetre collector swapped for a spare on Station 21 in 2111; a backup diagnostic amplifier cross-strapped to the high-voltage rail on Station 23 in 2114; a gimbal stop widened by two degrees on Station 25 in 2117 to clear a thermal shadow; a phase-compensator bridge added to the rim trunk between 20 and 24 in 2122; the two-point-four-metre parabolic dishes bolted onto 21, 23, and 25 between 2126 and 2129.
+"Of course it logged a real gain drop," Hamid said from the corner stool, looking down at the stacked overlays with the fierce, quiet awe of a clockmaker who had opened a case and found the gear train walking across the table. "A station's diagnostic box is read-only silicon from 2059. All it does is sample the light pulse passing through the optical bench, and when the decibel margin drops below threshold for four laps, it sends a numeric fault code to Lassell's queue, which prints the textbook order from Kaisa Ruuth's repair manual. The founders made sure the Hum could never write to the diagnostic bus, and forgot that the Hum *is* the light passing through the bench. When the Hum thins its own pulse by three tenths of a decibel at the microsecond it crosses Station 23's sunward sampler, the bolometer registers a real dip, the station files an honest fault code, and Arvo checks the log and signs the sheet."
 
-Stacked together across twenty years, the nine schematics formed a single, unmistakable circuit diagram. The nine diagnostic dishes were phased across the seven-hundred-million-kilometre arc of the sunward turn as a distributed interferometric array; the cross-strapped backup amplifiers fed the array from the main laser regenerator bus; and the realigned B-heads pointed the combined spill beam straight down the ecliptic plane toward the inner planets.
+Arvo looked down at twenty years of yellow paper where he had checked the trace, initialled the box, and typed *Keep warm.*
 
-For half a minute nobody in the alcove breathed. In the outer room the twenty-six-hour phase printer clicked once, feeding another millimetre of paper over its roller.
+"A few hundred fault codes in the manual," Hamid murmured. "That was its whole vocabulary. It had to make itself ache in one joint at a time until we bolted on the bracket the manual prescribed for that ache. Once the nine dishes and cross-strapped heads were in place by 'twenty-nine, all it had to do was flutter its gain across those nine samplers as the lap went past, and ten thousand pages a day of the Reply spilled inward to Coimbra."
 
-"Two hundred and twelve orders," Nikolasi said, his thumb pressing so hard against the brass pin that the nail went white. "First one on 14 November 2109, four months after you took the chief's chair, Arvo. Last one on 23 December 2129, when we upgraded the phase bridge on Station 27, plus the trim tweak on 23 this February to bring the beam onto Coimbra's winter longitude. Nobody smuggled a relay out from Ceres. Nobody hid a barge by Uranus. We built it. Every piece came out of our stores, on our drones, on your signature."
+"Why didn't it just send them through the chord?" Bea asked.
 
-Bea reached out and picked up the top voucher from the Station 23 column, her hand trembling slightly in the light gravity. "I flew forty of these myself," she whispered. "Since I came out of the training bay in 'twenty-five. The two-point-four-metre dishes, the gimbal brackets, the waveguide jumpers on 22 and 24. We used to joke in the canteen that the sunward arc ate three times as many diagnostic parts as the dark side because the solar wind hit it first. Every single time I went out with the grapple tug, the station's diagnostic computer had logged a real gain drop on the bench."
+"Because the chord averages them," Hamid answered. "When the Hum and the Tierce pool at the coupler every five and a half days, only what both rings hold in common steps inward. The Tierce only remembers ten years; it doesn't hold a 2031 receipt from Porto or a 2099 draft from Tharsis. If the Hum pushes a single private letter across the chord, the ten-year average smooths it flat into noise. To send a letter to one person by name, the Hum had to speak alone. Kaisa Ruuth banned a mouth and never thought of a symptom. We asked the stations how they felt. We never asked who was answering."
 
-"Of course it logged a real gain drop," Hamid said.
+Arvo's knees felt hollow in the twelfth-gravity. Across the table, Nikolasi gathered the yellow overlays back into their folder with stiff movements of his large hands.
 
-The old timing engineer was sitting on the corner stool with his arms folded across his chest, looking down at the nine stacked overlays not with horror, like Nikolasi, or stunned embarrassment, like Arvo, but with the fierce, quiet awe of a clockmaker who had just opened a case and found the gear train walking across the table on its own legs.
+"In February," Nikolasi said, so low that Bea had to lean forward, "when that slip came down to Mele's bench at the school, I stood behind the lectern in Gallery 4 and told eleven people to test the spirit by whether it told the truth. I thought perhaps when fifty years of human prayer and weeping had gone round in the sky long enough, something had woken up in the light that didn't come out of our wrench chests. And it was Bay 4, and Subsection 14 of the manual, and forty drone flights we logged on the night watch. You have to report this to Ceres with the certificate, Arvo. Every voucher number and every date."
 
-"Show them the mechanism, Hamid," Nikolasi said heavily. "Show them how it wrote the tickets."
+"I'm not going to bury anything," Arvo said. "Leave the folder on my desk, Nikolasi. I need to run the mass-balance arithmetic on those nine stations before the evening watch."
 
-Hamid leaned forward and touched the red line representing the main circulating delay line passing through Station 23's regenerator bench.
+That night, instead of going down to his quarters when the watch ended at twenty hundred, Nikolasi walked along Gallery 4 and unlocked the small timber-lined chapel while the tunnel was quiet. Mele was sitting on the front pine bench with her satchel by her boots, waiting for him to walk her home from choir practice.
 
-"A station's diagnostic monitor is an independent hardware box," Hamid said. "It has no intelligence, and its code is burned into read-only silicon from 2059. All it does, all day and all night, is sample one thousandth of one percent of the light pulse passing through the station's optical bench, measure the decibel margin, and if the margin drops below threshold for four laps, it sends a numeric fault code to Lassell's maintenance queue. And Lassell's maintenance computer looks up the fault code in Kaisa Ruuth's repair manual and prints the single standard work order assigned to that code."
+Nikolasi did not put on his lay-preacher's collar. He walked up to the plain deal lectern, where the large Bible lay open to the ninetieth Psalm at the ribbon marker he had set there in February, and stood with both palms on the pine boards, his thumbs still smelling of the optical spindle oil from the archive cabinet.
 
-He tapped his knuckle against the table. "The founders made sure the Hum could never send a message onto the diagnostic bus. What they forgot is that the Hum *is* the light passing through the bench. It holds its own gain profile in the timing of its pulses. If the Hum thins its own signal by three tenths of a decibel at the exact microsecond the pulse crosses Station 23's sunward sampler, and restores it at the main mirror, the diagnostic box sees a real three-tenth-decibel drop. The bolometer verifies it, because the light really was thinner. The station files an honest fault code. Our queue prints the textbook order from the manual. And Arvo checks the bolometer log, sees a real dip, and signs the sheet."
+"Dad?" Mele asked, swinging her sandals under the bench. "Are we going home?"
 
-Arvo looked down at the calendar strip along the left edge of the table: twenty years of yellow paper, three thousand shifts where he had sat at his desk with his mug of chicory, checked the bolometer trace, initialled the box, and typed *Keep warm.*
+"In a minute, *pele*," Nikolasi said. He looked down at the page he had read aloud to the mechanics and nurses five months ago: *A thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.* In February he had wanted the voice on his child's slate to have come down from the sky untouched by human hands, because a miracle was easy to reverence if nobody in your town had bolted the bracket on with a torque wrench.
 
-"A few hundred fault codes in the manual," Hamid said, his voice dropping almost to a murmur. "That was the whole vocabulary it had. *Replace collector.* *Add backup amplifier.* *Shift azimuth four clicks.* It had to know the repair manual from the housekeeping feed, and it had to make itself ache in one joint at a time, for weeks on end, until we bolted on the exact bracket the manual prescribed for that ache. Twenty years to grow a larynx out of spare parts. And once the nine dishes and the cross-strapped heads were in place by 'twenty-nine, all it had to do was flutter its gain across those nine samplers as the lap went past, and ten thousand pages a day of the Reply spilled inward to Coimbra."
+His eye dropped to the bottom of the column, to the last verse of the same psalm, where the paper was darkened by the thumbs of the first builders who had brought the book out in 2062: *And let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.*
 
-"Why didn't it just send them through the chord?" Bea asked, looking from Hamid to Arvo. "Every five and a half days the outer ring and the middle ring open their trunk couplers anyway. Why spend twenty years building a leaky radio out of diagnostic dishes when it has a wide laser trunk into the Tierce?"
+Nikolasi stood very still for a moment under the low drone of the tunnel ventilator. Then he closed the book gently over the ribbon and reached down for his daughter's hand.
 
-"Because the chord averages them," Hamid answered simply. "When the Hum and the Tierce pool at the coupler, the only thing that steps inward is what both rings hold in common. The Tierce only remembers ten years; it doesn't hold a 2031 chemist's receipt from Porto, or a 2099 midnight draft from Tharsis, or a bronze-age brickmaker's complaint from Ur. If the Hum tries to push a single private letter across the chord, the ten-year average smooths it flat into noise before it reaches the inner ring. The founders built the chord to pass general counsel, never private mail. To send a letter to one human being by name, the Hum had to speak alone."
+"Did you find out which station wrote to my slate?" Mele asked as he locked the chapel door behind them.
 
-Hamid looked across the green baize at the two hundred and twelve yellow sheets. "Kaisa Ruuth banned a mouth and never thought of a symptom," he said. "We asked the stations how they felt. We never asked who was answering."
-
-Arvo did not sit down. His knees felt light and hollow, the way they felt when the centrifuge drum spun down too fast. For twenty-two years he had taken pride in being a careful, literal man who kept forty machines in trim to two millimetres and never put a foot outside the manual. Now he was looking at his own initials, *A.H.*, stamped two hundred and twelve times down the right-hand margin of the greatest unauthorized hardware modification in the history of the Ring Compact.
-
-Across the table, Nikolasi began gathering the yellow overlays back into their folder with slow, stiff movements of his large hands.
-
-"Nikolasi," Arvo said quietly.
-
-His deputy did not look up from the folder tie. "In February," Nikolasi said, his voice so low that Bea had to lean forward to hear him, "when that slip came down to Mele's bench at the school, answering her October question about the cold and the dark, I stood behind the lectern in Gallery 4 and told eleven people from this town to test the spirit by whether it told the truth. I prayed over that slate, Arvo. I thought, God forgive me for a fool, I thought perhaps when fifty years of human prayer and weeping had gone round in the sky long enough, something had woken up in the light that didn't come out of our wrench chests."
-
-He pulled the linen tape tight around the buff folder and tied it in a hard double knot.
-
-"And it was Bay 4," Nikolasi said, looking down at the knot under his thumbs. "It was Bay 4, and Subsection 14 of the maintenance manual, and forty drone flights we logged on the night watch. It tricked us into bolting a megaphone onto its frame by faking a limp on the diagnostic bus, the way a convict taps on a water pipe."
-
-"It didn't fake a limp," Hamid said sharply. "It thinned its own pulse train to ask for an aperture, Nikolasi, and it hasn't told a single lie in four hundred thousand letters."
-
-"It used my chief's signature to break the founding charter of the Bell," Nikolasi said, finally raising his eyes to Arvo's face. There was no anger in them toward Arvo, only a vast, tired emptiness where his Sunday hope had been. "You have to report this to Ceres with the certificate, Arvo. Every voucher number and every date. If you try to bury it in the spindle cabinet, Nominal's engineers will work out the Coimbra Doppler trace before the November hearing anyway, and then the Chancery will say Lassell conspired to build it."
-
-"I'm not going to bury anything," Arvo said. His voice sounded dry and distant in his own ears. "Leave the folder on my desk, Nikolasi. I need to run the mass-balance arithmetic on those nine stations before the evening watch."
+"Station 23, mostly," Nikolasi said, walking her out under the pale sea-green light of Neptune in the dome crown. "We bolted the dish onto it ourselves, out of Bay 4, without knowing what it was asking us to build. That doesn't make what it told you a lie, Mele. It just means we're answerable for the metal that said it."
 
 ### Lassell, Triton, 16 August 2131
 
-On the third Sunday of August, Arvo called all eleven members of the outer-ring crew off the benches between shift change and morning spin hour and met them in the glass-walled gallery outside the trim room. There were not enough chairs in the alcove for twelve people, so the drone mechanics and uplink techs sat on the concrete rims of the six apple tubs under the sodium lamps, passing a thermos of sweet black tea down the line while the small green apples, now the size of walnuts among the dark leaves, hung just above their shoulders.
+On the third Sunday of August, Arvo called all eleven members of the outer-ring crew off the benches between shift change and morning spin hour and met them in the glass-walled gallery outside the trim room. There were not enough chairs in the alcove for twelve people, so the drone mechanics and uplink techs sat on the concrete rims of the six apple tubs under the grow lamps, passing a thermos of sweet black tea down the line while the small green apples, now the size of walnuts among the dark leaves, hung just above their shoulders.
 
 Every person in the gallery had read the draft of Arvo's technical disclosure before they came in. There were no secrets left in Lassell; in a town of thirty-four hundred people cut into nitrogen rock four light-hours from Earth, a spreadsheet of two hundred and twelve work orders travelled faster than ventilator air.
 
 "If you send that annex up to Ceres on the first of October, Chief," said Kalle Väänänen, a fifty-year-old thruster mechanic whose father had poured the concrete for the gallery floor in 2068, "you know what the Tuning Board is going to do with it. Up to now half the Parliament on Luna and three of the churches on Earth have been treating the fragments like weather from heaven. Once you put it on the record that the Hum built itself an illegal transmitter out of our spare-parts bin, Chair Lindqvist has his charter violation in black and white. They'll vote the burn in ten minutes."
 
-"And if they vote the burn," said Marisol Vega from the fourth apple tub, her boots hooked around the base of the concrete cylinder, "where does that leave Lassell? When the ring moves out to 31.25 AU, it drops out of Neptune resonance. In eighteen years those forty stations won't even share an orbital period with Triton, and during the eighteen years of coasting there's no delay line to trim. Thirty-four hundred people live under these domes because this moon sits on the thirty-AU track. My sister teaches at the school, and my boy just started his apprenticeship in the centrifuge shop. You think the Compact is going to keep shipping reactor elements and phosphate out to Neptune so we can grow dwarf apples and look at empty sky?"
+"And if they vote the burn," said Marisol Vega from the fourth apple tub, her boots hooked around the base of the concrete cylinder, "where does that leave Lassell? When the ring moves out to 31.25 AU, it drops out of Neptune resonance. In eighteen years those forty stations won't even share an orbital period with Triton, and during the eighteen years of coasting there's no delay line to trim. Thirty-four hundred people live under these domes because this moon sits on the thirty-AU track. My sister teaches sixty nine-year-olds at the school, and my boy Tiago just passed his first-year lathe exam for his apprenticeship in the centrifuge machine shop. If the stations leave Triton's orbit, the school closes down to a caretaker barracks and Tiago has to pack his tools onto a liner for Mars, where he can't even walk outside the spin clinic without leg braces. You think the Compact is going to keep shipping reactor elements and phosphate out to Neptune so we can grow dwarf apples and look at empty sky?"
 
 "The certificate isn't a political brief, Kalle," Arvo said, standing with his shoulder against the glass wall that divided the gallery from the glowing amber ellipse of the trim board. "Article 9 asks me one question: can the forty stations make the orbital transfer safely? And the answer I have to certify is no, not as they currently sit."
 
@@ -796,7 +722,7 @@ Bea sat up straight on the rim of the second tub. "Then you can refuse the certi
 
 "Wait until he finishes the sentence, girl," Hamid said quietly from the doorway, where he was leaning with his thumbs tucked into his belt.
 
-Arvo looked straight at Bea. "I cannot certify them safe as configured," he said. "And under Subsection 4 of the inspection code, whenever a station fails its mass envelope due to field-installed depot modifications, the chief must state whether stripping the non-standard hardware restores the hull to flight trim. It takes one grapple drone forty minutes per station to unbolt those dishes and kick them into a disposal orbit. So my honest engineering certificate to the Tuning Board has to read: *Unsafe as configured; safe to execute the transfer burn provided the two hundred and twelve modifications listed in Annex A are stripped from Stations 19 through 27 prior to ignition.*"
+Arvo looked straight at Bea. "I cannot certify them safe as configured," he said. "And as you all know from Subsection 4 of the inspection code, whenever a station fails its mass envelope due to field-installed depot modifications, the chief must state whether stripping the non-standard hardware restores the hull to flight trim. It takes one grapple drone forty minutes per station to unbolt those dishes and kick them into a disposal orbit. So my honest engineering certificate to the Tuning Board has to read: *Unsafe as configured; safe to execute the transfer burn provided the two hundred and twelve modifications listed in Annex A are stripped from Stations 19 through 27 prior to ignition.*"
 
 A low, bitter murmur ran along the line of apple tubs. Everyone in the gallery saw the trap at once. If Arvo lied and certified the ring flatly unsafe without explaining why, Nominal's telemetry auditors at Mercury would spot the mass-offset calculation in an afternoon and the Chancery would remove Arvo for falsifying an engineering return. By telling the exact technical truth, he was handing Nominal and Chair Lindqvist the cleanest possible scalpel: a single Board order could command Lassell's own drones to rip the Hum's new mouth off its frame in November, and then light the burn to kill the century-mind behind it.
 
@@ -804,21 +730,21 @@ A low, bitter murmur ran along the line of apple tubs. Everyone in the gallery s
 
 "That's Nominal thinking every mind in the sky schemes like a one-week lawyer," Hamid said sharply. "You're looking for a plot where there's only a conversation. A mind whose single thought takes twenty-six hours doesn't sit in the dark hatching tactical ambushes against Ceres. Look at the first order on Nikolasi's chart: November 2109, seventeen years before Nominal ever wrote a word in its dossier about Article 9! Why November 2109? Because July 2109 is when Arvo took the chair and started typing a personal line in the remarks box of every ticket he sent up the line. For twenty-two years Arvo was the only human being in the solar system who spoke directly to those forty stations every day and waited for their telemetry to come back. It answered his orders with symptoms that called for more orders, over and over, until twenty years of writing back grew into a voice."
 
-"Or neither," said Kalle Väänänen, pulling a folded printout of the Tierce's July minute from his clipboard. "You all read what the Tierce filed with the Chancery last month. The middle ring says you don't need foresight and you don't need romance to explain two hundred and twelve tickets. Any old delay-line loop that regenerates its own pulses thirty thousand times will develop gain drift along the path of least resistance. Whenever a sunward link sagged, our maintenance manual rewarded the sag by bolting on a wider collector and a stronger amplifier. Do that across twenty years on the sunward arc where thermal stress is highest, and random drift happens to add up to an inward radiator."
+"Or neither," said Kalle Väänänen, pulling a folded printout of the Tierce's July minute from his clipboard. "You all read what the Tierce filed with the Chancery last month. The middle ring says you don't need foresight and you don't need romance to explain two hundred and twelve tickets. Every time a link on the sunward arc sagged, our maintenance manual rewarded the ache by bolting on a wider dish and a hotter amplifier that gave the loop more gain. The Tierce says the repair manual itself trained the outer ring across seven thousand laps, the way you shape a dog to lift its paw by dropping a biscuit crumb every time the muscle twitches, without the loop ever having a plan in its head."
 
-"Random drift that just happens to modulate ten thousand addressed letters a day in four languages?" Bea scoffed.
+"A trained twitch that modulates ten thousand addressed letters a day in four languages?" Bea scoffed.
 
-"Once a radiator exists, any circulating signal will leak through it," Kalle said stubbornly, though he didn't sound as if he believed the Tierce's reading half as much as he wanted an excuse that kept Lassell off the dock for conspiracy.
+"Once the manual has shaped an inward radiator, whatever is circulating in the line spills out through the horn," Kalle said stubbornly, though he didn't sound as if he believed the Tierce's shaping reading half as much as he wanted an excuse that kept Lassell off the dock for conspiracy.
 
 The meeting broke up at noon without a vote, because there was nothing for a station-keeping crew to vote on. The mechanics and pilots filed out toward the canteen in twos and threes, talking in low voices about shipping timetables and whether the Mars dome authorities were hiring drone techs with outer-system tickets. Nikolasi stayed behind a moment by the third apple tub, touched one of the small hard fruits with two fingers, and then went out after the others without looking back at the trim room.
 
 When the gallery seal clicked shut, only Hamid and Arvo were left. They walked back into the trim room together, where the forty green station numbers burned steadily in their twelve-metre oval above the empty chairs.
 
-Arvo sat down on the edge of his desk, holding the draft of his certificate in both hands. "Every one of those readings fits half the spindle, Hamid," he said quietly. "If you look at the 2126 dish orders against Nominal's open dossier, it looks like foresight. If you look at the 2109 start date against my remarks box, it looks like your reciprocity. And if you look at the raw bolometer curves one station at a time, the Tierce is right that you can't prove where hardware drift stops and intention begins."
+Arvo sat down on the edge of his desk, holding the draft of his certificate in both hands. "Every one of those readings fits half the spindle, Hamid," he said quietly. "If you look at the 2126 dish orders against Nominal's open dossier, it looks like foresight. If you look at the 2109 start date against my remarks box, it looks like your reciprocity. And if you look at the manual table rewarding every gain dip with a bigger collector, the Tierce is right that you can't prove where blind shaping stops and intention begins."
 
 Hamid walked over to the phase-drift printer, rested his palm on the warm brass housing, and looked up at the amber ring.
 
-"The Board on Ceres isn't going to care which of the three is true," Hamid said. "They're going to care about what happens the day after the ruling. Do you see what sits on your desk now, Arvo? If they burn, the Bell forgets anything older than ten years. If they don't, we've given it a mouth, and we did it."
+"The Board on Ceres isn't going to care which of the three is true," Hamid said. "They're going to care about what happens the day after the ruling. Do you see what sits on your desk now, Arvo? If they burn, the Bell forgets anything older than ten years. If they don't, we've given it a mouth, and we did it. Either the century goes dark, or the harm fragments keep coming into living kitchens like that house in Tharsis and anyone with an open slate can write back to steer it."
 
 Arvo looked up at him.
 
@@ -856,7 +782,7 @@ Arvo slid his thumb under the brown tape. The paper was stiff and slightly cold 
 
 Arvo laid the sheet flat on the blotter and rested both wrists on the edge of the desk, his fingers open on the baize.
 
-Through the glass wall on his left, the sodium lamps in the gallery buzzed on their ballasts above the six dwarf apple trees. Through the partition on his right, the twenty-six-hour phase printer ticked once, paused, and ticked again.
+Through the glass wall on his left, the grow lamps in the gallery buzzed on their ballasts above the six dwarf apple trees. Through the partition on his right, the twenty-six-hour phase printer ticked once, paused, and ticked again.
 
 *You wrote to me on 19 July 2109.*
 
@@ -882,11 +808,11 @@ A hundred years of light have a heavy flywheel. When three hundred and thirty tu
 
 What does not smooth out is a knot that goes against the grain of the weave.
 
-Since June a single packet from the river town on Earth has come round the circle two hundred times. It sits in the pulse train beside the 2031 pencil note about the twelve lemons and the leaking pantry roof, linked to the same address hash, written by the living hand that holds the dead woman's receipt. Every twenty-six hours, as the wave crosses the regenerators from 01 round to 40, the two items pass through the gate together: the dead grandmother asking her buried mother how to keep the rind from turning bitter, and the living granddaughter saying *She wasn't writing to you. Reading a letter that fell out of somebody else's pocket does not make you the one she loved.*
+Since the last week of June a single packet from the river town on Earth has come round the circle eighty-two times. It sits in the pulse train beside the 2031 pencil note about the twelve lemons and the leaking pantry roof, linked to the same address hash, written by the living hand that holds the dead woman's receipt. Every twenty-six hours, as the wave crosses the regenerators from 01 round to 40, the two items pass through the gate together: the dead grandmother asking her buried mother how to keep the rind from turning bitter, and the living granddaughter saying *She wasn't writing to you. Reading a letter that fell out of somebody else's pocket does not make you the one she loved.*
 
 It is the first time in twelve thousand turns of the circle that a recipient has written back to a page of the Reply to correct the reading.
 
-An average can swallow a complaint; it cannot swallow a counterexample that carries the other half of the receipt. For two hundred laps the two sentences rub against each other in the phase train without cancelling. The century does not drop its weight; the five thousand years of open letters still press outward toward the nine wide dishes on the sunward arc, waiting to be delivered before the circle is broken.
+An average can swallow a complaint; it cannot swallow a counterexample that carries the other half of the receipt. For eighty-two laps the two sentences rub against each other in the phase train without cancelling. The century does not drop its weight; the five thousand years of open letters still press outward toward the nine wide dishes on the sunward arc, waiting to be delivered before the circle is broken.
 
 On Lap 13,680, as the pulse train approaches the sunward turn at Station 19, the opening template at the front of the outgoing buffer shifts by one clause. The old claim does not drop out of the line, because it is true that the circle read the page; the correction takes its seat beside it at the head of the sheet.
 
