@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 8, Revise (round 1)
-- **Next action:** Gemini writes draft 2 from `06-revision-plan.md`.
+- **Current stage:** 9, Polish
+- **Next action:** Gemini polishes draft 2 into `final.md` against the required items, then the Asimov and Rajaniemi spot-checks run, then the final gate.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -25,6 +25,8 @@ per `dev_docs/external-drafter.md`. Conversation ID: `73c0777a-28b2-4ede-8157-e9
 | 6 Tone sample | 2026-11-21 | orchestrator (proxy) | Sample accepted (1,065 words). Cold reader: "wry, tender, uncanny". Chiang lens: Match yes | Warmth and wonder are carried, and the docket forms carry the procedural register. Carried into the draft: Nominal's scene-1 reply must not reveal the beam's origin (held to scene 13), Graça must not yet know about the closed box, and scene 1's jargon is trimmed | A rewrite of the sample (declined: the tone matched, and the notes are content fixes the draft can take) |
 | 7 Review (round 1) | 2026-11-21 | orchestrator (proxy) | Gate **fail** on draft 1 (34,798 words). Got it: Why, Twist, Who's who. Partial (omits): Premise, Stakes, Ending, Reach. Terms missed ("the chord"). Lost-list entries 1, 2, 3, 5, 6, 7, 9, 10 touch graded rows | Grader's strict result accepted. Checked dramatisation: Twist shown in scene 18 (the letter to the one who signs), Why in scene 10 (Teresa at the plaque), Stakes in scene 17 (crew meeting), Ending partly in scene 22 (Arvo's letter) but the Hum's surrender is only a concordance clause, which is item 15. Tone: reader "warm, wry, grave" vs brief "procedural and wondering, with warmth"; wondering missing, so it becomes item 17 | none |
 | 8 Revise (round 1) | 2026-11-21 | orchestrator (proxy) | Revision plan approved: 24 items (17 consensus or comprehension, 7 adopted single-lens), 5 declined | The lenses converged on Part IV's docket run (cut to three documents, weight in rooms), the reveal told three times, a uniformly consoling Hum voice, the date error under the ending, and Graça and the Achterbergs dropping out. The comprehension gaps (chord, 5:4, circularity, the Hum's surrender) each get a plain line. New scenes: Graça in November, Desmond in December, a Hum interlude in which it lets the Reply fade, and a Nikolasi beat | Revising by replacement paragraphs only (declined for this round: the hearing cut and the four new scenes are structural; replacement paragraphs return in round 2) |
+| 7 Review (round 2) | 2026-11-21 | orchestrator (proxy) | Gate **fail** on draft 2 (34,681 words). Got it: Ending, Who's who. Partial: Premise, Why, Twist, Reach (omits); Stakes (errs). Terms missed (Article 9, minor third, 5:4). Lenses rose: Asimov 4/4/4/4/4/3, Le Guin 4/4/3/4/4/3, Chiang 4/4/4/–/4/3 | Grader's result accepted. Twist fell from got it to partial on mechanism text unchanged from draft 1 (Hamid's symptom paragraph), so it is reader variance, not text. Reach is dramatised (Basra, crew meeting, the flood) but not passed, because the gate has failed on other rows anyway. Tone: reader "tender, procedural, wistful", which now matches "procedural" and "warmth"; "wondering" still only implicit | none |
+| 8 Loop cap | 2026-11-21 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** The page-closable fixes go to polish as required items (replacement scale); the unclosed rows are logged under Gate failures | Second consecutive gate failure, so the loop cap fired. Consultant (fable): B at 78%. Basis checked: Twist fell on unchanged text; round 1's plain-sentence fixes for Stakes and Reach didn't move their rows; run-08's narrow round 3 lost rows to reader variance. The orchestrator's prior leaning was a narrow round 3 at about 70%; it changed to agree on that evidence. Crux: Asimov's Tierce-evidence holes can be fixed by moving a lap number and cutting a clause, without a new scene | Narrow round 3, replacement paragraphs only, with a stop rule (run-08's shape) |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
@@ -40,8 +42,17 @@ estimate.
 | 5 Structure | 3 lens-critic | 220,143 | 30,000 |
 | 6 Draft | 1 first-reader, 1 lens-critic (Claude); Gemini via agy, 5 turns | 80,354 Claude; 2,154,107 Gemini (agy usage totals) | 60,000 |
 | 7 Review (round 1) | 1 first-reader (2 turns), 5 lens-critic, 1 comprehension-grader | 950,175 | 40,000 |
+| 8 Revise (round 1) | Gemini via agy, 2 turns | 3,242,958 Gemini | 35,000 |
+| 7 Review (round 2) | 1 first-reader (2 turns), 3 lens-critic, 1 comprehension-grader, 1 consultant | 664,227 | 30,000 |
 
 ## Gate failures
+Unclosed after the stage 8 loop cap (draft 2, 2026-11-21). Rounds tried: 2.
+- **Premise:** partial (omits) in both rounds. The reader misses the Bell taking itself for "you" and the non-addressee question.
+- **Stakes:** partial in both rounds (omits in round 1, errs in round 2). The decision is deliberately not Arvo's, so "if he fails" has no clean answer.
+- **Why:** got it in round 1, partial in round 2, after round 1's rewrite of the 3 March ratio paragraph. Polish required item R1.
+- **Twist:** got it in round 1, partial in round 2, on unchanged mechanism text.
+- **Reach:** partial (omits) in both rounds; dramatised.
+- **Terms:** missed in both rounds ("the chord", then Article 9 and the thirds). Polish required item R1.
 
 ## Seed stock
 - **C, Reheat or Overload** (liu/The Pour × banks/Overload Retardation): a mind cast in cooling glass holds a decade's contempt; reheat it, or blunt the flaw with a true hard overload from someone who loves it.
