@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 4, Build
-- **Next action:** write the bible and payoff ledger for premise A.
+- **Current stage:** 5, Structure
+- **Next action:** write the outline.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -20,6 +20,7 @@ per `dev_docs/external-drafter.md`. Conversation ID: not started yet.
 | 0 Brief | 2026-11-21 | the human | Approved: novella 17,500–40,000, proxy, F3, tone procedural and wondering with warmth, Antimemetics Division and Three-Body Problem as register references, Liu added at stages 1 and 3, Gemini 4 Argon drafts | The human asked for ~900 pages, chose the novella cap when told the process tops out at 40,000 words, and approved the drafted brief in chat | Book one of a longer arc; a full novel with process changes (both offered, not chosen) |
 | 2 Audit | 2026-11-21 | orchestrator (proxy) | Shortlisted the Top 5, all distinct cores: The Addressee's Reply (asimov/Line Blend × liu/The Minor Third, 35); The Commons in a Clear Year (chiang/The Shape It Heals Toward × lem/The Clear Year, 34); Reheat or Overload (liu/The Pour × banks/Overload Retardation, 34); Spread or Place (le-guin/Misclosure × tchaikovsky/The Wolf Interval, 33); rajaniemi/The Drove (32) | No two entries share a card, so no skip was needed. Premises must steer off this run's new attractors: the monster-and-kinder-library card, the teacher at the bench, the mind as strata, one household as its whole humanity, writing reformed for the mind, the woman specialist as tender, the keeper's one switch. Watts/The Antenna's real-lab citation stays out | Contributing Factors to a Change of Heart (vinge × banks, 32) |
 | 3 Synthesize | 2026-11-21 | orchestrator (proxy) | A, The Addressee's Reply (asimov/Line Blend × liu/The Minor Third), with the tempo cause stated, the burn as a three-party bargain, the slow self building the relay through maintenance orders, and the story opening on a recipient | Mean rank 1.2, first for Vinge, Chiang, Banks and Liu, second for the Cartographer on novelty. Only F4 premise; rests on the reader profile's top three pulls. Consultant (fable) 88% on A; 65% on the conditions, the relay-builder choice being taste | C, Reheat or Overload (mean rank 2.2) |
+| 4 Build | 2026-11-21 | orchestrator (proxy) | Bible approved after the stress test; all 17 must-fix notes resolved (stress-test log in the bible) | The notes converged on the Hum: it got senses (ring length as posture) and an output organ (symptoms: thinned signal → true fault reports → standard orders), a recall rule (keeps the strong and repeated), three competing readings of its motive with the mechanism explicit, a small change (a salutation clause) and a foresight mistake (its sending caused the filing). Orbital mechanics, snapshot and gravity fixed; Teresa, Rui, Pieter and Albano added as people who pay or remember | A second stress-test round (declined: the fixes are integrated and stage 5's panel sees them in use) |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
@@ -31,6 +32,7 @@ estimate.
 | 1 Ideate | 11 lens-ideator | 806,955 | 15,000 |
 | 2 Audit | 1 cartographer | 171,223 | 12,000 |
 | 3 Synthesize | 5 lens-critic, 1 consultant | 433,423 | 25,000 |
+| 4 Build | 5 lens-critic | 314,927 | 45,000 |
 
 ## Gate failures
 
