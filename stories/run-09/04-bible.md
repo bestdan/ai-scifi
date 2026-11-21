@@ -116,8 +116,13 @@ The outline places all five in the first third.
     nine stations added up to a wide sunward antenna, a spare transmitter
     and a laser head pointing inward. Once those were in place, the Hum
     could thin and thicken its own signal at those stations fast enough to
-    modulate it. The relay is a voice made out of a fault. Its bandwidth is
-    small: a few letters a day.
+    modulate it. The relay is a voice made out of a fault. Text is small,
+    so even a slow modulation carries about ten thousand short letters a
+    day. **The fragments are pages of the Reply already composed:** the Hum
+    has been writing it since 2091, so what it sends early is largely what
+    it had already written. It can revise a page's opening within a lap,
+    which is how the salutations change. (Amended at stage 6: the draft's
+    scale, over 100,000 fragments in the first twelve days, is adopted.)
   - **Why the fragments couldn't go through the chord:** pooling averages
     the Hum with the Tierce, so a fragment the Tierce doesn't also hold
     can't pass. A private letter needs the Hum alone.
@@ -592,7 +597,7 @@ by what it does on the page.
 | Laps (traced) | Lap time is circumference divided by the speed of light, at about 8.32 minutes per AU. Nominal: 2π × 0.4 = 2.51 AU, so 20.9 min. Tierce: 2π × 25 = 157 AU, so 21.8 h. Hum: 2π × 30 = 188.5 AU, so 26.1 h. The ratio 26.1 : 21.8 is 6 : 5. The two come into step every 5 Hum laps, 5.4 days. | Hamid's timing | Hamid to Bea | "A day and two hours for light to go round, and that's one thought." | |
 | Memory (traced) | Fade to 1/e takes about 33,600 laps for the Hum (100 years), 4,000 for the Tierce (10 years) and 480 for Nominal (a week). What stays is strong or repeated. | Nominal's dossier; who the fragments go to | Hamid, on why the fragments skew to grief and rage | "It keeps what hurt. Everyone does." | |
 | Retune (traced) | The major third (5:4) means the outer ring moves to 31.25 AU (lap 27.2 h), or the middle ring to 24 AU. The cheapest transfer is two burns of about 0.055 km/s each over eighty-five years; the reserve buys about eighteen years at under 1 km/s. Trim covers millimetres. The first burn is the end. | the request | the Tierce's first letter; the Board's record | The Tierce: "It could as easily have asked to move me." The record: "The first burn is the irreversible act." | |
-| Relay (traced) | The Hum could only thin its own signal at a station. That produced a true fault report and a standard order. 212 orders, 2109 to 2129, on nine stations. The relay's bandwidth is a few letters a day. A private letter can't pass the chord, because pooling averages the Hum with the Tierce. | the opening order | the triangulation | Nikolasi's dated list, and Hamid's line | the two-column scene |
+| Relay (traced) | The Hum could only thin its own signal at a station. That produced a true fault report and a standard order. 212 orders, 2109 to 2129, on nine stations. The relay carries about ten thousand short letters a day, mostly pages of the Reply already composed. A private letter can't pass the chord, because pooling averages the Hum with the Tierce. | the opening order | the triangulation | Nikolasi's dated list, and Hamid's line | the two-column scene |
 | Dates (traced) | The founding corpus was fed in 2077–82. The Hum began the Reply in 2091 and named 2157. The first fragments went out in February 2131. Nominal filed in March 2131, and the request lapses in March 2132. Arvo has been chief since 2109, 22 years. About 336 Hum laps fall in the story's year. Interludes count laps from the Reply's start on 1 January 2091 (1.0875 days a lap), so 14 February 2131 is lap 13,475 (see the outline's lap calendar). | Graça's opening: a 2031 letter | the triangulation | Nikolasi's list, dated | |
 | Light-lag (traced) | Triton to the inner system is about 4.2 h one way. Triton to the ring's far side is about 8.3 h straight across and 13 h around. The hearing is held by post, so every exchange has a round trip of about 8 hours. | Arvo's first scene | the hearing | the record notes each question's send and receive times | |
 | Harm (traced) | The Hum answers open writing, and holds the furious and the grieving most strongly. Desmond's 2099 letter was open by lapse. His son read the answer first. | Nominal's request | the hearing: Desmond's testimony | Desmond: "I didn't write it to anybody. That was the point of writing it." | |
