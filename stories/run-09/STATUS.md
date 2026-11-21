@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 6, Draft
-- **Next action:** start the Gemini drafting conversation through agy.
+- **Current stage:** 8, Revise (round 1)
+- **Next action:** Gemini writes draft 2 from `06-revision-plan.md`.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -23,6 +23,8 @@ per `dev_docs/external-drafter.md`. Conversation ID: `73c0777a-28b2-4ede-8157-e9
 | 4 Build | 2026-11-21 | orchestrator (proxy) | Bible approved after the stress test; all 17 must-fix notes resolved (stress-test log in the bible) | The notes converged on the Hum: it got senses (ring length as posture) and an output organ (symptoms: thinned signal → true fault reports → standard orders), a recall rule (keeps the strong and repeated), three competing readings of its motive with the mechanism explicit, a small change (a salutation clause) and a foresight mistake (its sending caused the filing). Orbital mechanics, snapshot and gravity fixed; Teresa, Rui, Pieter and Albano added as people who pay or remember | A second stress-test round (declined: the fixes are integrated and stage 5's panel sees them in use) |
 | 5 Structure | 2026-11-21 | orchestrator (proxy) | Outline approved: four parts, 26 scenes, about 34,600 words, with a lap calendar and routing lines on every document. All seven must-fix notes resolved (its Stage 5 lens notes) | The notes converged on fair play (the symptom-to-order rule, the honest orders and the dossier clue planted early), on a repeated Part II middle (merged, with Arvo now acting in scene 12), on scale stood in (the drone footage of station 23), and on Graça's answer and Arvo's cost dramatised rather than stated | Keeping Arvo's letter to Liv after the verdict (declined: before it, the change is his own rather than a reaction to the outcome) |
 | 6 Tone sample | 2026-11-21 | orchestrator (proxy) | Sample accepted (1,065 words). Cold reader: "wry, tender, uncanny". Chiang lens: Match yes | Warmth and wonder are carried, and the docket forms carry the procedural register. Carried into the draft: Nominal's scene-1 reply must not reveal the beam's origin (held to scene 13), Graça must not yet know about the closed box, and scene 1's jargon is trimmed | A rewrite of the sample (declined: the tone matched, and the notes are content fixes the draft can take) |
+| 7 Review (round 1) | 2026-11-21 | orchestrator (proxy) | Gate **fail** on draft 1 (34,798 words). Got it: Why, Twist, Who's who. Partial (omits): Premise, Stakes, Ending, Reach. Terms missed ("the chord"). Lost-list entries 1, 2, 3, 5, 6, 7, 9, 10 touch graded rows | Grader's strict result accepted. Checked dramatisation: Twist shown in scene 18 (the letter to the one who signs), Why in scene 10 (Teresa at the plaque), Stakes in scene 17 (crew meeting), Ending partly in scene 22 (Arvo's letter) but the Hum's surrender is only a concordance clause, which is item 15. Tone: reader "warm, wry, grave" vs brief "procedural and wondering, with warmth"; wondering missing, so it becomes item 17 | none |
+| 8 Revise (round 1) | 2026-11-21 | orchestrator (proxy) | Revision plan approved: 24 items (17 consensus or comprehension, 7 adopted single-lens), 5 declined | The lenses converged on Part IV's docket run (cut to three documents, weight in rooms), the reveal told three times, a uniformly consoling Hum voice, the date error under the ending, and Graça and the Achterbergs dropping out. The comprehension gaps (chord, 5:4, circularity, the Hum's surrender) each get a plain line. New scenes: Graça in November, Desmond in December, a Hum interlude in which it lets the Reply fade, and a Nikolasi beat | Revising by replacement paragraphs only (declined for this round: the hearing cut and the four new scenes are structural; replacement paragraphs return in round 2) |
 
 ## Token use
 One row per stage, added at its gate. Agent tokens are the sum of each
@@ -36,6 +38,8 @@ estimate.
 | 3 Synthesize | 5 lens-critic, 1 consultant | 433,423 | 25,000 |
 | 4 Build | 5 lens-critic | 314,927 | 45,000 |
 | 5 Structure | 3 lens-critic | 220,143 | 30,000 |
+| 6 Draft | 1 first-reader, 1 lens-critic (Claude); Gemini via agy, 5 turns | 80,354 Claude; 2,154,107 Gemini (agy usage totals) | 60,000 |
+| 7 Review (round 1) | 1 first-reader (2 turns), 5 lens-critic, 1 comprehension-grader | 950,175 | 40,000 |
 
 ## Gate failures
 

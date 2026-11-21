@@ -1,0 +1,53 @@
+# First Reader report: draft 1, "To Whoever Holds Her Letters"
+
+I read it once, straight through, to the last line (Huda's blank "TO:" line). I saw no Drafter's notes heading, so I read to the end of the file.
+
+## Where I got lost
+
+Each item says whether I worked it out and how.
+
+1. **The first mention of the Bell, Mercury's distance and "the inner ring" (the glazier's query, the paragraph after the bakery).** I didn't know what the Bell was or where it lived. I learned that it answers everyone's letters. "Relay dishes south of Coimbra, bound for the inner ring at Mercury's distance" went past me. I worked it out slowly over the next two pages from Nominal's own reply.
+2. **"The chord", "the three selves", "Nominal", "the Hum", "the Reply", "the Tierce".** In Part I these arrive faster than I could file them. Nominal's first letter says "the chord did not send it either; the Bell's three selves have not come into step". I nodded and moved on without understanding it. I had three minds with different memory lengths straight only after Hamid's and Teresa's explanations on Triton. I didn't understand "chord" until the "Lap 13,492" section, where the two rings pool. Even there I took it on trust.
+3. **The first "Lap 13,475" section (the italic-feeling one about stations 31, 14, 23).** I didn't know who was speaking, or whether it was a machine, a person or a poem. "The one who signs" and "the small moon inward" meant nothing. I guessed it was the outer ring thinking. I worked out "the one who signs" was Arvo only when he typed *Morning, 23. Keep warm.* in the very next Triton section, and the small moon was Triton. That fit together well when it landed, but for a page I was holding something I didn't understand.
+4. **Light-lag and distance numbers, everywhere.** Examples are the 34-minute wheel, "four point two light-hours away from Neptune", 5h 28m one-way from Station 23, eight minutes twenty seconds per unit, a day and two hours round the circle, and 8h 24m versus 4h 11m versus "four hours and eighteen minutes". I stopped checking them somewhere in Part I. In the Hamid timing scene I felt I was supposed to follow the arithmetic, and I couldn't. I never worked this out. I just decided to trust the numbers.
+5. **Why moving the outer ring outward kills the Hum.** Nominal's petition says it wants a "major third" by moving the stations from 30.00 to 31.25 AU. I didn't see why that mattered or why it would erase anything. Arvo's reply ("it wipes the delay line clean") half explained it. The Tierce's letter ("within three laps the pulse train will shear out of phase") finally made me believe it. I got it by the Tierce's letter, three scenes late.
+6. **Article 9 and its four conditions (the paragraph on 3 March).** I read it twice and kept only "four things must happen in a year or it dies". I followed the later votes only because the story kept naming which condition was still open.
+7. **The fault-code trick.** When Hamid said the Hum "thins its own signal" so the monitor files an honest fault, I got it. The reason was the line in the Lap 13,475 section about thinning the link "on purpose", which I now understood. The two-column page with Lap 12,638 helped me even more. Before that, in the June scene, I knew something was off with Station 23 but not what, and I was waiting to be told.
+8. **Who "the deputy" is.** The Hum's September letter says "as I told the deputy's child in the winter". It took me a second to place Nikolasi as the deputy and Mele as his child.
+9. **The hearing chronology (Chair Lindqvist's note, "if the outer ring sent the fragments early to forestall a retuning request... its early sending is what caused the request").** I had to stop and work out the loop. The Hum answered a letter, Nominal got scared, and Nominal filed. I got it eventually from Hamid's "He caught it!" Without that line I might not have.
+10. **The last line of the Hum's late reply to Lindqvist.** I couldn't follow the sentence "it had been right that a request would come, and wrong that it was fixed." I don't know what "fixed" means there. I also couldn't tell whether the Hum's own account was supposed to be true. I never worked it out.
+11. **Nominal's weekly memory against its own notes.** It says it won't remember writing next Thursday, but it also has a signed file that outlives it. I took this as "it forgets, but it leaves itself notes". I wasn't sure whether the file counts as remembering. I let it go.
+
+## Where I got bored
+
+1. **The routing blocks (DOCKET, FROM, TO, VIA, RECEIVED).** By the fourth or fifth I was skipping straight to the text under them. In Part IV, the hearing run of docket after docket (REC-01, EX-14, EX-19, REC-10, NOM-24, REC-16, REC-22) read like a file. I was waiting to be back in a kitchen or a trim room with a person in it.
+2. **The 14 May section, where Arvo checks 3,418 tickets one by one.** I knew he would find nothing, because the Station 23 "ear" joke had already been planted. I waited through the manual's rule (a), (b), (c) for the moment he looks at 23.
+3. **Nominal contradicting itself.** The first time was funny (the 6 May and 14 May briefs, Arvo's red highlighter). The second time, on 15 November, I had already seen the joke, so I was only waiting for the Chair to say it out loud.
+4. **The paragraph at the start of the 6 March scene about the Tierce's fifty-one-hour wait and its light-lag.** I wanted the letter.
+5. **Part III's debate in the gallery about three theories (foresight, reciprocity, random drift).** Arvo, Hamid, Bea, Kalle and Marisol each push one idea. I couldn't feel who held which, and I was waiting for someone to just decide.
+6. **Chair Lindqvist's private opinion of cathedral organs.** I wanted to be somewhere else.
+
+## Where I was moved, surprised or delighted
+
+- **The first page.** Graça going into the sea at Foz, "waited for the backwash of a seventh wave... went in flat under the foam". It made me trust the person who wrote it. Her whole forty years of talking to people with their mouths propped open ("a lifelong fondness for one-sided conversations") made me like her straight away.
+- **The first letter from the dead.** Leonor's note, then the answer: "when a person dies before she can answer, the question belongs to whoever keeps the tree alive, and you kept yours through forty-eight winters after that November." I put the page down at that line.
+- **The receipt itself, found in Clara's kitchen.** "Mãe, it is pouring again tonight... Tell me you aren't still angry with me about the orchard, Mãe. Tell me what to do with the lemons so I don't spoil them." That was the strongest page in the story for me.
+- **Rui:** "Why on earth would I lock a recipe for almond tart, Graça?" That was a real laugh, and then he says Leonor would have written back to say thank you. I believed him.
+- **Albano's aggrieved "Not a line".** He had arranged his whole life around a New Year's morning that was now being torn up. His last scene, watching the clock board come down, is the one I liked best in the whole story. "Put me down as my own residual addressee until further notice, young man." And then the port and the salted sardine on cornbread, "Don't tell my doctor."
+- **Mele and Teresa.** Mele asking "isn't it lonely out there?" and Teresa's answer, "even a mirror might get tired of never putting a word in." I wrote that line down in my head. Also Teresa saving Mele with the louvre trick, with no fuss.
+- **The Tierce's grudge about the beryllium mirror.** It was funny, and then it paid off for real when the Tierce withholds its consent and says "I note that I am the next ring in."
+- **Nominal's postscript about Arvo's daughter.** It was chilling and polite. It says "I will not read them to you," and that was frightening because it plainly could.
+- **Arvo reading the September letter.** "It takes a long time to build a small window in a dark wall when the only words one has are the names of broken parts." Then I realized the *Morning, 23. Keep warm.* that had been in the margin since page one had been a letter the whole time. That was the biggest moment for me. I went back in my head to the ring's little line in the first "Lap" section, and it clicked. He folds it into his pocket "and did not correct it."
+- **"You did not write to me. I read it."** It was small, and I got a lump. It is so plainly a mind changing.
+- **Arvo's letter to Liv:** "I couldn't come. I can't stand up on Earth. I should have said." It's short, and it's the opposite of the formal paper that surrounds it.
+- **Huda at the end.** She reads what the Hum wrote to the Hammurabi stone, and then she turns the slip over and picks up her own pen. I liked that very much, and I liked that the TO: line is empty.
+
+## Who I cared about, and whether I'd have kept reading past page 2
+
+I cared about Graça first. She was the person I trusted from the first page, and I waited for her whenever the story left her. Then I cared about Arvo, a lot, by about the middle. Albano and Hamid after that, and Teresa. I never cared about Nikolasi much, because he was always carrying a plot job. Mele I liked in the scene at the plaque but not as a person I followed. I came to care about the ring's voice, a little, and Nominal, strangely, more than I expected.
+
+Would I have kept reading past page 2? Yes, but only just, and only because of the letter. The swim and the street were lovely and slow. The envelope with the violet stamp and the first answer from the dead got me. If the story had gone straight from the first exchange with Nominal into a page of rings and AUs, I'd have wobbled. The Lap 13,475 paragraph and the first Triton section (the centrifuge, the plot of forty numbers, "thirty astronomical units") were the next place I nearly stopped. I stayed because Arvo's little remark at the end of the ticket ("Morning, 23. Keep warm") was warm. I wobbled again in the middle, in the long stretch of Parts II and III, where Graça is gone for a long time and everyone on Triton is arguing over a hearing. In Part IV the story left me alone with the hearing documents for a long stretch. I came back to it because I wanted to know whether Arvo would write to his daughter.
+
+## The question I'm left with
+
+Whose letter is Huda writing, and what does she say? The TO: line is blank. She is writing to the Hum, I think, but I don't know. More than that, I don't know whether the Hum was ever lonely, as Mele asked, or whether that was only our wish. The Hum's last account of itself leaves me unsure whether it has understood anything or has only moved a hair. I'd also like to know whether Liv wrote back. I am left with that one most of all.

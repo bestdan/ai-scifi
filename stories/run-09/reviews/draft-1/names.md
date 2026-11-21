@@ -1,0 +1,21 @@
+# Names: run-09, draft 1
+
+- **Arvo Halme**: chief of the outer-ring station-keeping crew on Triton, 58; the protagonist.
+- **Graça Antunes**: retired dentist in Porto, 71.
+- **Leonor Antunes**: Graça's grandmother (1998–2079).
+- **Rui Antunes**: Graça's father, 103, in a care home.
+- **Clara**: Graça's cousin, a retired pharmacist.
+- **Albano Reis**: Graça's neighbour, 94, a regular at the Reply Office.
+- **Nikolasi Tupou**: Arvo's deputy, 44, a lay preacher.
+- **Mele Tupou**: Nikolasi's daughter, 9.
+- **Teresa Mwangi**: 85, one of Lassell's first builders, on the school rota.
+- **Bea Okafor-Lind**: drone pilot, 26.
+- **Hamid Rostami**: the crew's timing engineer, 63.
+- **Kalle Väänänen** and **Marisol Vega**: crew members at the meeting.
+- **Desmond Achterberg**: a man on Mars whose forgotten letter was answered.
+- **Pieter Achterberg**: Desmond's son, 38.
+- **Yaw Lindqvist**: chair of the Tuning Board on Ceres.
+- **Huda Karim**: chief dead-letter clerk at a Basra sorting office.
+- **Liv Halme**: Arvo's daughter, 31, in Tromsø.
+- **Kaisa Ruuth**: founder of the Bell (historical).
+- **Dr. M. Varga**: Arvo's correspondence-chess opponent on Mars.
