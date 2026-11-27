@@ -25,6 +25,14 @@
 - **Must include:** nothing.
 - **Idea cards per lens:** 3.
 - **Panel changes:** defaults.
-- **Notes:** an unattended proxy run. The orchestrator logs each gate
-  decision, with its runner-up, in `STATUS.md`. Nothing the human sees
-  before reading reveals the angle.
+- **Notes:**
+  - **The drafter is Gemini, not the `drafter` role.** At the human's
+    request, stage 6, every stage 8 revision and the stage 9 polish are
+    written by Gemini 4 Argon (`gemini-4-argon-high`) through `agy`, in
+    one resumed conversation, per `dev_docs/external-drafter.md`. It is
+    the model run-08 and run-09 used, and the human rated its voice
+    better than the earlier drafters. Every other role is the usual
+    Claude agent.
+  - **The run is unattended.** The orchestrator logs each gate decision,
+    with its runner-up, in `STATUS.md`. Nothing the human sees before
+    reading reveals the angle.
