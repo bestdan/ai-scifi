@@ -328,3 +328,23 @@ offer to coin a "we-three". The being decides.
 | Le Guin | [could] Who handed power over | Declined: not a power-ceding premise |
 | Lem | [could] The coiners' vanity; more documents | Declined beyond the register entries: length |
 | Watts | [could] Deuterium | Kept as one fact |
+
+## Amendments (stage 5)
+These override anything above that conflicts.
+- **One cough rule.** Ennu coughs whenever an ennu seats someone outside:
+  a delegate's exclusive ennu, or ennu's own "ennu will" to Sione, which
+  puts a whole people out of its second seat. Every cough is global: each
+  earpiece hitches, and every promise in mid-air on Ninefold fails to
+  register. Ressa's contract fails because it is in mid-air during such a
+  cough. The read-back channel is private: only the one promised to hears
+  ennu's entries, and the clerks log cough times, never read-backs, so only
+  Sione can match the two.
+- **Closing promises doesn't cure it.** In scene 5 Sione closes every open
+  promise. Ennu can no longer see him, and goes on making "ennu will"
+  promises to the empty seat; the coughs go on.
+- **The "you" mechanism.** A "you" promise names one seat; the other is the
+  register itself. No people is in it, so no people is put out. Sione
+  reopens nine promises in that form in scene 7.
+- **Sione's choice in scene 6:** he flags the trial's rehearsal promises
+  ("ennu-sa will outvote the shelf") as exclusive, arguing against his own
+  seat.
