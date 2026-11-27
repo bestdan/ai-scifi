@@ -44,6 +44,15 @@ Then add three sections:
      card that matches it is a red flag.
    - A card on an entry in `process/attractors.md` is edge-of-map at best,
      unless it names the entry and earns breaking it.
+   - **The seed's own topic is never an attractor.** When the brief has a
+     seed, many cards will share its subject, because the seed asked for
+     it. Judge the angle the cards share (the mechanism, the setting, the
+     shape), not the topic. Novelty has to come from the treatment, never
+     from leaving the seed. In run-09 the audit judged the seed's direct
+     forms to be attractors, the chosen premise drifted from the seed, and
+     the human said the story wasn't the topic they wanted explored.
+   - **Seed fit.** For each card, say in one line which lines of the seed
+     it serves and which it leaves behind.
    - Say whether the assigned entry points and stimuli spread the cards, or
      whether they converged anyway.
 2. **Collisions.** List the 3 to 6 most promising cross-lens combinations.
@@ -52,7 +61,8 @@ Then add three sections:
 **Write:** `stories/<slug>/02-audit.md`. Then update
 `process/attractors.md`: add every cluster you judged an attractor, and add
 this run's slug to each existing entry it hit again. An entry is hard once
-two runs have hit it. Change nothing else in that file.
+two runs have hit it. Name each entry by its angle, never by a seed's
+topic. Change nothing else in that file.
 
 **Reply:** the Top 5, one line each with its scores, and the convergence
 verdict in two sentences.

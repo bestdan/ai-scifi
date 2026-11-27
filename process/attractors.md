@@ -15,6 +15,12 @@ and treats a card on an entry as edge-of-map at best.
 Each entry names the runs whose audits found it. An entry seen in two runs
 or more is a hard attractor.
 
+**An entry bars an angle, not a topic.** A seed may ask for a topic an
+entry touches, such as a mind that learns what it is from human writing.
+The seed's topic still stands, and a card serves it from an angle no entry
+names. Run-09 read its own seed's topic as attractor ground, and the story
+drifted from what the human asked for.
+
 ## Settings
 
 - **Water: rivers, dams, floods, droughts, tidal barriers, water rights,

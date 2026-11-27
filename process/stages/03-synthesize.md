@@ -30,6 +30,10 @@ Don't pass `model:`.
      it only outputs, such as memos, logs or rulings, has to show reasoning
      inside them, or it reads as a transcript. Run-06's memos did. Interior
      monologue is one route, not the only one.
+   - **Seed fit** (only where the brief has a seed): for each line of the
+     seed, *strong*, *partial* or *weak*, with one sentence on how the
+     premise serves it. A strong fit puts that line at the centre of what
+     the protagonist does and decides, not in the setting or a subplot.
    - **Estimated minimum:** 3,000 words, plus about 1,500 for each novum or
      twist after the first. A premise with two nova and a twist needs about
      6,000. This is a heuristic resting on one story, calibration-01; check
@@ -46,7 +50,15 @@ the household. Where a premise has an "other mind" line, ask of it: does
 this mind seem to think? A voice that answers the brief formally but shows
 no reasoning and no theory of mind fails the test, because
 `process/reader-profile.md` ranks minds that are genuinely not human as
-this reader's strongest pull. Pick on the brief's seed. Among premises that serve the seed
+this reader's strongest pull. Pick on the brief's seed first. In `proxy`
+mode, reject a premise with a weak seed fit on any line of the seed. The
+human chose the seed and never sees this trade, so the orchestrator may not
+spend seed fit to buy novelty or scale. In run-09 the Decision chose a premise
+whose note called the seed's third line "its weakest fit", and the human
+said afterwards that the story wasn't the topic they wanted explored. If
+every premise is weak on some line, narrow or rewrite the strongest until
+it isn't. The Decision states how the chosen premise serves each line of
+the seed. Among premises that serve the seed
 equally, prefer the more ambitious one: higher Novelty and Futurity, more
 consequence followed further. Clarity is not a reason to pick the smaller
 premise, because stages 4 to 9 and the comprehension gate exist to make an

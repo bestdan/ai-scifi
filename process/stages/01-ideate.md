@@ -34,7 +34,10 @@ Don't pass `model:`. The agent definition sets it.
   the card you'd write first: the most literal answer to the brief and its
   seed. Put it in the file's "Obvious card" line, then don't write it.
   Several lenses will have the same first thought, and only the second one
-  is yours.
+  is yours. Discarding it drops that treatment, not the seed's topic: every
+  card you write still answers each line of the seed. In run-09 the cards
+  moved off the seed's topic to find novelty, and the finished story missed
+  what the human wanted explored.
 - Write exactly the brief's number of idea cards, from your assigned entry
   point. Aim at least one card at your assigned pull, and start from your
   stimulus. A card may travel far from the stimulus; say where it went.
