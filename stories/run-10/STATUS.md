@@ -36,6 +36,11 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 7 Review (round 2) | 2026-11-26 | orchestrator (proxy) | Gate **fail** on draft 2 (5,824 words). Who's who got it; Premise, Why, Twist, Ending, Reach partial (omits); Stakes partial (errs); Terms missed (lattice, register, hogget, mantle, the Gathering, deuterium). Lost-list down from 13 to 8. Lenses rose: Le Guin 4/4/4/4/4/3, Watts 4/4/–/4/3/–, Asimov 4/3/3/–/3/3, Chiang –/4/3/–/–/3 | Grader's result accepted. No row changed grade except Stakes (omits to errs, a misreading of the new temptation paragraph). Several omitted facts are stated plainly on the page ("I'm visible to it only while a promise to it is open"; "It hasn't got a word for I"; the delegates still playing the dual), so it is mostly reader variance. Tone: reader's answer in `comprehension.md` | none |
 | 8 Loop cap | 2026-11-26 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** Eleven page-closable fixes go to polish as required items; the unclosed rows are logged under Gate failures | Second consecutive gate failure. Consultant: B at 80%. Every remaining lens note is fixable by a sentence inside an existing beat; the omissions are about facts already on the page; run-09's precedent | A narrow round 3 with replacement paragraphs |
 
+## Polish spot-check decisions
+- **Asimov:** applied 1 (the empty-chair calls stop once open *you* promises sit at his address). Declined 2 ("ten years" is his long habit of hearing the door, not the five-year text record) and 3 ("Concluding, wrongly" would tip the twist a scene early).
+- **Rajaniemi:** applied 1 (the address header line), 2 (the coughs-eased sentence) and 3 (the mantle gloss as "hide shoulder-cape"). Declined 4 (protected line, and "hogget" carries a Terms gloss) and 5 (the spruce-beam simile is the Earth-born narrator's frame).
+- `dli check` passes; `final.md` is 5,798 words.
+
 ## Gate failures
 - Draft 2 (loop cap): Premise, Why, Twist, Ending, Reach partial (omits); Stakes partial (errs); Terms missed (lattice, register, hogget, mantle, the Gathering, deuterium). The final gate reruns on `final.md`.
 
