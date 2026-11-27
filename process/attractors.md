@@ -48,7 +48,7 @@ drifted from what the human asked for.
   writing as the mind's temper, 4). Hard.
 - **Elder knowledge that intelligence can't reach,** and its sibling, the
   benevolent deception of an elder who knew all along. run-02, run-03,
-  run-09. Hard.
+  run-09, run-10 (keepers deceiving the being for its own good, 4). Hard.
 - **A role reversal over a parent.** run-02, run-03.
 - **The family safe word failed by a grandparent.** run-04, 6 cards.
 - **Reversible or uncomputed minds.** calibration-01's top card returned in
@@ -82,13 +82,33 @@ drifted from what the human asked for.
   run-09, 6 cards; two reached for gosling imprinting independently.
 - **People rewrite how they write because a mind reads them,** as the
   third-order consequence. run-09, 11 cards.
+- **Kindness that harms: the health signal gamed.** Good faith padded,
+  staged, overdone, made costless or propped up from outside, until the
+  readout lies or the surplus itself makes the patient sick (Goodhart's law
+  on a vital sign). run-10, 7 cards across 6 lenses.
+- **Death by completion:** the obligation discharged, paid off early,
+  merged away or given a known end date, so keeping it perfectly ends it.
+  run-10, 5 cards across 5 lenses.
+- **The companion enrolled as a party:** the hired outsider's own
+  promises, speech, body chemistry, love or mere presence register in the
+  thing being tended, so the job turns into membership. run-10, 8 cards.
+- **Honest divergent readings as the illness:** two parties keep one text
+  in good faith under different meanings (word drift, dual texts, a clause
+  read two ways). run-10, 3 cards; real treaty history charts it as well.
+- **The patient split into the two sides' halves,** each built, kept or
+  perceived by one party, with the halves estranged. run-10, 4 cards.
+- **Why the human: the neutral outsider or the middle tempo.** A human is
+  hired because nobody owns their language and they hold no stake, or
+  because they think at a speed between a fast species and a slow one.
+  run-10, 8 cards on these two answers.
 
 ## Protagonists
 
 - **A mid-level functionary who finds something hidden and must decide
   whether to disclose it,** usually a woman clerk or a teenage girl at a
   tell-or-don't choice. run-02 (21 of 27), run-03 (about 21), run-05,
-  run-06 (about 20 of 30), run-08 (5), run-09 (2). Hard. Run-06's finished
+  run-06 (about 20 of 30), run-08 (5), run-09 (2), run-10 (3, and the
+  obvious card of 9 of 10 lenses). Hard. Run-06's finished
   story landed on it anyway, through a night clerk's secret errata, while
   this entry was already listed: the audit's warning alone didn't hold the
   line.
@@ -109,7 +129,8 @@ drifted from what the human asked for.
 - **The founders chose it,** as the explanation of a world. run-05.
 - **The keeper's one irreversible switch:** a lone custodian holds a valve,
   a burn, a convention or the last row, and the mind's self is on the far
-  side. run-09, 9 cards.
+  side. run-09, 9 cards; run-10, 1 card (the one promise that can't be
+  taken back). Hard.
 
 ## Ground a finished story took
 
@@ -130,6 +151,8 @@ published SF holds. A card that reuses its devices repeats that story.
 Ines, Inés, Inês and Iness · Teodor and Teodora · Tomas, Tomás and Tomasz ·
 Noor · Nell · Mira · Wren · Ama. Ines alone led cards in run-02, run-03,
 run-04 and run-06. `process/prose-rules.toml` warns on these in a draft.
+
+Kofi and Dariusz each led two cards from blind lenses in run-10.
 
 ## Wording
 
