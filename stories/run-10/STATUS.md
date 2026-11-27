@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 8 (revise, round 1)
-- **Next action:** Gemini writes draft 2 from `06-revision-plan.md`.
+- **Current stage:** 7 (review, round 2)
+- **Next action:** stage 7 on draft 2 (5,824 words): fresh first-reader, grader, and the Asimov, Watts, Le Guin and Chiang lenses.
 
 ## Drafter notes for next time
 - agy denied a `read_file` (target not named) and later a `command` after writing the draft. Inline any newly written file in the prompt, and name the exact commands it may run.
@@ -47,6 +47,8 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 3 Synthesize | ~296k | four critics and a consultant |
 | 4 Build | ~285k | five critics |
 | 5 Structure | ~174k | three critics |
+| 8 Revise r1 | Gemini 674,035 | draft 2, 5,824 words |
+| 7 Review r1 | Claude ~440k | first-reader, five lenses, grader |
 | 6 Draft | Gemini 89,802 + 132,742 + 507,996 (draft 1 and its length round; the first call produced nothing after a denied read) | first draft 9,286 words, cut to 5,984 |
 | 6 Tone sample | Gemini 86,800 (input 71,376, output 15,424, thinking 8,205); Claude ~79k | first-reader and Banks |
 
