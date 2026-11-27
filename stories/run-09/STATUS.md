@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 10, Debrief (story ready)
-- **Next action:** the human reads `final.md` (or the EPUB), then the stage 10 debrief. The branch lands only on the human's word.
+- **Current stage:** done (debriefed and landed, 2026-11-26)
+- **Next action:** none. The debrief is in `debrief.md`.
 
 > **Proxy mode:** this file names the premise. The human doesn't open
 > anything in this story's directory except `final.md` until they have read
@@ -29,6 +29,7 @@ per `dev_docs/external-drafter.md`. Conversation ID: `73c0777a-28b2-4ede-8157-e9
 | 8 Loop cap | 2026-11-21 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** The page-closable fixes go to polish as required items (replacement scale); the unclosed rows are logged under Gate failures | Second consecutive gate failure, so the loop cap fired. Consultant (fable): B at 78%. Basis checked: Twist fell on unchanged text; round 1's plain-sentence fixes for Stakes and Reach didn't move their rows; run-08's narrow round 3 lost rows to reader variance. The orchestrator's prior leaning was a narrow round 3 at about 70%; it changed to agree on that evidence. Crux: Asimov's Tierce-evidence holes can be fixed by moving a lap number and cutting a clause, without a new scene | Narrow round 3, replacement paragraphs only, with a stop rule (run-08's shape) |
 | 9 Polish | 2026-11-21 | orchestrator (proxy) | Polish by Gemini as the single writer, in the same conversation, against 13 required items; `final.md` at 34,886 words; spot-checks applied with one decline | The human asked for Gemini to do the writing and voice, so the polish stays in its prose (run-08 precedent). The Claude spot-checks and the final gate still run | The Claude `line-editor` role (declined: it would put a second voice into the prose) |
 | 9 Polish (sign-off) | 2026-11-21 | orchestrator (proxy) | **The story is ready.** `final.md` is 34,886 words; EPUB built | The final gate fails on recall (Premise, Stakes, Why, Ending partial; Reach errs; Terms missed on "the chord" and "the Tierce"), with Twist and Who's who got it. Per stage 9 step 5: Ending passed on draft 2, but its quoted line (the Tierce's withholding) is protected and unchanged, and the omitted facts (Arvo's certificate, his letter to Liv) sit in scenes polish didn't alter, so it is reader variance and nothing is restored. Every other failing row already failed on draft 2 and came through the loop cap. `dli check` passes | Another stage 8 round (declined: the loop cap's decision stands) |
+| 10 Landing | 2026-11-26 | human | **Land.** Fast-forward `main` to `bestdan/story-run-09` | Debrief: all six graded rows got it, Who's who 9 of 12, Terms missed ("the Reply", "folar"); Felt 4, Craft 4. The human rated Gemini's voice better than earlier drafters | Revise first, then land |
 
 ## Polish spot-check decisions
 

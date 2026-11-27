@@ -195,3 +195,7 @@ Unclosed after the stage 8 loop cap (draft 2, 2026-11-21). Rounds tried: 2. The 
 - **Terms:** missed in both rounds ("the chord", then Article 9 and the thirds). Polish required item R1.
 
 **The run's report:** no `MORNING.md` was written; `STATUS.md` holds the run's record.
+
+## Landing
+
+**Approved by the human on 2026-11-26**, after the debrief. On the drafter, the human rated Gemini's voice "Better" than the earlier runs' drafters, so use Gemini as the drafter again. **[process: stage 6]**
