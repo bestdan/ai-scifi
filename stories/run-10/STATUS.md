@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 7 (review, round 2)
-- **Next action:** stage 7 on draft 2 (5,824 words): fresh first-reader, grader, and the Asimov, Watts, Le Guin and Chiang lenses.
+- **Current stage:** 9 (polish)
+- **Next action:** Gemini polishes draft 2 into `final.md` with eleven required items; then the Asimov and Rajaniemi spot-checks and the final gate.
 
 ## Drafter notes for next time
 - agy denied a `read_file` (target not named) and later a `command` after writing the draft. Inline any newly written file in the prompt, and name the exact commands it may run.
@@ -33,6 +33,11 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 6 Tone sample | 2026-11-26 | orchestrator (proxy) | Sample accepted (818 words). Cold reader: "dry, wry, warm". Banks lens: Match yes | Carried into the draft: other characters carry jokes too, not only Sione; his self-satisfaction gets punctured (Tikk, the misflag); the cough scenes are where the fun sits | A rewrite of the sample (declined: the tone matched) |
 | 7 Review (round 1) | 2026-11-26 | orchestrator (proxy) | Gate **fail** on draft 1 (5,984 words). Who's who got it; Premise, Stakes, Why, Twist, Ending, Reach partial (omits); Terms missed (lu pulu). Lost-list entries 2, 3, 4, 8, 10–13 touch Premise, Why, Twist, Ending | Grader's result accepted. Checked dramatisation: Stakes shown in scene 5 (Ressa's contract), Reach in scene 6 (the unison cough), but Premise, Why, Twist and Ending have lost-list entries, so the dramatised-partial rule can't pass them. Tone: reader "wry, tender, clever" vs brief "fun and warm, with friction": a match | none |
 | 8 Revise (round 1) | 2026-11-26 | orchestrator (proxy) | Revision plan approved: 24 items (12 consensus, 6 comprehension, 6 single-lens), 3 declined; draft 2 to be a full redraft at 5,800 words with per-scene targets | The lenses converged on one plain rule for ennu, the register entries' voice (no "I"), the cheat beats repeated while the reader was ahead, the broken-promise logic, the three rehearsals, ennu-sa "unread" where it should be refused, and the doubled "you" explanation. Sione now finds the "you" fix himself | Replacement paragraphs only (declined for this round: the changes are structural) |
+| 7 Review (round 2) | 2026-11-26 | orchestrator (proxy) | Gate **fail** on draft 2 (5,824 words). Who's who got it; Premise, Why, Twist, Ending, Reach partial (omits); Stakes partial (errs); Terms missed (lattice, register, hogget, mantle, the Gathering, deuterium). Lost-list down from 13 to 8. Lenses rose: Le Guin 4/4/4/4/4/3, Watts 4/4/–/4/3/–, Asimov 4/3/3/–/3/3, Chiang –/4/3/–/–/3 | Grader's result accepted. No row changed grade except Stakes (omits to errs, a misreading of the new temptation paragraph). Several omitted facts are stated plainly on the page ("I'm visible to it only while a promise to it is open"; "It hasn't got a word for I"; the delegates still playing the dual), so it is mostly reader variance. Tone: reader's answer in `comprehension.md` | none |
+| 8 Loop cap | 2026-11-26 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** Eleven page-closable fixes go to polish as required items; the unclosed rows are logged under Gate failures | Second consecutive gate failure. Consultant: B at 80%. Every remaining lens note is fixable by a sentence inside an existing beat; the omissions are about facts already on the page; run-09's precedent | A narrow round 3 with replacement paragraphs |
+
+## Gate failures
+- Draft 2 (loop cap): Premise, Why, Twist, Ending, Reach partial (omits); Stakes partial (errs); Terms missed (lattice, register, hogget, mantle, the Gathering, deuterium). The final gate reruns on `final.md`.
 
 ## Seed stock
 - B, The Uncut: a treaty as the load in a salt bed's pillar web, fed only by costly restraint.

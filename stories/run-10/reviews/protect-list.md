@@ -1,0 +1,28 @@
+# Protect list (stage 9)
+
+Lines the polish must not change without a logged reason. Source in brackets.
+
+1. "when a man says *we* under oath, he usually means himself and the brother-in-law who owns the truck." [first reader]
+2. "Hhoth can't hear the door close. Ammaru can't hear that there was a door. I was hired because I can hear it." [Asimov, Watts, Le Guin, Chiang]
+3. The hauler who "stopped in the snow and said '*Bless*' to nobody before restarting her sentence". [first reader]
+4. "If you want it to know you're in the room, promise it something." [Asimov, Chiang, first reader; Premise ledger line]
+5. "Feeling like a barrister swearing an oath to a radiator" [Le Guin, first reader]
+6. Tikk's "Flag!" and the copper token. [Le Guin, first reader]
+7. "I'm visible to it only while a promise to it is open." [Premise]
+8. Aaruum: "A man who spends his life listening for a door shutting will hear one in his own mother's house." [all four lenses, first reader]
+9. Aaruum: "They said 'we will not drill' and meant their brood. We heard 'we' and thought it meant all of them. So after seven years of war, we made a word that could only mean both, and we made the word sign." [Why ledger line]
+10. The Mele reread, left unsure: "couldn't tell any more which messages had shut a door and which had simply taken my word that I wasn't coming." [Le Guin, Chiang, first reader]
+11. Sione costing Aaruum five days, and the two-day test that fails informatively. [Watts, first reader]
+12. Vell: "Another month of this and nobody on Ninefold can finish a promise. Then we find out what Hhoth and Ammaru say to each other without a word for both." [Stakes ledger line]
+13. "it was dying of me in the dark" [first reader]
+14. The timestamp tape against the read-back cache (`09:02:12` … `09:11:53`). [Asimov]
+15. "Nobody was cheating. It hasn't got a word for I. Every time it promised me something, it had to say *ennu*, and somebody on Ninefold lost their seat." [Twist ledger line]
+16. "*Ennu* will keep the ones you broke. You could have broken all of them." [Watts, Chiang; Promise-sight ledger line]
+17. Vell: "A third seat means a third vote. Everyone in this hall has done that sum, and so have the haulers." [Reach ledger line]
+18. Talek: "the treaty doesn't say Hhoth and Ammaru. It says *ennu*." … "nothing binds till the register logs it." [Legal-party ledger line]
+19. "*Ennu-sa* would seat three. In this hall, every promise made with it seated two against one. *Ennu* can't be that." [Ending ledger line]
+20. "You will come on the fourth day. You is the seat nobody else is in." [all lenses, first reader; Ending ledger line]
+21. "It hadn't learned to say *I*; it had solved a seating problem with a postal header." [Asimov]
+22. The dimmer vault: ennu sees him less. [Le Guin, Chiang]
+23. Vell: "You are an astonishingly expensive employee" and the three crates of Hawke's Bay hogget. [Le Guin, first reader]
+24. The *kitautolu* message, the timber and the rollers, and the answer nine days off. [Le Guin, Chiang, first reader]
