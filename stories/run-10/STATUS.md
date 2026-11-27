@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 7 (review, round 1)
-- **Next action:** stage 7 on draft 1.
+- **Current stage:** 8 (revise, round 1)
+- **Next action:** Gemini writes draft 2 from `06-revision-plan.md`.
 
 ## Drafter notes for next time
 - agy denied a `read_file` (target not named) and later a `command` after writing the draft. Inline any newly written file in the prompt, and name the exact commands it may run.
@@ -31,6 +31,8 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 4 Build | 2026-11-26 | orchestrator (proxy) | Bible approved after the stress test; all must-fix notes resolved (stress-test log in the bible) | The notes converged on ennu's want (now a register's gradient, and grammar: it has no "I", so promising back means saying ennu), on who is displaced and who pays (seats per promise; Ressa's contract; Vell's career), on why a human (exclusion unmarked by design; children as the next Listeners), the clause-close gap, the cough rate tied to open promises, and the calendar (Drilling now 68 years ago) | A second stress-test round (declined: the stage 5 panel sees the fixes in use) |
 | 5 Structure | 2026-11-26 | orchestrator (proxy) | Outline approved: seven scenes, about 5,500 words, with register entries from ennu's side. All ten must-fix notes resolved (its Stage 5 lens notes) | The notes converged on one cough rule (every cough global; the read-back private, so nobody else can correlate), on scene 5 trying the obvious cure and failing so the trial asks a new question, on planting the climax's reason in the rehearsal promises, on the before-and-after "you" mechanism, on felt scale (the hauler on her sled) and on the cost planted early (Ressa in scene 3). Sione's choice in scene 6: flagging the rehearsals sinks his own seat | Cutting scene 6 into scene 7 (declined: it carries Reach and Sione's choice) |
 | 6 Tone sample | 2026-11-26 | orchestrator (proxy) | Sample accepted (818 words). Cold reader: "dry, wry, warm". Banks lens: Match yes | Carried into the draft: other characters carry jokes too, not only Sione; his self-satisfaction gets punctured (Tikk, the misflag); the cough scenes are where the fun sits | A rewrite of the sample (declined: the tone matched) |
+| 7 Review (round 1) | 2026-11-26 | orchestrator (proxy) | Gate **fail** on draft 1 (5,984 words). Who's who got it; Premise, Stakes, Why, Twist, Ending, Reach partial (omits); Terms missed (lu pulu). Lost-list entries 2, 3, 4, 8, 10–13 touch Premise, Why, Twist, Ending | Grader's result accepted. Checked dramatisation: Stakes shown in scene 5 (Ressa's contract), Reach in scene 6 (the unison cough), but Premise, Why, Twist and Ending have lost-list entries, so the dramatised-partial rule can't pass them. Tone: reader "wry, tender, clever" vs brief "fun and warm, with friction": a match | none |
+| 8 Revise (round 1) | 2026-11-26 | orchestrator (proxy) | Revision plan approved: 24 items (12 consensus, 6 comprehension, 6 single-lens), 3 declined; draft 2 to be a full redraft at 5,800 words with per-scene targets | The lenses converged on one plain rule for ennu, the register entries' voice (no "I"), the cheat beats repeated while the reader was ahead, the broken-promise logic, the three rehearsals, ennu-sa "unread" where it should be refused, and the doubled "you" explanation. Sione now finds the "you" fix himself | Replacement paragraphs only (declined for this round: the changes are structural) |
 
 ## Seed stock
 - B, The Uncut: a treaty as the load in a salt bed's pillar web, fed only by costly restraint.
