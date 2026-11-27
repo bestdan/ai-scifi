@@ -182,6 +182,11 @@ The human said "holding its breath" landed only at the end, which is where the T
 - **[process: stage 4] Test coined names for what they suggest.** "The Tierce" read as the third, outer ring "because of the semantics", until a later reference placed it in the middle, and "Nominal" never explained itself. The bible's glossary was checked for definitions, not for what the word suggests before it is defined.
 - **[process: stage 7] A term can pass on a pick and still be misread.** The human picked the ending that names "the single Reply of 2157", but when asked recalled "the Reply" as the Hum's answers to single letters. The check's options carry the fact, so the Terms question is the better test of a term.
 
+- **[process: stages 2 and 3] The story drifted from the seed, and proxy mode hid the trade.** Raised by the human after landing:
+  > I didn't feel like the story really related strongly to the seed idea as I understood it. It wasn't hugely off, but it also wasn't exactly the topic I wanted exploring.
+
+  Asked which topic they wanted, the human picked all three readings offered: the AI's own struggle to work out who it is from what humanity writes; how what we write about AI forms its picture of itself; and people growing themselves while helping it become its best self. The cause is on disk. The stage 2 audit judged the seed's direct forms to be attractors (training writing shaping a mind's character, people rewriting how they write for the mind, one household raising it). The stage 3 decision chose A for novelty, F4 and scale, and recorded that the seed's third line "is its weakest fit". The novelty rule was applied to the seed's topic, not only to the angle on it. Seed stock B, *The Commons in a Clear Year*, sits closest to the seed as the human meant it.
+
 ## Appendix
 
 **Gate failures** (copied from `STATUS.md`):
