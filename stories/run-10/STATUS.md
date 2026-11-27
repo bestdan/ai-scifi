@@ -2,8 +2,8 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 9 (polish)
-- **Next action:** Gemini polishes draft 2 into `final.md` with eleven required items; then the Asimov and Rajaniemi spot-checks and the final gate.
+- **Current stage:** 10 (debrief), awaiting the human's read
+- **Next action:** the human reads `final.md`; then the stage 10 debrief. Only the human lands the story.
 
 ## Drafter notes for next time
 - agy denied a `read_file` (target not named) and later a `command` after writing the draft. Inline any newly written file in the prompt, and name the exact commands it may run.
@@ -35,6 +35,7 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 8 Revise (round 1) | 2026-11-26 | orchestrator (proxy) | Revision plan approved: 24 items (12 consensus, 6 comprehension, 6 single-lens), 3 declined; draft 2 to be a full redraft at 5,800 words with per-scene targets | The lenses converged on one plain rule for ennu, the register entries' voice (no "I"), the cheat beats repeated while the reader was ahead, the broken-promise logic, the three rehearsals, ennu-sa "unread" where it should be refused, and the doubled "you" explanation. Sione now finds the "you" fix himself | Replacement paragraphs only (declined for this round: the changes are structural) |
 | 7 Review (round 2) | 2026-11-26 | orchestrator (proxy) | Gate **fail** on draft 2 (5,824 words). Who's who got it; Premise, Why, Twist, Ending, Reach partial (omits); Stakes partial (errs); Terms missed (lattice, register, hogget, mantle, the Gathering, deuterium). Lost-list down from 13 to 8. Lenses rose: Le Guin 4/4/4/4/4/3, Watts 4/4/–/4/3/–, Asimov 4/3/3/–/3/3, Chiang –/4/3/–/–/3 | Grader's result accepted. No row changed grade except Stakes (omits to errs, a misreading of the new temptation paragraph). Several omitted facts are stated plainly on the page ("I'm visible to it only while a promise to it is open"; "It hasn't got a word for I"; the delegates still playing the dual), so it is mostly reader variance. Tone: reader's answer in `comprehension.md` | none |
 | 8 Loop cap | 2026-11-26 | orchestrator (proxy) | **Proceed to stage 9; no draft 3.** Eleven page-closable fixes go to polish as required items; the unclosed rows are logged under Gate failures | Second consecutive gate failure. Consultant: B at 80%. Every remaining lens note is fixable by a sentence inside an existing beat; the omissions are about facts already on the page; run-09's precedent | A narrow round 3 with replacement paragraphs |
+| 9 Polish (sign-off) | 2026-11-26 | orchestrator (proxy) | **The story is ready.** `final.md` is 5,798 words; EPUB built | Gemini polished against 12 required items. Final gate fails on Premise, Twist and Reach (partial, omits) and Terms (lattice; Otahuhu, a place name), but Stakes, Why, Ending and Who's who are now got it (Stakes and Ending up from draft 2). Per stage 9 step 5, every failing row already failed on draft 2 and came through the loop cap, so nothing is restored; Terms also failed on draft 2. Tone: reader "wry, warm, tender" | Another stage 8 round (declined: the loop cap's decision stands) |
 
 ## Polish spot-check decisions
 - **Asimov:** applied 1 (the empty-chair calls stop once open *you* promises sit at his address). Declined 2 ("ten years" is his long habit of hearing the door, not the five-year text record) and 3 ("Concluding, wrongly" would tip the twist a scene early).
@@ -43,6 +44,8 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 
 ## Gate failures
 - Draft 2 (loop cap): Premise, Why, Twist, Ending, Reach partial (omits); Stakes partial (errs); Terms missed (lattice, register, hogget, mantle, the Gathering, deuterium). The final gate reruns on `final.md`.
+
+- Final (`reviews/final/comprehension.md`): Premise, Twist, Reach partial (omits); Terms missed (lattice; Otahuhu). Stakes, Why, Ending, Who's who got it.
 
 ## Seed stock
 - B, The Uncut: a treaty as the load in a salt bed's pillar web, fed only by costly restraint.
@@ -57,6 +60,8 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 3 Synthesize | ~296k | four critics and a consultant |
 | 4 Build | ~285k | five critics |
 | 5 Structure | ~174k | three critics |
+| 9 Polish | Gemini 715,661; Claude ~300k | polish, two spot-checks, final gate |
+| 7 Review r2 | Claude ~440k | first-reader, four lenses, grader, consultant |
 | 8 Revise r1 | Gemini 674,035 | draft 2, 5,824 words |
 | 7 Review r1 | Claude ~440k | first-reader, five lenses, grader |
 | 6 Draft | Gemini 89,802 + 132,742 + 507,996 (draft 1 and its length round; the first call produced nothing after a denied read) | first draft 9,286 words, cut to 5,984 |
