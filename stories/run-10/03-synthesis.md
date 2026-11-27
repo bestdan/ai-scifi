@@ -193,3 +193,72 @@ the festivals most, that boredom is love.
   comes mainly from the size of the good-faith swing, not from fudged
   clauses, which turns the seed's mechanism over rather than using it. Line
   4 *strong*.
+
+## Panel summary
+
+| Lens | 1st | 2nd | 3rd | 4th |
+|---|---|---|---|---|
+| Vinge | A | B | D | C |
+| Chiang | A | B | C | D |
+| Banks | A | B | C | D |
+| Cartographer (novelty) | A (36) | B (33) | D (31) | C (31) |
+
+Mean rank: A 1.0, B 2.0, C 3.5, D 3.5.
+
+## Decision
+
+**A, We-Two**, with the conditions below. A consultant second opinion
+(`agent-guidance:consultant`) agreed at 88%.
+
+**Seed fit.** A is the only premise strong on every line, and in proxy mode
+seed fit decides first. D is rejected on line 3 (its cough comes from the
+size of the good-faith swing, not fudging). B is partial on line 4 and C on
+line 2. How A serves each line: (1) the creole's inclusive dual was coined so
+the treaty could be signed, and the word woke; (2) it exists only in both
+peoples' use of it; (3) a dual said exclusively at the table is the cough,
+and one meant at home is the colour; (4) Sione's whole job is its company,
+and the plot is what that company costs.
+
+**Reader pull.** It rests on the profile's first pull, a mind that is
+genuinely not human, and on "the idea pays off in a choice". It is also the
+most novel premise (Cartographer 36/40, the only one clear of the
+kindness-gamed cluster).
+
+**Conditions, answering the panel's warnings:**
+1. **The being decides the we-three question, not the delegations and not
+   Sione.** This steers off *Embassytown*'s ending and the hard
+   keeper's-one-switch attractor. The debate session stays as the Reach
+   weighing scene: the delegations argue and make the offer, but the
+   decision is the being's. The reader sees it reason from inside; Sione
+   may not be told why. Its answer doesn't end the cough cleanly. What it
+   keeps of him is the broken promises it treasures, the proof that he
+   chose the rest (Chiang's push).
+2. **The love reads as grammar failing, not an AI learning to feel.** It is
+   a form with two seats trying to hold a third person (Vinge). The style
+   guide bans the AI that learns to love.
+3. **The dual has legal force, lightly.** It is the treaty's legal party, so
+   admitting a third person changes who counts as a party. Shown as one
+   fact in one scene, not a second legal system (Vinge, narrowed).
+4. **One concrete image of vastness**, a named delegate who argues the
+   rewrite persuasively, and the grammar kept in dialogue, never lectured
+   (Banks). The hall saying the dual wrong in unison, cough audible, can
+   be both the vastness image and the weighing scene.
+5. **Sione is hired for something specific to him,** not as a neutral
+   outsider: a Tongan speaker hears who is inside a "we" without trying,
+   and he has a trade and a daily routine beyond wanting to belong.
+6. **Attractor named:** A breaks "the companion enrolled as a party"
+   (run-10 only, not hard) because that enrolment is the seed's line 4
+   made literal. The bible keeps it specific: each promise is a small,
+   comic, concrete thing.
+
+**Declined or narrowed:**
+- Vinge's full push, exclusive plurals governing property and trial across
+  Hhoth law: a second system to explain, adding about 1,500 words and
+  landing the minimum at the 6,000 ceiling.
+- A private, unexplained refusal (the Cartographer's version of condition
+  1): strangeness that never resolves and a hidden noble sacrifice are both
+  on the reader profile's and style guide's lists.
+- The elders-call-it-contamination subplot is a pre-agreed cut if length
+  gets tight.
+
+**Runner-up:** B, The Uncut. Seed stock: B, C and D.
