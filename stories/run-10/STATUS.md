@@ -2,8 +2,12 @@
 
 - **Gate mode:** proxy. The human decides stages 0 and 10; the
   orchestrator decides the rest by proxy.
-- **Current stage:** 6 (draft)
-- **Next action:** Gemini drafts per `process/stages/06-draft.md` and `dev_docs/external-drafter.md`.
+- **Current stage:** 7 (review, round 1)
+- **Next action:** stage 7 on draft 1.
+
+## Drafter notes for next time
+- agy denied a `read_file` (target not named) and later a `command` after writing the draft. Inline any newly written file in the prompt, and name the exact commands it may run.
+- Gemini's own word count was wrong again (it reported 5,451 for 9,286). The length round with per-scene targets landed at 5,984.
 
 ## Drafter
 Stages 6, 8 and 9 use **Gemini 4 Argon** (`gemini-4-argon-high`) through
@@ -41,6 +45,7 @@ Seed issue #51 (https://github.com/bestdan/ai-scifi/issues/51), filed
 | 3 Synthesize | ~296k | four critics and a consultant |
 | 4 Build | ~285k | five critics |
 | 5 Structure | ~174k | three critics |
+| 6 Draft | Gemini 89,802 + 132,742 + 507,996 (draft 1 and its length round; the first call produced nothing after a denied read) | first draft 9,286 words, cut to 5,984 |
 | 6 Tone sample | Gemini 86,800 (input 71,376, output 15,424, thinking 8,205); Claude ~79k | first-reader and Banks |
 
 ## Open questions
